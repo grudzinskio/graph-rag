@@ -1,0 +1,153 @@
+PHY 1110A - Physics I - Mechanics and Thermodynamics -
+2025-2026 Undergraduate Academic Catalog
+Milwaukee School of Engineering
+Mar 12, 2026
+2025-2026 Undergraduate Academic Catalog
+Select a Catalog
+2025-2026 Undergraduate Academic Catalog
+2025-2026 Graduate Academic Catalog
+2024-2025 Undergraduate Academic Catalog-June [ARCHIVED CATALOG]
+2024-2025 Graduate Academic Catalog-June [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Graduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Graduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Graduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Graduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Graduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Graduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Graduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Graduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Graduate Academic Catalog [ARCHIVED CATALOG]
+2013-14 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2012-2014 Graduate Academic Catalog [ARCHIVED CATALOG]
+2012-2013 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+Global Search
+Catalog Search
+Choose Search Location
+Select an option
+Courses
+Programs
+Academic Departments
+Other Content
+Entire Catalog
+Search Keyword Field
+Whole Word/Phrase
+Advanced Search
+Catalog Navigation
+Catalog Home
+Academic Calendar
+University Overview
+Admissions
+Student Financial Services
+Academic Regulations and Policies
+Degree Programs, Minors, and Certificates
+Degrees, Minors, and Certificates by Department
+Course Descriptions
+The Raider Core
+Explorer Pathways
+MSOE Honors Program
+Global Opportunities
+Reserve Officers’ Training Corps. (ROTC)
+Administration, Regents, and Advisory Committees
+Departments and Faculty
+Campus Map
+Student Resources
+My Portfolio
+HELP
+2025-2026 Undergraduate Academic Catalog
+Print this Page
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+PHY 1110A - Physics I - Mechanics and Thermodynamics
+4
+lecture hours
+2
+lab hours
+4
+credits
+Course Description
+Calculus-level physics course, topics include mechanics, thermodynamics, simple wave theory, and special relativity.
+Prereq:
+None
+Coreq:
+MTH 1110
+Note:
+None
+This course meets the following Raider Core CLO Requirement:
+Think Critically
+Course Learning Outcomes
+Upon successful completion of this course, the student will be able to:
+Apply calculus to kinematic quantities such as the position, velocity, and acceleration vectors of an object as a function of time
+Apply Newton’s laws of motion to solve statics and dynamics problems
+Identify forces related to each other through Newton’s third law of motion
+Compute work and apply the work-kinetic energy theorem
+Apply the conservation of energy to solve problems
+Calculate linear momentum and apply the conservation of linear momentum to solve problems
+Apply Newton’s law of universal gravitation to solve problems
+Apply Newton’s law of universal gravitation to calculate gravitational field, gravitational force, and gravitational potential energy
+Analyze simple harmonic systems, relating properties like period and frequency for periodic systems
+Solve rotational kinematics problems by using the kinematic equations for constant angular acceleration or using calculus to relate angular kinematic quantities as functions of time
+Calculate torque (evaluating the vector cross product if required) and relate it to moment of inertia and the angular acceleration of an object
+Apply the standing and traveling wave equations and be able to extract information such as wavelength, frequency, amplitude, and direction from a given wave
+Relate temperature and the first law of thermodynamics to heat energy to thermodynamic processes
+Use kinetics to relate microscopic quantities like RMS speed and RMS molecular kinetic energy to macroscopic quantities like pressure and temperature
+Use the ideal gas law to perform calculations relating pressure, temperature, volume, number density, and molecular kinetic energy
+Calculate both analytically and graphically (PV diagrams) the heat, internal energy and work done when a gas undergoes constant temperature, constant pressure, constant volume, adiabatic, and cyclic processes
+Prerequisites by Topic
+None
+Course Topics
+Position, velocity, acceleration
+Newton’s laws of motion
+Work done on an object
+Kinetic energy and potential energy
+Gravitational field and force
+Momentum
+Conservation of energy and linear momentum
+Collisions in 1 and 2 dimensions
+Simple harmonic motion
+Torque
+Moment of inertia
+1 dimensional transverse sinusoidal waves
+Superposition of sinusoidal waves
+Temperature including absolute temperature
+Thermal equilibrium and the zeroth law of thermodynamics
+Heat transfer by conduction
+Heat transfer by radiation including Blackbody radiation, Wien’s law and Stefan’s law
+Ideal gas law and kinetic theory of gasses
+Specific heat and latent heat
+First law of thermodynamics including PV diagrams in thermodynamic processes
+Laboratory Topics
+Uncertainties in measurements
+Free fall
+Projectile motion
+Friction
+Air resistance
+Work and energy
+Momentum and energy in collisions
+Heat transfer
+Blackbody radiation
+Coordinator
+Dr. Robert Olsson
+Print this Page
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+All
+catalogs
+© 2026 Milwaukee School of Engineering.
+Powered by
+Modern Campus Catalog™
+.

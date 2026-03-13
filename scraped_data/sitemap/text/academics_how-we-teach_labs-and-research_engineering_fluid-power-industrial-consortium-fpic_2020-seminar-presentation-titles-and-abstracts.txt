@@ -1,0 +1,97 @@
+2020 Seminar Presentation Titles and Abstracts | MSOE
+Skip to Main Content
+Home
+Academics
+How We Teach
+Labs and Research
+Engineering
+Fluid Power Industrial Consortium (FPIC)
+2020 Seminar Presentation Titles and Abstracts
+2020 Seminar Presentation Titles & Abstracts
+March 5, Advanced Sensor Technologies for Fluid Power Systems
+“The End of Reactive Maintenance: Today’s Predictive Solutions for a Proactive Future”
+Kris Mikulan, Group Product Manager, Filter Systems, Schroeder Industries
+Anthony Maiolo, Application Engineer, Schroeder Industries
+ABSTRACT: Predictive maintenance can be achieved by utilizing sensors integrated on a machine, in conjunction with an interface, to monitor and record machine operation to provide real-time machine and fluid condition status.
+But this isn’t the only way sensors/interfaces paired with software can be used. More and more manufacturers are discovering the high cost of warranty claims after the products have been delivered. Most of these warranty claims can be attributed to system cleanliness.
+Case studies implementing this technology will be presented focusing on machine operating cost reductions resulting from predictive maintenance and substantial cost reductions in warranty claims.
+“
+Novel Position Sensors for Closed Loop Servo-Hydraulics”
+Art Holzknecht, District Manager, Renishaw, Inc
+Matjaz Sivec, LinAce” Sensors Engineering Manager, Renishaw, Inc
+ABSTRACT: Renishaw’s LinAce” sensor technology is uniquely suited for use in servo-hydraulic applications, including hydraulic cylinder position feedback, as well as for servo-valve feedback control. It has applications in automated/autonomous hydraulic, pneumatic and hybrid power systems such as electro-hydraulic systems with energy recovery.
+Where applicable, alternative approaches to these applications will be compared, to provide an overview of available choices to system designers.
+Case studies will be presented showing the benefits of LinAce for closed-loop servo-hydraulic systems, including high positioning accuracy and resolution, frequency response and overall response time, and how LinAce works well as a component of a modern servo-hydraulic system using highly dynamic piezoelectric servo valves for state of the art motion control.
+“
+Autonomy: How Close is the Future”?
+Marcus Herrera, Sales Application Engineer – Sensors and Controls, HYDAC
+ABSTRACT: We have all heard the buzzwords: Autonomy, Digitalization, Electrification, E-Mobility… but what do these mean for us? As machines transition from predominately mechanically to electrically controlled, sensors and controls are more and more important. As technology continues to progress, new sensors and controls enter the market to transition machines towards the future.
+Today, one can implement smart pressure sensors which can generate further relevant data over the standard operational data, precisely measure inclination whilst eliminating inaccuracies due to acceleration, and accurately predict filter life just to name a few examples.
+Case studies will be presented applying these sensors and controls to machine architecture to begin to build machines of the future today.
+“Reducing Cost of Field Operations Using HART Technology”
+Leslie Perez, Senior Product Manager, Barksdale, Inc.
+Steve Brown, Key Account Manager, Barksdale, Inc.
+ABSTRACT: Increasingly companies with large base of remotely installed equipment in the field are looking for ways to reduce cost and manpower associated with maintaining field operations, while also increasing availability and uptime.
+Reduction in costs can be realized in multiple ways using HART technology including using the digital communications capability for remote monitoring, enabling condition monitoring, and predictive maintenance. Further HART technology also preserves existing investments in equipment harnesses or plant wiring and analog instrumentation.
+Case studies will be presented focusing on cost reductions using HART technology and improvements in pressure sensing technology by providing more stable and longer lasting pressure measurement in remote field operations.
+June 4, Improving Fluid Power System Efficiency, Reliability and Durability with Precision Manufacturing
+“Bore Finishing Processes for Improved Hydraulic Component Performance”
+Phil Hanna, Product Manager - Machines/Gages, Sunnen Products Company
+ABSTRACT: Honing, lapping, and skiving/roller burnishing are all finishing processes for improving the bores of hydraulic components including valves and cylinders. Honing is a secondary machining process for finishing bores. Lapping as used in bore finishing produces a very close tolerance fit between a plunger and a valve body to reduce internal leakage. Skiving and roller burnishing is a two-part process using a single tool for quickly finishing the bore of tubing to achieve size and surface finish. This presentation will discuss each of these processes in detail, including features, benefits and applications where they are used.
+“Technology Integration in Real Life Production Machining”
+John Belmonte, President, Mitotec Precision, LLC
+ABSTRACT: This presentation is a real-life perspective on technology integration from a modern production machining supplier to the hydraulic industry. John will share some of Mitotec’s successful implementation of today’s advanced technology. Several aspects of machining components in a production environment will be discussed, including technology in production machining, modern inspection systems, real-time data collection & machine monitoring, as well as other processes that are utilized at Mitotec to produce components for the hydraulic and other industries. Along the way you will hear about how the human element along with the company culture play an integral part in the success of a contract machining operation today.
+Maximizing Manufacturing Productivity in the Information Age
+Dan Skulan, General Manager, Industrial Metrology, Renishaw, Inc.
+ABSTRACT: Manufacturers today are required to have greater throughput, more flexibility, higher quality, and innovative products in order to be competitive. But these goals need be achieved with less available skilled labor and at a lower cost – how can this be done? This presentation, with a concentration on machining operations, will provide practical guidance on how companies can increase throughput, quality, and productivity in manufacturing while also controlling costs. The stages of the Productive Process Pyramid will be discussed to identify areas where new techniques and technologies have been employed to improve overall productivity.
+September 3, Advanced Contamination Control Technologies for Improving Fluid Power System Efficiency, Reliability and Durability
+Varnish: The Forgotten Contaminant
+Mark Barnes, PhD CMRP, Senior Vice President Global Business Development, Des-Case Corporation
+ABSTRACT: For those working with hydraulic systems, the need to control contaminants such as particles and moisture through aggressive filtration is well understood. Put simply, cleaner, dryer hydraulic fluid equates to longer component life and greater system reliability. But what’s less understood is how varnish, caused by oxidative or thermal hydraulic fluid degradation impacts both component longevity and overall system performance. This presentation discusses the causative factors that can lead to varnish deposits, how to recognize that the potential for varnish exists and how to control varnish if it starts to form.
+“Fluid Conditioning Tools to Improve Hydraulic System Performance”
+Bhavbhuti Pandya, Group Product Manager, Hydraulic and Lube Filters,
+HYDAC Technologies,
+Kristine Mikulan, Group Product Manager, Filter Systems, HYDAC Technologies
+ABSTRACT: Filtration technology offers creative solutions for improving overall hydraulic system performance, efficiency, reliability, and service life. Filter element media and geometry are designed to keep differential pressure to a minimum while at the same time maximizing dirt holding capacity and beta efficiency/stability, resulting in operating/maintenance cost reductions. Systems utilizing low conductivity fluids require specific element material to mitigate electrostatic charge/discharge for protecting equipment and personnel. Some filter designs act as de-aeration devices, improving system performance and efficiency. These filter/element designs have been developed with the critical requirements of the equipment and user in mind.
+Multiple in-line filter element solutions are available to improve machine service life. In addition, many employ the use off-line filtration systems to further supplement the in-line filtration. An off-line filter system is connected to the hydraulic reservoir and can be used to remove water and/or particulate contamination until it meets fluid cleanliness requirements of the most critical machine component. Monitoring sensors placed on the off-line filtration system, and throughout the machine verify fluid cleanliness as well as provide data on the machine operating condition. Case studies discussing benefits and ROI will be presented.
+“
+Dynamic Filter Testing Reveals Need for More Robust Filter Elements”
+Jeffrey Mothersbaugh, Applications Engineer – Filtration, Bekaert Corporation
+ABSTRACT: To determine why there was significant contamination in their aircraft and ground support hydraulic systems, the US Army developed some dynamic filter test methods which more closely simulate actual working conditions as compared to standard tests. These tests resulted in developing more robust filter elements which are resistant to dynamic pressure and flow forces in the hydraulic system.
+This presentation details new dynamic filter test methods and discusses the detrimental effects on existing filters that these conditions cause. It also discusses a new robust filter material which has significantly reduced hydraulic system maintenance.
+December 3, “Fluid Power Business Adaptability in a VUCA (Volatile, Uncertain, Complex, Ambiguous) Business World”
+“
+Panel Discussion Moderated by Buckley Brinkman”; Executive Director& CEO; Wisconsin Center for Manufacturing and Productivity
+Panelists
+Mike Coast; President Michigan Manufacturing Technology Center
+Ethan Karp; President and CEO Ohio Manufacturing Extension Partnership
+Buckley Brinkman; Executive Director/CEO Wi Center for Manufacturing and Productivity
+ABSTRACT: This will be a lively discussion between three state leaders of the National Institute of Standards and Technology Manufacturing Extension Partnership (MEP) National Network. It will be a terrific way to start the day and gain new insights into manufacturing’s future.
+The MEP National Network helps Small and Medium-Sized Manufacturers across the country remain competitive, harness trends, and implement new technology in practical ways through its National Network of 51 state-centered Centers. Each state has an MEP Center and this session brings together perspectives from the Michigan, Ohio, and Wisconsin Centers.
+The panelists will discuss key manufacturing issues during this time of COVID-19. Our experts will discuss the changes they see occurring with Supply Chains and Onshoring, Industry 4.0,
+Cybersecurity’s impact, and the resources available to face an uncertain future. Come ready with your thoughts and questions as there will be an opportunity for you to join in the discussion and engage the panel.
+“
+Motion Control Sales and Distribution Channels in an Electrified VUCA World”
+Mike Terzo P.E.; CEO &CTO Terzo Power Systems, LLC
+ABSTRACT: As the trend toward electrification of motion control increases, traditional fluid power sales channels and methods must adapt to ensure on-going success. With a post-COVID landscape thrown into the mix, the methods by which all channel participants buy and sell in the motion control industry will change as quickly as well. And as we all know, progress is impossible without adaptation. The new emerging distribution landscape of our industry will provide greater opportunity and growth than ever before! Mike Terzo, a West Coast Gen X’r, will explore his vision for the future with real world case studies.
+“Adapting our Business in a COVID World Through Speed, Empowerment and Communication”
+Mike Ternes; Vice President – OEM Business Unit Americas Region Mann+Hummel
+ABSTRACT: Like all companies, the MANN+HUMMEL group has and is still enduring significant challenges and unknowns with the COVID-19 impacts on our people, customers, businesses, and communities. Moving with speed, empowerment of teams, and constant and effective communication has enabled MANN+HUMMEL regionally to avoid dramatic impacts to our financial results and delivery commitments. Moving fast, we have maintained supply chains, pivoted our discussions with customers to solve new challenges, and kept our workforce extremely engaged to help solve the unknowns and capitalize on many opportunities.
+Menu
+Search
+submit
+Resources For…
+MSOE University
+1025 North Broadway
+Milwaukee,
+WI
+53202-3109
+(800) 332-6763
+explore@msoe.edu
+Connect With MSOE
+Facebook
+Instagram
+Twitter
+Linkedin
+YouTube
+Vimeo

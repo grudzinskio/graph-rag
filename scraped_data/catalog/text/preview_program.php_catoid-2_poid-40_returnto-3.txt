@@ -1,0 +1,449 @@
+Program: Mechanical Engineering, B.S. - Milwaukee School of Engineering
+Milwaukee School of Engineering
+Mar 12, 2026
+2012-2013 Undergraduate Academic Catalog
+Select a Catalog
+2025-2026 Undergraduate Academic Catalog
+2025-2026 Graduate Academic Catalog
+2024-2025 Undergraduate Academic Catalog-June [ARCHIVED CATALOG]
+2024-2025 Graduate Academic Catalog-June [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Graduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Graduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Graduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Graduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Graduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Graduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Graduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Graduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Graduate Academic Catalog [ARCHIVED CATALOG]
+2013-14 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2012-2014 Graduate Academic Catalog [ARCHIVED CATALOG]
+2012-2013 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+Global Search
+Catalog Search
+Choose Search Location
+Select an option
+Courses
+Programs
+Academic Departments
+Other Content
+Entire Catalog
+Search Keyword Field
+Whole Word/Phrase
+Advanced Search
+Catalog Navigation
+Catalog Home
+President’s Welcome
+Academic Calendar
+University Overview
+Enrollment Management Department
+Academic Regulations and Policies
+Student Accounts, Fees and Financial Aid
+Other Academic Resources
+Academic Departments, Degree Programs, Minors and Certificates
+Degree Programs, Minors and Certificates
+Two-degree Programs
+Graduate Studies Programs
+Reserve Officer Training Corps (ROTC)
+Course Descriptions
+Board of Regents, Academic Administration, Faculty and Advisory Committees
+Campus Map
+My Portfolio
+HELP
+2012-2013 Undergraduate Academic Catalog
+[ARCHIVED CATALOG]
+Mechanical Engineering, B.S.
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Return to:
+Academic Departments, Degree Programs, Minors and Certificates
+Program Director:
+Dr. Joseph Musto
+Office: S-129
+Phone: (414) 277-7455
+Fax: (414) 277-2222
+Email:
+musto@msoe.edu
+Mechanical engineering is one of the broadest engineering disciplines. It involves the design, development, analysis and control of devices, machines and systems. A degree in mechanical engineering prepares students for careers in industries such as energy, environmental, manufacturing, biotechnology, medical, transportation, aerospace and more. The degree also forms a solid foundation for further graduate studies. Electives in MSOE’s mechanical engineering program allow for specialization including mechanical design (solid mechanics, machine dynamics and medical applications), energy systems (renewable energy, aerodynamics, thermal systems and fluid power) and materials/manufacturing (metals, polymers, composites and processing).
+Program Goals
+The goals of the mechanical engineering program are:
+to produce mechanical engineering graduates with a strong theoretical and applications background, whose analytical, design and laboratory experiences make them attractive to industry and capable of advanced study in engineering.
+produce well-rounded engineers who view engineering as a profession with social and ethical responsibilities.
+to provide an intimate learning environment, with personal involvement of faculty with significant industrial experience.
+Program Educational Objectives
+Based on these goals, the educational objectives of the mechanical engineering program are to produce engineering graduates who, during their professional careers, will:
+use their educations to become productive, contributing professionals in their chosen field.
+demonstrate initiative in their professional activities.
+show continued professional development.
+understand the impact of their professional activities on society.
+Student Outcomes
+In accordance with the stated program educational objectives, the student outcomes of the program are to produce graduates who have:
+an ability to apply knowledge of math, engineering, and science.
+an ability to design and conduct experiments, and to analyze and interpret data.
+an ability to design a system, component or process to meet needs within realistic constraints.
+an ability to function on multi-disciplinary teams.
+an ability to identify, formulate and solve mechanical engineering problems.
+an understanding of professional and ethical responsibility.
+an ability to communicate effectively.
+the broad education necessary to understand the impact of engineering solutions in a global and societal context.
+the recognition of need for, and an ability to engage in, life long learning.
+a knowledge of contemporary issues.
+the ability to use techniques, skills, and tools in engineering practice.
+the ability to work professionally in both thermal and mechanical systems areas.
+The mechanical engineering curriculum has been designed to achieve these objectives and outcomes. The components of the curriculum are:
+the freshman year, consisting of a broad-based education focused on the mathematics, basic sciences, the humanities and an introductory sequence in mechanical engineering applications.
+the sophomore year, which serves as a transition from broad-based general education to the highly focused mechanical engineering courses through advanced studies in mathematics and science, and a course sequence in engineering mechanics and systems.
+the junior year, in which the student focuses in-depth in each of the three branches of technical specialization through the use of the energy sequence, the materials/manufacturing sequence and the mechanics sequence.
+the senior year, in which the focus is on application of the knowledge acquired in the first three years of the curriculum to the design of mechanical and thermal systems, with special emphasis on technical electives and the senior design project.
+Model Full-time Track - V10.2
+Year One
+Fall
+CH 200 - Chemistry I
+4
+credits
+EN 131 - Composition
+3
+credits
+MA 136 - Calculus for Engineers I
+4
+credits
+ME 1601 - Introduction to Engineering Design
+3
+credits
+OR 100 - Freshman Orientation
+0
+credits
+1
+ME 1001 - Mechanical Engineering Freshman Seminar
+0
+credits
+Total: 14 lecture hours - 4 lab hours - 14 credits
+Winter
+HU 100 - Contemporary Issues in the Humanities
+3
+credits
+MA 137 - Calculus for Engineers II
+4
+credits
+ME 190 - Computer Applications in Engineering I
+3
+credits
+PH 2010 - Physics I – Mechanics
+4
+credits
+Total: 12 lecture hours - 5 lab hours - 14 credits
+Spring
+CH 201 - Chemistry II
+4
+credits
+EN 132 - Technical Composition
+3
+credits
+MA 231 - Calculus for Engineers III
+4
+credits
+ME 191 - Computer Applications in Engineering II
+2
+credits
+PH 2020 - Physics II - Electromagnetism and Optics
+4
+credits
+Total: 14 lecture hours - 7 lab hours - 17 credits
+Year Two
+Fall
+MA 235 - Differential Equations for Engineers
+4
+credits
+ME 205 - Engineering Statics
+4
+credits
+PH 2030 - Physics III - Thermodynamics and Quantum Physics
+4
+credits
+EE 201 - Linear Networks: Steady-State Analysis
+4
+credits
+Total: 15 lecture hours - 3 lab hours - 16 credits
+Winter
+EN 241 - Speech
+3
+credits
+MA 232 - Calculus for Engineers IV
+3
+credits
+ME 206 - Engineering Dynamics
+4
+credits
+Electives
+credits 3
+2
+EE 253 - Analysis and Control of Electromechanical Devices
+4
+credits
+Total: 15 lecture hours - 4 lab hours - 17 credits
+Spring
+MA 262 - Probability and Statistics
+3
+credits
+ME 207 - Mechanics of Materials
+4
+credits
+ME 230 - Dynamics of Systems
+4
+credits
+Elective
+3 credits
+2
+Elective
+3 credits
+2
+Total: 16 lecture hours - 2 lab hours - 17 credits
+Year Three
+Fall
+ME 300 - Modeling and Numerical Analysis
+4
+credits
+ME 309 - Intermediate Mechanics of Materials
+3
+credits
+ME 311 - Principles of Thermodynamics I
+3
+credits
+ME 321 - Materials Science
+3
+credits
+Elective
+3 credits
+2
+Total: 14 lecture hours - 4 lab hours - 16 credits
+Winter
+ME 314 - Principles of Thermodynamics II
+4
+credits
+ME 317 - Fluid Mechanics
+4
+credits
+ME 322 - Engineering Materials
+4
+credits
+ME 361 - Dynamics of Machinery
+3
+credits
+Elective
+3 credits
+2
+Total: 15 lecture hours - 6 lab hours - 18 credits
+Spring
+IE 340 - Project Management
+3
+credits
+ME 318 - Heat Transfer
+4
+credits
+ME 323 - Manufacturing Processes
+4
+credits
+ME 363 - Design of Machine Components
+4
+credits
+Elective
+3 credits
+2
+Total: 17 lecture hours - 2 lab hours - 18 credits
+Year Four
+Fall
+ME 416 - Thermodynamics Applications
+4
+credits
+ME 431 - Automatic Control Systems
+4
+credits
+ME 460 - Finite Element Methods
+4
+credits
+ME 490 - Senior Design I
+3
+credits
+SS 461 - Organizational Psychology
+3
+credits
+Total: 15 lecture hours - 6 lab hours - 18 credits
+Winter
+IE 423 - Engineering Economy
+3
+credits
+ME 433 - Electromechanical Systems
+4
+credits
+ME 491 - Senior Design II
+3
+credits
+Elective
+3 credits
+2
+Elective
+3 credits
+2
+Total: 13 lecture hours - 2 lab hours - 16 credits
+Spring
+HU 432 - Ethics for Professional Managers and Engineers
+3
+credits
+Elective
+3 credits
+2
+Elective
+3 credits
+2
+Elective
+3 credits
+2
+Elective
+3 credits
+2
+Total: 15 lecture hours - 0 lab hours - 15 credits
+Note:
+1
+Transfer students who have completed 36 quarter or 24 semester credits will be waived from
+OR 100
+but will be required to complete
+OR 301
+Transfer Student Orientation.
+2
+There are 36 credits of elective subjects in the mechanical engineering program, which must be taken as follows:
+15 credits from humanities and social sciences (HU/SS), distributed as follows:
+3 credits from the sociology series (SS-47X or SS-415X).
+3 credits from the political sciences series (SS-45X).
+6 credits from courses with an HU designation (400 level).
+3 credits with either an HU or SS designation (400 level).
+3 credits from the field of mathematics.
+3 credits must be taken as a science elective at the 300 level or above.
+12 credits from the ME technical electives list, with at least 9 credits from courses with an ME designation.
+3 credits from any 200-, 300-, or 400-level subject (Free Elective).
+Students in Air Force ROTC may make the following substitutions in the mechanical engineering program: AF-300 for the free elective and AF-401 for
+SS 455
+(SS elective).
+Accredited by the Engineering Accreditation Commission of ABET,
+http://www.abet.org
+.
+Mechanical Engineering Electives
+All are three-credit classes.
+ME 362 - Design of Machinery
+3
+credits
+ME 3650 - Systematic Engineering Design
+3
+credits
+ME 401 - Vibration Control
+3
+credits
+ME 402 - Vehicle Dynamics
+3
+credits
+ME 409 - Experimental Stress Analysis
+3
+credits
+ME 411 - Advanced Topics in Fluid Mechanics
+3
+credits
+ME 419 - Internal Combustion Engines
+3
+credits
+ME 423 - Materials Selection
+3
+credits
+ME 424 - Engineering with Plastics
+3
+credits
+ME 429 - Composite Materials
+3
+credits
+ME 4610 - Medical Applications in Mechanical Engineering
+3
+credits
+ME 471 - Fluid Power Circuits
+3
+credits
+ME 472 - Modeling and Simulation in the Design of Hydraulic Components
+3
+credits
+ME 475 - Design of Fluid Power Circuits
+3
+credits
+ME 480 - HVAC Systems Design
+3
+credits
+ME 4802 - Compressible Flow
+3
+credits
+ME 481 - Aerodynamics
+3
+credits
+ME 4803 - Computational Fluid Mechanics
+3
+credits
+ME 4804 - Advanced Energy Technologies
+3
+credits
+ME 4805 - Renewable Energy Utilization
+3
+credits
+ME 485 - Energy Systems Design Project
+3
+credits
+ME 492 - Senior Design III
+3
+credits
+ME 498 - Topics in Mechanical Engineering
+3
+credits
+ME 499 - Independent Study
+3
+credits
+PH 320 - Lasers and Applications
+3
+credits
+PH 322 - Introduction to Optics and Photonics
+3
+credits
+PH 325 - Acoustics and Illumination
+3
+credits
+MS 340 - Production Management
+3
+credits
+MS 3405 - Advanced Operations Management
+3
+credits
+MS 462 - Technical Selling
+3
+credits
+Note:
+Any 300- or 400- level engineering course from outside the ME program (IE, EE, CE, CV, SE, AE, BE, EB) may also be used as a technical elective, assuming there is no duplication of material with any other required or elective course.
+Return to:
+Academic Departments, Degree Programs, Minors and Certificates
+Back to Top
+|
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+All
+catalogs
+© 2026 Milwaukee School of Engineering.
+Powered by
+Modern Campus Catalog™
+.

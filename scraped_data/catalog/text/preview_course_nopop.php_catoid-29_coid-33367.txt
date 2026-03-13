@@ -1,0 +1,131 @@
+AE 3531 - Fire Suppression Systems Design -
+Milwaukee School of Engineering
+Mar 12, 2026
+2022-2023 Undergraduate Academic Catalog
+Select a Catalog
+2025-2026 Undergraduate Academic Catalog
+2025-2026 Graduate Academic Catalog
+2024-2025 Undergraduate Academic Catalog-June [ARCHIVED CATALOG]
+2024-2025 Graduate Academic Catalog-June [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Graduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Graduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Graduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Graduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Graduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Graduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Graduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Graduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Graduate Academic Catalog [ARCHIVED CATALOG]
+2013-14 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2012-2014 Graduate Academic Catalog [ARCHIVED CATALOG]
+2012-2013 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+Global Search
+Catalog Search
+Choose Search Location
+Select an option
+Courses
+Programs
+Academic Departments
+Other Content
+Entire Catalog
+Search Keyword Field
+Whole Word/Phrase
+Advanced Search
+Catalog Navigation
+Catalog Home
+Academic Calendar
+University Overview
+Admissions Department
+Academic Regulations and Policies
+Student Financial Services
+Degrees, Minors, and Certificates by Department
+Degree Programs, Minors, and Certificates
+University Scholars Honors Program
+Reserve Officers’ Training Corps. (ROTC)
+English for Academic Purposes (EAP)
+Course Descriptions
+Administration, Regents, Faculty, and Advisory Committees
+Campus Map
+Student Resources
+My Portfolio
+HELP
+2022-2023 Undergraduate Academic Catalog
+[ARCHIVED CATALOG]
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+AE 3531 - Fire Suppression Systems Design
+3
+lecture hours
+2
+lab hours
+4
+credits
+Course Description
+This course is a continuation of plumbing and fire suppression principles and transitions into the system component design, layout and specification concepts of fire suppression systems. The fire suppression systems components to be examined include wet sprinkler systems, alternative agent systems, pumping equipment and fire suppression piping and installation specifications. Design tools to be used include traditional calculations, spreadsheets, and computerized modeling programs. Design standards and variations will be discussed using NFPA codes and master specifications. The architectural engineer’s responsibilities in design and specification writing will be emphasized through examples of construction document components, including plans, details, and specifications.   (prereq:
+AE 3301
+)
+Course Learning Outcomes
+Upon successful completion of this course, the student will be able to:
+Analyze a building type to determine the proper fire protection system selection
+Analyze water supply flow pressures and needs of a project.
+Describe fire chemistry and discuss the effects fires have had on buildings and human life
+Discuss principles of smoke, heat and flame detection and methods of signaling warning alarms to building occupants
+Discuss architectural and engineering building design elements and materials of construction as they relate to fire suppression systems for buildings
+Apply fluid mechanics design methods, based on Hazen-Williams formulation and other general energy theories, to calculate fire suppression design problems based on example piping layouts
+Design and layout an automatic fire suppression system for a commercial building
+Design and size the fire suppression pump system for a commercial building
+Prerequisites by Topic
+Basic fire protection systems, piping sizing calculations
+Course Topics
+Fire chemistry
+History of fire in buildings
+Types of fire suppression systems
+Materials and equipment
+Planning
+Sprinkler layout
+Hangers and hanging
+Job site surveys and coordination
+Water supplies and underground piping
+Hydraulic calculations
+Modeling program use
+Pumps and pumping systems
+Standpipe systems
+Design calculations for complex systems
+Laboratory Topics
+Field surveys and piping
+Water supply testing & selection of type of fire suppression for building occupancy
+Fire pump analysis using a variable speed pump
+Sprinkler head flow analysis
+Analysis of water flow in an existing sprinkler system
+Predicting flow rates and pressure in an existing system
+Water supply flow test and analysis
+Fire suppression system design project calculations and specs
+Coordinator
+Doug Nelson
+Back to Top
+|
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+All
+catalogs
+© 2026 Milwaukee School of Engineering.
+Powered by
+Modern Campus Catalog™
+.

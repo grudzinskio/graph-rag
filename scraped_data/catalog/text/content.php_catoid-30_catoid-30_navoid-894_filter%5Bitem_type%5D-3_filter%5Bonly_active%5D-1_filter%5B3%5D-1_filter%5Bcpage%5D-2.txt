@@ -1,0 +1,353 @@
+Course Descriptions - Milwaukee School of Engineering
+Milwaukee School of Engineering
+Mar 12, 2026
+2023-2024 Graduate Academic Catalog
+Select a Catalog
+2025-2026 Undergraduate Academic Catalog
+2025-2026 Graduate Academic Catalog
+2024-2025 Undergraduate Academic Catalog-June [ARCHIVED CATALOG]
+2024-2025 Graduate Academic Catalog-June [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Graduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Graduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Graduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Graduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Graduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Graduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Graduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Graduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Graduate Academic Catalog [ARCHIVED CATALOG]
+2013-14 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2012-2014 Graduate Academic Catalog [ARCHIVED CATALOG]
+2012-2013 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+Global Search
+Catalog Search
+Choose Search Location
+Select an option
+Courses
+Programs
+Academic Departments
+Other Content
+Entire Catalog
+Search Keyword Field
+Whole Word/Phrase
+Advanced Search
+Catalog Navigation
+Catalog Home
+Academic Calendar
+University Overview
+Professional Education
+Graduate Admission Requirements
+Academic Regulations and Policies
+Student Financial Services
+Research Opportunities
+Graduate Degree Programs and Certificates by Department
+Degree Programs and Certificates
+Course Descriptions
+Administration and Board of Regents
+Graduate Faculty
+Campus Map
+Student Resources
+My Portfolio
+HELP
+2023-2024 Graduate Academic Catalog
+[ARCHIVED CATALOG]
+Course Descriptions
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Course Filter
+Filter this list of courses using course prefix, course code, keywords or any combination.
+Prefix:
+Code or Number:
+Type
+Keyword or Phrase:
+Choose Course Prefix
+All prefixes…
+ARE
+BUS
+CAE
+CHM
+CON
+CPE
+CSC
+CSE
+CVE
+EGR
+ELE
+GRA
+IND
+MEC
+MTH
+NUR
+PER
+PHL
+PHY
+SWE
+Choose Course Number
+Choose Course Type
+All types…
+Architectural Engineering
+Business
+Chemistry
+Civil and Architectural Engineering
+Civil Engineering
+Computer Engineering
+Computer Science
+Construction Management
+Electrical Engineering
+Electrical Engineering and Computer Science
+General Engineering
+General Graduate Courses
+Industrial Engineering
+Mathematics
+Mechanical Engineering
+Nursing
+Perfusion
+Philosophy
+Physics
+Software Engineering
+Choose Keyword
+Find whole word or phrase only.
+Civil Engineering
+•
+CVE 7902 - Civil Engineering Graduate Capstone II
+Computer Engineering
+•
+CPE 5980 - Topics in Computer Engineering
+Computer Science
+•
+CSC 5120 - Software Development for Machine Learning
+•
+CSC 5201 - Microservices and Cloud Computing
+•
+CSC 5241 - GPU Programming
+•
+CSC 5601 - Theory of Machine Learning
+•
+CSC 5610 - AI Tools and Paradigms
+•
+CSC 5611 - Deep Learning
+•
+CSC 5651 - Deep Learning in Signal Processing
+•
+CSC 5980 - Topics in Computer Science
+•
+CSC 5981 - Topics in Computer Science with Laboratory
+•
+CSC 6605 - Machine Learning Production Systems
+•
+CSC 6621 - Applied Machine Learning
+•
+CSC 6980 - Topics in Computer Science
+•
+CSC 6999 - Computer Science Independent Study
+•
+CSC 7901 - Machine Learning Capstone
+Construction Management
+•
+CON 5011 - Lean Construction and Resource Management
+•
+CON 5051 - Construction Project Leadership
+•
+CON 5980 - Topics in Construction Management
+Electrical Engineering
+•
+ELE 5142 - Modern Electronic Systems
+•
+ELE 5240 - Advanced Electromagnetics and Antenna Theory
+•
+ELE 5320 - Applications of DSP
+•
+ELE 5403 - Specialty Electric Machines
+•
+ELE 5440 - Power Electronics
+•
+ELE 5447 - Power System Models and Analysis
+•
+ELE 5451 - Grid Stability
+•
+ELE 5480 - Electrical Power Systems Quality
+•
+ELE 5610 - Advanced Programming for EEs
+•
+ELE 5630 - Advanced Embedded Systems
+•
+ELE 5980 - Topics in Electrical Engineering
+•
+ELE 5981 - Topics in Electrical Engineering Topics with Laboratory
+•
+ELE 6999 - Electrical Engineering Independent Study
+Electrical Engineering and Computer Science
+•
+CSE 5991 - Co-op Experience Continuation
+•
+CSE 5992 - Co-op Experience Completion
+General Engineering
+•
+EGR 5980 - Topics in Engineering
+•
+EGR 6010 - System Dynamics Modeling
+•
+EGR 6020 - Simulation Modeling and Analysis
+•
+EGR 6110 - PDEs and Numerical Methods
+•
+EGR 6980 - Topics in Engineering
+•
+EGR 6999 - MSE Independent Study
+•
+EGR 7901 - Engineering Specialty Paper
+•
+EGR 7921 - Engineering Project I
+•
+EGR 7922 - Engineering Project II
+General Graduate Courses
+•
+GRA 6801 - Graduate Assistantship
+•
+GRA 6998 - Graduate Continuation
+Industrial Engineering
+•
+IND 5980 - Topics in Industrial Engineering
+•
+IND 6120 - Operations Research
+•
+IND 6130 - Quality Engineering
+•
+IND 6999 - Industrial Engineering Independent Study
+Mathematics
+•
+MTH 5810 - Mathematical Methods for Machine Learning
+•
+MTH 5980 - Topics in Mathematics
+Mechanical Engineering
+•
+MEC 5305 - Mechanical System Simulation with Fluid Power Applications
+•
+MEC 5601 - MicroElectroMechanical Systems Fundamentals
+•
+MEC 5980 - Topics in Mechanical Engineering
+•
+MEC 6090 - Experimental Stress Analysis
+•
+MEC 6862 - Advanced Topics in Mechanics and Design
+•
+MEC 6880 - Computational Fluid Mechanics
+•
+MEC 6882 - Gas Dynamics
+•
+MEC 6884 - Numerical Heat Transfer
+•
+MEC 6999 - Mechanical Engineering Independent Study
+Nursing
+•
+NUR 6000 - Advanced Practice Theory, Roles, and Change
+•
+NUR 6010 - Health Care Policy and Ethics
+•
+NUR 6030 - Evaluating Care: Research and Evidence-Based Practice Project Management
+•
+NUR 6100 - Quality and Safety in Health Care Systems
+•
+NUR 6110 - Nursing Informatics
+•
+NUR 6130 - Advanced Leadership and Human Capital
+•
+NUR 6140 - Managing Projects and Teams in Health Care Systems
+•
+NUR 6150 - Facilitating Change in Complex Health Care Systems
+•
+NUR 6200 - Advanced Pathophysiology
+•
+NUR 6210 - Advanced Pharmacology I: For APRN Prescriptive Practice
+•
+NUR 6220 - Advanced Physical Assessment
+•
+NUR 6230 - Pharmacology II: Neurobiology and Psychopharmacology
+•
+NUR 6500 - Leadership and Management Practicum I
+•
+NUR 6510 - Leadership Management Practicum II
+•
+NUR 6980 - Topics in Nursing
+•
+NUR 6999 - MSN Independent Study
+•
+NUR 7200 - Psychiatric Mental Health Nurse Practitioner Theory 1: Care of Infants, Children, and Adolescents
+•
+NUR 7201 - Practicum 1: Infants, Children, and Adolescents
+•
+NUR 7210 - Psychiatric Mental Health Nurse Practitioner Theory 2: Care of Adult and Geriatric Clients
+•
+NUR 7211 - PMHNP Practicum 2 - Care of Adults and Geriatric Clients
+•
+NUR 7220 - Psychiatric Mental Health Nurse Practitioner Theory 3: Care of Systems: Couples, Families, Groups, and Organizations
+•
+NUR 7221 - PMHNP Practicum 3 - Care of Systems: Couples, Families, Groups, and Organizations
+•
+NUR 7901 - MSN Capstone: Synthesis and Presentation
+Perfusion
+•
+PER 5010 - Advanced Physiology
+•
+PER 5020 - Pathophysiology
+•
+PER 5030 - Pharmacology
+•
+PER 5510 - Design of Experiments
+•
+PER 5980 - Topics in Perfusion
+•
+PER 6210 - Clinical Extracorporeal Perfusion I
+•
+PER 6220 - Clinical Extracorporeal Perfusion II
+•
+PER 6230 - Clinical Extracorporeal Perfusion III
+•
+PER 6240 - Special Situations in Perfusion Practice
+•
+PER 6250 - Pediatric Extracorporeal Perfusion
+•
+PER 6310 - Perfusion Simulation I
+•
+PER 6320 - Perfusion Simulation II
+•
+PER 6410 - Clinical Perfusion Practicum I
+•
+PER 6420 - Clinical Perfusion Practicum II
+•
+PER 6430 - Clinical Perfusion Practicum III
+•
+PER 6440 - Clinical Perfusion Practicum IV
+•
+PER 6450 - Clinical Perfusion Practicum V
+Page:
+1
+|
+2
+|
+3
+Back to Top
+|
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+All
+catalogs
+© 2026 Milwaukee School of Engineering.
+Powered by
+Modern Campus Catalog™
+.

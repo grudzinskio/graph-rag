@@ -1,0 +1,319 @@
+Program: Biomedical Engineering, B.S. - Milwaukee School of Engineering
+Milwaukee School of Engineering
+Mar 12, 2026
+2022-2023 Undergraduate Academic Catalog
+Select a Catalog
+2025-2026 Undergraduate Academic Catalog
+2025-2026 Graduate Academic Catalog
+2024-2025 Undergraduate Academic Catalog-June [ARCHIVED CATALOG]
+2024-2025 Graduate Academic Catalog-June [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Graduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Graduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Graduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Graduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Graduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Graduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Graduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Graduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Graduate Academic Catalog [ARCHIVED CATALOG]
+2013-14 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2012-2014 Graduate Academic Catalog [ARCHIVED CATALOG]
+2012-2013 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+Global Search
+Catalog Search
+Choose Search Location
+Select an option
+Courses
+Programs
+Academic Departments
+Other Content
+Entire Catalog
+Search Keyword Field
+Whole Word/Phrase
+Advanced Search
+Catalog Navigation
+Catalog Home
+Academic Calendar
+University Overview
+Admissions Department
+Academic Regulations and Policies
+Student Financial Services
+Degrees, Minors, and Certificates by Department
+Degree Programs, Minors, and Certificates
+University Scholars Honors Program
+Reserve Officers’ Training Corps. (ROTC)
+English for Academic Purposes (EAP)
+Course Descriptions
+Administration, Regents, Faculty, and Advisory Committees
+Campus Map
+Student Resources
+My Portfolio
+HELP
+2022-2023 Undergraduate Academic Catalog
+[ARCHIVED CATALOG]
+Biomedical Engineering, B.S.
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Return to:
+Degrees, Minors, and Certificates by Department
+Program Director:
+Dr. Jeffrey LaMack
+Office: S-364
+Phone: (414) 277-7535
+Email:
+lamack@msoe.edu
+Biomedical engineering (BME) is the application of engineering principles to solve problems faced in health care through the creation and improvement of medical devices and systems. The focus of the BME program at MSOE is to prepare students for the medical device industry or graduate study in BME and related fields. This is achieved with a curriculum that provides foundations in classical engineering disciplines including electrical and mechanical engineering, as well as biological sciences and computer programming. Program faculty with diverse experiences in industry and research deliver major-specific courses that prepare students for the BME subdisciplines of biomechanics, bioinstrumentation, clinical engineering, and medical imaging. Throughout, an emphasis is placed on emerging trends in medical devices, such as incorporation of microcontrollers and sensors, acquisition and interpretation of patient data, and modern user interfaces.
+Through extensive hands-on laboratory exercises and projects spanning the curriculum, students gain highly sought-after skills for industry, including efficient prototype development, device testing, and medical device regulation. An extended capstone design project provides extra time for students to focus on problem definition, customer needs, medical device market strategies, and regulatory considerations. In addition to traditional BME careers, program graduates have chosen career paths in medicine, law, sports and auto safety biomechanics, and medical device sales. Regular academic advising with faculty, internship elective options, and program connections with alumni in broad industries allow students to customize their education and gain experiences to pursue the career path of their choice in a high demand field.
+Program Educational Objectives
+The objective of this program is for graduates to attain, early in their careers, the ability to demonstrate leadership and teamwork, as well as apply knowledge and practical experience to independently solve challenging problems in a variety of career paths, including:
+Professional careers in the biomedical or related engineering fields,
+Graduate study or degrees in biomedical engineering or related engineering or science fields, or
+Other related professional endeavors such as education or practice in law, medicine, business, or other fields
+Student Outcomes
+Graduates of the biomedical engineering program will gain:
+an ability to identify, formulate, and solve complex engineering problems by applying principles of engineering, science, and mathematics
+an ability to apply engineering design to produce solutions that meet specified needs with consideration of public health, safety, and welfare, as well as global, cultural, social, environmental, and economic factors
+an ability to communicate effectively with a range of audiences
+an ability to recognize ethical and professional responsibilities in engineering situations and make informed judgments, which must consider the impact of engineering solutions in global, economic, environmental, and societal contexts
+an ability to function effectively on a team whose members together provide leadership, create a collaborative and inclusive environment, establish goals, plan tasks, and meet objectives
+an ability to develop and conduct appropriate experimentation, analyze and interpret data, and use engineering judgment to draw conclusions
+an ability to acquire and apply new knowledge as needed, using appropriate learning strategies
+View Annual Student Enrollment and Graduation Data
+Biomedical Engineering Model Full-time Track - V5.2
+Year One
+Fall
+BE 1005 - Introduction to Biomedical Engineering
+3
+credits
+BI 102 - Cell Biology and Genetics
+4
+credits
+GS 1001 - Freshman Studies I
+4
+credits
+MA 136 - Calculus I
+4
+credits
+Total: 13 lecture hours - 4 lab hours - 15 credits
+Winter
+CH 200 - Chemistry I
+4
+credits
+GS 1002 - Freshman Studies II
+4
+credits
+MA 137 - Calculus II
+4
+credits
+PH 2011 - Physics I - Mechanics
+4
+credits
+Total: 14 lecture hours - 4 lab hours - 16 credits
+Spring
+EE 2050 - Linear Circuits - Steady State I
+4
+credits
+GS 1003 - Freshman Studies III
+4
+credits
+MA 2314 - Calculus III
+4
+credits
+PH 2021 - Physics II - ElectroMagnetism
+4
+credits
+Total: 14 lecture hours - 4 lab hours - 16 credits
+Year Two
+Fall
+CH 201 - Chemistry II
+4
+credits
+EE 2060 - Linear Circuits - Steady State II
+4
+credits
+MA 235 - Differential Equations
+4
+credits
+ME 205 - Engineering Statics
+4
+credits
+Total: 14 lecture hours - 4 lab hours - 16 credits
+Winter
+BI 2306 - Human Physiology I
+4
+credits
+CH 222 - Organic Chemistry I
+3
+credits
+EE 2070 - Linear Circuits - Transients
+3
+credits
+ME 206 - Engineering Dynamics
+4
+credits
+Elective
+1
+3 credits
+Total: 16 lecture hours - 2 lab hours - 17 credits
+Spring
+BE 2200 - MATLAB Programming for Engineers
+4
+credits
+BI 2316 - Human Physiology II
+4
+credits
+MA 2323 - Calculus IV
+3
+credits
+ME 207 - Mechanics of Materials
+4
+credits
+Total: 13 lecture hours - 4 lab hours - 15 credits
+Year Three
+Fall
+BE 3005 - Professional Topics in BME
+2
+credits
+BE 3500 - Bio-thermal-fluid Transport I
+4
+credits
+EE 2905 - Introduction to Embedded Systems and Digital Electronics
+4
+credits
+EE 3032 - Signals and Systems
+4
+credits
+MA 3611 - Biostatistics
+3
+credits
+Total: 16 lecture hours - 2 lab hours - 17 credits
+Winter
+BE 3515 - Bio-thermal-fluid Transport II
+4
+credits
+BE 3705 - Biomedical Electronics and Instrumentation
+4
+credits
+BE 3905 - Biomedical Combined Laboratory I
+2
+credits
+EE 3221 - Digital Signal Processing
+4
+credits
+Elective
+1
+3 credits
+Total: 14 lecture hours - 6 lab hours - 17 credits
+Spring
+BE 411 - Biomechanics
+3
+credits
+BE 3015 - Biomedical Engineering Design I
+2
+credits
+BE 3205 - Introduction to Sensors and Actuators
+4
+credits
+BE 3915 - Combined Lab II: Physiology, DSP & Biomechanics
+2
+credits
+Elective
+1
+3 credits
+Elective
+1
+3 credits
+Total: 14 lecture hours - 6 lab hours - 17 credits
+Year Four
+Fall
+BE 3405 - Biomedical Device Evaluation
+3
+credits
+BE 4005 - Biomedical Engineering Design II
+3
+credits
+BE 410 - Biomaterials
+3
+credits
+BE 4705 - Biomedical Electronics and Instrumentation II
+4
+credits
+Elective
+1
+3 credits
+Total: 14 lecture hours - 4 lab hours - 16 credits
+Winter
+BE 4015 - Biomedical Engineering Design III
+2
+credits
+BE 4205 - Medical Imaging Systems
+4
+credits
+BE 4805 - Biomedical System Dynamics
+3
+credits
+Elective
+1
+3 credits
+Elective
+1
+3 credits
+Total: 13 lecture hours - 4 lab hours - 15 credits
+Spring
+BE 4025 - Biomedical Engineering Design IV
+2
+credits
+BE 4815 - Biomedical Feedback Control Systems
+4
+credits
+HU 332 - Bioethics
+3
+credits
+Elective
+1
+3 credits
+Elective
+1
+3 credits
+Total: 13 lecture hours - 4 lab hours - 15 credits
+Total: 192 credits
+Notes:
+1
+Thirty credit hours of electives must be taken distributed as follows:
+15 credit hours must be humanities and social science (HU/SS) electives, of which:
+6 credit hours (typically 2 courses) must be taken in the humanities area,
+6 credit hours (typically 2 courses) must be taken in the social science area and,
+3 credit hours (typically 1 course) can be in either area.
+12 credit hours of which must be program topical electives, of which:
+6 credit hours must be courses on the pre-approved technical electives list, and
+6 credit hours can be any courses on the pre-approved flexible, technical or professional electives lists.
+Students may request specific courses be added to the program elective lists but must do so prior to taking the course.
+Accredited by the Engineering Accreditation Commission of ABET,
+http://www.abet.org
+Return to:
+Degrees, Minors, and Certificates by Department
+Back to Top
+|
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+All
+catalogs
+© 2026 Milwaukee School of Engineering.
+Powered by
+Modern Campus Catalog™
+.

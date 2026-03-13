@@ -1,0 +1,121 @@
+CSC 4601 - Theory of Machine Learning -
+Milwaukee School of Engineering
+Mar 12, 2026
+2025-2026 Undergraduate Academic Catalog
+Select a Catalog
+2025-2026 Undergraduate Academic Catalog
+2025-2026 Graduate Academic Catalog
+2024-2025 Undergraduate Academic Catalog-June [ARCHIVED CATALOG]
+2024-2025 Graduate Academic Catalog-June [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Graduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Graduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Graduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Graduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Graduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Graduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Graduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Graduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Graduate Academic Catalog [ARCHIVED CATALOG]
+2013-14 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2012-2014 Graduate Academic Catalog [ARCHIVED CATALOG]
+2012-2013 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+Global Search
+Catalog Search
+Choose Search Location
+Select an option
+Courses
+Programs
+Academic Departments
+Other Content
+Entire Catalog
+Search Keyword Field
+Whole Word/Phrase
+Advanced Search
+Catalog Navigation
+Catalog Home
+Academic Calendar
+University Overview
+Admissions
+Student Financial Services
+Academic Regulations and Policies
+Degree Programs, Minors, and Certificates
+Degrees, Minors, and Certificates by Department
+Course Descriptions
+The Raider Core
+Explorer Pathways
+MSOE Honors Program
+Global Opportunities
+Reserve Officers’ Training Corps. (ROTC)
+Administration, Regents, and Advisory Committees
+Departments and Faculty
+Campus Map
+Student Resources
+My Portfolio
+HELP
+2025-2026 Undergraduate Academic Catalog
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+CSC 4601 - Theory of Machine Learning
+2
+lecture hours
+2
+lab hours
+3
+credits
+Course Description
+This course provides a broad introduction to machine learning. Theory of machine learning explores the study and construction of algorithms that can learn from and make predictions on data. Such algorithms operate by building a model from example inputs in order to make data-driven predictions or decisions, rather than following strictly static program instructions. Topic categories include decision boundaries, optimization, and both supervised and unsupervised methods. Students will apply the theory to implementation and evaluation of machine learning algorithms with hands-on, tutorial-oriented laboratory exercises.
+Prereq:
+MTH 2130
+,
+MTH 2340
+,
+CSC 2621
+(quarter system prereq: CS 2300, MA 383, MA 2323)
+Note:
+None
+This course meets the following Raider Core CLO Requirement:
+Think Critically
+Course Learning Outcomes
+Upon successful completion of this course, the student will be able to:
+Explain and analyze machine learning models and prediction algorithms (e.g., k-nearest neighbors, logistic regression, SVMs, decision trees)
+Confidence in applying, manipulating, and interpreting linear algebra and calculus concepts within the context of machine learning
+Implement and validate code for a mathematical model or algorithm given as an equation
+Explain the geometric and algebraic interpretations of linear and non-linear decision boundaries and their relationship to error metrics (e.g., accuracy)
+Understand the concepts of learning theory, i.e., what is learnable, bias, variance, overfitting, curse of dimensionality, splitting data for evaluation of model predictions
+Estimate and plot decision boundaries described by trained models
+Derive, visualize, apply, and interpret loss functions and associated derivatives to assess the quality of model predictions and fit to data
+Describe and implement model training in terms of naïve and gradient-driven search problems over parameter space
+Compare and contrast technical requirements and computational efficiency of two unconstrained optimization algorithms (e.g., gradient descent, Newton’s method)
+Prerequisites by Topic
+Linear algebra
+Derivative calculus
+Software development in Python
+Coordinator
+Dr. John Bukowy
+Back to Top
+|
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+All
+catalogs
+© 2026 Milwaukee School of Engineering.
+Powered by
+Modern Campus Catalog™
+.

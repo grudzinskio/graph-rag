@@ -1,0 +1,320 @@
+Program: Computer Engineering, B.S. - Milwaukee School of Engineering
+2025-2026 Undergraduate Academic Catalog
+Milwaukee School of Engineering
+Mar 12, 2026
+2025-2026 Undergraduate Academic Catalog
+Select a Catalog
+2025-2026 Undergraduate Academic Catalog
+2025-2026 Graduate Academic Catalog
+2024-2025 Undergraduate Academic Catalog-June [ARCHIVED CATALOG]
+2024-2025 Graduate Academic Catalog-June [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Graduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Graduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Graduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Graduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Graduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Graduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Graduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Graduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Graduate Academic Catalog [ARCHIVED CATALOG]
+2013-14 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2012-2014 Graduate Academic Catalog [ARCHIVED CATALOG]
+2012-2013 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+Global Search
+Catalog Search
+Choose Search Location
+Select an option
+Courses
+Programs
+Academic Departments
+Other Content
+Entire Catalog
+Search Keyword Field
+Whole Word/Phrase
+Advanced Search
+Catalog Navigation
+Catalog Home
+Academic Calendar
+University Overview
+Admissions
+Student Financial Services
+Academic Regulations and Policies
+Degree Programs, Minors, and Certificates
+Degrees, Minors, and Certificates by Department
+Course Descriptions
+The Raider Core
+Explorer Pathways
+MSOE Honors Program
+Global Opportunities
+Reserve Officers’ Training Corps. (ROTC)
+Administration, Regents, and Advisory Committees
+Departments and Faculty
+Campus Map
+Student Resources
+My Portfolio
+HELP
+2025-2026 Undergraduate Academic Catalog
+Computer Engineering, B.S.
+Print this Page
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Return to:
+Degrees, Minors, and Certificates by Department
+Program Director
+Dr. Russ Meier, FIEEE
+Office: L-351
+Phone: (414) 277-2243
+Email:
+meier@msoe.edu
+Overview
+Engineers apply mathematics, science, and ethics to build things. Computer engineers are experts in the electronic design of computer hardware, the design of computer software, and the embedding of computers within other smart systems. Deep training in calculus-based mathematics and physics provides the foundational knowledge computer engineers use to design electric circuitry, analyze computer systems, and implement control algorithms in all kinds of products. To achieve technical depth in hardware design, MSOE computer engineers study digital logic, computer architecture, electric circuits, electronics, signal theory, digital signal processing, and computer networking. To achieve technical depth in software design, MSOE computer engineers study software development and data structures in the Java programming language and study the C programming language for systems programming and embedded systems control. This balanced training in the design of computer hardware and software makes computer engineering a perfect career choice for students interested in computing and the manipulation of electricity to accomplish it.
+Computer engineers are employed at a wide variety of companies. Most modern products have smart behaviors controlled by embedded computers. Thus, computer engineers apply their skills in many different companies such as those within the automotive, avionics, building control systems, home appliances, agriculture, construction equipment, telecommunications, entertainment, and gaming industries. And, of course, computer engineers can also work within the traditional computing industry that builds desktop, laptop, and mobile computers. No matter where they are employed, computer engineers work to improve the world bit-by-bit by putting computers in stuff!
+Study Abroad
+Computer engineering students can study abroad after completing the first five semesters of computer engineering coursework. Students typically spend the next spring semester abroad and return to MSOE the following fall semester. Courses are taught in English, participation does not delay graduation, and the only additional cost is airfare.
+Students can study at the Czech Technical University (CTU) in Prague, one of Europe’s great historic and beautiful cities. Founded hundreds of years ago, CTU is the top technical university in the Czech Republic and a respected university in Central Europe
+Students can study at Victoria University of Wellington, New Zealand. VUW is the top research institute of New Zealand, and Wellington is the country’s capital with no shortage of beautiful ocean views and cultural activities.
+Program Educational Objectives
+Within a few years of graduation, CE alumni will:
+Have a record of successful delivery as an engineer in areas such as product development, patent applications, engineering management, technical sales, and test engineering
+Provide both informal and formal leadership (e.g., lead specific team efforts or function as team leader, project manager, etc.)
+Develop expert knowledge in at least one area that is seen as an asset by colleagues and management
+Student Outcomes
+Graduates of the computer engineering program will attain:
+an ability to identify, formulate, and solve complex engineering problems by applying principles of engineering, science, and mathematics
+an ability to apply engineering design to produce solutions that meet specified needs with consideration of public health, safety, and welfare, as well as global, cultural, social, environmental, and economic factors
+an ability to communicate effectively with a range of audiences
+an ability to recognize ethical and professional responsibilities in engineering situations and make informed judgments, which must consider the impact of engineering solutions in global, economic, environmental, and societal contexts
+an ability to function effectively on a team whose members together provide leadership, create a collaborative and inclusive environment, establish goals, plan tasks, and meet objectives
+an ability to develop and conduct appropriate experimentation, analyze and interpret data, and use engineering judgment to draw conclusions
+an ability to acquire and apply new knowledge as needed, using appropriate learning strategies
+The Computer Engineering (BS) program is accredited by the Engineering Accreditation Commission of
+ABET
+, under the commission’s General Criteria and Program Criteria for Computer Engineering.
+View Annual Student Enrollment and Graduation Data
+Computer Engineering, B.S. Version S1
+Year One
+Fall
+Total: 13 lecture hours - 4 lab hours - 15 credits
+COM 1001 - College Writing
+3
+credits
+♦ Raider Core:
+Communicate Effectively
+CPE 1500 - Digital Logic
+4
+credits
+*
+CSC 1110 - Software Development
+4
+credits
+*
+MTH 1110 - Calculus I
+4
+credits
+Spring
+Total: 13 lecture hours - 6 lab hours - 16 credits
+CPE 1510 - Computer Architecture and Assembly Language
+4
+credits
+*
+CSC 1120 - Data Structures and Graphical Interfaces
+4
+credits
+*
+MTH 1120 - Calculus II
+4
+credits
+PHY 1110 - Physics I - Mechanics and Thermodynamics
+4
+credits
+♦ Raider Core:
+Think Critically
+Year Two
+Fall
+Total: 13 lecture hours - 6 lab hours - 15 credits
+CPE 2600 - Systems Programming
+4
+credits
+*
+ELE 2001 - Electric Circuits I: Theory and Applications
+4
+credits
+*
+IDS 2020 - Career Development
+0
+credits
+MTH 2140 - Differential Equations
+3
+credits
+PHY 1120 - Physics II - Electricity, Magnetism, and Optics
+4
+credits
+Spring
+Total: 16 lecture hours - 2 lab hours - 17 credits
+COM 2001 - Writing for the STEM Disciplines
+3
+credits
+♦ Raider Core:
+Collaborate Successfully/Communicate Effectively
+CPE 2610 - Embedded Systems
+4
+credits
+*
+ELE 2011 - Electric Circuits II: Theory and Applications
+4
+credits
+*
+MTH 2480 - Probability and Statistics
+3
+credits
+Raider Core ♦
+Embrace Diversity
+3 credits
+1
+Year Three
+Fall
+Total: 15 lecture hours - 4 lab hours - 17 credits
+BUS 2411 - Building Inclusive Teams
+3
+credits
+COM 3001 - Professional Presentations
+3
+credits
+♦ Raider Core:
+Collaborate Successfully/Communicate Effectively
+CPE 3600 - Embedded Systems Design
+4
+credits
+* ♦ Raider Core:
+Integrate Learning
+ELE 3101 - Electronics I
+4
+credits
+*
+MTH 2310 - Discrete Mathematics
+3
+credits
+Spring
+Total: 15 lecture hours - 2 lab hours - 16 credits
+BUS 3420 - Innovation and Entrepreneurship
+3
+credits
+CPE 3300 - Computer Networking
+4
+credits
+*
+ELE 3300 - Signals and Systems
+3
+credits
+*
+MTH 2340 - Linear Algebra with Applications
+3
+credits
+Choice of
+PHL 3101
+,
+PHL 3102
+, or
+PHL 3103
+3 credits
+1
+Raider Core
+♦ Demonstrate Ethical Understanding
+Year Four
+Fall
+Total: 12 lecture hours - 4 lab hours - 16 credits
+CPE 4901 - Computer Engineering Senior Design Project I
+3
+credits
+*
+ELE 3320 - Digital Signal Processing
+3
+credits
+*
+Elective (Program)
+3 credits
+*
+PHY 3700 - Physics of Electronic Materials and Semiconductor Devices
+4
+credits
+Raider Core ♦
+Exhibit Curiosity
+3 credits
+1
+Spring
+Total: 13 lecture hours - 2 lab hours - 16 credits
+CPE 4800 - Information Security
+4
+credits
+*
+CPE 4902 - Computer Engineering Senior Design Project II
+3
+credits
+* ♦ Raider Core:
+Integrate Learning
+Elective (Free)
+3 credits
+Elective (Program)
+3 credits
+*
+Raider Core Elective
+♦
+Choice of CLO
+3 credits
+2
+Program total: 110 lecture hours - 30 lab hours - 128 credits
+Notes:
+*Courses with an asterisk are used to calculate major GPA. If an EECS course is chosen for the free elective, it will count toward the student’s major GPA.
+1
+The noted CLO is a placeholder. Raider Core electives can be taken in any order. The combination of courses must address and assess the
+Exhibit Curiosity
+,
+Embrace Diversity
+and
+Demonstrate Ethical Understanding
+(
+PHL 3101
+,
+PHL 3102
+, or
+PHL 3103
+) Common Learning Outcomes. With some exceptions, these courses must be taught out of the Humanities, Social Sciences, and Communication Department.
+2
+This course can cover any of the following CLOs:
+Collaborate Successfully
+,
+Think Critically, Demonstrate Ethical Understanding, Exhibit Curiosity,
+or
+Embrace Diversity
+. With some exceptions,
+eligible courses
+must be taught out of the Humanities, Social Science, and Communication, Mathematics, or Physics and Chemistry Departments.
+See
+The Raider Core
+page for details on the general education program and Common Learning Outcomes (CLOs). See the
+full list of courses covering CLOs
+for the Computer Engineering program.
+Return to:
+Degrees, Minors, and Certificates by Department
+Print this Page
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+All
+catalogs
+© 2026 Milwaukee School of Engineering.
+Powered by
+Modern Campus Catalog™
+.

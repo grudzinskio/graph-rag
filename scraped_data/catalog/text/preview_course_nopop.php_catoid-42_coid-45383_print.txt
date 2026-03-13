@@ -1,0 +1,145 @@
+MTH 2610 - Probability for Actuarial Science I -
+2025-2026 Undergraduate Academic Catalog
+Milwaukee School of Engineering
+Mar 12, 2026
+2025-2026 Undergraduate Academic Catalog
+Select a Catalog
+2025-2026 Undergraduate Academic Catalog
+2025-2026 Graduate Academic Catalog
+2024-2025 Undergraduate Academic Catalog-June [ARCHIVED CATALOG]
+2024-2025 Graduate Academic Catalog-June [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Graduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Graduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Graduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Graduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Graduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Graduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Graduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Graduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Graduate Academic Catalog [ARCHIVED CATALOG]
+2013-14 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2012-2014 Graduate Academic Catalog [ARCHIVED CATALOG]
+2012-2013 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+Global Search
+Catalog Search
+Choose Search Location
+Select an option
+Courses
+Programs
+Academic Departments
+Other Content
+Entire Catalog
+Search Keyword Field
+Whole Word/Phrase
+Advanced Search
+Catalog Navigation
+Catalog Home
+Academic Calendar
+University Overview
+Admissions
+Student Financial Services
+Academic Regulations and Policies
+Degree Programs, Minors, and Certificates
+Degrees, Minors, and Certificates by Department
+Course Descriptions
+The Raider Core
+Explorer Pathways
+MSOE Honors Program
+Global Opportunities
+Reserve Officers’ Training Corps. (ROTC)
+Administration, Regents, and Advisory Committees
+Departments and Faculty
+Campus Map
+Student Resources
+My Portfolio
+HELP
+2025-2026 Undergraduate Academic Catalog
+Print this Page
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+MTH 2610 - Probability for Actuarial Science I
+4
+lecture hours
+0
+lab hours
+4
+credits
+Course Description
+This course introduces elementary probability theory for single random variables, both discrete and continuous.  Basic probability concepts such as counting techniques, sets, axioms of probability, conditional probability and independence, Bayes’ theorem are discussed. Other topics of discussion are discrete random variables and common discrete distributions such as binomial, geometric, negative binomial, hypergeometric and Poisson. Continuous distributions, uniform, normal and exponential distributions are also considered. In addition, limit theorems, deductibles and caps in insurance are included. MTH 2610 is the first of the two-course Probability for Actuarial Science sequence that prepares students for Exam P/Exam I.
+Prereq:
+MTH 1120
+, Actuarial Science major, or Actuarial Science program director consent (quarter system prereq: MA 137, Actuarial Science major, or Actuarial Science program director consent)
+Note:
+None
+This course meets the following Raider Core CLO Requirement:
+None
+Course Learning Outcomes
+Upon successful completion of this course, the student will be able to:
+Use combination and permutation to solve related problems
+Apply basic set theory concepts to probability problems
+Use basic probability rules
+Use tree diagrams, Venn diagrams, Venn Box Diagrams to solve probability problems
+Use DeMorgan’s Laws in probability problems
+Identify and solve problems involving conditional probability
+Identify and solve problems involving total probability, Bayes’ Theorem and independence
+Define a discrete random variable and the probability mass function and use them in examples
+Define the cumulative distribution function for discrete random variables and use it to solve related problems
+Define expected value for discrete random variables and use it in related problems
+Solve problems involving conditional expectations of discrete random variables
+Identify and apply the discrete uniform distribution
+Identify and apply the binomial distribution
+Identify and apply the geometric distribution
+Identify and apply the negative binomial distribution
+Identify and apply the hypergeometric distribution
+Identify and apply the Poisson distribution
+Define a continuous random variable and the probability density function and use them in examples
+Define the cumulative distribution function for continuous random variables and use it to solve related problems
+Define expected value for continuous random variables and use it in related problems
+Use measures of central tendency, including mean, median, midrange, mode, quartiles and percentiles of data sets, and for continuous random variables
+Use measures of dispersion, including variance and standard deviation, both for discrete and continuous random variables
+Define and apply Moment Generating Function of different discrete distributions
+Use deductible and cap calculations in insurance problems
+Identify and apply the continuous uniform distribution
+Identify and apply the normal distribution
+Identify and apply the exponential distribution
+Prerequisites by Topic
+Derivatives of functions, Product Rule, Quotient Rule and Chain Rule
+Integrals of functions, substitution, integration by parts
+Geometric series, Taylor polynomials and Taylor series
+Course Topics
+Combinatorial probability: Tree diagrams, the multiplication principle, permutation, and combination
+General probability: Set theory review, basic rules of probability, DeMorgan’s Laws, conditional probability, Bayes’ Theorem, independence
+Discrete random variables and their distributions: Probability mass function, cumulative distribution function, expected value (mean)
+Measures of central tendency: Median of a data set, midrange of a data set, mode of a data set, quartiles, and percentiles of a data set
+Measures of dispersion: Variance and standard deviation
+Conditional probabilities: Conditional expectation
+Different types of discrete distributions: Discrete uniform, binomial, geometric, negative binomial, hypergeometric and Poisson
+Continuous random variables and their distributions: Probability density function, cumulative distribution function, expected value, variance, mode, median, percentiles, moment generating function, conditional probabilities, conditional expectation
+Deductibles and caps in insurance
+Different types of continuous random variables: Continuous uniform, exponential, normal
+Coordinator
+Dr. Won Chul Song
+Print this Page
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+All
+catalogs
+© 2026 Milwaukee School of Engineering.
+Powered by
+Modern Campus Catalog™
+.

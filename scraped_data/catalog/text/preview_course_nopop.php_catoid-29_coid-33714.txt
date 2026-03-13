@@ -1,0 +1,142 @@
+AC 2303 - AS Lab I: Applications of Probability -
+Milwaukee School of Engineering
+Mar 12, 2026
+2022-2023 Undergraduate Academic Catalog
+Select a Catalog
+2025-2026 Undergraduate Academic Catalog
+2025-2026 Graduate Academic Catalog
+2024-2025 Undergraduate Academic Catalog-June [ARCHIVED CATALOG]
+2024-2025 Graduate Academic Catalog-June [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Graduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Graduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Graduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Graduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Graduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Graduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Graduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Graduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Graduate Academic Catalog [ARCHIVED CATALOG]
+2013-14 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2012-2014 Graduate Academic Catalog [ARCHIVED CATALOG]
+2012-2013 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+Global Search
+Catalog Search
+Choose Search Location
+Select an option
+Courses
+Programs
+Academic Departments
+Other Content
+Entire Catalog
+Search Keyword Field
+Whole Word/Phrase
+Advanced Search
+Catalog Navigation
+Catalog Home
+Academic Calendar
+University Overview
+Admissions Department
+Academic Regulations and Policies
+Student Financial Services
+Degrees, Minors, and Certificates by Department
+Degree Programs, Minors, and Certificates
+University Scholars Honors Program
+Reserve Officers’ Training Corps. (ROTC)
+English for Academic Purposes (EAP)
+Course Descriptions
+Administration, Regents, Faculty, and Advisory Committees
+Campus Map
+Student Resources
+My Portfolio
+HELP
+2022-2023 Undergraduate Academic Catalog
+[ARCHIVED CATALOG]
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+AC 2303 - AS Lab I: Applications of Probability
+3
+lecture hours
+0
+lab hours
+3
+credits
+Course Description
+This course covers the applications of the probability concepts and theory that students learned in
+MA 2630
+and
+MA 2631
+. The students will apply the tools they learned in these two probability courses to problems encountered in actuarial science for assessing risk.    (prereq:
+MA 2631
+)
+Course Learning Outcomes
+Upon successful completion of this course, the student will be able to:
+Calculate probabilities of mutually exclusive events
+Calculate probabilities using addition and multiplication rules
+Calculate probabilities using combinations and permutations
+Calculate conditional probabilities
+Use Bayes theorem to calculate probabilities
+Apply probability mass, probability density, and cumulative distribution functions
+Calculate expected value, mode, median, variance, and standard deviation
+Calculate probabilities using probability generating and moment generating functions
+Perform calculations concerning joint probability and probability density functions, and cumulative distribution functions
+Determine conditional and marginal probability and probability density functions, cumulative distribution functions
+Calculate moments for joint, conditional and marginal random variables
+Apply joint moment generating functions
+Calculate variance and standard deviation for conditional and marginal probability distributions
+Calculate joint moments, such as covariance and correlation coefficient
+Prerequisites by Topic
+Combinatorial probability
+Probability rules
+Conditional probability
+Total probability law and Bayes theorem
+Discrete random variables
+Binomial, Poisson, geometric, and other discrete distributions
+Continuous random variables
+Normal, chi-Square, t-distribution and other continuous distributions
+Mixed random variables
+Marginal distribution
+Moment generating functions
+Measures of central tendency and dispersion
+Course Topics
+Application of probabilities of mutually exclusive events
+Applications of probabilities using addition and multiplication rules
+Applications of probabilities using combinations and permutations
+Applications of conditional probabilities
+Applications of Bayes theorem to calculate probabilities
+Probability mass, probability density, and cumulative distribution function applications
+Applications of expected value, mode, median, variance and standard deviation
+Calculate probabilities using probability generating and moment generating functions
+Applications of joint probability and probability density functions and cumulative distribution functions
+Applications of conditional and marginal probability and probability density functions, cumulative distribution functions
+Applications of moments for joint, conditional, and marginal random variables
+Applications of variance and standard deviation for conditional and marginal probability distributions
+Applications of joint moments, such as covariance and correlation coefficient
+Coordinator
+Dr. Yvonne Yaz
+Back to Top
+|
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+All
+catalogs
+© 2026 Milwaukee School of Engineering.
+Powered by
+Modern Campus Catalog™
+.

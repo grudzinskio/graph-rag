@@ -1,0 +1,294 @@
+Program: User Experience and Communication Design, BS - Milwaukee School of Engineering
+Milwaukee School of Engineering
+Mar 12, 2026
+2016-2017 Undergraduate Academic Catalog
+Select a Catalog
+2025-2026 Undergraduate Academic Catalog
+2025-2026 Graduate Academic Catalog
+2024-2025 Undergraduate Academic Catalog-June [ARCHIVED CATALOG]
+2024-2025 Graduate Academic Catalog-June [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Graduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Graduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Graduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Graduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Graduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Graduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Graduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Graduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Graduate Academic Catalog [ARCHIVED CATALOG]
+2013-14 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2012-2014 Graduate Academic Catalog [ARCHIVED CATALOG]
+2012-2013 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+Global Search
+Catalog Search
+Choose Search Location
+Select an option
+Courses
+Programs
+Academic Departments
+Other Content
+Entire Catalog
+Search Keyword Field
+Whole Word/Phrase
+Advanced Search
+Catalog Navigation
+Catalog Home
+Academic Calendar
+University Overview
+Enrollment Management Department
+Academic Regulations and Policies
+Student Financial Services
+Academic Departments, Undergraduate Degree Programs, Minors and Certificates
+Degree Programs, Minors and Certificates
+Reserve Officer Training Corps (ROTC)
+Course Descriptions
+Board of Regents, Academic Administration, Faculty and Advisory Committees
+Campus Map
+Student Resources
+My Portfolio
+HELP
+2016-2017 Undergraduate Academic Catalog
+[ARCHIVED CATALOG]
+User Experience and Communication Design, BS
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Return to:
+Academic Departments, Undergraduate Degree Programs, Minors and Certificates
+Program Director
+Dr. Nadya Shalamova
+Office: GM-202
+Phone: (414) 277-2331
+Email: shalamova@msoe.edu
+Program Description
+The User Experience and Communication Design degree program at MSOE is an interdisciplinary program that provides students with the essential skills to design digital experiences, environments, products, and services for customers and end users. Specifically, the program provides foundations of visual design and multimedia production, human factors, usability, content management, and information architecture. Students are prepared for careers in user experience, interaction design, usability, design research, content management, and technical communication.
+Educational Objectives
+The program aims to produce graduates who will:
+Use their education to become productive and contributing professionals in their chosen field.
+Demonstrate initiative and leadership in their professional activities.
+Demonstrate commitment to continued professional development.
+Understand the impact of their professional activities on society.
+Student Outcomes
+Upon successful completion of the program, students should be able to:
+Apply user experience, information architecture, and technical communication theory, practice, and processes in professional contexts.
+Demonstrate literacy in math, natural sciences, business, marketing, humanities and social sciences.
+Demonstrate knowledge and application of professional software and tools.
+Participate within broader institutional and societal contexts.
+Innovate and improve interpersonal processes.
+Function on multidisciplinary teams.
+Model professional responsibilities and ethical conduct.
+Have the recognition of and the ability to engage in lifelong learning.
+User Experience and Communication Design V1.0
+Year One
+Fall
+GS 1001 - Freshman Studies I
+4
+credits
+UX 172 - Introduction to UX and Publication Tools
+3
+credits
+UX 1400 - Foundations of User Experience
+3
+credits
+BA 1801 - Business Information Technology
+3
+credits
+Total: 13 lecture hours - 0 lab hours - 13 credits
+Winter
+GS 1002 - Freshman Studies II
+4
+credits
+TC 321 - Visual Design Techniques
+4
+credits
+SS 460 - Foundations of Psychology
+3
+credits
+Elective (Math/Science)
+1
+4 credits
+Total:12 lecture hours - 2 lab hours - 15 credits
+Spring
+GS 1003 - Freshman Studies III
+4
+credits
+TC 151 - Theory of Human Communication
+3
+credits
+SS 462 - Developmental Psychology
+3
+credits
+Elective (Math/Science)
+4 credits
+Total:13 lecture hours - 2 lab hours - 14 credits
+Year Two
+Fall
+UX 253 - Global User Research and Communication
+3
+credits
+SS 463 - Psychology of Design: Digital Behavior
+3
+credits
+BA 1700 - Programming Concepts
+3
+credits
+BA 2661 - Marketing
+3
+credits
+Elective (Math/Science)
+4 credits
+Total:15 lecture hours - 2 lab hours - 16 credits
+Winter
+UX 242 - Collaborative Design
+3
+credits
+BA 3797 - Web Site Design
+3
+credits
+SE 1011 - Software Development I
+4
+credits
+HU 4200 - Linguistics: Scientific Study of Language
+3
+credits
+Elective (HU/SS)
+2
+Total:15 lecture hours - 2 lab hours - 16 credits
+Spring
+TC 4510 - Mass Media, Culture, and Society
+3
+credits
+BA 3798 - Advanced Web Site Design
+3
+credits
+SE 1021 - Software Development II
+4
+credits
+TC 452 - Interpersonal Communication
+3
+credits
+Elective (Math/Science)
+4 credits
+Total: 15 lecture hours- 2 lab hours - 17 credits
+Year Three
+Fall
+UX 333 - Knowledge and Content Management
+3
+credits
+UX 361 - Usability Research Methods
+3
+credits
+BA 3799 - Multimedia for Web Site Design
+3
+credits
+SS 464 - Human Factors in Engineering and Design
+3
+credits
+ME 1601 - Introduction to Engineering Design
+3
+credits
+Total: 14 lecture hours - 4 lab hours - 15 credits
+Winter
+TC 3320 - Professional Technical Writing
+4
+credits
+SS 492 - Educational Methods: Instructional Design
+3
+credits
+BA 3630 - Social Media Marketing Strategies
+3
+credits
+IE 4621 - Socio-Technical Systems
+3
+credits
+TC 334 - Project Communications
+3
+credits
+Total: 15 lecture hours - 0 lab hours - 15 credits
+Spring
+TC 4540 - Online Help Authoring
+3
+credits
+TC 342 - Professional Presentation Techniques
+3
+credits
+HU 489 - Film and Media Studies
+3
+credits
+UX 345 - Agile Project Management
+3
+credits
+Elective (Major)
+3
+Total: 15 lecture hours - 0 lab hours - 15 credits
+Year Four
+Fall
+TC 4320 - Writing and Editing Across Media
+3
+credits
+UX 4410 - Digital Portfolio
+3
+credits
+HU 494 - Creative Thinking
+3
+credits
+Elective (HU/SS)
+Elective (Gen Ed)
+4
+Total: 15 lecture hours - 0 lab hours - 15 credits
+Winter
+UX 499 - UX and Communication Design Internship
+6
+credits
+BA 4010 - Business Analytics
+3
+credits
+BA 3447 - Business Leadership
+3
+credits
+Elective (HU/SS)
+Total: 15 lecture hours - 0 lab hours - 15 credits
+Spring
+HU 432 - Ethics for Professional Managers and Engineers
+3
+credits
+Elective (Major)
+Elective (Major)
+Elective (HU/SS)
+Elective (HU/SS)
+Total: 15 lecture hours - 0 lab hours - 15 credits
+Note:
+1
+Students must have a minimum of four credits of college-level mathematics, including topical coverage of statistics, and a minimum of four credits of college level science courses, appropriate for the program curriculum. An associated lab must be part of the academic experience. The sum total of the college level courses in mathematics and science must meet the minimum of 16 credits.
+2
+15 credits of HU/SS are required. Of them six credits must be taken in HU and six credits in SS.
+3
+9 credits of major electives are required. Major electives can be any college level course relevant to the degree. Major electives must be approved by the PD.
+4
+Three additional credits in any one of the three categories (Mathematics and Science, Professional Preparedness, and Society and Culture)
+Return to:
+Academic Departments, Undergraduate Degree Programs, Minors and Certificates
+Back to Top
+|
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+All
+catalogs
+© 2026 Milwaukee School of Engineering.
+Powered by
+Modern Campus Catalog™
+.

@@ -1,0 +1,151 @@
+BUS 6131 - Predictive Analytics -
+Milwaukee School of Engineering
+Mar 12, 2026
+2023-2024 Graduate Academic Catalog
+Select a Catalog
+2025-2026 Undergraduate Academic Catalog
+2025-2026 Graduate Academic Catalog
+2024-2025 Undergraduate Academic Catalog-June [ARCHIVED CATALOG]
+2024-2025 Graduate Academic Catalog-June [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Graduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Graduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Graduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Graduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Graduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Graduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Graduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Graduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Graduate Academic Catalog [ARCHIVED CATALOG]
+2013-14 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2012-2014 Graduate Academic Catalog [ARCHIVED CATALOG]
+2012-2013 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+Global Search
+Catalog Search
+Choose Search Location
+Select an option
+Courses
+Programs
+Academic Departments
+Other Content
+Entire Catalog
+Search Keyword Field
+Whole Word/Phrase
+Advanced Search
+Catalog Navigation
+Catalog Home
+Academic Calendar
+University Overview
+Professional Education
+Graduate Admission Requirements
+Academic Regulations and Policies
+Student Financial Services
+Research Opportunities
+Graduate Degree Programs and Certificates by Department
+Degree Programs and Certificates
+Course Descriptions
+Administration and Board of Regents
+Graduate Faculty
+Campus Map
+Student Resources
+My Portfolio
+HELP
+2023-2024 Graduate Academic Catalog
+[ARCHIVED CATALOG]
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+BUS 6131 - Predictive Analytics
+3
+lecture hours
+0
+lab hours
+3
+credits
+Course Description
+Within this course, students learn to identify appropriate tools and/or combinations of tools to address decision-making scenarios within an organization. Special attention is paid to the application of analytics to predict future trends and probabilities.  Students will learn the current tools and methods for predictive analytics, as well as the limitation of these methods. Ongoing focus is placed on communicating the interpretation of analytical results to a range of audiences. The use of the Python programming language is emphasized to expose the student to contemporary analytic processing environments on computing clusters. Machine learning and deep learning fundamentals are used to demonstrate the power of statistical learning on prediction in the era of Big Data.
+(prereq:
+BUS 6121
+)
+Course Learning Outcomes
+Upon successful completion of this course, the student will be able to:
+Evaluate, propose, and apply appropriate predictive analytics techniques for a given decision-making scenario
+Illustrate the benefits of business analytics for individuals, stakeholders, and organizations
+Develop and deliver clear and persuasive messages based on the outcomes of analytics projects
+Build decision models using supervised and unsupervised learning algorithms
+Implement predictive models using supervised learning methods of linear, polynomial and logistic regression, support vector machines, decision trees and forests, and gradient boosting trees and artificial neural networks
+Implement predictive models using unsupervised learning methods of clustering, k-means analysis, hierarchical clustering, anomaly detection and reinforcement learning
+Course Topics
+Python language environments
+I-Python (Interactive Python) console mode, Integrated Development Environment (IDE) and Jupyter Notebook environment.
+Installation, configuration, and maintenance of I-Python environments using shared environments (Rosie, Google CoLab, etc.) and single-user environments (Anaconda)
+Python language review
+Expressions, operators (arithmetic, logical and relational), data types (None, integers, floating point numeric and object), compound expressions leading to statements
+Flow of control in Python (sequential, branching (if/elif/else), iteration (for loops, while loops, ranges, else parts to loops, iteration over collections), functions and lambda expressions). Points of syntax - importance of colons and tab stops
+Collections in Python (lists, tuples, dictionaries, sets) indexing and slicing, iteration over collections using comprehensions, iterable objects and generators
+Classes and object-oriented programming in Python (instance variables, methods, operator overloading, inheritance, polymorphism)
+Numeric Python (NumPy), Scientific Python (SciPy) and Pandas Libraries
+Machine learning basics
+Linear regression fundamentals, simple and multivariate linear models
+Training sets, test sets, validation sets and other data set partitioning
+Closed form equation solution for linear regression on small data sets
+Iterative linear regression techniques for large data sets
+Learning rates, error surfaces, residual analysis
+Problems related to underfitting and overfitting
+Multivariate regression models
+Polynomial regression and curve fitting techniques
+Logistic regression for binary decision-making
+Decision model regularization
+Occam’s razor and its role in model reduction
+Ridge regression and Lasso regression
+Model parameters and hyper-parameters
+Support Vector Machines (SVMs)
+Linear and non-linear SVMs for Classification (SVCs)
+SVM Regression (SVRs)
+Decision trees
+Decision tree regressors
+Decision tree classifiers
+Ensemble learning with random forests
+Bagging and pasting
+Boosting techniques
+Gradient boosting
+Unsupervised learning
+Clustering, k-nearest neighbors, k-means clustering
+DBSCAN and other clustering algorithms
+Artificial neural networks
+Artificial neurons and the digits problem
+Perceptrons and multilayered neural networks
+Backpropagation algorithm
+Deep learning neural networks
+Using Keras as a front end to implement deep neural networks
+TensorFlow - a deep learning library from Google
+PyTorch - a deep learning library from Facebook
+Image processing and computer vision models
+Natural language processing models
+Coordinator
+Dr. Jeff Blessing
+Back to Top
+|
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+All
+catalogs
+© 2026 Milwaukee School of Engineering.
+Powered by
+Modern Campus Catalog™
+.

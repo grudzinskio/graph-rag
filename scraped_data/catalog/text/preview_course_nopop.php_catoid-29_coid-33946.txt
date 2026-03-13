@@ -1,0 +1,127 @@
+AC 4404 - Actuarial Probability Models -
+Milwaukee School of Engineering
+Mar 12, 2026
+2022-2023 Undergraduate Academic Catalog
+Select a Catalog
+2025-2026 Undergraduate Academic Catalog
+2025-2026 Graduate Academic Catalog
+2024-2025 Undergraduate Academic Catalog-June [ARCHIVED CATALOG]
+2024-2025 Graduate Academic Catalog-June [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Graduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Graduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Graduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Graduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Graduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Graduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Graduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Graduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Graduate Academic Catalog [ARCHIVED CATALOG]
+2013-14 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2012-2014 Graduate Academic Catalog [ARCHIVED CATALOG]
+2012-2013 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+Global Search
+Catalog Search
+Choose Search Location
+Select an option
+Courses
+Programs
+Academic Departments
+Other Content
+Entire Catalog
+Search Keyword Field
+Whole Word/Phrase
+Advanced Search
+Catalog Navigation
+Catalog Home
+Academic Calendar
+University Overview
+Admissions Department
+Academic Regulations and Policies
+Student Financial Services
+Degrees, Minors, and Certificates by Department
+Degree Programs, Minors, and Certificates
+University Scholars Honors Program
+Reserve Officers’ Training Corps. (ROTC)
+English for Academic Purposes (EAP)
+Course Descriptions
+Administration, Regents, Faculty, and Advisory Committees
+Campus Map
+Student Resources
+My Portfolio
+HELP
+2022-2023 Undergraduate Academic Catalog
+[ARCHIVED CATALOG]
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+AC 4404 - Actuarial Probability Models
+4
+lecture hours
+0
+lab hours
+4
+credits
+Course Description
+This course will begin to prepare students for a fourth actuarial exam. It will provide a more in-depth study of certain topics in probability and mathematical statistics, with a focus on problems and models that are relevant to insurance products.   (prereq:
+MA 2631
+and
+MA 390
+)
+Course Learning Outcomes
+Upon successful completion of this course, the student will be able to:
+Analyze severity, frequency, and aggregate models
+Understand what probability distributions are appropriate to model different problems
+Use probability distributions to evaluate financial risk
+Understand the relationship between various probability distributions, and the effects of mixing probability distributions
+Estimate parameters using maximum likelihood estimation and construct confidence intervals for those parameters
+Understand various coverage modifications of insurance products, including deductibles, limits, and coinsurance
+Apply Bayesian and Bühlmann techniques to study credibility
+Apply knowledge of the course topics in the context of insurance, including calculating premiums and reserves for short-term insurance products
+Prerequisites by Topic
+Calculus
+Probability
+Interest theory
+Course Topics
+Probability distributions
+Moments and other properties of probability distributions
+Developing risk models
+Hazard rate functions
+Deductibles, limits, and coinsurance
+Inflation effects
+Value at risk and tail value at risk
+Maximum likelihood estimation
+Bayesian estimation
+Hypothesis tests, Bayesian information criterion, and other model selection tests
+Bayesian credibility
+Bühlmann and Bühlmann-Straub models
+Short-term insurance and reinsurance
+Premiums
+Reserves
+Coordinator
+Dr. Brandon Reid
+Back to Top
+|
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+All
+catalogs
+© 2026 Milwaukee School of Engineering.
+Powered by
+Modern Campus Catalog™
+.

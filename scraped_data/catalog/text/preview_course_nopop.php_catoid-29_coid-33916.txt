@@ -1,0 +1,128 @@
+AE 2150 - Fundamentals of Electricity and Circuits -
+Milwaukee School of Engineering
+Mar 12, 2026
+2022-2023 Undergraduate Academic Catalog
+Select a Catalog
+2025-2026 Undergraduate Academic Catalog
+2025-2026 Graduate Academic Catalog
+2024-2025 Undergraduate Academic Catalog-June [ARCHIVED CATALOG]
+2024-2025 Graduate Academic Catalog-June [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Graduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Graduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Graduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Graduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Graduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Graduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Graduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Graduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Graduate Academic Catalog [ARCHIVED CATALOG]
+2013-14 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2012-2014 Graduate Academic Catalog [ARCHIVED CATALOG]
+2012-2013 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+Global Search
+Catalog Search
+Choose Search Location
+Select an option
+Courses
+Programs
+Academic Departments
+Other Content
+Entire Catalog
+Search Keyword Field
+Whole Word/Phrase
+Advanced Search
+Catalog Navigation
+Catalog Home
+Academic Calendar
+University Overview
+Admissions Department
+Academic Regulations and Policies
+Student Financial Services
+Degrees, Minors, and Certificates by Department
+Degree Programs, Minors, and Certificates
+University Scholars Honors Program
+Reserve Officers’ Training Corps. (ROTC)
+English for Academic Purposes (EAP)
+Course Descriptions
+Administration, Regents, Faculty, and Advisory Committees
+Campus Map
+Student Resources
+My Portfolio
+HELP
+2022-2023 Undergraduate Academic Catalog
+[ARCHIVED CATALOG]
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+AE 2150 - Fundamentals of Electricity and Circuits
+4
+lecture hours
+0
+lab hours
+4
+credits
+Course Description
+This course presents fundamental principles of electrical circuits and power systems that are used in commercial building projects.  Power and energy will be discussed as well as electrical components such as capacitors, inductors, motors, and lighting systems.  Topics will be related to building power distribution and lighting systems in a commercial building.   (prereq:
+MA 137
+)
+Course Learning Outcomes
+Upon successful completion of this course, the student will be able to:
+Describe the difference between series and parallel circuits
+Calculate Ohm’s law and Kirchhoff’s laws
+Perform nodal and mesh analysis
+Understand Thevenin’s and Norton’s theorems
+Describe the function of inductors, capacitors, motors, and lighting
+Understand how circuits, current and voltage work
+Understand the basics of building power distribution and the electrical service
+Prerequisites by Topic
+Calculus
+Course Topics
+Circuits, current and voltage
+Series and parallel circuits
+Ohm’s law
+Kirchhoff’s current law
+Kirchhoff’s voltage law
+Power and energy
+Notal analysis
+Mesh analysis
+Superposition
+Thevenin’s theorem
+Norton’s theorem
+Maximum power transfer
+Capacitors
+Inductors
+Phasors
+RMS value
+Complex power
+AC generation and sources
+Building electrical service
+Building power distribution
+Building electrical motors and lighting
+Coordinator
+Christine Brotz
+Back to Top
+|
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+All
+catalogs
+© 2026 Milwaukee School of Engineering.
+Powered by
+Modern Campus Catalog™
+.

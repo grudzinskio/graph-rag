@@ -1,0 +1,165 @@
+AE 3141 - Plumbing and Fire Suppression System Design -
+Milwaukee School of Engineering
+Mar 12, 2026
+2016-2017 Undergraduate Academic Catalog
+Select a Catalog
+2025-2026 Undergraduate Academic Catalog
+2025-2026 Graduate Academic Catalog
+2024-2025 Undergraduate Academic Catalog-June [ARCHIVED CATALOG]
+2024-2025 Graduate Academic Catalog-June [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Graduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Graduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Graduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Graduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Graduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Graduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Graduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Graduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Graduate Academic Catalog [ARCHIVED CATALOG]
+2013-14 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2012-2014 Graduate Academic Catalog [ARCHIVED CATALOG]
+2012-2013 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+Global Search
+Catalog Search
+Choose Search Location
+Select an option
+Courses
+Programs
+Academic Departments
+Other Content
+Entire Catalog
+Search Keyword Field
+Whole Word/Phrase
+Advanced Search
+Catalog Navigation
+Catalog Home
+Academic Calendar
+University Overview
+Enrollment Management Department
+Academic Regulations and Policies
+Student Financial Services
+Academic Departments, Undergraduate Degree Programs, Minors and Certificates
+Degree Programs, Minors and Certificates
+Reserve Officer Training Corps (ROTC)
+Course Descriptions
+Board of Regents, Academic Administration, Faculty and Advisory Committees
+Campus Map
+Student Resources
+My Portfolio
+HELP
+2016-2017 Undergraduate Academic Catalog
+[ARCHIVED CATALOG]
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+AE 3141 - Plumbing and Fire Suppression System Design
+3
+lecture hours
+2
+lab hours
+4
+credits
+Course Description
+This course is a continuation of plumbing and fire suppression systems principles and then transitions into the system design, layout and specification concepts of plumbing and fire suppression systems. The plumbing systems components to be examined include water treatment, heating and pumping equipment, plumbing fixtures, plumbing specialties and plumbing piping, and installation materials. Design standards and variations will be discussed using plumbing codes and master specifications. The fire suppression systems components to be examined include standpipes and hose systems, gaseous fire suppression systems, wet sprinkler systems, pumping equipment and fire suppression systems piping, and installation specifications. Design standards and variations will be discussed using NFPA codes and master specifications. The architectural engineer’s responsibilities in design and specification writing will be emphasized through examples of construction document components, including plans, details and specifications.   (prereq:
+AE 3121
+)
+Course Learning Outcomes
+Upon successful completion of this course, the student will be able to:
+Select appropriate plumbing fixtures to match the usage of a building
+Analyze a building’s water demand to size and select a water meter and backflow prevention devices
+Select water treatment equipment to improve water quality
+Analyze the hot water demands for a building and select appropriate water heating equipment
+Analyze the water pressure demands for a building and select appropriate pressure booster pumping equipment
+Layout and design a complex multi-tenant, multi-story building water supply, sanitary waste system and storm water removal system
+Apply fluid mechanics design methods, based on Darcy-Weisbach, Manning, and Hazen-Williams formulations and other general energy theories and probability and statistical data, to calculate pipe sizes for all plumbing systems design layouts
+Analyze characteristics of a building’s sanitary waste and to select interceptors to treat the waste prior to disposal
+Edit and write specification for a variety of plumbing system piping, specialties, fixtures and equipment
+Analyze a public water supply to determine if an adequate quantity of water and pressure is available for a fire suppression system and to select a booster fire pump when required
+Analyze a building and determine the appropriate type of fire suppression system including the area and density of protection
+Have sufficient knowledge of architectural and engineering building design elements to properly detect and suppress a fire hazard in an obstructed construction building
+Layout and design a complete building automatic sprinkler system for a complex, multi-hazard commercial building
+Apply fluid mechanics design methods, based on Hazen-Williams formulation and other general energy theories, to calculate actual fire suppression design flow rates and pipe sizes for a building layout
+Edit and write specification for fire suppression system piping, and components
+Survey existing piping and measure and sketch for use in analysis
+Analyze an existing pump’s flow and pressure characteristics
+Analyze flow through multiple orifices to determine the orifice size
+Analyze piping components in a path of flow to distinguish sources of pressure loss
+Predict flow through multiple paths of piping and analyze the energy input required to maintain a minimum pressure
+Prerequisites by Topic
+Basic Building Code Requirements (
+AE 100
+)
+Basic Fluid Flow Principles (
+AE 213
+)
+Specifications and Contracts (
+AE 225
+)
+Architectural Graphics (
+AE 130
+)
+Course Topics
+Introduction to Plumbing Section of Course (1 class)
+Plumbing Codes and Standards (1 class)
+Selecting Appropriate Plumbing Fixtures (2 classes)
+Backflow Prevention Devices (1 class)
+Water Quality Analysis and Treatment Equipment Selection (2 classes)
+Water Supply Analysis for Pressure & Booster Pump Selection (1 class)
+Hot Water Demand Analysis & Water Heater Selection (2 classes)
+Domestic Water Distribution System Project (4 classes)
+Sanitary Waste and Vent Systems Project (4 classes)
+Sub-Sewer Drainage Analysis and Sump Pump Selection (2 classes)
+Storm Water Drainage System for Building and Property (3 classes)
+Writing Plumbing Specifications for System Selections (2 classes)
+Introduction to Fire Protection Section of Course (1 class)
+Water Supply Analysis for Pressure and Volume (2 classes)
+Fire Pump Selection to Boost or Create Pressure (2 classes)
+Sprinkler Head Flow Analysis (2 classes)
+Selection of Type of Fire Suppression for Bldg Occupancy (1 class)
+Dealing with Obstacles in Building Design (2 classes)
+Fire Suppression System Design Project (5 classes)
+Automatic Sprinklers, Sprinkler System Piping and Components (1 class)
+Automatic Sprinkler System Pipe Sizing Calculations (2 classes)
+Analysis of Water Flow in an Automatic Sprinkler System (2 classes)
+Predicting Flow Rates and Pressure in an Existing System (3 classes)
+Writing Fire Protection System Specifications for Project (2 classes)
+Laboratory Topics
+Domestic Water Distribution System Design Layout and Calculations
+Water Softener Equipment Selection
+Booster Pump Equipment Selection
+Water Heater Equipment Selection
+Sanitary Waste and Vent System Design Layout and Calculations
+Sump Pump Equipment Selection
+Storm Water System Design Layout and Calculations
+Preparation of Specifications for Plumbing System & Equipment
+Automatic Sprinkler System Layout and Calculations
+Automatic Sprinkler System Layout and Calculations
+Preparation of Specifications for Automatic Sprinkler System
+Coordinator
+Deborah Jackman
+Back to Top
+|
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+All
+catalogs
+© 2026 Milwaukee School of Engineering.
+Powered by
+Modern Campus Catalog™
+.

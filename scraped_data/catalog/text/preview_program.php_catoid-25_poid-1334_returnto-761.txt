@@ -1,0 +1,267 @@
+Program: Architectural Engineering (MSAE), M.S. - Milwaukee School of Engineering
+Milwaukee School of Engineering
+Mar 12, 2026
+2021-2022 Graduate Academic Catalog
+Select a Catalog
+2025-2026 Undergraduate Academic Catalog
+2025-2026 Graduate Academic Catalog
+2024-2025 Undergraduate Academic Catalog-June [ARCHIVED CATALOG]
+2024-2025 Graduate Academic Catalog-June [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Graduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Graduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Graduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Graduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Graduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Graduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Graduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Graduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Graduate Academic Catalog [ARCHIVED CATALOG]
+2013-14 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2012-2014 Graduate Academic Catalog [ARCHIVED CATALOG]
+2012-2013 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+Global Search
+Catalog Search
+Choose Search Location
+Select an option
+Courses
+Programs
+Academic Departments
+Other Content
+Entire Catalog
+Search Keyword Field
+Whole Word/Phrase
+Advanced Search
+Catalog Navigation
+Catalog Home
+Academic Calendar
+University Overview
+Professional Education
+Graduate Admission Requirements
+Academic Regulations and Policies
+Student Financial Services
+Research Opportunities
+Academic Departments, Graduate Degree Programs and Certificates
+Degree Programs and Certificates
+Course Descriptions
+Administration, Board of Regents, and Graduate Faculty
+Campus Map
+Student Resources
+My Portfolio
+HELP
+2021-2022 Graduate Academic Catalog
+[ARCHIVED CATALOG]
+Architectural Engineering (MSAE), M.S.
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Return to:
+Academic Departments, Graduate Degree Programs and Certificates
+Program Director
+Dr. Deborah Jackman
+Office: CC 67
+Phone: (414) 277-7472
+Email:
+jackman@msoe.edu
+MSOE’s Master of Science in Architectural Engineering (MSAE) degree allows specialization in either the analysis and design of building structural systems or the analysis and design of building mechanical, electrical, and plumbing systems (MEP). It meets the needs of architectural engineers who desire increased knowledge to design structural or MEP systems for modern buildings. MSAE courses focus on advanced topics on the analysis and design of building systems. For either specialty the student has two options to conclude the program - the Capstone Report Track or the Capstone Project Track. The Capstone Report Track focuses on course work and concludes with a one-quarter, three-credit literature review project. The Capstone Project Track has a larger focus on research and concludes with a three-quarter, nine-credit research project.
+A student who selects the Capstone Report Track will complete a one-quarter, three-credit, literature review project on an architectural engineering topic. The student will present the findings of the literature review in both written and oral formats to a faculty review committee. The remaining course work is a mixture of required and elective courses, the number of which vary slightly with the specialization track. See the detailed quarter-by-quarter course listings below for details.
+A student who selects the Capstone Project Track will complete a three-quarter, nine-credit, capstone project focusing on architectural engineering. The project presents the opportunity for the student to integrate the concepts learned in the classroom into a specific application. The project may focus on design issues, research in an area of architectural engineering, or other related topic with the approval of the Master of Science in Architectural Engineering program director. At the conclusion of the project, a comprehensive presentation (oral and written) will be given to a faculty review committee. The remaining course work is a mixture of required and elective courses, the number of which vary slightly with the specialization track.  See the detailed quarter-by-quarter course listings below for details.
+Courses are taught by faculty with extensive practical experience as well as academic credentials. Course work has been planned to show practical applications of engineering theory. Classes are scheduled to allow students to attend class while working in industry.
+The MSAE program requires that you have completed an undergraduate curriculum that included sufficient background in the chosen specialty. For the MEP Specialty, required topics are fluid dynamics, thermodynamics, basic HVAC, basic plumbing, basic illumination, and building control systems. For the Structural Specialty, required topics are mechanics of materials, indeterminate structural analysis, structural steel design, and reinforced concrete design. The Master of Science in Architectural Engineering program currently is being offered as either a full- or part-time program and can be completed in five years or less.
+Faculty
+Dr. Pouria Bahmani, Christine Brotz P.E., Dr. Todd M. Davis P.E., David Grassl P.E., Dr. Deborah Jackman P.E., Chad Knutson, Dr. Mahmoud Maamouri P.E., Mark Maday P.E., Douglas Nelson P.E., Larry Palank P.E., Brian Pfeifer, Jayme Radomski P.E., Rachel Rueckert, Dr. Christopher H. Raebel P.E. S.E., Mark Rounds, Dr. Douglas C. Stahl P.E. S.E., Chris Ulm P.E., Dr. John A. Zachar P.E.
+Student Outcomes
+At the time of graduation, a MSAE graduate will be able to:
+analyze
+a complex problem in an architectural engineering specialty area (i.e. building structural engineering or building MEP engineering) using advanced concepts and principles
+design
+multiple solutions to a complex problem in an architectural engineering specialty area (i.e. building structural engineering or building MEP engineering) in accordance with current standards, specifications, and selected economic, social, and environmental constraints, as applicable
+effectively communicat
+e the results of the analysis and design of a complex problem in an architectural engineering specialty area (i.e. building structural engineering or building MEP engineering) in both a) oral and b) written form
+Program Educational Objectives
+The M.S. Architectural Engineering program creates graduates who will:
+be licensed professional engineers
+be the lead engineer on complex engineering projects
+be in a leadership position in a professional society or community/civic organization which benefits from the knowledge of a professionally trained engineer
+Curriculum v. 1.1
+The Master of Science in Architectural Engineering program is designed to meet the needs of working professionals. Classes are scheduled to allow working professionals to attend.
+The Master of Science in Architectural Engineering programs requires completion of 45 graduate credits. At least 30 of these credits will be obtained in engineering courses.
+Year 1 Fall
+Building Structural Systems:
+AE 5210 - Matrix Structural Analysis
+3
+credits
+AE 5220 - AISC Steel Design
+3
+credits
+Building Mechanical Systems:
+AE 5404 - Building Electrical System Design
+3
+credits
+AE 5520 - Advanced Plumbing Systems Design
+3
+credits
+Building Electrical Systems:
+AE 5402 - Building Mechanical System Design
+3
+credits
+Elective (Graduate-Technical)
+1
+3 credits
+Year 1 Winter
+Building Structural Systems:
+AE 6210 - Applied Finite Elements
+3
+credits
+Building Mechanical Systems and Building Electrical Systems:
+AE 5450 - Building Control System Design
+3
+credits
+All Specialties:
+Elective (Graduate-Technical)
+1
+3 credits
+Year 1 Spring
+Building Structural Systems:
+Elective (Graduate-Technical)
+1
+3 credits
+Elective (Graduate)
+2
+3 credits
+Building Mechanical Systems and Building Electrical Systems:
+AE 5800 - Research and Writing
+3
+credits
+AE 5460 - Commissioning
+3
+credits
+Year 2 Fall
+Building Structural Systems:
+AE 6230 - Reinforced Concrete Structure Design
+3
+credits
+Elective (Graduate-Technical)
+1
+3 credits
+Building Mechanical Systems:
+Elective (Graduate-Technical)
+1
+3 credits
+Elective (Graduate)
+2
+3 credits
+Building Electrical Systems:
+AE 6632 - Wireless Communications
+3 credits
+Elective (Graduate)
+2
+3 credits
+Capstone
+:
+3
+AE 8000 - Research and Presentation
+3
+credits
+or
+AE 8900 - Capstone Project I
+3
+credits
+Year 2 Winter
+Building Structural Systems:
+AE 6212 - Structural Dynamics
+3
+credits
+Elective (Graduate-Technical)
+1
+3 credits
+Building Mechanical Systems:
+AE 6412 - Building Energy Simulations
+3
+credits
+Elective (Graduate-Technical)
+1
+3 credits
+Building Electrical Systems:
+AE 5630 - Advanced Building Illumination Design
+3
+credits
+Elective (Graduate-Technical)
+1
+3 credits
+Capstone
+:
+3
+AE 8910 - Capstone Project II
+3
+credits
+or
+Elective (Graduate-Technical)
+1
+3 credits
+Year 2 Spring
+Building Structural Systems:
+Elective (Graduate-Technical)
+1
+3 credits
+Elective (Graduate)
+2
+3 credits
+Building Mechanical Systems and Building Electrical Systems:
+AE 6461 - Life Cycle Assessment of Building and Infrastructure Systems
+3
+credits
+Elective (Graduate-Technical)
+1
+3 credits
+Capstone
+:
+3
+AE 8920 - Capstone Project III
+3
+credits
+or
+Elective (Graduate-Technical)
+1
+3 credits
+Notes:
+Students can specialize in Building Structural Systems, Building Mechanical Systems, or Building Electrical Systems.
+1
+Choose graduate technical electives from the approved list. Consult with Graduate Program Director if you wish to take a graduate course not on the list. Permission is granted on a case-by-case basis.
+2
+Graduate electives are any course numbered 500/5000 or higher in any discipline for which student has necessary prerequisites. Can include graduate business courses or graduate math courses
+3
+Students are required to complete a Capstone for the program.  Students can either complete a year-long Capstone Project by taking
+AE 8900
+,
+AE 8910
+, and
+AE 8920
+, or they can do a Research and Presentation project and take
+AE 8000
+as well as two additional graduate technical elective courses.
+Return to:
+Academic Departments, Graduate Degree Programs and Certificates
+Back to Top
+|
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+All
+catalogs
+© 2026 Milwaukee School of Engineering.
+Powered by
+Modern Campus Catalog™
+.

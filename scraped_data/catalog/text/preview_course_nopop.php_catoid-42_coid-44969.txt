@@ -1,0 +1,159 @@
+MTH 2130 - Calculus III -
+Milwaukee School of Engineering
+Mar 12, 2026
+2025-2026 Undergraduate Academic Catalog
+Select a Catalog
+2025-2026 Undergraduate Academic Catalog
+2025-2026 Graduate Academic Catalog
+2024-2025 Undergraduate Academic Catalog-June [ARCHIVED CATALOG]
+2024-2025 Graduate Academic Catalog-June [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Graduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Graduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Graduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Graduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Graduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Graduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Graduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Graduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Graduate Academic Catalog [ARCHIVED CATALOG]
+2013-14 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2012-2014 Graduate Academic Catalog [ARCHIVED CATALOG]
+2012-2013 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+Global Search
+Catalog Search
+Choose Search Location
+Select an option
+Courses
+Programs
+Academic Departments
+Other Content
+Entire Catalog
+Search Keyword Field
+Whole Word/Phrase
+Advanced Search
+Catalog Navigation
+Catalog Home
+Academic Calendar
+University Overview
+Admissions
+Student Financial Services
+Academic Regulations and Policies
+Degree Programs, Minors, and Certificates
+Degrees, Minors, and Certificates by Department
+Course Descriptions
+The Raider Core
+Explorer Pathways
+MSOE Honors Program
+Global Opportunities
+Reserve Officers’ Training Corps. (ROTC)
+Administration, Regents, and Advisory Committees
+Departments and Faculty
+Campus Map
+Student Resources
+My Portfolio
+HELP
+2025-2026 Undergraduate Academic Catalog
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+MTH 2130 - Calculus III
+4
+lecture hours
+0
+lab hours
+4
+credits
+Course Description
+This course is a continuation of MTH 1120. It focuses on multivariable and vector calculus. Topics include vector-valued functions and their calculus, functions of several variables, partial differentiation, multiple integration, line and surface integrals, integration in vector fields including Green’s, Divergence, and Stokes’ theorems.
+Prereq:
+MTH 1120
+(quarter system prereq: MA 2314)
+Note:
+Students with credit for MA 2323 or MTH 2980U should not register for this course unless approved by the Math Department Chair.
+This course meets the following Raider Core CLO Requirement:
+Think Critically
+Course Learning Outcomes
+Upon successful completion of this course, the student will be able to:
+Analyze and sketch common surfaces in three dimensions
+Find parametric equations of a line in space
+Find equations for planes in space
+Solve geometric problems involving lines and planes in space
+Parameterize lines and simple curves in space as a vector-valued functions
+Analyze a vector-valued function and the corresponding two or three-dimensional curve
+Find limits, derivatives, and integrals of a vector-valued function and interpret the results in terms of rectilinear motion (position, velocity, acceleration)
+Determine if a vector-valued function smoothly parameterizes a curve
+Find arc length and an arc-length parameterization of a oriented curve
+Find and interpret the directions of unit tangent and principal unit normal vectors
+Find curvature of a smooth curve
+Determine the domain of a function of several variables
+Find first and higher-order partial derivatives of a function
+Use implicit differentiation to find partial derivatives
+Interpret partial derivatives as rates of change in applications
+Find the total differential of a function of more than one variable, use it to estimate change
+Estimate error propagation using the total differential
+Construct the correct form of multivariate chain rule and use it to find a derivative
+Solve related rates problems using the multivariate chain rule
+Find the gradient of a function and interpret its direction
+Find directional derivatives of a function and interpret the result
+Determine the maximum, minimum, and saddle points on a surface
+Set up and evaluate double integrals using rectangular and polar coordinates
+Find areas and volumes using double integrals
+Convert equations and coordinates of points between rectangular, cylindrical, and spherical coordinates
+Set up and evaluate triple integrals in rectangular, cylindrical, or spherical coordinates
+Use multiple integration to find mass, centroids, and moments
+Find and interpret the divergence and curl of a vector field
+Determine if a vector field is conservative on a region and, if so, find a scalar potential function
+Evaluate line integrals by parameterization of the path
+Find the work done by a vector field along a curve
+Evaluate line integrals in conservative fields using the fundamental theorem
+Demonstrate that line integrals in conservative fields are path independent
+Find circulation or associated integrals using Green’s theorem
+Analyze a two-parameter vector-valued function and the corresponding surface
+Evaluate surface areas and surface integrals
+Find outward flux or associated integrals using the divergence theorem
+Find circulation or associated integrals using Stokes’ theorem
+Use the operator del to find the gradient, curl, and divergence
+Prove identities involving the operator del
+Prerequisites by Topic
+Limits, derivatives, and integrals of algebraic and transcendental functions of one variable
+Polar coordinates
+Course Topics
+Vectors, lines, planes
+Vector-valued functions
+Functions of several variables
+Partial derivatives
+Extrema of functions of two variables
+Double integrals, area, volume, and moments
+Triple integrals, volume, moments, cylindrical and spherical coordinates
+Vector fields
+Line integrals
+Surface integrals
+Green’s, divergence and Stokes’ theorems
+Coordinator
+Dr. Anthony van Groningen
+Back to Top
+|
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+All
+catalogs
+© 2026 Milwaukee School of Engineering.
+Powered by
+Modern Campus Catalog™
+.

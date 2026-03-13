@@ -1,0 +1,287 @@
+Program: Computer Science, B.S. - Milwaukee School of Engineering
+Milwaukee School of Engineering
+Mar 12, 2026
+2018-2019 Undergraduate Academic Catalog
+Select a Catalog
+2025-2026 Undergraduate Academic Catalog
+2025-2026 Graduate Academic Catalog
+2024-2025 Undergraduate Academic Catalog-June [ARCHIVED CATALOG]
+2024-2025 Graduate Academic Catalog-June [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Graduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Graduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Graduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Graduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Graduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Graduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Graduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Graduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Graduate Academic Catalog [ARCHIVED CATALOG]
+2013-14 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2012-2014 Graduate Academic Catalog [ARCHIVED CATALOG]
+2012-2013 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+Global Search
+Catalog Search
+Choose Search Location
+Select an option
+Courses
+Programs
+Academic Departments
+Other Content
+Entire Catalog
+Search Keyword Field
+Whole Word/Phrase
+Advanced Search
+Catalog Navigation
+Catalog Home
+Academic Calendar
+University Overview
+Enrollment Management Department
+Academic Regulations and Policies
+Student Financial Services
+Academic Departments, Undergraduate Degree Programs, Minors and Certificates
+Degree Programs, Minors and Certificates
+University Scholars Honors Program
+Reserve Officer Training Corps (ROTC)
+Course Descriptions
+Administration, Board of Regents, Faculty and Advisory Committees
+Campus Map
+Student Resources
+My Portfolio
+HELP
+2018-2019 Undergraduate Academic Catalog
+[ARCHIVED CATALOG]
+Computer Science, B.S.
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Return to:
+Academic Departments, Undergraduate Degree Programs, Minors and Certificates
+Program Director
+Dr. Derek Riley
+Office: L-339
+Phone: (414) 277-2269
+Email: riley@msoe.edu
+Program Educational Objectives
+The computer science program is preparing graduates, within a few years of graduation, to:
+Contribute as computer science professionals
+Be technical leaders on projects integrating advanced computing into delivered business and research solutions
+Innovate and improve technologies and computer science methods
+Participate in professional organizations
+Develop professionally
+Adapt and learn new computing methods, paradigms, and techniques
+Develop solutions that address competing ethical and professional concerns as both technology and society continue to evolve
+Contribute to the broader field of computing and science
+Collaborate effectively
+Demonstrate effective cross-organization communication and collaboration skills
+Champion personal accountability
+Student Outcomes
+Graduates of the MSOE Computer Science program will have an ability to:
+Analyze a complex computing problem and apply principles of computing and other relevant disciplines to identify solutions
+Design, implement, and evaluate a computing-based solution to meet a given set of computing requirements in the context of the program’s discipline
+Communicate effectively in a variety of professional contexts
+Recognize professional responsibilities and make informed judgments in computing practice based on legal and ethical principles
+Function effectively as a member or leader of a team engaged in activities appropriate to the program’s discipline
+Apply computer science theory and software development fundamentals to produce computing-based solutions
+Leverage mathematics to construct concrete computing solutions to problems
+Computer Science Model Full-Time Track - V1.0
+Year One
+Fall
+CS 1011 - Software Development I
+4
+credits
+CH 200 - Chemistry I
+4
+credits
+MA 136 - Calculus I
+4
+credits
+GS 1001 - Freshman Studies I
+4
+credits
+Total: 14 lecture hours - 4 lab hours - 16 credits
+Winter
+CS 1021 - Software Development II
+4
+credits
+PH 2011 - Physics I - Mechanics
+4
+credits
+MA 137 - Calculus II
+4
+credits
+GS 1002 - Freshman Studies II
+4
+credits
+Total: 14 lecture hours - 4 lab hours - 16 credits
+Spring
+CS 2852 - Data Structures
+4
+credits
+MA 231 - Calculus III
+4
+credits
+GS 1003 - Freshman Studies III
+4
+credits
+Elective (Lab Science)
+4 credits
+Total: 14 lecture hours - 4 lab hours - 16 credits
+Year Two
+Fall
+CS 2911 - Network Protocols
+4
+credits
+SE 2030 - Software Engineering Tools and Practices
+3
+credits
+MA 2310 - Discrete Mathematics I
+3
+credits
+MA 232 - Calculus IV
+3
+credits
+BA 2220 - Foundations of Business Economics
+3
+credits
+Total: 14 lecture hours - 4 lab hours - 16 credits
+Winter
+CS 2711 - Computer Organization
+4
+credits
+SE 2811 - Software Component Design
+4
+credits
+MA 3320 - Discrete Math II
+3
+credits
+CS 2300 - Distributed and Functional Computing
+4 credits
+Total: 13 lecture hours - 4 lab hours - 15 credits
+Spring
+SE 2800 - Software Engineering Process I
+3
+credits
+BA 3444 - Organizational Behavior
+3
+credits
+CS 2040 - Programming in C and C++
+4
+credits
+MA 383 - Linear Algebra
+3
+credits
+CS 2400 - Introduction to Artificial Intelligence
+3 credits
+Total: 13 lecture hours - 6 lab hours - 16 credits
+Year Three
+Fall
+CS 3860 - Database Systems
+4
+credits
+CS 3040 - Program Languages and Translators
+4 credits
+MA 262 - Probability and Statistics
+3
+credits
+Elective (HU/SS)
+3 credits
+Elective (Free)
+3 credits
+Total: 16 lecture hours - 2 lab hours - 17 credits
+Winter
+CS 3840 - Operating Systems
+4
+credits
+CS 3300 - Introduction to Data Science
+4 credits
+SE 2840 - Web Application Development
+4
+credits
+HU 432 - Ethics for Professional Managers and Engineers
+3
+credits
+OR 402 - Professional Guidance
+1
+credits
+Total: 14 lecture hours - 4 lab hours - 16 credits
+Spring
+CS 3851 - Algorithms
+4
+credits
+Elective (HU/SS)
+3 credits
+CS 3400 - Machine Learning
+4 credits
+CS 3310 - Data Science Practicum
+4 credits
+Total: 12 lecture hours - 6 lab hours - 15 credits
+Year Four
+Fall
+CS 4000 - Senior Design Project I
+3 credits
+CS 4400 - Deep Learning
+4 credits
+Elective (Technical)
+6 credits
+Elective (HU/SS)
+3 credits
+Total: 14 lecture hours - 4 lab hours - 16 credits
+Winter
+CS 4010 - Senior Design Project II
+3 credits
+Elective (Technical)
+6 credits
+Elective (Math/Science)
+3 credits
+Elective (HU/SS)
+3 credits
+Total: 14 lecture hours - 2 lab hours - 15 credits
+Spring
+CS 4020 Senior Design Project III
+3 credits
+Elective (Technical)
+3 credits
+Elective (HU/SS)
+3 credits
+Elective (Math/Science)
+3 credits
+Elective (Free)
+3 credits
+Total: 14 lecture hours - 2 lab hours - 15 credits
+Note
+BI 102
+- Cell Biology and Genetics may be taken in place of
+CH 200
+in Fall of first year.
+There are 46 credits of elective subjects in the software engineering program that must be taken as follows:
+15 credits of humanities and social sciences: 6 credits of humanities (HU), 6 credits of social sciences (SS), and 3 credits of humanities or social sciences
+4 credits of an approved lab science elective
+6 credits of approved math and science electives
+15 credits of approved technical electives
+6 credits of approved from any area (free electives)
+Return to:
+Academic Departments, Undergraduate Degree Programs, Minors and Certificates
+Back to Top
+|
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+All
+catalogs
+© 2026 Milwaukee School of Engineering.
+Powered by
+Modern Campus Catalog™
+.

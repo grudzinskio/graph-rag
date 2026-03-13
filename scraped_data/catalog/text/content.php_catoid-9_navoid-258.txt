@@ -1,0 +1,341 @@
+Course Descriptions - Milwaukee School of Engineering
+Milwaukee School of Engineering
+Mar 12, 2026
+2014-2015 Graduate Academic Catalog
+Select a Catalog
+2025-2026 Undergraduate Academic Catalog
+2025-2026 Graduate Academic Catalog
+2024-2025 Undergraduate Academic Catalog-June [ARCHIVED CATALOG]
+2024-2025 Graduate Academic Catalog-June [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Graduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Graduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Graduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Graduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Graduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Graduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Graduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Graduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Graduate Academic Catalog [ARCHIVED CATALOG]
+2013-14 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2012-2014 Graduate Academic Catalog [ARCHIVED CATALOG]
+2012-2013 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+Global Search
+Catalog Search
+Choose Search Location
+Select an option
+Courses
+Programs
+Academic Departments
+Other Content
+Entire Catalog
+Search Keyword Field
+Whole Word/Phrase
+Advanced Search
+Catalog Navigation
+Catalog Home
+Academic Calendar
+University Overview
+Graduate and Professional Education
+Graduate Admission Requirements
+Academic Regulations and Policies
+Student Accounts, Fees and Financial Aid
+Services and Resources for Graduate Students
+Academic Departments, Graduate Degree Programs and Certificates
+Degree Programs and Certificates
+Course Descriptions
+Board of Regents, Academic Administration and Faculty
+Campus Map
+My Portfolio
+HELP
+2014-2015 Graduate Academic Catalog
+[ARCHIVED CATALOG]
+Course Descriptions
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Course Filter
+Filter this list of courses using course prefix, course code, keywords or any combination.
+Prefix:
+Code or Number:
+Type
+Keyword or Phrase:
+Choose Course Prefix
+All prefixes…
+AE
+CS
+CV
+EE
+EV
+GA
+GC
+GE
+IE
+MA
+MB
+ME
+MG
+MI
+NU
+PE
+PH
+SS
+Choose Course Number
+Choose Course Type
+All types…
+Architectural Engineering
+Computer Science
+Civil Engineering
+Electrical Engineering
+Environmental Engineering
+Graduate Continuation
+General Engineering
+Industrial Engineering
+Mathematics
+Mechanical Engineering
+Management
+Medical Informatics
+Perfusion
+Physics
+Social Sciences
+Business Administration
+Nursing
+Choose Keyword
+Find whole word or phrase only.
+Architectural Engineering
+•
+AE 610 - Applied Finite Elements
+•
+AE 612 - Structural Dynamics
+•
+AE 614 - Lateral Loads on Structural Systems
+•
+AE 616 - Structural Stability
+•
+AE 720 - Masonry Design
+•
+AE 730 - AISC Steel Design
+•
+AE 732 - Steel Design for Buildings (AISI)
+•
+AE 734 - Connection Design
+•
+AE 740 - Reinforced Concrete Member Design
+•
+AE 742 - Foundation Design
+•
+AE 744 - Prestressed Concrete Design
+•
+AE 746 - Reinforced Concrete Structure Design
+•
+AE 750 - Wood Design
+•
+AE 760 - Modern Structural Systems
+•
+AE 762 - Bridge Design
+•
+AE 799 - Structural Engineering Independent Study
+•
+AE 800 - Research and Presentation
+•
+AE 890 - Structural Engineering Design I
+•
+AE 892 - Structural Engineering Design II
+Computer Science
+•
+CS 5881 - Artificial Intelligence
+Civil Engineering
+•
+CV 512 - Geographical Information Systems (GIS)
+•
+CV 540 - Air Permitting
+•
+CV 550 - Physical Hydrogeology
+•
+CV 552 - Contaminant Hydrogeology and Groundwater Remediation
+•
+CV 554 - Ground Water and Soil Remediation Technologies
+•
+CV 611 - Environmental Chemistry
+•
+CV 614 - Environmental Microbiology
+•
+CV 710 - Environmental Statistics and Modeling
+•
+CV 712 - Water Quality Analysis and Modeling
+•
+CV 715 - Open Channel Hydraulics
+•
+CV 720 - Design of Biological Wastewater Treatment Processes
+•
+CV 722 - Design of Water Treatment Systems
+•
+CV 724 - Industrial Wastewater Treatment
+•
+CV 730 - Pollution Prevention and Waste Minimization
+•
+CV 750 - Plant Safety/OSHA Issues
+•
+CV 752 - Risk Assessment and Environmental Auditing
+•
+CV 756 - Environmental Project Management/ Life Cycle Cost Analysis
+•
+CV 760 - Environmental Law
+•
+CV 800 - Research and Writing
+•
+CV 890 - Capstone Design Project I
+•
+CV 892 - Capstone Design Project II
+Electrical Engineering
+•
+EE 521 - Digital Communication Systems
+•
+EE 523 - Applications of Digital Signal Processing
+•
+EE 525 - Radio Frequency Circuit Design
+•
+EE 526 - Advanced Electromagnetic Fields
+•
+EE 529 - Microwave Engineering
+•
+EE 544 - Power Electronics
+•
+EE 547 - Power System Analysis I
+•
+EE 549 - Power System Analysis II
+•
+EE 581 - Fuzzy Set and Applications
+•
+EE 584 - Neural Networks
+•
+EE 587 - Machine Vision
+•
+EE 588 - Introduction to Artificial Intelligence and Expert Systems
+•
+EE 593 - Advanced Microprocessors
+•
+EE 799 - MSE Independent Study
+•
+EE 813 - Advanced Electronic Systems
+•
+EE 814 - VLSI Circuit Design
+•
+EE 871 - Modern Control Systems
+•
+EE 5050 - Low-Noise Analog System Design
+•
+EE 5060 - Introduction to Nonlinear Dynamics and Chaos
+•
+EE 5112 - Advanced Analog Electronics
+•
+EE 5210 - Electromagnetics and Transmission Lines
+•
+EE 5250 - Advanced Signal Processing
+•
+EE 5480 - Electrical Power Systems Quality
+•
+EE 5720 - Control Systems II
+•
+EE 5980 - Topics in Electrical Engineering
+Environmental Engineering
+Elective courses are offered once every other year: O-Odd Year, E-Even Year with respect to start of academic year
+•
+EV 611 - Applications of Chemistry in Environmental Engineering
+•
+EV 612 - Biology for Environmental Engineers
+•
+EV 614 - Microbiology for Environmental Engineers
+•
+EV 710 - Environmental Statistics and Modeling
+•
+EV 720 - Municipal Wastewater Treatment
+•
+EV 722 - Hydrogeology and Groundwater Pollution
+•
+EV 724 - Industrial Water Treatment and Stormwater Management
+•
+EV 726 - Water Resources Management
+•
+EV 728 - Design of Hydraulic Systems
+•
+EV 730 - Solid and Hazardous Waste Minimization
+•
+EV 732 - Solid Waste Engineering and Management
+•
+EV 740 - Air Pollution Control
+•
+EV 742 - Air Permitting
+•
+EV 750 - Plant Safety/OSHA Issues
+•
+EV 752 - Risk Assessment and Environmental Auditing
+•
+EV 754 - Soil Science and Remediation Technologies
+•
+EV 756 - Environmental Project Program Management and Life Cycle Cost Analysis
+•
+EV 760 - Environmental Law for Environmental Engineers
+•
+EV 799 - MSEV Independent Study
+•
+EV 800 - Research and Writing in Environmental Engineering
+•
+EV 890 - Environmental Engineering Systems Design I
+•
+EV 892 - Environmental Engineering Systems Design II
+Graduate Continuation
+•
+GA 898 - Graduate Assistantship
+•
+GC 899 - GRADUATE CONTINUATION
+•
+GC 8991 - MSE Graduate Continuation
+•
+GC 8996 - MSST Project Continuation
+•
+GC 8997 - MSCS Thesis Continuation
+General Engineering
+•
+GE 601 - System Dynamics
+•
+GE 611 - Numerical Methods
+•
+GE 703 - Simulation and Modeling
+•
+GE 705 - Computer Assisted Engineering
+•
+GE 706 - Digital Control Systems
+•
+GE 791 - Engineering Specialty Paper
+•
+GE 796 - Engineering Project Proposal Development
+Page:
+1
+|
+2
+|
+3
+Back to Top
+|
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+All
+catalogs
+© 2026 Milwaukee School of Engineering.
+Powered by
+Modern Campus Catalog™
+.

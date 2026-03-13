@@ -1,0 +1,128 @@
+BUS 5900 - AI Tools for Organizational Efficiency and Success -
+Milwaukee School of Engineering
+Mar 12, 2026
+2025-2026 Graduate Academic Catalog
+Select a Catalog
+2025-2026 Undergraduate Academic Catalog
+2025-2026 Graduate Academic Catalog
+2024-2025 Undergraduate Academic Catalog-June [ARCHIVED CATALOG]
+2024-2025 Graduate Academic Catalog-June [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Graduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Graduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Graduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Graduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Graduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Graduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Graduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Graduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Graduate Academic Catalog [ARCHIVED CATALOG]
+2013-14 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2012-2014 Graduate Academic Catalog [ARCHIVED CATALOG]
+2012-2013 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+Global Search
+Catalog Search
+Choose Search Location
+Select an option
+Courses
+Programs
+Academic Departments
+Other Content
+Entire Catalog
+Search Keyword Field
+Whole Word/Phrase
+Advanced Search
+Catalog Navigation
+Catalog Home
+Academic Calendar
+University Overview
+Graduate Admission Requirements
+Academic Regulations and Policies
+Student Financial Services
+Graduate Degree Programs and Certificates
+Graduate Degree Programs and Certificates by Department
+Course Descriptions
+Research Opportunities
+Administration and Board of Regents
+Graduate Faculty
+Campus Map
+Student Resources
+My Portfolio
+HELP
+2025-2026 Graduate Academic Catalog
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+BUS 5900 - AI Tools for Organizational Efficiency and Success
+3
+lecture hours
+0
+lab hours
+3
+credits
+Course Description
+This course is designed to provide students with the knowledge and skills to effectively navigate, evaluate, and utilize the wide array of AI tools available in the market. By the end of the course, students will be equipped to champion AI adoption within their organizations, enhance operational efficiencies, and ensure compliance with relevant regulations. Through hands-on experiences, case studies, and expert guidance, students will gain a competitive edge in understanding and leveraging AI technologies to address real-world challenges.
+Prereq:
+None
+Note:
+This course is open to qualified undergraduate students.
+Course Learning Outcomes
+Upon successful completion of this course, the student will be able to:
+Analyze and select AI tools suited to specific organizational needs
+Implement AI tools to optimize workflows and drive efficiencies
+Navigate compliance requirements and ethical considerations in AI usage
+Develop actionable strategies to promote AI adoption within organizations
+Communicate the value of AI tools effectively to diverse stakeholders
+Prerequisites by Topic
+None
+Course Topics
+Overview of artificial intelligence: history, key concepts, and types
+Case studies: how leading organizations use AI to drive success
+Discussion: the future of work and AI’s role in organizational transformation
+Categories of AI tools: generative AI, predictive analytics, automation tools, and more
+Evaluating tools: criteria for selecting the right AI solutions
+Hands-on activity: research and present an AI tool of choice
+Overview of generative AI platforms (e.g., ChatGPT, Jasper, DALL-E, MidJourney)
+Practical applications: content creation, customer service, and product development
+Workshop: using generative AI to solve real-world business problems
+Tools for task automation and workflow optimization (e.g., Zapier, UiPath, Blue Prism)
+Designing efficient processes using AI-powered tools
+Project: build a prototype workflow leveraging automation tools
+Understanding predictive analytics and decision-support tools
+Platforms for business intelligence and insights (e.g., Tableau with AI extensions, Power BI, Google Analytics)
+Case study: using AI for data-driven decision-making
+Overview of AI-related regulations and ethical concerns
+Ensuring compliance: GDPR, CCPA, and AI Act frameworks
+Discussion: balancing innovation with responsibility
+Identifying organizational needs and aligning AI solutions
+Stakeholder management: overcoming resistance to AI adoption
+Strategy workshop: creating an AI adoption roadmap for a mock organization
+Develop a detailed proposal for AI tool adoption in a specific industry or organization
+Showcase findings, strategies, and recommendations
+Coordinator
+Naveen Kankate
+Back to Top
+|
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+All
+catalogs
+© 2026 Milwaukee School of Engineering.
+Powered by
+Modern Campus Catalog™
+.

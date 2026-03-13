@@ -1,0 +1,127 @@
+Program: Cybersecurity Minor - Milwaukee School of Engineering
+2025-2026 Undergraduate Academic Catalog
+Milwaukee School of Engineering
+Mar 12, 2026
+2025-2026 Undergraduate Academic Catalog
+Select a Catalog
+2025-2026 Undergraduate Academic Catalog
+2025-2026 Graduate Academic Catalog
+2024-2025 Undergraduate Academic Catalog-June [ARCHIVED CATALOG]
+2024-2025 Graduate Academic Catalog-June [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Graduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Graduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Graduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Graduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Graduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Graduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Graduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Graduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Graduate Academic Catalog [ARCHIVED CATALOG]
+2013-14 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2012-2014 Graduate Academic Catalog [ARCHIVED CATALOG]
+2012-2013 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+Global Search
+Catalog Search
+Choose Search Location
+Select an option
+Courses
+Programs
+Academic Departments
+Other Content
+Entire Catalog
+Search Keyword Field
+Whole Word/Phrase
+Advanced Search
+Catalog Navigation
+Catalog Home
+Academic Calendar
+University Overview
+Admissions
+Student Financial Services
+Academic Regulations and Policies
+Degree Programs, Minors, and Certificates
+Degrees, Minors, and Certificates by Department
+Course Descriptions
+The Raider Core
+Explorer Pathways
+MSOE Honors Program
+Global Opportunities
+Reserve Officers’ Training Corps. (ROTC)
+Administration, Regents, and Advisory Committees
+Departments and Faculty
+Campus Map
+Student Resources
+My Portfolio
+HELP
+2025-2026 Undergraduate Academic Catalog
+Cybersecurity Minor
+Print this Page
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Coordinator
+Dr. Walter Schilling
+Office: DH-438
+Phone: (414) 277-7370
+Email:
+schilling@msoe.edu
+Overview
+In the modern computing world, the need for cybersecurity expertise continues to climb. The cybersecurity minor provides students with exposure to the technical skills necessary to design and engineer modern, resilient, cybersecure products. Through a strong focus on laboratory experiences and experiential learning, students will be exposed to the core foundational principles of cybersecurity and well as core technical concepts necessary to build modern systems. By completing this minor, students will add important skills that will better prepare them for a challenging and rewarding career with the ability to work in multiple cybersecurity related areas or to pursue advanced degrees and certifications. For additional information, see the
+minors policy
+.
+Cybersecurity Minor Version S1
+Required Courses
+CYB 2001 - Introduction to Cybersecurity Principles
+3
+credits
+CYB 2311 - Introduction to Applied Cryptography
+3
+credits
+CYB 4911 - Cybersecurity Micro-practicum
+1
+credits
+SOC 3001 - Cybercrime: Human Perspectives
+3
+credits
+SWE 4540 - Network Security Tools and Practices
+3
+credits
+Elective Courses
+Students choose 6 credits from the following courses:
+CSC 4201 - Microservices and Cloud Computing
+3
+credits
+CYB 3551 - Digital Forensics
+3
+credits
+CYB 4551 - Software Reverse Engineering
+3
+credits
+CYB 4981 - Topics in Cybersecurity with Laboratory
+3
+credits
+SWE 4511 - DevSecOps
+4
+credits
+Total: 19-20 credits
+Print this Page
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+All
+catalogs
+© 2026 Milwaukee School of Engineering.
+Powered by
+Modern Campus Catalog™
+.

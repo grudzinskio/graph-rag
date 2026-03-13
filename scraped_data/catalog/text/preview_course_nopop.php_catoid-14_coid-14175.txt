@@ -1,0 +1,152 @@
+AE 3121 - Principles of Fire Protection and Plumbing Design -
+Milwaukee School of Engineering
+Mar 12, 2026
+2016-2017 Undergraduate Academic Catalog
+Select a Catalog
+2025-2026 Undergraduate Academic Catalog
+2025-2026 Graduate Academic Catalog
+2024-2025 Undergraduate Academic Catalog-June [ARCHIVED CATALOG]
+2024-2025 Graduate Academic Catalog-June [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Graduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Graduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Graduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Graduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Graduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Graduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Graduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Graduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Graduate Academic Catalog [ARCHIVED CATALOG]
+2013-14 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2012-2014 Graduate Academic Catalog [ARCHIVED CATALOG]
+2012-2013 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+Global Search
+Catalog Search
+Choose Search Location
+Select an option
+Courses
+Programs
+Academic Departments
+Other Content
+Entire Catalog
+Search Keyword Field
+Whole Word/Phrase
+Advanced Search
+Catalog Navigation
+Catalog Home
+Academic Calendar
+University Overview
+Enrollment Management Department
+Academic Regulations and Policies
+Student Financial Services
+Academic Departments, Undergraduate Degree Programs, Minors and Certificates
+Degree Programs, Minors and Certificates
+Reserve Officer Training Corps (ROTC)
+Course Descriptions
+Board of Regents, Academic Administration, Faculty and Advisory Committees
+Campus Map
+Student Resources
+My Portfolio
+HELP
+2016-2017 Undergraduate Academic Catalog
+[ARCHIVED CATALOG]
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+AE 3121 - Principles of Fire Protection and Plumbing Design
+4
+lecture hours
+0
+lab hours
+4
+credits
+Course Description
+This course is an introduction to plumbing and fire suppression systems principles. The plumbing systems components to be examined include water supplies and domestic water distribution systems, plumbing fixtures and components, sanitary drainage systems, sewage treatment and disposal, and storm drainage systems. Health and safety standards will be discussed using plumbing codes and system configuration standards. The fire suppression systems components to be examined include fire science, fire safety design, fire detection and fire alarm systems, fire suppression systems, automatic sprinkler systems and smoke control principles. Industry standards and variations will be discussed using NFPA codes and building codes. The architectural engineer’s responsibilities to understand the purpose and configuration of these systems will be emphasized whether they are the designer of these systems or the designer of associated building systems.   (prereq:
+AE 213
+)
+Course Learning Outcomes
+Upon successful completion of this course, the student will be able to:
+Describe fire chemistry and discuss the effects fires have had on buildings and human life
+Discuss principles of smoke, heat and flame detection and methods of signaling warning alarms to building occupants
+Discuss architectural and engineering building design elements and materials of construction as they relate to fire suppression systems for buildings
+Discuss design principles for fire suppression systems based on how people construct and use buildings related to fire chemistry
+Layout and design an example building automatic sprinkler system for a commercial building
+Apply fluid mechanics design methods, based on Hazen-Williams formulation and other general energy theories, to calculate fire suppression design problems based on example piping layouts
+Read and edit specification for fire suppression systems
+Discuss the importance of smoke control for life safety
+Discuss architectural and engineering design requirements of plumbing systems for buildings
+Discuss design principles for plumbing based on the importance of the health, safety and welfare of people using buildings and based on how people using plumbing systems is unpredictable
+Discuss the importance of water quality and methods to improve water quality
+Determine pipe sizes for an example building water supply, sanitary waste system and storm water removal system
+Discuss the importance of methods used for proper wastewater and storm water disposal
+Apply fluid mechanics design methods, based on Darcy-Weisbach, Manning, and Hazen-Williams formulations and other general energy theories and probability and statistical data, to calculate plumbing design problems based on example piping layouts
+Read and edit specification for various plumbing systems
+Prerequisites by Topic
+Basic Building Code Requirements (
+AE 100
+)
+Basic Fluid Flow Principles (
+AE 213
+)
+Architectural Graphics (
+AE 130
+)
+Construction Materials (
+AE 1231
+)
+Course Topics
+Introduction to Fire Protection Section of Course (1 class)
+Fire Chemistry, History of Fire in Buildings (1.5 classes)
+Fire Classifications and Classification of Hazards (0.5 class)
+Manual Fire Extinguishing Equipment and Manual Hose Systems (0.5 class)
+Types of Construction and Use or Occupancy of Buildings (0.5 class)
+Planning for Fire Protection and Fire Safety Design (0.5 class)
+Fire Detection, Signaling and Fire Alarm Systems (2 classes)
+Types of Fire Suppression and Automatic Sprinkler Systems (2 classes)
+Fire Suppression System Water Supply and Pumps (1 class)
+Automatic Sprinklers, Sprinkler System Piping and Components (1 class)
+System Design Approaches (1.5 classes)
+Design Plans and Details (0.5 class)
+Piping System Layout, Sprinkler Spacing and Water Supply (1.5 classes)
+Writing/Reading Specifications for Fire Suppression Systems (0.5 class)
+Hydraulic Calculation Procedure (2 classes)
+Other Fire Suppression Systems (0.5 class)
+Smoke Controls (0.5 class)
+Introduction to Plumbing Section of Course (1 class)
+Plumbing History (1 class)
+Plumbing Codes and Standards (0.5 class)
+Water Chemistry and Water Quality (1 class)
+Domestic Water Distribution System (4.5 classes)
+Domestic Hot Water System and Equipment (1 class)
+Design Considerations for Water Distribution System (1 class)
+Plumbing Fixtures (1 class)
+Sanitary Waste and Vent Systems (5 classes)
+Sewage Treatment and Disposal (1 class)
+Storm Water Drainage System (1.5 classes)
+Coordinator
+Deborah Jackman
+Back to Top
+|
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+All
+catalogs
+© 2026 Milwaukee School of Engineering.
+Powered by
+Modern Campus Catalog™
+.

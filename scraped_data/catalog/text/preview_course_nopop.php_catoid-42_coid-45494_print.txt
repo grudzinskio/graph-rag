@@ -1,0 +1,165 @@
+PHY 3910 - Astronomy and Astrophysics -
+2025-2026 Undergraduate Academic Catalog
+Milwaukee School of Engineering
+Mar 12, 2026
+2025-2026 Undergraduate Academic Catalog
+Select a Catalog
+2025-2026 Undergraduate Academic Catalog
+2025-2026 Graduate Academic Catalog
+2024-2025 Undergraduate Academic Catalog-June [ARCHIVED CATALOG]
+2024-2025 Graduate Academic Catalog-June [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Graduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Graduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Graduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Graduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Graduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Graduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Graduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Graduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Graduate Academic Catalog [ARCHIVED CATALOG]
+2013-14 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2012-2014 Graduate Academic Catalog [ARCHIVED CATALOG]
+2012-2013 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+Global Search
+Catalog Search
+Choose Search Location
+Select an option
+Courses
+Programs
+Academic Departments
+Other Content
+Entire Catalog
+Search Keyword Field
+Whole Word/Phrase
+Advanced Search
+Catalog Navigation
+Catalog Home
+Academic Calendar
+University Overview
+Admissions
+Student Financial Services
+Academic Regulations and Policies
+Degree Programs, Minors, and Certificates
+Degrees, Minors, and Certificates by Department
+Course Descriptions
+The Raider Core
+Explorer Pathways
+MSOE Honors Program
+Global Opportunities
+Reserve Officers’ Training Corps. (ROTC)
+Administration, Regents, and Advisory Committees
+Departments and Faculty
+Campus Map
+Student Resources
+My Portfolio
+HELP
+2025-2026 Undergraduate Academic Catalog
+Print this Page
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+PHY 3910 - Astronomy and Astrophysics
+3
+lecture hours
+0
+lab hours
+3
+credits
+Course Description
+Have you ever wondered how astronomers can measure the distance to a star? Or how long the Sun will live and what will happen when it dies out? These are some of the questions we’ll answer in this introductory astrophysics survey course. Course topics range from the observations and experiments of the earliest astronomers, to established modern ideas like the big bang theory, dark matter and dark energy, and cutting-edge developments such as the direct imaging of black holes and detection of gravitational waves. Broad topic areas include properties of the Sun, Earth, and Moon, the motion of planets in our solar system, orbital dynamics, the birth, evolution, and death of stars, galaxy formation and evolution, general relativity, black holes, the large-scale structure of the universe and cosmology. We’ll also discuss different types of telescopes-including space telescopes. Although this isn’t a lab course, so long as there is sufficient interest, there will be a night of observing planned which students have the option to attend.
+Prereq:
+PHY 1120
+(quarter system prereq: PH 2021)
+Note:
+None
+This course meets the following Raider Core CLO Requirement:
+Think Critically
+Course Learning Outcomes
+Upon successful completion of this course, the student will be able to:
+Introducing astronomy as a science:
+Assess whether a given theory is a scientific or not
+Distinguish between astronomy and astrology
+Discuss the history of astronomy and astronomical observations
+Describe the universe in general terms, its constituents, and the Earth’s position in the universe
+Newtonian gravity and orbital dynamics:
+Explain the origin of the Earth’s seasons, lunar phases and eclipses of the sun and moon
+Describe how the laws of Newtonian mechanics lead to an understanding of Kepler’s laws of planetary motion
+Discuss the mechanics of orbits and how the energy of an orbiting system determines the orbit’s shape (hyperbolic, parabolic, or elliptical)
+Determine properties of orbiting dynamical systems using concepts such as escape velocity, the virial theorem, precession, the Roche limit, and tidal forces
+The emission of astronomical bodies:
+Describe the electromagnetic spectrum and the inverse square law of propagation of electromagnetic energy
+Discuss the Planck radiation law, black-body radiation, and basic atomic theory as it relates to emission and absorption spectra
+Explain the importance of spectroscopy in astronomy, as used in temperature determination and spectral classification, composition, and relative velocity of stars
+Our measurements and telescopes:
+Calculate changes in celestial coordinates
+Describe what makes for a good ground-based telescope site (including the impact of the environment on the seeing)
+Describe various forms of astronomical instrumentation, including optical and radio telescopes, photometric devices, and ultraviolet, X-ray, and gamma-ray telescopes
+Explain the key considerations in the design of space telescope projects including their orbital location, hardware, cost, and intended targets
+Stars:
+Describe how stars form from clouds of gas and dust
+Describe the life cycle of stars and explain how the details of a star’s life cycle depends on its mass
+Explain how globular clusters are used to study stellar evolution
+Explain how the HR diagram and computer methods lead to an understanding of the structure and evolution of stars, including white dwarfs, neutron stars, pulsars, black holes, and supernovae
+Explain how the apparent and absolute magnitudes of stars are determined
+Explain how astronomical distances are determined
+Understand how the energy radiated by the sun is produced and to calculate the sun’s probable lifetime
+General relativity and black holes:
+Describe the differences between Newtonian gravity and general relativity
+Describe the differences between special relativity and general relativity
+Discuss key properties of black holes such as their Schwarzschild radius, spin, and mass
+Discuss accretion onto black holes, the jets resulting from this accretion, and the impact those jets have on surrounding stellar environments
+Explain the phenomena of gravitational lensing, and the way it is leveraged in astronomical measurements
+Discuss the generation of gravitational waves and how they are detected here on Earth
+Galaxies:
+Describe the Milky Way Galaxy, its shape, size, and structure
+Discuss galaxies, galactic distances and galactic types, including quasars
+Explain the relationship between a galaxy’s stellar population and its color and age
+Explain how galaxy rotation curves helped establish the concept of dark matter
+Cosmology:
+Discuss the structure of the universe, the Hubble law, and the big bang cosmological model
+Explain the components of the universe beyond normal matter, including curvature, dark energy, and dark matter. Understand the way they impact the dynamics of the universe as a whole and the experimental findings that motivated these ideas
+Discuss the large-scale structure of the cosmos, including the cosmic web of dark matter, filaments, voids, and galaxy clusters
+Explain the ways in which the theory of inflation is able to harmonize the big bang theory with our observations that the universe is flat, homogeneous, isotropic, and without topological defects such as magnetic monopoles
+Prerequisites by Topic
+Introductory physics (Newtonian mechanics)
+Course Topics
+Introduce the history of astronomy, its distinction from astrology, and the distinction between science and pseudo-science
+The Earth’s motion, position in the universe, and the origin of the seasons
+Lunar phases and eclipses of the sun and moon
+Newtonian gravity and its applications, including Kepler’s laws of planetary motion, orbital dynamics and energetics, escape velocity, the virial theorem, precession, the Roche limit, and tidal forces
+The emission of astronomical bodies as governed by the Planck radiation law, black-body radiation, and basic atomic theory as it relates to emission and absorption spectra
+The role of spectroscopy in astronomy, as used in temperature determination and spectral classification, composition, and relative velocity of stars
+Measurements of astronomical coordinates, distances, and the brightness of astronomical sources
+Telescopes of all kinds, including optical and radio telescopes, photometric devices, and ultraviolet, X-ray, and gamma-ray telescopes, why some are space-based and some ground-based, what makes for a good ground-based telescope site (including the impact of the environment on the seeing), what considerations go into the design of space telescope projects (orbital location, hardware, cost, intended targets, etc.)
+The formation, evolution, and death of stars, including how globular clusters are used to study stellar evolution and how a star’s placement on the HR diagram changes over its lifetime
+Stellar remnants including white dwarfs, neutron stars, pulsars, black holes, and supernovae.
+The processes underlying the generation of energy in the Sun and the Sun’s probable lifetime.
+The theory of General Relativity and its most extreme consequences, including black holes, gravitational lensing, and the generation of gravitational waves.
+The Milky Way Galaxy’s shape, size, and structure.
+Types of galaxies, including elliptical, spiral, quasars, etc. As well as the relationship between a galaxy’s stellar population and its color and age
+Key concepts in modern cosmology, including the large-scale structure of the universe, the Hubble Law, the Big Bang cosmological model, the theory of inflation, and the components of the universe beyond normal matter (curvature, dark energy, dark matter, etc.)
+Coordinator
+Dr. Adam Wright
+Print this Page
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+All
+catalogs
+© 2026 Milwaukee School of Engineering.
+Powered by
+Modern Campus Catalog™
+.

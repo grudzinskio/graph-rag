@@ -1,0 +1,109 @@
+Hydraulic Systems Volume 7: Modeling and Simulation for Application Engineers | MSOE
+Skip to Main Content
+Home
+Academics
+Center for Professional Education
+Fluid Power Seminars
+Public Seminars and Events
+Hydraulic Systems Volume 7: Modeling and Simulation for Application Engineers
+Hydraulic Systems Volume 7: Modeling and Simulation for Application Engineers
+Modeling and simulation techniques are essential tools for dynamic systems design and production. This seminar introduces an overview of common mathematical modeling techniques in t-domain and s-domain, various types of physical systems, and challenges of modeling them.
+This 27-hour (5-day) seminar adopts lumped modeling technique, using Matlab-Simulink, to model discrete hydraulic components with the least amount of design parameters, just based on the static and dynamic characteristics published by the component manufacturer. Components models can be recharacterized and used repeatedly in system models. More than 60 models are built. The seminar provides comprehensive explanation on how these models are structured, validated, and used for analyzing system performance.
+Program Overview
+Dates:
+August 18-22, 2025
+CEUs:
+2.7 |
+PDHs:
+27
+Cost:
+$2,700 per person.
+Seminar Number:
+70306
+Who Should Attend
+Hydraulic component designers, application engineers, system integrators, electrohydraulic motion control engineers, and end users of fluid power components and systems.
+Seminar attendees receive a copy of
+“Hydraulic Systems Volume 7: Modeling and Simulation for Application Engineers”
+Upon successful completion, you will be able to:
+Identify the best method to convert the published static and dynamic characteristics of a hydraulic components into a solvable mathematical model
+Convert the mathematical model into a simulation model using MATLAB®/Simulink®
+Debug and validate a simulation model based on existing or experimentally developed performance
+Form a hydraulic system model by assembling hydraulic components models
+Use a validated model to analyzes system performance
+Program Details
+Course Outline
+Chapter 01: Introduction to Physical Systems Modeling and Simulation
+Chapter 02: Modeling and Simulation of First-Order Dynamic Systems
+Chapter 03: Modeling and Simulation of Second-Order Dynamic Systems
+Chapter 04: Hydraulic Components Modeling Approaches
+Chapter 05: Modeling of Fluid Properties
+Chapter 06: Modeling of Fluid Conductors
+Chapter 07: Modeling of Hydraulic Pumps
+Chapter 08: Modeling of Hydraulic Motors
+Chapter 09: Modeling of Hydraulic Cylinders
+Chapter 10: Modeling of Hydraulic Valves
+Chapter 11: Modeling of Hydraulic Control Systems
+Agenda
+Days 1-4:
+9 a.m. to 4 p.m. – Lunch: noon to 1 p.m.
+Day 5:
+9 a.m. to noon
+Link to full agenda
+Continental breakfast and lunch will be served daily. Beverages/Snacks are provided throughout the day.
+Laboratory Sessions
+Lab09:
+Pump Static Characteristic Measuring
+Lab10:
+Pump Step Response Measuring
+Lab11:
+Hydraulic Motor U-n Static Characteristics
+Lab12:
+Identifying Hydraulic Motor Dynamics
+Lab13:
+Identifying Horizontal Cylinder Dynamics
+Lab14:
+Proportional Valve Flow Gain Measuring
+Lab15:
+Servo Valve Flow Gain Measuring
+Lab16:
+EH Position Controlled Hydraulic Cylinder Step Response
+L
+ab17:
+EH Position Controlled Hydraulic Cylinder Frequency Response
+Lab18:
+EH Speed Controlled Hydraulic Motor Step Response
+Lab19:
+EH Speed Controlled Hydraulic Motor Frequency Response
+Instructors
+Dr. Medhat Khalil
+– Director of Professional Education & Research Development, Applied Technology Center
+TM
+, Milwaukee School of Engineering
+Previous Session Evaluations
+Hydraulic Systems Modeling seminar (77077)
+Hydraulic Systems Modeling seminar (70200)
+Register Now!
+Register today to secure your seat for this seminar
+Register
+Dr. Medhat Khalil
+(414) 277-7269
+khalil@msoe.edu
+Cell: (414) 940-2232
+Menu
+Search
+submit
+Resources For…
+MSOE University
+1025 North Broadway
+Milwaukee,
+WI
+53202-3109
+(800) 332-6763
+explore@msoe.edu
+Connect With MSOE
+Facebook
+Instagram
+Twitter
+Linkedin
+YouTube
+Vimeo

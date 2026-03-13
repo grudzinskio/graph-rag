@@ -1,0 +1,121 @@
+AE 3622 - Building Electrical Systems I -
+Milwaukee School of Engineering
+Mar 12, 2026
+2016-2017 Undergraduate Academic Catalog
+Select a Catalog
+2025-2026 Undergraduate Academic Catalog
+2025-2026 Graduate Academic Catalog
+2024-2025 Undergraduate Academic Catalog-June [ARCHIVED CATALOG]
+2024-2025 Graduate Academic Catalog-June [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Graduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Graduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Graduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Graduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Graduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Graduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Graduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Graduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Graduate Academic Catalog [ARCHIVED CATALOG]
+2013-14 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2012-2014 Graduate Academic Catalog [ARCHIVED CATALOG]
+2012-2013 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+Global Search
+Catalog Search
+Choose Search Location
+Select an option
+Courses
+Programs
+Academic Departments
+Other Content
+Entire Catalog
+Search Keyword Field
+Whole Word/Phrase
+Advanced Search
+Catalog Navigation
+Catalog Home
+Academic Calendar
+University Overview
+Enrollment Management Department
+Academic Regulations and Policies
+Student Financial Services
+Academic Departments, Undergraduate Degree Programs, Minors and Certificates
+Degree Programs, Minors and Certificates
+Reserve Officer Training Corps (ROTC)
+Course Descriptions
+Board of Regents, Academic Administration, Faculty and Advisory Committees
+Campus Map
+Student Resources
+My Portfolio
+HELP
+2016-2017 Undergraduate Academic Catalog
+[ARCHIVED CATALOG]
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+AE 3622 - Building Electrical Systems I
+3
+lecture hours
+2
+lab hours
+4
+credits
+Course Description
+This electrical specialty course presents advanced design concepts of building low and medium voltage power systems. Students will become familiar with building load flow calculations, power factor correction, per unit fault calculations, arc flash and fault currents, selection and coordination of overcurrent protection between devices, sizing of feeder and branch circuits and electrical code application. Additional topics include the design of electric service entrances, power company coordination and metering, distribution equipment, emergency generators, motors, underground and campus distribution systems. Case studies are presented though out which reinforce theory and the application of electrical code. Each laboratory session focuses on an individual topic and will be utilized as a collaborative design session to present the implementation of the lecture material.   (prereq:
+AE 3601
+)
+Course Learning Outcomes
+Upon successful completion of this course, the student will be able to:
+Calculate AC current, voltage, impedance and power using complex numbers
+Perform service and feeder calculations including demand factors
+Determine conduit and conductor size and grounding for various load types
+Understand building voltages and proper voltage system selection according to facility use and size
+Understand system grounding and ground fault protection
+Select overcurrent protection including molded case, insulated case, and power circuit breakers and fuses
+Perform ohmic and per unit short circuit calculations by hand
+Perform system studies using power system analysis software
+Understand motor operation, protection and control
+Specify major electrical equipment for a building service including switchgear, motor control centers, switchboards, transformers, and panelboards
+Specify major electrical equipment for an emergency distribution system including generators, automatic transfer switches, and ininterruptible power supplies
+Understand distribution system configurations such as radial and loop and their selection
+Design electrical power distribution for a large commercial building or campus center
+Prerequisites by Topic
+Basic electrical systems, power and lighting calculations
+Course Topics
+Transformers
+Motors
+Generators
+Fuses
+Circuit Breakers
+Medium Voltage Equipment
+Grounding
+Substations
+Short Circuit Calculations
+OCPD Coordination
+Coordinator
+Christine Brotz
+Back to Top
+|
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+All
+catalogs
+© 2026 Milwaukee School of Engineering.
+Powered by
+Modern Campus Catalog™
+.

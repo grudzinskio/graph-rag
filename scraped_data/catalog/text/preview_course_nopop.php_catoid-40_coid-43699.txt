@@ -1,0 +1,153 @@
+ARE 3401 - Principles of Mechanical Engineering for Buildings -
+Milwaukee School of Engineering
+Mar 12, 2026
+2024-2025 Undergraduate Academic Catalog-June
+Select a Catalog
+2025-2026 Undergraduate Academic Catalog
+2025-2026 Graduate Academic Catalog
+2024-2025 Undergraduate Academic Catalog-June [ARCHIVED CATALOG]
+2024-2025 Graduate Academic Catalog-June [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Graduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Graduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Graduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Graduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Graduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Graduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Graduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Graduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Graduate Academic Catalog [ARCHIVED CATALOG]
+2013-14 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2012-2014 Graduate Academic Catalog [ARCHIVED CATALOG]
+2012-2013 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+Global Search
+Catalog Search
+Choose Search Location
+Select an option
+Courses
+Programs
+Academic Departments
+Other Content
+Entire Catalog
+Search Keyword Field
+Whole Word/Phrase
+Advanced Search
+Catalog Navigation
+Catalog Home
+Academic Calendar
+University Overview
+Admissions
+Student Financial Services
+Academic Regulations and Policies
+Degree Programs, Minors, and Certificates
+Degrees, Minors, and Certificates by Department
+Course Descriptions
+The Raider Core
+MSOE Honors Program
+Global Opportunities
+Reserve Officers’ Training Corps. (ROTC)
+Administration, Regents, and Advisory Committees
+Departments and Faculty
+Campus Map
+Student Resources
+My Portfolio
+HELP
+2024-2025 Undergraduate Academic Catalog-June
+[ARCHIVED CATALOG]
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+ARE 3401 - Principles of Mechanical Engineering for Buildings
+3
+lecture hours
+0
+lab hours
+3
+credits
+Course Description
+This course explores fundamental principles of building mechanical systems. It includes an introduction to the basic design principles for HVAC and plumbing applications. It also provides a brief qualitative orientation to building fire protection systems but does not present design principles for fire protection systems. An introduction to sustainability and sustainable design is provided by connecting the principles of efficient HVAC and plumbing system design to their environmental impacts. Use of Triple Bottom Line principles to promote the sustainability of HVAC and plumbing systems is explored.
+Prereq:
+CAE 2411
+,
+CAE 2711
+(quarter system prereq: AE 2121, AE 2130)
+Note:
+None
+This course meets the following Raider Core CLO Requirement:
+None
+Course Learning Outcomes
+Upon successful completion of this course, the student will be able to:
+Classify and describe a complete air-conditioning and distribution system including its major hardware components
+Analyze the physiological considerations for human comfort in buildings and calculate its related indices
+Describe outdoor and indoor thermal design conditions
+Calculate the heating and cooling coil loads for a building
+Describe design principles for both supply side and waste/vent side plumbing based on the importance of the health, safety, and welfare of people
+Calculate plumbing line sizes for both the water supply service piping and distribution piping within a building
+Describe how water quality is determined and identify which water treatment technologies are used to remove a given type of contaminant
+Explain the importance of active and passive fire protection systems for helping to ensure a safe building environment
+Describe how building energy and water use impacts the larger environment
+Analyze two or more building air conditioning and/or plumbing systems using the principles of life cycle assessment and the Triple Bottom Line to determine which is the most sustainable
+Prerequisites by Topic
+Steady state 1st Law of Thermodynamics energy analysis of open systems
+Thermophysical properties of pure fluids
+Properties of moist air and ability to read the psychrometric chart
+One dimensional, steady state combined conduction and convection heat transfer using the electric resistance analogy to determine equivalent thermal resistances
+Finding major and minor losses associated with internal pipe flows
+Calculating pressure losses in piping systems using both the Darcy Weisbach and Hazen Williams equations
+Principles of fans and pumps; ability to read a pump curve and find the pump system curve for a given application
+Course Topics
+Basic forced air system schematic and principle of operation; how multizone, dual duct, and variable air volume (VAV) systems allow for building HVAC zoning
+Introduction to hardware components of forced air systems: furnaces, direct exchange air conditioners, ductwork, terminal units
+Basic hydronic system schematic and principle of operation
+Introduction to hardware components of hydronic systems: boilers, chillers, air handling units (AHU), radiators
+Human comfort: selecting design parameters for indoor dry bulb temperature and relative humidity based upon ASHRAE Standard 55
+Determining outdoor design dry bulb temperatures and humidity using weather data
+Determining building ventilation requirements based upon ASHRAE Standard 62; the connection between ventilation and indoor air quality
+Complete psychrometric analysis of the air side of an HVAC system to establish physical properties and flowrates for the return air, ventilation air, mixture air, and supply air streams
+Calculation of heat transmission through the building envelope; locating U- and R-value data for various building components
+Infiltration through the building envelop, estimating sensible and latent infiltration using the crack method
+Calculating sensible and latent ventilation loads
+Estimating duct and pickup loads
+Calculating the total sensible and latent coil load for the heating load case
+Using the Cooling Load Temperature Difference (CLTD) model for determining the cooling coil load
+Overview of plumbing codes and standards
+Plumbing fixture types and terminology
+Water supply service line sizing procedure
+Building water distribution system sizing using the Uniform Pressure Loss Method
+Overview of waste and vent line layouts and code considerations
+Metrics of water chemistry; how to read a water quality report
+Potable water quality and the EPA Primary and Secondary Drinking Water Standards
+Grey water reuse and associated plumbing code restrictions
+Introduction to physical, chemical, and biological treatment techniques for water reuse
+Qualitative introduction to passive and active building fire protection systems: categories of passive and active fire protection devices; identify the main fire protection codes; roles of the architect and engineer in the design of the fire protection systems; NFPA introductory video
+Drivers for sustainability-environmental impact categories and how these are affected by building energy and water use
+The metric of embodied energy and how it can be used to design a more sustainable building mechanical system
+Life cycle assessment (LCA) as the gold standard for determining the most sustainable mechanical system design; focused case study using LCA to compare HVAC system alternatives
+The Triple Bottom Line (TBL) paradigm for promoting sustainable mechanical systems
+Coordinator
+David Grassl, P.E.
+Back to Top
+|
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+All
+catalogs
+© 2026 Milwaukee School of Engineering.
+Powered by
+Modern Campus Catalog™
+.

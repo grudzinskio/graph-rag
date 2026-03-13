@@ -1,0 +1,121 @@
+AE 740 - Reinforced Concrete Member Design -
+Milwaukee School of Engineering
+Mar 12, 2026
+2016-2017 Graduate Academic Catalog
+Select a Catalog
+2025-2026 Undergraduate Academic Catalog
+2025-2026 Graduate Academic Catalog
+2024-2025 Undergraduate Academic Catalog-June [ARCHIVED CATALOG]
+2024-2025 Graduate Academic Catalog-June [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Graduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Graduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Graduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Graduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Graduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Graduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Graduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Graduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Graduate Academic Catalog [ARCHIVED CATALOG]
+2013-14 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2012-2014 Graduate Academic Catalog [ARCHIVED CATALOG]
+2012-2013 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+Global Search
+Catalog Search
+Choose Search Location
+Select an option
+Courses
+Programs
+Academic Departments
+Other Content
+Entire Catalog
+Search Keyword Field
+Whole Word/Phrase
+Advanced Search
+Catalog Navigation
+Catalog Home
+Academic Calendar
+University Overview
+Graduate and Professional Education
+Graduate Admission Requirements
+Academic Regulations and Policies
+Student Financial Services
+Services and Resources for Graduate Students
+Academic Departments, Graduate Degree Programs and Certificates
+Degree Programs and Certificates
+Course Descriptions
+Board of Regents, Academic Administration and Faculty
+Campus Map
+Student Resources
+My Portfolio
+HELP
+2016-2017 Graduate Academic Catalog
+[ARCHIVED CATALOG]
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+AE 740 - Reinforced Concrete Member Design
+3
+lecture hours
+0
+lab hours
+3
+credits
+Course Description
+This course presents the fundamental behavior and design of reinforced concrete members. Topics include design and detailing of reinforced concrete beams and columns for flexure, shear, torsion, and axial forces.   (prereq: none)
+Course Learning Outcomes
+Upon successful completion of this course, the student will be able to:
+Understand the moment-curvature behavior of reinforced concrete sections
+Understand the design of singly reinforced, doubly reinforced concrete beams and one-way slabs
+Understand the design of non-rectangular members for flexure
+Understand the design and detailing of members for shear and torsion
+Understand the design and detailing of development of reinforcement in concrete
+Understand the behavior of concrete sections subjected to axial and flexural loads
+Understand the design and detailing of non-slender and slender reinforced concrete columns
+Be introduced to pre-cast, pre-stressed concrete
+Prerequisites by Topic
+Strength of Materials,
+Determinate Structural Analysis
+Indeterminate Structural Analysis
+Course Topics
+Introduction to Course
+Introduction to ACI Specification
+Analysis of Reinforced Concrete Structures
+Review of Material Properties
+Moment-Curvature Behavior of Concrete Sections and Ductility
+Flexure Design (singly reinforced, one way slabs, doubly reinforced, non-rectangular shapes)
+Deflection of Reinforced Concrete Beams
+Detailing of Flexural Reinforcement (maximum and minimum steel, crack control)
+Development of reinforcement (straight bars, hooks, bar cutoffs, structural integrity steel)
+Shear and Torsion Design (shear design and detailing, space truss analogy, detailing)
+Interaction of flexural and axial loads
+Slender column design (moment magnification, dimensionless interaction diagrams)
+Introduction to pre-cast, pre-stressed concrete
+In-class exams
+Coordinator
+Richard DeVries
+Back to Top
+|
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+All
+catalogs
+© 2026 Milwaukee School of Engineering.
+Powered by
+Modern Campus Catalog™
+.

@@ -1,0 +1,113 @@
+CVE 5811 - Applied Statistics and Modeling -
+Milwaukee School of Engineering
+Mar 12, 2026
+2023-2024 Graduate Academic Catalog-June Update
+Select a Catalog
+2025-2026 Undergraduate Academic Catalog
+2025-2026 Graduate Academic Catalog
+2024-2025 Undergraduate Academic Catalog-June [ARCHIVED CATALOG]
+2024-2025 Graduate Academic Catalog-June [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Graduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Graduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Graduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Graduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Graduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Graduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Graduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Graduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Graduate Academic Catalog [ARCHIVED CATALOG]
+2013-14 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2012-2014 Graduate Academic Catalog [ARCHIVED CATALOG]
+2012-2013 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+Global Search
+Catalog Search
+Choose Search Location
+Select an option
+Courses
+Programs
+Academic Departments
+Other Content
+Entire Catalog
+Search Keyword Field
+Whole Word/Phrase
+Advanced Search
+Catalog Navigation
+Catalog Home
+Academic Calendar
+University Overview
+Graduate Admission Requirements
+Academic Regulations and Policies
+Student Financial Services
+Graduate Degree Programs and Certificates
+Graduate Degree Programs and Certificates by Department
+Course Descriptions
+Research Opportunities
+Professional Education
+Administration and Board of Regents
+Graduate Faculty
+Campus Map
+Student Resources
+My Portfolio
+HELP
+2023-2024 Graduate Academic Catalog-June Update
+[ARCHIVED CATALOG]
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+CVE 5811 - Applied Statistics and Modeling
+3
+lecture hours
+0
+lab hours
+3
+credits
+Course Description
+This course covers topics in statistics needed for the statistical analyses of architectural and civil engineering systems.  It also presents methods for developing statistical models.  Specific topics include: (1) determining if significant difference or equivalence exists between data sets using parametric and non-parametric methods, (2) experimental design, (3) constructing linear and non-linear regression models, (4) developing Monte Carlo models, (5) analyzing time-series, and (6) Bayesian statistics.   (prereq: MTH 2480) (quarter system prereq: MA 262)
+Course Learning Outcomes
+Upon successful completion of this course, the student will be able to:
+Compare two or more treatments or data sets for differences using the t-test, Tukey HSD or non-parametric tests
+Evaluate the effects of one or more variables on the response of a system using full and fractional factorial designs
+Design testing programs to control the probability of Type I and Type II errors
+Build mathematical models of systems using linear and non-linear regression analysis, and time series analysis and estimate confidence intervals for model parameters
+Design experiments using full and partial factorial models and analyze the results of such experiments
+Compose artificial data sets suitable for modeling purposes using Monte Carlo simulation
+Utilize a commercial statistical package with facility to perform statistical analysis
+Prerequisites by Topic
+None
+Course Topics
+Review of statistics and definitions, data visualization, estimating percentiles, software introduction and use
+Performing hypothesis testing using parametric tests: “proving” difference or equivalence; understanding Type I and Type II error
+Non-parametric testing for “proving” difference; experimental design: design testing programs to control the probability of Type I and Type II errors
+Building models using linear regression, parsimony; transformations, problems with linearization
+Experimental design: measuring the effects of variables on an outcome using full and fractional factorial designs
+Time series analysis, auto and partial auto-correlations, smoothing
+Identifying distributions, Monte Carlo simulation
+Signal versus noise, Bayes theorem
+Coordinator
+Dr. William Gonwa, P.E.
+Back to Top
+|
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+All
+catalogs
+© 2026 Milwaukee School of Engineering.
+Powered by
+Modern Campus Catalog™
+.

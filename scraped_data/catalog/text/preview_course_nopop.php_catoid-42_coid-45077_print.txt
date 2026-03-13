@@ -1,0 +1,119 @@
+CSC 2210 - Procedural and Object-Oriented C++ -
+2025-2026 Undergraduate Academic Catalog
+Milwaukee School of Engineering
+Mar 12, 2026
+2025-2026 Undergraduate Academic Catalog
+Select a Catalog
+2025-2026 Undergraduate Academic Catalog
+2025-2026 Graduate Academic Catalog
+2024-2025 Undergraduate Academic Catalog-June [ARCHIVED CATALOG]
+2024-2025 Graduate Academic Catalog-June [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Graduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Graduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Graduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Graduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Graduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Graduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Graduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Graduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Graduate Academic Catalog [ARCHIVED CATALOG]
+2013-14 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2012-2014 Graduate Academic Catalog [ARCHIVED CATALOG]
+2012-2013 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+Global Search
+Catalog Search
+Choose Search Location
+Select an option
+Courses
+Programs
+Academic Departments
+Other Content
+Entire Catalog
+Search Keyword Field
+Whole Word/Phrase
+Advanced Search
+Catalog Navigation
+Catalog Home
+Academic Calendar
+University Overview
+Admissions
+Student Financial Services
+Academic Regulations and Policies
+Degree Programs, Minors, and Certificates
+Degrees, Minors, and Certificates by Department
+Course Descriptions
+The Raider Core
+Explorer Pathways
+MSOE Honors Program
+Global Opportunities
+Reserve Officers’ Training Corps. (ROTC)
+Administration, Regents, and Advisory Committees
+Departments and Faculty
+Campus Map
+Student Resources
+My Portfolio
+HELP
+2025-2026 Undergraduate Academic Catalog
+Print this Page
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+CSC 2210 - Procedural and Object-Oriented C++
+4
+lecture hours
+0
+lab hours
+4
+credits
+Course Description
+This course introduces students to the C and C++ programming languages. It relates the high-level computational model of these languages to their machine level execution, including details about number representation, a simplified view of microprocessor architecture. Students are introduced to the concepts of compilation, memory management, linking, efficient implementation of objects, and the Standard Template Library. The course contrasts type systems and other characteristics with those of other languages.
+Prereq:
+CSC 1120
+(quarter system prereq: CS 2852)
+Note:
+None
+This course meets the following Raider Core CLO Requirement:
+None
+Course Learning Outcomes
+Upon successful completion of this course, the student will be able to:
+Write procedural C and C++ programs
+Explain how signed 2’s complement and unsigned numbers, and ﬂoating point numbers are represented within a computer, and explain how that impacts performance
+Describe the transformation of code from a high-level language like C++ to machine-level instructions
+Describe the execution of a line of high-level code and flow of control in terms of interaction with the underlying hardware like the PC, registers, stack and the datapath
+Explain how variables are allocated in memory, the relationship between variables and pointers, and the scope and lifetime of variables
+Make use of argument passing by value, reference, and address
+Write object-oriented C++ programs making use of C++ operator overloading, polymorphism, and virtual vs. non-virtual methods
+Write robust C++ programs that use dynamic memory allocation
+Write robust C++ programs using template functions and the Standard Template Library
+Debug C and C++ implementations using a debugger
+Use preprocessor directives to conditionally compile source code and support project configuration
+Compare the C++ type system with other languages with respect to efficiency, reliability, and readability
+Prerequisites by Topic
+Object-oriented programming
+Java programming
+Data structures
+Coordinator
+Dr. Robert Hasker
+Print this Page
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+All
+catalogs
+© 2026 Milwaukee School of Engineering.
+Powered by
+Modern Campus Catalog™
+.

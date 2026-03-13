@@ -1,0 +1,111 @@
+EE 5250 - Advanced Signal Processing -
+Milwaukee School of Engineering
+Mar 12, 2026
+2014-2015 Graduate Academic Catalog
+Select a Catalog
+2025-2026 Undergraduate Academic Catalog
+2025-2026 Graduate Academic Catalog
+2024-2025 Undergraduate Academic Catalog-June [ARCHIVED CATALOG]
+2024-2025 Graduate Academic Catalog-June [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Graduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Graduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Graduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Graduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Graduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Graduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Graduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Graduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Graduate Academic Catalog [ARCHIVED CATALOG]
+2013-14 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2012-2014 Graduate Academic Catalog [ARCHIVED CATALOG]
+2012-2013 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+Global Search
+Catalog Search
+Choose Search Location
+Select an option
+Courses
+Programs
+Academic Departments
+Other Content
+Entire Catalog
+Search Keyword Field
+Whole Word/Phrase
+Advanced Search
+Catalog Navigation
+Catalog Home
+Academic Calendar
+University Overview
+Graduate and Professional Education
+Graduate Admission Requirements
+Academic Regulations and Policies
+Student Accounts, Fees and Financial Aid
+Services and Resources for Graduate Students
+Academic Departments, Graduate Degree Programs and Certificates
+Degree Programs and Certificates
+Course Descriptions
+Board of Regents, Academic Administration and Faculty
+Campus Map
+My Portfolio
+HELP
+2014-2015 Graduate Academic Catalog
+[ARCHIVED CATALOG]
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+EE 5250 - Advanced Signal Processing
+3
+lecture hours
+0
+lab hours
+3
+credits
+Course Description
+This course introduces students to advanced topics in signal processing. The course will focus on two main areas of signal processing: statistical signal processing and digital image processing. Adaptive filtering will be the primary focus of the statistical signal processing segment with applications such as gradient descent, LMS, and RLS algorithms. Techniques for image enhancement, restoration, and compression will be covered as applications of digital image processing. MATLAB will be used extensively as a simulation tool.   (prereq: (EE-3220 and (MA-262 or MA-3620)) or Consent of Instructor)
+Course Learning Outcomes
+Upon successful completion of this course, the student will be able to:
+• Determine the optimal filter that produces the minimum mean squared error at its output.
+• Apply adaptive filtering algorithms, such as gradient search, LMS, or RLS, to various signal and noise filtering situations.
+• Determine the maximum likelihood estimator for a set of randomly distributed data.
+• Apply and compare two-dimensional filters to images in the spatial- and frequency-domains.
+• Use nearest-neighbor or bilinear interpolation to determine the values of pixels in a resized or transformed image.
+• Identify types (such as smoothing or sharpening) of image filters.
+• Complete a project on a topic related to statistical and/or image processing not covered in class.
+Prerequisites by Topic
+• Fourier series/transform methods
+• Sampling theorem
+• Random processes and expectations
+• Linear algebra
+• Some previous use of MATLAB is desired
+Course Topics
+• Prerequisite review: random variables and statistics, DSP (3 classes)
+• Statistical image processing (12 classes) - topics may include: autocorrelation functions, Wiener filter, gradient search/steepest descent, LMS algorithm, RLS algorithm, maximum likelihood estimation
+• Digital image processing (12 classes) - topics may include: 2D signals and systems, sampling, filtering, edge detection, digital image enhancement: spatial and frequency domains, digital image restoration, digital image compression
+• Final project (3 classes)
+Coordinator
+Jay Wierer
+Back to Top
+|
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+All
+catalogs
+© 2026 Milwaukee School of Engineering.
+Powered by
+Modern Campus Catalog™
+.

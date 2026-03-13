@@ -1,0 +1,157 @@
+Program: AI for Emerging Applications Certificate - Milwaukee School of Engineering
+2025-2026 Undergraduate Academic Catalog
+Milwaukee School of Engineering
+Mar 12, 2026
+2025-2026 Undergraduate Academic Catalog
+Select a Catalog
+2025-2026 Undergraduate Academic Catalog
+2025-2026 Graduate Academic Catalog
+2024-2025 Undergraduate Academic Catalog-June [ARCHIVED CATALOG]
+2024-2025 Graduate Academic Catalog-June [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Graduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Graduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Graduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Graduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Graduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Graduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Graduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Graduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Graduate Academic Catalog [ARCHIVED CATALOG]
+2013-14 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2012-2014 Graduate Academic Catalog [ARCHIVED CATALOG]
+2012-2013 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+Global Search
+Catalog Search
+Choose Search Location
+Select an option
+Courses
+Programs
+Academic Departments
+Other Content
+Entire Catalog
+Search Keyword Field
+Whole Word/Phrase
+Advanced Search
+Catalog Navigation
+Catalog Home
+Academic Calendar
+University Overview
+Admissions
+Student Financial Services
+Academic Regulations and Policies
+Degree Programs, Minors, and Certificates
+Degrees, Minors, and Certificates by Department
+Course Descriptions
+The Raider Core
+Explorer Pathways
+MSOE Honors Program
+Global Opportunities
+Reserve Officers’ Training Corps. (ROTC)
+Administration, Regents, and Advisory Committees
+Departments and Faculty
+Campus Map
+Student Resources
+My Portfolio
+HELP
+2025-2026 Undergraduate Academic Catalog
+AI for Emerging Applications Certificate
+Print this Page
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Return to:
+Degrees, Minors, and Certificates by Department
+Coordinator
+Dr. Olga Imas
+Office: S-356
+Phone: (414) 277-2382
+Email:
+imas@msoe.edu
+Overview
+The AI for Emerging Applications certificate is an interdisciplinary sequence of asynchronous course work, combined with a practicum experience that allows students from any major to develop a breadth of skills in the emerging realm of artificial intelligence (AI). Technical foundations will be gained in both AI and an application area, all while emphasizing the importance of human-centered design approaches to create ethically aligned, inclusive, and socially responsible AI. The practicum experience will provide a real-world industry-derived project. Students interested in this certificate should consult with the AI for Emerging Applications certificate coordinator to discuss project options and develop an appropriate course plan to provide relevant skills for the project. The student’s ability to enroll in the certificate program would depend on the availability and type of the practicum projects, and the student’s qualifications for these projects. For more information see the
+certificates policy
+.
+*This undergraduate certificate is for currently enrolled MSOE students only.
+AI for Emerging Applications Certificate Version S1
+Required Courses
+All students must complete these courses, totaling 7 credits. See the notes section for approved course substitutions.
+CSC 2661 - Python for AI
+1
+credits
+CSC 2663 - Machine Learning Techniques
+1
+credits
+UXD 2961 - Human-centered AI
+1
+credits
+UXD 2963 - Intelligent User Interfaces
+1
+credits
+ECB 4801 - AI for Emerging Applications Practicum
+3
+credits
+Application Tracks
+Students must complete all courses under either the Medical Imaging AI Application Track
+or
+the Emerging Topics Application Track (check the track below to see if one is being offered in a particular year).
+Medical Imaging AI Application Track (2 credits)
+See the notes section for approved course substitutions.
+BME 2961 - Introduction to Human Body Systems for Radiological Applications
+1
+credits
+BME 2963 - Fundamentals of Medical Imaging and Imaging AI
+1
+credits
+Emerging Topics Application Track (2 credits)
+Emerging AI topics in the field of Biomechanics will be offered starting in Spring 2026.
+See the notes section for approved course substitutions.
+ECB 2961 - General AI Application Foundation
+1
+credits
+ECB 2963 - General AI Application Contexts
+1
+credits
+Total: 9 credits
+Notes:
+Approved course substitutions:
+BME 3410
+for ECB 2961
+BME 4210
+or BME 5210 for BME 2963
+CSC 2611
+or
+CSC 1310
+for CSC 2661*
+CSC 2611
+or
+CSC 4601
+for CSC 2663
+*
+UXD 1001
+for UXD 2961
+and
+UXD 2963
+*CSC 2611 substitutes for both CSC 2661 and CSC 2663
+Return to:
+Degrees, Minors, and Certificates by Department
+Print this Page
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+All
+catalogs
+© 2026 Milwaukee School of Engineering.
+Powered by
+Modern Campus Catalog™
+.

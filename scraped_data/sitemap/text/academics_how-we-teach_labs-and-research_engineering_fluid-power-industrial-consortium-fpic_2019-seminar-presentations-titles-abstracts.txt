@@ -1,0 +1,79 @@
+2019 Seminar Presentations Titles & Abstracts | MSOE
+Skip to Main Content
+Home
+Academics
+How We Teach
+Labs and Research
+Engineering
+Fluid Power Industrial Consortium (FPIC)
+2019 Seminar Presentations Titles & Abstracts
+2019 Seminar Presentations Titles & Abstracts
+March 1, Electrification in Fluid Power Systems
+“Bringing Fluid Power into the Digital Age with Electro-Hydraulics”
+Mike Terzo,
+PE, CEO & CTO, Terzo Power Systems, LLC
+Few industries left in the world will accept a status quo that does not embrace the benefits and advancements of electrification in today’s digital age. But with a mind-boggling and complex array of sensors, controllers, data, etc., how can the fluid power industry best benefit from electrification? We will discuss a simple yet powerful method of direct fluid power control that utilizes a fixed displacement pump and bi-directional motor to best capitalize on, and reap the benefits of, the latest electronic technologies. This “smart pump” type system allows for intelligent and adaptive control techniques as wells as functionality and performance never seen in fluid power systems. Case studies of several applications of this technology will give a solid overview of how implementation can provide numerous benefits as well as the challenges that can be encountered.
+“Electro-Pneumatic Fieldbus Enabled Valve Manifolds: Cost Effective Technology that can Minimize Production Downtime”
+Nathan Eisel,
+Regional Electronic Product Specialist, SMC Corporation of America
+Implementing electro-pneumatic valve manifolds in future industrial automation systems provides modularity, flexibility and cost savings. Open industrial network standard compliance offers many configuration and integration options. Wireless manifolds allow greater flexibility in the machine’s mechanical design. This intelligent system is prepared to be part of a larger IIoT system with maintenance free communications, minimal machine downtime, and maximum use of the data currently being collected.
+“Telematics Applications in Mobile Hydraulic Systems”
+Gary LaFayette,
+Applications Engineer, SunSource
+Telematics are becoming increasingly popular in off-highway equipment. Today, the technological barriers are quite low and sophisticated implementations are no longer limited to the largest OEMs. There are a wide range of available devices and use cases. Simple GPS trackers can provide a fleet manager with the location of all his assets. More complex trackers might also provide feedback of ubiquitous J1939 data like engine hours, engine rpm, and vehicle speed. Several widely available devices can even be programmed to provide feedback and control of the proprietary portion of the vehicle network. These capabilities improve an OEMs ability to do new product development, process optimization, and user training. This presentation will discuss several of these diverse use cases.
+June 7, “IoT Benefits and Applications for Fluid Power Systems”
+“Hands-on with IoT Fluid Power Systems”
+Jeremy Drury,
+Vice President; IoT Diagnostics
+It’s time to get practical with IoT and Fluid Power. This presentation will center around an IoT-enabled fluid power system that showcases real-time, IoT-connected fluid, filtration, pump, motor, cylinder, valve, and accumulator, among other factors. The objective is to highlight the deeply interconnected world of a fluid power system, more illuminated now with minute-by-minute, data-driven performance trends and insights. Experience multiple failure modes and mitigation techniques bolstered by understanding and navigating key data indicators via digital signage and smart devices.
+“Live Demonstration of an IoT Connected Fluid Power System”
+Matt Belisle,
+Lead Design Engineer; IoT Diagnostics
+“IoT Update in Fluid Power”
+Mike Hoskins,
+Director of IoT Applications; IoT Diagnostics
+This presentation will provide a deep dive into multiple field cases focused on discovering a tangible ROI with IoT.
+September 6, “IoT Enablers (Make Data, Move Data, View Data”
+“Designing your IoT Solution”
+Chad Repp,
+Business Development-Telematics; HED Inc.
+To develop an end-to-end IoT solution that captures, transports, visualizes and stores data, there is a set of preliminary steps that need to be defined. These include identifying broad and diverse use cases, asset types and key users to help determine what data you need, when you need it and ultimately how to design the application for success. This presentation will deep dive into these critical areas.
+“Boosting Productivity Using IIoT Ready Smart Systems”
+Shishir Rege,
+Technical Sales Specialist Controls Architectures; Balluff, Inc.
+IIoT and Industry 4.0 are the buzzwords these days. This presentation discusses these topics as they apply to building and maintaining smart machines in fluid power applications. Sensors and devices play a key role in the new era of smarter factories, in this presentation we will discuss a few applications on how utilizing IO-Link as the device level technology helps build smart systems and how they help with overall improvements in productivity and maintenance.
+“Building IoT Driven Customer Relationships”
+Jon Prescott,
+CEO; Scante Corp.
+Emerging IIoT technologies can provide profound, game changing opportunities for Fluid Power equipment manufacturers and suppliers of fluids, consumables, and related services. IoT data connectivity from customer's hydraulic equipment and processes is being used to optimize ongoing interactions of all types including technical support, MRO consumables, and services. This talk will present real world examples and discuss the sensors, connectivity, security, and interfaces currently being used to develop tight, IoT driven relationships between equipment OEMS, suppliers, distributors, and customers.
+December 6, “Integration of IoT Technology into Fluid Power Systems: How to Effectively Use, Scale, Analyze, Secure and Share Data”
+“Connecting the Industrial World”
+Adam Livesay,
+Chief Revenue Officer, Elevat IOT
+This presentation not only includes connecting components and machines to the cloud, but also connecting and collaboration between the eco-system. For Industrial IoT to see the most success, it takes full participation and collaboration between the ecosystem partners. Case studies are included highlighting the collaboration between Supplier, Distributor/Integrator, and Customer/OEM, and highlight the application, system, and ROI.
+“Increasing Machine Uptime with Device Level Predictive Maintenance”
+Mark Densley,
+Director of Business Development, Emerson Automation Solutions
+Data is captured from various pneumatic components. Then an edge device is used to analyze the data turning it into useful information about the components. The data can be used to predict failure and trigger calls for action before catastrophic failure occurs. The data is then stored and can be used by OEM’s to increase aftermarket replacement sales. Case studies highlighting benefits and ROI will be discussed.
+“Artificial Intelligence: The Missing Link in the Industrial Internet of Things”
+Johannes Kunze von Bischhoffshausen,
+Manager, Digital Transformation and Internet of Things, Trelleborg Sealing Solutions
+Industrial IoT (IIoT) promises increases in efficiency, quality and safety for fluid power systems. In order to achieve this, connecting sensors to fluid power components and visualizing sensor values is not always enough. In fact, one of the biggest challenges in IIoT is turning data into actionable insights. Artificial intelligence, specifically machine learning, can help to solve this challenge. Machine learning gives computers the ability to learn, without being explicitly programmed. It can find hidden patterns in hundreds of sensor values and realize use cases such as predictive maintenance for individual components. The presentation will cover a theoretical introduction into machine learning and its application to realize Cognitive Sealing – Trelleborg’s approach for predictive maintenance for seals.
+Menu
+Search
+submit
+Resources For…
+MSOE University
+1025 North Broadway
+Milwaukee,
+WI
+53202-3109
+(800) 332-6763
+explore@msoe.edu
+Connect With MSOE
+Facebook
+Instagram
+Twitter
+Linkedin
+YouTube
+Vimeo

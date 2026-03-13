@@ -1,0 +1,85 @@
+AI Student Projects and Clubs | MSOE
+Skip to Main Content
+Home
+AI and MSOE
+AI Student Projects and Clubs
+AI Student Projects and Clubs
+Artificial intelligence isn’t just in the classroom—it’s also the focus for several student projects and clubs. At MSOE, students are passionate about expanding their learning beyond the classroom to showcase their skillsets. Whether it’s solving a problem in the annual Rosie Supercomputer Super Challenge or competing in a hackathon, students put their passions into practice.
+MSOE Artificial Intelligence Club (MAIC)
+The MSOE Artificial Intelligence Club exists to connect students to opportunities related to AI. The club provides educational activities and presentations, connects students to mentors in the MSOE faculty and Milwaukee community, and hosts community outreach events to increase public awareness of AI concepts.
+Visit the A.I. Club website.
+Rosie Supercomputer Super Challenge
+Each year, MSOE Regent and alumnus Dr. Dwight Diercks challenges MSOE students to make use of Rosie,
+MSOE’s NVIDIA GPU-powered supercomputer and number-crunching behemoth
+. The Rosie Supercomputer Super Challenge enables students to take their course work to the next level to solve a problem, improve a process or answer a difficult question.
+Students share their best work each spring for a chance to win amazing prizes, ranging from $2,000-$5,000 and an NVIDIA GPU.
+A sampling of the topics that students have tackled using Rosie:
+lymphocyte detection in ovarian biopsies
+music transformation
+deep fake from a single image
+tornado detection
+automatic segmentation of lumbar spine structures
+bridge crack inspection by image recognition
+Visit the Rosie Supercomputer Super Challenge webpage.
+Hacksgiving Hackathon
+The inaugural Hacksgiving: Generative A.I. for Good competition in 2023 challenged students to develop an innovative A.I.-driven solution that would streamline the patient screening process for Next Step Clinic. The clinic was looking for an A.I.-driven solution that could enhance operational efficiency, minimize wait times and provide educational value to patients. Students were challenged to develop a tool that would support health care staff by predicting the level of care required, offering preliminary guidance and preparing patients for their appointments, thereby improving overall patient flow and satisfaction.
+The second annual Hacksgiving in 2024 asked students to develop A.I.-driven solutions to enhance the visitor interactions with Discovery World, a science and technology museum and aquarium located in Milwaukee. The competition had double the participation from the inaugural hackathon with more than 70 students comprising 10 teams. Students utilized A.I. to develop a diverse set of solutions that were handed over to Discovery World to implement into their visitor experiences.
+Hacksgiving was developed and supported by Dr. Jeremy Kedziora, PieperPower Endowed Chair in Artificial Intelligence. Ben Paulson, computer science major and president of the A.I. Club, helped develop and organize the event.
+For more information,
+visit the Hacksgiving webpage
+.
+1 / 2
+Highlights from the 2024 Rosie Supercomputer Super Challenge
+2 / 2
+Background on Rosie, MSOE's supercomputer
+Student News in AI
+Academics
+01.28.2025
+M.S. in Machine Learning: from particle simulations to real-world solutions
+Jonny Keane '23, '24, a data scientist who holds a B.S. in Computer Science and M.S. in Machine Learning from MSOE, explored the potential of GPU programming…
+Read More
+Students
+11.26.2024
+Hacksgiving 2024 supports Discovery World
+MSOE hosted the second annual Hacksgiving: A.I. for Good Hackathon Nov. 21-24 in Diercks Hall. Hacksgiving is a hackathon that offers students an opportunity…
+Read More
+Students
+11.30.2023
+Inaugural Hacksgiving hackathon uses generative A.I. to support nonprofit clinic
+The inaugural Hacksgiving: Generative A.I. for Good competition challenged students to develop an innovative A.I.-driven solution that would streamline…
+Read More
+Students
+04.24.2023
+Music to their ears: Students win Rosie Supercomputer Super Challenge for Music Transformers project
+Jonny Keane and Michael Conner took home the grand prize at the second annual Rosie Supercomputer Super Challenge for their Music Transformers project…
+Read More
+Students
+03.23.2022
+MSOE undergrads develop deep learning and AI to aid medical diagnoses
+An electrocardiogram, also known as an ECG, is a medical test that monitors the state of the heart by recording electrical signals produced by the heart…
+Read More
+Dr. Derek Riley
+Computer Science Program Director
+(414) 277-2269
+riley@msoe.edu
+Visit Us
+The best way to learn more about MSOE is to visit the campus in person.
+Schedule a Tour
+Menu
+Search
+submit
+Resources For…
+MSOE University
+1025 North Broadway
+Milwaukee,
+WI
+53202-3109
+(800) 332-6763
+explore@msoe.edu
+Connect With MSOE
+Facebook
+Instagram
+Twitter
+Linkedin
+YouTube
+Vimeo

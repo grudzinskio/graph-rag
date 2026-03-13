@@ -1,0 +1,136 @@
+SCI 2000 - Sound and Light -
+2025-2026 Undergraduate Academic Catalog
+Milwaukee School of Engineering
+Mar 12, 2026
+2025-2026 Undergraduate Academic Catalog
+Select a Catalog
+2025-2026 Undergraduate Academic Catalog
+2025-2026 Graduate Academic Catalog
+2024-2025 Undergraduate Academic Catalog-June [ARCHIVED CATALOG]
+2024-2025 Graduate Academic Catalog-June [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Graduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Graduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Graduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Graduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Graduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Graduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Graduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Graduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Graduate Academic Catalog [ARCHIVED CATALOG]
+2013-14 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2012-2014 Graduate Academic Catalog [ARCHIVED CATALOG]
+2012-2013 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+Global Search
+Catalog Search
+Choose Search Location
+Select an option
+Courses
+Programs
+Academic Departments
+Other Content
+Entire Catalog
+Search Keyword Field
+Whole Word/Phrase
+Advanced Search
+Catalog Navigation
+Catalog Home
+Academic Calendar
+University Overview
+Admissions
+Student Financial Services
+Academic Regulations and Policies
+Degree Programs, Minors, and Certificates
+Degrees, Minors, and Certificates by Department
+Course Descriptions
+The Raider Core
+Explorer Pathways
+MSOE Honors Program
+Global Opportunities
+Reserve Officers’ Training Corps. (ROTC)
+Administration, Regents, and Advisory Committees
+Departments and Faculty
+Campus Map
+Student Resources
+My Portfolio
+HELP
+2025-2026 Undergraduate Academic Catalog
+Print this Page
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+SCI 2000 - Sound and Light
+3
+lecture hours
+0
+lab hours
+3
+credits
+Course Description
+Human hearing and vision are exquisitely sensitive instruments for investigating the world around us. This course features an exploration of the biological, chemical, and physical mechanisms of how these senses detect sound and light as well as some of the psychological impacts of these sense experiences. This exploration of senses is paired with discussion of how waves behave (sound and light are types of waves), including wave generation, propagation, attenuation, and other wave phenomena. The course also compares the natural audio and electromagnetic radiation that humans have evolved to perceive with the man-made sources that fill our everyday experience and discusses qualitative and quantitative techniques for evaluating and comparing sources. Building on these basic concepts, the course seeks to give students tools to investigate how these phenomena impact experience of the world as well as how these ideas can be used purposefully in human-designed spaces.
+Prereq:
+MTH 1110
+(quarter system prereq: MA 136)
+Note:
+Students choose between
+Think Critically
+or
+Exhibit Curiosity.
+This course meets the following Raider Core CLO Requirement:
+Think Critically, Exhibit Curiosity
+Course Learning Outcomes
+Upon successful completion of this course, the student will be able to:
+Explain the operation of the human hearing and vision systems in detail including physiological and neurological mechanisms as well as psychological impacts
+Describe characteristics of sound and articulate criteria for evaluation and comparison of sounds, including quantitative measures such as harmonic content but also more subjective features
+Distinguish between standing and traveling waves and perform simple wave calculations, such as finding the period, frequency and amplitude in simple harmonic motion
+Explain and predict wave phenomena such as refraction, interference, the effect of polarization elements, beat frequencies, the doppler effect, etc.
+Recognize the difference in scale and propagation media between sound and light waves
+Know the speed of light and be able to determine the speed of sound in air from the temperature
+Convert from decibels to watts per square meter and vice versa
+Define and distinguish photometric terms such as intensity, irradiance, lumen, foot-candle, lambert, etc.
+Calculate the illuminance on a surface due to a given source
+Predict the resultant color obtained by mixing two colors of light
+Compare qualitatively and quantitatively artificial and natural light sources as well as identify criteria for evaluating light sources
+Perform acoustic calculations such as predicting the reverberation time in a room whose materials and dimensions are given
+Perform illumination calculations such as determining the number of light fixtures of a given type that are required to produce a given illumination level in a room
+Prerequisites by Topic
+Calculus 1
+Course Topics
+General physiology of human hearing and vision
+The perception of light, human eye physiology and sensitivity, comparative eye physiology, contrasting with cameras, etc.
+The perception of sound, noise vs music, why are some sounds pleasing and others not
+Waves, standing waves, wave propagation,
+Wave phenomena such as refraction and interference
+Sound levels, dB scale, sound wave propagation
+Sound absorption and isolation and calculations
+Sound generation, instruments, harmonics, spectral characteristics
+Performance acoustics, unique spaces such as concert halls, acoustic technology
+Physics of light and color, light waves, polarization
+Artificial light sources, their spectra, brightness, directionality, and other comparisons
+Properties of natural light, scattering of light
+Lighting calculations, intensity, luminosity, etc.
+Electrical implications of different light sources: e.g. dimming, color, efficiency, etc.
+Coordinator
+Dr. Zach Simmons
+Print this Page
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+All
+catalogs
+© 2026 Milwaukee School of Engineering.
+Powered by
+Modern Campus Catalog™
+.

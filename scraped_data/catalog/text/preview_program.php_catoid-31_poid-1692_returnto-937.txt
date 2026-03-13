@@ -1,0 +1,429 @@
+Program: User Experience, B.S. - Milwaukee School of Engineering
+Milwaukee School of Engineering
+Mar 12, 2026
+2023-2024 Undergraduate Academic Catalog
+Select a Catalog
+2025-2026 Undergraduate Academic Catalog
+2025-2026 Graduate Academic Catalog
+2024-2025 Undergraduate Academic Catalog-June [ARCHIVED CATALOG]
+2024-2025 Graduate Academic Catalog-June [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Graduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Graduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Graduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Graduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Graduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Graduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Graduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Graduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Graduate Academic Catalog [ARCHIVED CATALOG]
+2013-14 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2012-2014 Graduate Academic Catalog [ARCHIVED CATALOG]
+2012-2013 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+Global Search
+Catalog Search
+Choose Search Location
+Select an option
+Courses
+Programs
+Academic Departments
+Other Content
+Entire Catalog
+Search Keyword Field
+Whole Word/Phrase
+Advanced Search
+Catalog Navigation
+Catalog Home
+Academic Calendar
+University Overview
+Admissions
+The Raider Core
+Academic Regulations and Policies
+Student Financial Services
+Degrees, Minors, and Certificates by Department
+Degree Programs, Minors, and Certificates
+Course Descriptions
+MSOE Honors Program
+Global Opportunities
+Reserve Officers’ Training Corps. (ROTC)
+Administration, Regents, and Advisory Committees
+Faculty and Faculty Emeriti
+Campus Map
+Student Resources
+My Portfolio
+HELP
+2023-2024 Undergraduate Academic Catalog
+[ARCHIVED CATALOG]
+User Experience, B.S.
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Return to:
+Degrees, Minors, and Certificates by Department
+Program Director
+Dr. Nadya Shalamova
+Office: DH436
+Phone: (414) 277-2331
+Email:
+shalamova@msoe.edu
+Overview
+Committed to designing for people, User Experience (UX) professionals create user-friendly products and services that make the world better for all.  Our curriculum empowers students to embrace the power of human-centered design and computing to create innovative design solutions to complex problems.  Our Gene Carter Usability Lab provides students with the opportunity to collaborate with community partners, research, design and prototype human-centered interfaces, products, and services.
+Educational Objectives
+The program aims to produce graduates who will:
+Use their education to become productive and contributing professionals in their chosen field.
+Demonstrate initiative and leadership in their professional activities.
+Demonstrate commitment to continued professional development.
+Understand the impact of their professional activities on society.
+Student Outcomes
+Upon successful completion of the program, students should be able to:
+Identify and employ inclusive, human-centered design and other appropriate methodologies to create innovative products and services
+Explain and effectively apply visual, user interface, voice, and data visualization design principles
+Analyze user needs to synthesize data and conduct user research
+Demonstrate proficiency in core front-end and contemporary technologies
+Exercise professional integrity by evaluating and applying ethical standards of UX and contemporary technology
+Navigate team dynamics and collaborate effectively
+Exhibit proficiency in oral, written, interpersonal, and visual communication
+Select and use appropriate professional software and tools
+View Annual Student Enrollment and Graduation Data
+Jump to:
+Approved UX Program Electives
+User Experience, B.S. Version S1
+Year One
+Fall
+Total: 16 lecture hours - 0 lab hours - 16 credits
+COM 1001 - College Writing
+3
+credits
+♦ Raider Core:
+Communicate Effectively
+MTH 1050 - Finite Mathematics
+4
+credits
+TCM 1010 - Argument and Persuasion
+3
+credits
+*
+UXD 1001 - Human-Centered Design
+3
+credits
+*
+UXD 1020 - Visual Design
+3
+credits
+*
+Spring
+Total: 16 lecture hours - 0 lab hours - 16 credits
+MTH 2450 - Business Statistics and Analytics
+4
+credits
+♦ Raider Core:
+Think Critically
+PSY 2002 - Psychology of Design
+3
+credits
+*
+TCM 1020 - Writing for Digital Media
+3
+credits
+*
+UXD 1030 - Interface Design
+3
+credits
+*
+UXD 1040 - Design Thinking
+3
+credits
+* ♦ Raider Core:
+Integrate Learning
+Year Two
+Fall
+Total: 15 lecture hours - 2 lab hours - 16 credits
+COM 2001 - Writing for the STEM Disciplines
+3
+credits
+♦ Raider Core:
+Collaborate Successfully/Communicate Effectively
+CSC 1110 - Software Development
+4
+credits
+TCM 2010 - Interpersonal Communication
+3
+credits
+*
+UXD 2010 - Inclusive Design
+3
+credits
+*
+UXD 2020 - Interaction Design
+3
+credits
+*
+Spring
+Total: 15 lecture hours - 0 lab hours - 15 credits
+COM 3001 - Professional Presentations
+3
+credits
+♦ Raider Core:
+Collaborate Successfully/Communicate Effectively
+TCM 2020 - Communication Dynamics of High-Performance Teams
+3
+credits
+*
+UXD 2030 - Designing for Extended Reality
+3
+credits
+*
+UXD 2040 - People + Automation
+3
+credits
+*
+UXD 2050 - UX Writing
+3
+credits
+*
+Year Three
+Fall
+Total: 14 lecture hours - 2 lab hours - 15 credits
+MEC 1602 - Introduction to Solid Modeling and Design
+3
+credits
+Raider Core Elective ♦
+Exhibit Curiosity
+3 credits
+1
+TCM 3010 - Digital Storytelling
+3
+credits
+*
+UXD 3010 - UX Research
+3
+credits
+*
+UXD 3020 - Design for Chat and Voice
+3
+credits
+*
+Spring
+Total: 15 lecture hours - 0 lab hours - 15 credits
+TCM 3020 - Advanced Presentations
+3
+credits
+*
+UXD 3030 - Data Visualization
+3
+credits
+*
+UXD 3040 - Agile Project Management
+3
+credits
+*
+UXD 3050 - Search Engine Optimization
+3
+credits
+*
+UXD 3060 - Professional Portfolio
+3
+credits
+*
+Year Four
+Fall
+Total: 15 lecture hours - 0 lab hours - 15 credits
+Elective (Program)
+3 credits
+2
+PHL 3102 - Ethics of Digital Technologies and Artificial Intelligence
+3
+credits
+♦ Raider Core:
+Demonstrate Ethical Understanding
+Raider Core Elective ♦
+Embrace Diversity
+3 credits
+1
+UXD 4020 - UX of Physical Products
+3
+credits
+*
+UXD 4901 - UX Senior Design
+3
+credits
+* ♦ Raider Core:
+Integrate Learning
+Spring
+Total: 15 lecture hours - 0 lab hours - 15 credits
+Elective (Program)
+3 credits
+2
+Elective (Program)
+3 credits
+2
+Raider Core Elective ♦
+Choice of CLO
+3 credits
+1,2
+SOC 4001 - Digital Society
+3
+credits
+UXD 4030 - UX Strategy
+3
+credits
+*
+Program total: 121 lecture hours - 4 lab hours - 123 credits
+Notes:
+* Courses with an asterisk are used to calculate major GPA.
+See
+The Raider Core
+page for details on the general education program and Common Learning Outcomes (CLOs).
+1
+The noted CLO is a placeholder. Raider Core electives can be taken in any order, as long as
+Exhibit Curiosity
+,
+Embrace Diversity
+, and
+Demonstrate Ethical Understanding
+are all covered. With some exceptions, these courses must be taught out of the Humanities, Social Science, and Communication Department.
+2
+ANT, PHL, PSY, AND SOC courses taken as program electives must be unique and taken separately from the Raider Core electives.
+3
+This course can assess any of the following CLOs:
+Collaborate Successfully
+,
+Think Critically
+,
+Demonstrate Ethical Understanding
+,
+Exhibit Curiosity
+, or
+Embrace Diversity
+. With some exceptions, these courses must be taught out of the Mathematics, Physics & Chemistry, or Humanities, Social Sciences, and Communication Departments.
+Approved UX Program Electives
+ANT 1001 - Cultural Anthropology
+3
+credits
+BUS 3445 - Leadership Communication
+3
+credits
+BUS 2010 - Business Analysis and Data Storytelling
+3
+credits
+BUS 2100 - Organizational Management
+3
+credits
+BUS 2411 - Building Inclusive Teams
+3
+credits
+BUS 2660 - Marketing
+3
+credits
+BUS 3650 - Branding and Brand Management
+3
+credits
+BUS 3670 - Marketing Research
+3
+credits
+BUS 3740 - Emerging Technology
+3
+credits
+BUS 3850 - Topics in Artificial Intelligence
+3
+credits
+BUS 4320 - Business Startups for Entrepreneurs
+3
+credits
+BUS 4660 - Digital Marketing
+3
+credits
+CSC 1120 - Data Structures and Graphical Interfaces
+4
+credits
+CSC 1310 - Introduction to Programming with Python
+3
+credits
+CSC 2611 - AI Tools
+3
+credits
+CSC 2621 - Introduction to Data Science
+3
+credits
+FNA 4010 - Film and Media Studies
+3
+credits
+IDS 3901 - Interdisciplinary Design
+3
+credits
+PHL 3205 - Minds, Brains, and Computers
+3
+credits
+PHL 3207 - Philosophy of Science
+3
+credits
+PHL 3208 - Philosophy of Art
+3
+credits
+PSY 2003 - Organizational Psychology
+3
+credits
+PSY 3001 - Cognitive Psychology
+3
+credits
+PSY 3003 - Developmental Psychology
+3
+credits
+PSY 3004 - Social Psychology
+3
+credits
+SOC 3001 - Cybercrime: Human Perspectives
+3
+credits
+SWE 2511 - Web Applications
+3
+credits
+TCM 2050 - Health Care Communication
+3
+credits
+TCM 3030 - e-Learning Development
+3
+credits
+TCM 3110 - Project Communications
+3
+credits
+TCM 3210 - User Documentation
+3
+credits
+UXD 2963 - Intelligent User Interfaces
+1
+credits
+UXD 4040 - UX in Transportation
+3
+credits
+UXD 4060 - UX in Healthcare
+3
+credits
+UXD 4801 - UX Internship
+3
+credits
+Return to:
+Degrees, Minors, and Certificates by Department
+Back to Top
+|
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+All
+catalogs
+© 2026 Milwaukee School of Engineering.
+Powered by
+Modern Campus Catalog™
+.

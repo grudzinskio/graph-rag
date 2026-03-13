@@ -1,0 +1,384 @@
+Course Descriptions - Milwaukee School of Engineering
+Milwaukee School of Engineering
+Mar 12, 2026
+2012-2013 Undergraduate Academic Catalog
+Select a Catalog
+2025-2026 Undergraduate Academic Catalog
+2025-2026 Graduate Academic Catalog
+2024-2025 Undergraduate Academic Catalog-June [ARCHIVED CATALOG]
+2024-2025 Graduate Academic Catalog-June [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Graduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Graduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Graduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Graduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Graduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Graduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Graduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Graduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Graduate Academic Catalog [ARCHIVED CATALOG]
+2013-14 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2012-2014 Graduate Academic Catalog [ARCHIVED CATALOG]
+2012-2013 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+Global Search
+Catalog Search
+Choose Search Location
+Select an option
+Courses
+Programs
+Academic Departments
+Other Content
+Entire Catalog
+Search Keyword Field
+Whole Word/Phrase
+Advanced Search
+Catalog Navigation
+Catalog Home
+President’s Welcome
+Academic Calendar
+University Overview
+Enrollment Management Department
+Academic Regulations and Policies
+Student Accounts, Fees and Financial Aid
+Other Academic Resources
+Academic Departments, Degree Programs, Minors and Certificates
+Degree Programs, Minors and Certificates
+Two-degree Programs
+Graduate Studies Programs
+Reserve Officer Training Corps (ROTC)
+Course Descriptions
+Board of Regents, Academic Administration, Faculty and Advisory Committees
+Campus Map
+My Portfolio
+HELP
+2012-2013 Undergraduate Academic Catalog
+[ARCHIVED CATALOG]
+Course Descriptions
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Course Filter
+Filter this list of courses using course prefix, course code, keywords or any combination.
+Prefix:
+Code or Number:
+Type
+Keyword or Phrase:
+Choose Course Prefix
+All prefixes…
+AE
+AF
+AR
+BE
+BI
+CE
+CH
+CM
+CS
+CV
+EB
+EE
+EG
+EN
+ET
+FP
+GE
+GS
+HU
+IE
+MA
+ME
+MS
+MT
+NS
+NU
+OR
+PH
+SC
+SE
+SS
+TC
+Choose Course Number
+Choose Course Type
+All types…
+Architectural Engineering
+Air Force
+Army
+Biomedical Engineering
+Biological Sciences
+Computer Engineering
+Chemistry
+Construction Management
+Computer Science
+Civil Engineering
+BioMolecular Engineering
+Electrical Engineering
+Engineering Graphics
+English
+Engineering Technology
+Fluid Power
+General Engineering
+General Studies
+Humanities
+Industrial Engineering
+Mathematics
+Mechanical Engineering
+Management Systems
+Mechanical Technology
+Naval Science
+Nursing
+Orientation
+Physics
+Science
+Software Engineering
+Social Sciences
+Technical Communication
+Choose Keyword
+Find whole word or phrase only.
+Biomedical Engineering
+•
+BE 206 - Biomedical Signals and Systems I
+•
+BE 352 - Survey of Biomedical Engineering
+•
+BE 410 - Biomaterials
+•
+BE 411 - Biomechanics
+•
+BE 499 - Clinical Internship
+•
+BE 1000 - Introduction to Biomedical Engineering
+•
+BE 2000 - Biomedical Engineering Design I
+•
+BE 2200 - Computing in Biomedical and BioMolecular Engineering
+•
+BE 3000 - Biomedical Engineering Design II
+•
+BE 3001 - Biomedical Engineering Design III
+•
+BE 3002 - Biomedical Engineering Design IV
+•
+BE 3100 - Quantitative Systems Physiology I
+•
+BE 3110 - Quantitative Systems Physiology II
+•
+BE 3300 - Biomedical Engineering Transfer Topics
+•
+BE 3500 - Bio-thermal-fluid Transport 1
+•
+BE 3510 - Bio-thermal-fluid Transport 2
+•
+BE 3600 - Biomedical Instrumentation
+•
+BE 3800 - Biomedical Signals and Systems II
+•
+BE 3900 - Physiology and Bio-System Joint Laboratory
+•
+BE 3910 - Physiology and Biotransport Joint Laboratory
+•
+BE 3920 - Biomaterials and Biomechanics Joint Laboratory
+•
+BE 4000 - Biomedical Engineering Design V
+•
+BE 4001 - Biomedical Engineering Design VI
+•
+BE 4002 - Biomedical Engineering Design VII
+•
+BE 4311 - Neural Signals and Systems
+•
+BE 4340 - Advanced Topics in Biomedical Digital Signal Processing
+•
+BE 4700 - Biomedical Electronics
+•
+BE 4800 - Biomedical Digital Signal Processing
+•
+BE 4810 - Biomedical Feedback Control Systems I
+•
+BE 4820 - Biomedical Feedback Control Systems II
+•
+BE 4830 - Medical Imaging Systems
+•
+BE 4980 - Independent Study
+Biological Sciences
+•
+BI 102 - Cell Biology and Genetics
+•
+BI 172 - Human Anatomy and Physiology I
+•
+BI 256 - Microbiology
+•
+BI 273 - Human Anatomy and Physiology II
+•
+BI 274 - Human Anatomy and Physiology III
+•
+BI 373 - Physiology I
+•
+BI 374 - Physiology II
+•
+BI 499 - Life Science Independent Study
+•
+BI 2020 - Cellular Microbiology
+Computer Engineering
+•
+CE 498 - Topics in Computer Engineering
+•
+CE 499 - Independent Study
+•
+CE 1900 - Digital Logic I: Combinational Systems
+•
+CE 1910 - Digital Logic II: Sequential Systems
+•
+CE 2800 - Embedded Systems I
+•
+CE 2811 - Embedded Systems II
+•
+CE 2930 - Introduction to Computer Architecture
+•
+CE 3100 - Digital Electronics and Computer Interfacing
+•
+CE 3200 - Wireless Sensor Networks
+•
+CE 3910 - Embedded Systems III
+•
+CE 4000 - Senior Design Project I
+•
+CE 4010 - Senior Design Project II
+•
+CE 4020 - Senior Design Project III
+•
+CE 4220 - Mobile Networks and Simulation
+•
+CE 4920 - Embedded Systems IV
+•
+CE 4930 - Computer Architecture II
+•
+CE 4950 - Networking I
+•
+CE 4960 - Networking II
+Chemistry
+•
+CH 103 - Principles of Chemistry
+•
+CH 199 - Project in Chemistry
+•
+CH 200 - Chemistry I
+•
+CH 200A - Chemistry I
+•
+CH 201 - Chemistry II
+•
+CH 222 - Organic Chemistry I
+•
+CH 223 - Biochemistry
+•
+CH 302 - Chemistry III
+•
+CH 303 - Chemistry III LAB
+•
+CH 310 - Applied Chemistry
+•
+CH 322 - Organic Chemistry II
+•
+CH 323 - Organic Chemistry II LAB
+•
+CH 353 - Fundamentals of Environmental Chemistry
+•
+CH 371 - Modern Biotechnology
+•
+CH 373 - Advanced Biotechnology
+•
+CH 401 - Topics in Chemistry
+•
+CH 499 - Independent Study
+•
+CH 2050 - General Chemistry for Life Sciences
+•
+CH 2100H - Honors Chemistry I
+•
+CH 2250 - Organic Chemistry for Life Sciences
+•
+CH 2260 - Biochemistry for Life Sciences
+•
+CH 3650 - Chemistry of Materials
+•
+CH 3660 - Surface Properties of Materials
+Construction Management
+•
+CM 212 - Surveying
+•
+CM 224 - Construction Estimating I
+•
+CM 311 - Construction Site Engineering Issues
+•
+CM 312 - Advanced Building Construction Methods and Site Engineering Issues
+•
+CM 316 - Building Electrical and Communication Systems for CM
+•
+CM 318 - Building Environmental and Mechanical Systems for CM
+•
+CM 325 - Construction Estimating II
+•
+CM 3011 - Project Management for AEs and CMs
+•
+CM 3013 - Construction Project Financial and Cost Control
+•
+CM 3021 - Business and Construction Law
+•
+CM 3022 - Business and Construction Law
+•
+CM 3161 - Building Electrical and Communication Systems for CM
+•
+CM 3181 - Building Environmental and Mechanical Systems for CM
+•
+CM 3210 - Construction Scheduling
+•
+CM 3411 - Construction Equipment and Safety Management for CMs
+•
+CM 3417 - Construction Equipment Management
+•
+CM 4002 - Sustainable Design and Construction
+•
+CM 4311 - Construction Project Management I
+Page:
+1
+|
+2
+|
+3
+|
+4
+|
+5
+|
+6
+|
+7
+|
+8
+|
+9
+|
+10
+Back to Top
+|
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+All
+catalogs
+© 2026 Milwaukee School of Engineering.
+Powered by
+Modern Campus Catalog™
+.

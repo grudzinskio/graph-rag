@@ -1,0 +1,479 @@
+Program: Architectural Engineering B.S., M.S. - Milwaukee School of Engineering
+Milwaukee School of Engineering
+Mar 12, 2026
+2018-2019 Undergraduate Academic Catalog
+Select a Catalog
+2025-2026 Undergraduate Academic Catalog
+2025-2026 Graduate Academic Catalog
+2024-2025 Undergraduate Academic Catalog-June [ARCHIVED CATALOG]
+2024-2025 Graduate Academic Catalog-June [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Graduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Graduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Graduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Graduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Graduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Graduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Graduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Graduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Graduate Academic Catalog [ARCHIVED CATALOG]
+2013-14 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2012-2014 Graduate Academic Catalog [ARCHIVED CATALOG]
+2012-2013 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+Global Search
+Catalog Search
+Choose Search Location
+Select an option
+Courses
+Programs
+Academic Departments
+Other Content
+Entire Catalog
+Search Keyword Field
+Whole Word/Phrase
+Advanced Search
+Catalog Navigation
+Catalog Home
+Academic Calendar
+University Overview
+Enrollment Management Department
+Academic Regulations and Policies
+Student Financial Services
+Academic Departments, Undergraduate Degree Programs, Minors and Certificates
+Degree Programs, Minors and Certificates
+University Scholars Honors Program
+Reserve Officer Training Corps (ROTC)
+Course Descriptions
+Administration, Board of Regents, Faculty and Advisory Committees
+Campus Map
+Student Resources
+My Portfolio
+HELP
+2018-2019 Undergraduate Academic Catalog
+[ARCHIVED CATALOG]
+Architectural Engineering B.S., M.S.
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Return to:
+Academic Departments, Undergraduate Degree Programs, Minors and Certificates
+Architectural Engineering B.S., M.S Track V1.0
+Year One
+Fall
+AE 1001 - Freshman Seminar I
+4
+credits
+GS 1001 - Freshman Studies I
+4
+credits
+MA 136 - Calculus I
+4
+credits
+PH 2011 - Physics I - Mechanics
+4
+credits
+Total: 14 lecture hours - 4 lab hours - 16 credits
+Winter
+AE 1002 - Freshman Seminar II
+4
+credits
+GS 1002 - Freshman Studies II
+4
+credits
+MA 137 - Calculus II
+4
+credits
+CH 200 - Chemistry I
+4
+credits
+Total: 14 lecture hours - 4 lab hours - 16 credits
+Spring
+AE 1231 - Building Construction Materials
+4
+credits
+GS 1003 - Freshman Studies III
+4
+credits
+MA 231 - Calculus III
+4
+credits
+CH 201 - Chemistry II
+4
+credits
+Total: 48 Credits
+Total: 14 lecture hours - 4 lab hours - 16 credits
+Year Two
+Fall
+AE 200 - Statics
+4
+credits
+AE 2001 - Building Information Modeling
+2
+credits
+CM 2200 - Building Construction Methods
+3
+credits
+MA 235 - Differential Equations
+4
+credits
+PH 2021 - Physics II - ElectroMagnetism
+4
+credits
+GE 205 - Professional Growth
+0
+credits
+Total: 15 lecture hours - 6 lab hours - 17 credits
+Winter
+AE 201 - Strength of Materials
+4
+credits
+AE 2121 - Fundamentals of Thermodynamics
+4
+credits
+MA 232 - Calculus IV
+3
+credits
+PH 2031 - Waves, Optics, Thermodynamics, and Quantum Physics
+4
+credits
+Total: 14 lecture hours - 2 lab hours - 15 credits
+Spring
+AE 2130 - Introduction to Fluid Mechanics
+4
+credits
+EE 201 - Linear Networks: Steady-State Analysis
+4
+credits
+MA 262 - Probability and Statistics
+3
+credits
+Elective (HU/SS)
+1
+3 credits
+Elective (Math/Science)
+2
+3 credits
+Total: 16 lecture hours - 2 lab hours - 17 credits
+Total: 49 Credits
+Year Three
+Fall
+AE 3201 - Principles of Structural Engineering
+4
+credits
+AE 3301 - Principles of Building Mechanical Systems
+4
+credits
+AE 3601 - Principles of Electrical Engineering for Buildings
+4
+credits
+CM 4311 - Construction Project Management I
+4
+credits
+GE 305 - Professional Growth
+0
+credits
+Total: 16 lecture hours - 2 lab hours - 16 credits
+Winter
+Elective (HU/SS)
+1
+3 credits
+BSS:
+AE 3211 - Structural Analysis
+4
+credits
+AE 3221 - Steel Design
+4
+credits
+CV 3500 - Geotechnical Engineering
+4
+credits
+BMS:
+AE 3421 - Building Mechanical Systems I
+4
+credits
+AE 3521 - Plumbing Systems Design
+4
+credits
+AE 3531 - Fire Suppression Systems Design
+4
+credits
+BEPS:
+AE 3622 - Building Electrical Systems I
+4
+credits
+AE 3632 - Illumination Systems Design
+4
+credits
+AE 3636 - Communication Systems Design
+4
+credits
+Total:
+BSS: 13 lecture hours - 4 lab hours - 15 credits
+BMS and BEPS: 14 lecture hours - 2 lab hours - 15 credits
+Spring
+AE 3321 - Architectural History
+3
+credits
+Elective (Math/Science)
+2
+3 credits
+Elective (HU/SS)
+1
+3 credits
+BSS:
+AE 3231 - Concrete Design
+4
+credits
+AE 3251 - Structural Systems Design
+4
+credits
+BMS:
+AE 3422 - Building Mechanical Systems II
+4
+credits
+BEPS:
+AE 3661 - Electrical Power Quality for Buildings
+4
+credits
+BMS and BEPS:
+AE 3451 - Building Systems Control
+4
+credits
+Total:
+BSS: 16 lecture hours - 2 lab hours - 17 credits
+BMS and BEPS: 15 lecture hours - 4 lab hours - 17 credits
+Total: 48 Credits
+Year Four
+Fall
+AE 4311 - Architectural Design
+3
+credits
+AE 4712 - Architectural Engineering and Construction Management Design-Build Senior Project I
+2
+credits
+EN 441 - Professional Presentation Techniques
+3
+credits
+GE 405 - Professional Growth
+0
+credits
+BSS:
+AE 6210 - Applied Finite Elements
+3
+credits
+AE 6212 - Structural Dynamics
+3
+credits
+MEP:
+AE 6460 - Life Cycle Assessment of Building Systems
+3
+credits
+AE 5402 - Building Mechanical System Design
+3
+credits
+OR
+9
+AE 5404 - Building Electrical System Design
+3
+credits
+Total: 12 lecture hours - 6 lab hours - 14 credits
+Winter
+AE 4721 - Architectural Engineering and Construction Management Design-Build Senior Project II
+3
+credits
+AE 4121 - Environmental Science in Building Construction
+3
+credits
+Elective (Technical)
+6
+3 credits
+BSS:
+AE 5234 - Foundation Design
+3
+credits
+AE 5240 - Masonry Design
+3
+credits
+MEP:
+AE 6410 - Data Driven Modeling
+3
+credits
+AE 6440 - Sustainable Built Environment
+3
+credits
+Total: 13 lecture hours - 3 lab hours - 15 credits
+Spring
+AE 4733 - AE Senior Project Working Drawings
+3
+credits
+AE 4731 - Architectural Engineering and Construction Management Design-Build Senior Project III
+4
+credits
+Elective (Technical)
+6
+3 credits
+BSS:
+AE 5210 - Matrix Structural Analysis
+3
+credits
+AE 5250 - Wood Design
+3
+credits
+MEP:
+AE 5450 - Building Control System Design
+3
+credits
+AE 5460 - Commissioning
+3
+credits
+Total: 12 lecture hours - 5 lab hours - 16 credits
+Total: 45 Credits
+Year Five
+Fall
+AE 4412 - Engineering and Building Investment Economics
+4
+credits
+Elective (Technical)
+6
+3 credits
+BSS and MEP:
+Graduate Elective (Technical)
+11
+3 credits
+Graduate Elective (Technical)
+11
+3 credits
+And
+AE 8900 - Capstone Project I
+3
+credits
+OR
+Graduate Elective (Technical)
+11
+3 credits
+Total: 15 lecture hours - 0 lab hours - 15 credits
+Winter
+CM 3024 - Construction Law
+4
+credits
+Elective (HU/SS)
+1
+3 credits
+BSS and MEP:
+Graduate Elective (Technical)
+11
+3 credits
+Graduate Elective (Technical)
+11
+3 credits
+And
+AE 8910 - Capstone Project II
+3
+credits
+OR
+Graduate Elective (Technical)
+11
+3 credits
+Total: 16 lecture hours - 0 lab hours - 16 credits
+Spring
+HU 432 - Ethics for Professional Managers and Engineers
+3
+credits
+Elective (Free)
+7
+3 credits
+BSS and MEP:
+Graduate Elective (Free)
+12
+3 credits
+Graduate Elective (Free)
+12
+3 credits
+And
+AE 8920 - Capstone Project III
+3
+credits
+OR
+AE 8000 - Research and Presentation
+3
+credits
+Total: 15 lecture hours - 0 lab hours - 15 credits
+Total: 46 credits
+Total: 236 credits
+Notes:
+1
+There are 12 credits of humanities and social science (HU/SS) electives, six must be in humanities (HU) and six must be in social science (SS).
+2
+These credits may be taken from the math (MA) or science (BI, CH, PH, SC) area. Consult the Academic Catalog for prerequisites and limitations. Math electives include the following:
+MA 330
+,
+MA 343
+,
+MA 380
+,
+MA 381
+,
+MA 382
+,
+MA 383
+,
+MA 387
+.
+3
+All students must choose one of the three specialty sequences of classes beginning in the winter quarter of the junior year (BSS- Building Structural Systems; BMS- Building Mechanical Systems; or BEPS- Building Electrical Power Systems).
+4
+Prerequisite courses vary by specialty. See Academic Catalog for prerequisite courses.
+5
+Refer to the Academic Catalog for a detailed list of requirements for entrance into senior project sequence.
+6
+A “technical elective” is defined as any engineering, business, management or technical communication course, 200/2000 level or higher. Courses taken as technical electives may not be used to satisfy a minor. Engineering technology (ET, MT), general education (GE), humanities (HU/SS), mathematics (MA), nursing (NU) or nursing-specific courses/electives, orientation (OR), pure science (BI, CH, PH, SC), ROTC (AF, AR, NS) or undergraduate research (UR) courses are not eligible as technical electives.
+7
+These three credits may be taken from any field.
+8
+Masters students must decide between a Building Structural Systems (BSS) specialty or the Mechanical Electrical-Plumbing (MEP) specialty.
+9
+Students with a background in mechanical or plumbing systems need to take
+AE 5404
+as an electrical design leveling course, students with a background in electrical sustems need to take
+AE 5402
+as a mechanical design leveling course.
+10
+Students have the option to either complete a three-course capstone option (
+AE 8900
+,
+AE 8910
+,
+AE 8920
+) or to take a project course (
+AE 8000
+) and an additional two technical elective courses.
+11
+Graduate technical electives are any course from AE or CV that are 500/5000 level or higher.
+12
+Graduate free electives are any course that is 500/5000 level or higher.
+Admission to the MS portion of the BS/MS AE program in the student’s senior year is contingent upon maintaining a minimum overall MSOE GPA for 3.0 or above. Otherwise, the student will have to apply in writing, and admission is then at the discretion of the Program Director.
+Return to:
+Academic Departments, Undergraduate Degree Programs, Minors and Certificates
+Back to Top
+|
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+All
+catalogs
+© 2026 Milwaukee School of Engineering.
+Powered by
+Modern Campus Catalog™
+.

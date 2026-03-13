@@ -1,0 +1,127 @@
+ELE 2021 - Transfer Electric Circuits -
+Milwaukee School of Engineering
+Mar 12, 2026
+2025-2026 Undergraduate Academic Catalog
+Select a Catalog
+2025-2026 Undergraduate Academic Catalog
+2025-2026 Graduate Academic Catalog
+2024-2025 Undergraduate Academic Catalog-June [ARCHIVED CATALOG]
+2024-2025 Graduate Academic Catalog-June [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Graduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Graduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Graduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Graduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Graduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Graduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Graduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Graduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Graduate Academic Catalog [ARCHIVED CATALOG]
+2013-14 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2012-2014 Graduate Academic Catalog [ARCHIVED CATALOG]
+2012-2013 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+Global Search
+Catalog Search
+Choose Search Location
+Select an option
+Courses
+Programs
+Academic Departments
+Other Content
+Entire Catalog
+Search Keyword Field
+Whole Word/Phrase
+Advanced Search
+Catalog Navigation
+Catalog Home
+Academic Calendar
+University Overview
+Admissions
+Student Financial Services
+Academic Regulations and Policies
+Degree Programs, Minors, and Certificates
+Degrees, Minors, and Certificates by Department
+Course Descriptions
+The Raider Core
+Explorer Pathways
+MSOE Honors Program
+Global Opportunities
+Reserve Officers’ Training Corps. (ROTC)
+Administration, Regents, and Advisory Committees
+Departments and Faculty
+Campus Map
+Student Resources
+My Portfolio
+HELP
+2025-2026 Undergraduate Academic Catalog
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+ELE 2021 - Transfer Electric Circuits
+3
+lecture hours
+2
+lab hours
+4
+credits
+Course Description
+This course is utilized to document approved transfer credit in calculus-based engineering Electric Circuits from another college, normally as part of an articulation agreement, and is not intended for regular offering at MSOE. Topics include electrical quantities and passive components, DC and AC steady-state series-parallel circuit analysis using circuit laws and analysis techniques, ideal operational amplifier circuits in standard configurations, AC complex power, Thévenin and Norton equivalent circuits of DC and AC circuits, and the step responses of series and parallel RL and RC circuits with initial conditions using differential equation-based time domain analysis techniques. The transfer course must contain a corresponding laboratory component.
+Prereq:
+None
+Note:
+Both ELE 2021 and
+ELE 2022
+are required to satisfy the
+ELE 2001
+and
+ELE 2011
+, Electric Circuits I and II, respectively, course requirements at MSOE.
+This course meets the following Raider Core CLO Requirement:
+None
+Course Learning Outcomes
+Upon successful completion of this course, the student will be able to:
+Demonstrate knowledge of electrical quantities in a steady-state DC context:  voltage, current, resistance, power, and energy, including SI units and prefixes
+Identify sources and loads in an energy conversion context, shorts and opens
+Relate symbols and circuit schematics to physical components
+Identify common circuit configurations: series, parallel, series-parallel, and standard ideal op-amp configurations
+Analyze DC series and parallel circuits through application of Kirchhoff’s voltage and current laws
+Analyze DC series-parallel circuits, including use of the voltage and current divider rules, of linear circuit elements
+Analyze DC circuits using nodal analysis
+Analytically determine Thévenin and Norton equivalent circuits of DC circuits
+Demonstrate knowledge of electric circuit quantities in a steady-state AC context:  voltage, current, resistance, reactance, impedance, admittance, conductance, and susceptance, including SI units and prefixes
+Demonstrate knowledge of capacitance, inductance, and the following items for capacitors and inductors: i-v relationships, reactance, DC behavior, and AC behavior
+Compute impedances, voltages, and currents using complex numbers in AC calculations
+Analyze AC steady-state series-parallel circuits using impedances and admittances and using nodal circuit techniques
+Determine complex power for single-phase AC circuits from the phasor voltage and current
+Analyze ideal op-amp circuits in standard configurations
+Determine the step response of series and parallel (not series-parallel) RL and RC circuits with initial conditions using differential-equation based time domain analysis techniques
+Identify the time constant of series and parallel RL and RC circuits
+Prerequisites by Topic
+None
+Coordinator
+Dr. Brian Faulkner
+Back to Top
+|
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+All
+catalogs
+© 2026 Milwaukee School of Engineering.
+Powered by
+Modern Campus Catalog™
+.

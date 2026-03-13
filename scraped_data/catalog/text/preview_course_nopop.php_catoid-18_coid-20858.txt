@@ -1,0 +1,120 @@
+AE 3201 - Principles of Structural Engineering -
+Milwaukee School of Engineering
+Mar 12, 2026
+2018-2019 Undergraduate Academic Catalog
+Select a Catalog
+2025-2026 Undergraduate Academic Catalog
+2025-2026 Graduate Academic Catalog
+2024-2025 Undergraduate Academic Catalog-June [ARCHIVED CATALOG]
+2024-2025 Graduate Academic Catalog-June [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Graduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Graduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Graduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Graduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Graduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Graduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Graduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Graduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Graduate Academic Catalog [ARCHIVED CATALOG]
+2013-14 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2012-2014 Graduate Academic Catalog [ARCHIVED CATALOG]
+2012-2013 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+Global Search
+Catalog Search
+Choose Search Location
+Select an option
+Courses
+Programs
+Academic Departments
+Other Content
+Entire Catalog
+Search Keyword Field
+Whole Word/Phrase
+Advanced Search
+Catalog Navigation
+Catalog Home
+Academic Calendar
+University Overview
+Enrollment Management Department
+Academic Regulations and Policies
+Student Financial Services
+Academic Departments, Undergraduate Degree Programs, Minors and Certificates
+Degree Programs, Minors and Certificates
+University Scholars Honors Program
+Reserve Officer Training Corps (ROTC)
+Course Descriptions
+Administration, Board of Regents, Faculty and Advisory Committees
+Campus Map
+Student Resources
+My Portfolio
+HELP
+2018-2019 Undergraduate Academic Catalog
+[ARCHIVED CATALOG]
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+AE 3201 - Principles of Structural Engineering
+4
+lecture hours
+0
+lab hours
+4
+credits
+Course Description
+This course builds on concepts from statics and mechanics of materials to introduce the student to the principles of structural engineering. Students will be introduced to structural analysis of determinate structures, design of steel and reinforced concrete beams, and design of steel columns.   (prereq:
+AE 201
+)
+Course Learning Outcomes
+Upon successful completion of this course, the student will be able to:
+Describe the material properties of steel and concrete and the common geometric properties of steel and reinforced concrete structural elements
+Describe the assumed mechanical behavior of flexural members and compressive elements made with steel or reinforced concrete
+Analyze framing plans to determine loadings on structural components
+Analyze statically determinate structural elements and systems to determine the internal forces and the displacements
+Analyze steel or reinforced concrtee elements to determine their flexural or compressive capacity
+Describe common connections of structural members
+Prerequisites by Topic
+Static analysis of beams, frames and trusses
+Deformation and displacement of statically determinate systems
+Course Topics
+Review of tributary load, load types, shear and moment diagrams
+Design approaches - ASD and LRFD
+Introduction to steel materials and shapes
+Introduction to AISC specifications for beams and columns
+Steel beam flexural and shear capacity including Lat-Tors buckling
+Steel column capacity; buckling
+Introduction to bolted and welded connections
+Introduction to concrete and reinforcement materials and shapes
+Introduction to ACI specifications for beams and columns
+Moment-Curvature behavior of reinforced concrete beams, stress-strain relations
+Reinforced concrete beam flexural and shear capacity
+Estimating reinforced concrete beam deflections
+Introduction to detailing concrete reinforcement
+Reinforced concrete column capacity (axial load only)
+Coordinator
+Christopher Raebel
+Back to Top
+|
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+All
+catalogs
+© 2026 Milwaukee School of Engineering.
+Powered by
+Modern Campus Catalog™
+.

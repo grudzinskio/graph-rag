@@ -1,0 +1,347 @@
+Program: Software Engineering, B.S. - Milwaukee School of Engineering
+Milwaukee School of Engineering
+Mar 12, 2026
+2024-2025 Undergraduate Academic Catalog-June
+Select a Catalog
+2025-2026 Undergraduate Academic Catalog
+2025-2026 Graduate Academic Catalog
+2024-2025 Undergraduate Academic Catalog-June [ARCHIVED CATALOG]
+2024-2025 Graduate Academic Catalog-June [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Graduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Graduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Graduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Graduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Graduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Graduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Graduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Graduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Graduate Academic Catalog [ARCHIVED CATALOG]
+2013-14 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2012-2014 Graduate Academic Catalog [ARCHIVED CATALOG]
+2012-2013 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+Global Search
+Catalog Search
+Choose Search Location
+Select an option
+Courses
+Programs
+Academic Departments
+Other Content
+Entire Catalog
+Search Keyword Field
+Whole Word/Phrase
+Advanced Search
+Catalog Navigation
+Catalog Home
+Academic Calendar
+University Overview
+Admissions
+Student Financial Services
+Academic Regulations and Policies
+Degree Programs, Minors, and Certificates
+Degrees, Minors, and Certificates by Department
+Course Descriptions
+The Raider Core
+MSOE Honors Program
+Global Opportunities
+Reserve Officers’ Training Corps. (ROTC)
+Administration, Regents, and Advisory Committees
+Departments and Faculty
+Campus Map
+Student Resources
+My Portfolio
+HELP
+2024-2025 Undergraduate Academic Catalog-June
+[ARCHIVED CATALOG]
+Software Engineering, B.S.
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Return to:
+Degrees, Minors, and Certificates by Department
+Program Director
+Dr. Chris Taylor (interim)
+Office: DH-411
+Phone: (414) 277-7339
+Email:
+taylor@msoe.edu
+Overview
+Software engineering applies engineering concepts, techniques and methods to the development of software systems. The software engineering program develops engineering professionals with a mastery of software development theory, practice, and process.
+Software engineering is based on computer science in the same way other engineering disciplines are based on physical or life sciences. However, it adds an emphasis on issues of requirements, process, design, measurement, analysis, and verification, providing a strong foundation in engineering principles and practice as applied to software development.
+Program Educational Objectives
+The software engineering program is preparing graduates, within a few years of graduation, to:
+Contribute as a software engineering professional
+Apply knowledge of software engineering practice and process
+Work within a broader institutional and societal context
+Exercise technical and professional leadership
+Innovate and improve technologies and processes
+Progress in responsibility
+Integrate ethical and professional concerns
+Continue to learn
+Seek and adapt to change
+Leverage and apply advancements in the profession
+Collaborate effectively
+Demonstrate personal accountability
+Communicate to a variety of audiences
+Display interpersonal skills
+Cooperate in and facilitate teamwork
+Participate in professional networks
+Student Outcomes
+Upon successful completion of the software engineering program, graduates will have:
+an ability to identify, formulate, and solve complex engineering problems by applying principles of engineering, science, and mathematics
+an ability to apply engineering design to produce solutions that meet specified needs with consideration of public health, safety, and welfare, as well as global, cultural, social, environmental, and economic factors
+an ability to communicate effectively with a range of audiences
+an ability to recognize ethical and professional responsibilities in engineering situations and make informed judgments, which must consider the impact of engineering solutions in global, economic, environmental, and societal contexts
+an ability to function effectively on a team whose members together provide leadership, create a collaborative and inclusive environment, establish goals, plan tasks, and meet objectives
+an ability to develop and conduct appropriate experimentation, analyze and interpret data, and use engineering judgement to draw conclusions
+an ability to acquire and apply new knowledge as needed, using appropriate learning strategies
+The Software Engineering (BS) program is accredited by the Engineering Accreditation Commission of
+ABET
+, under the commission’s General Criteria and Program Criteria for Software Engineering.
+View Annual Student Enrollment and Graduation Data
+Software Engineering, B.S. Version S1
+Year One
+Fall
+Total: 13 lecture hours - 4 lab hours - 15 credits
+COM 1001 - College Writing
+3
+credits
+♦ Raider Core:
+Communicate Effectively
+CSC 1110 - Software Development
+4
+credits
+1 *
+MTH 1110 - Calculus I
+4
+credits
+PHY 1110 - Physics I - Mechanics and Thermodynamics
+4
+credits
+1
+♦ Raider Core:
+Think Critically
+Spring
+Total: 14 lecture hours - 4 lab hours - 15 credits
+CSC 1120 - Data Structures and Graphical Interfaces
+4
+credits
+1 *
+Elective (Lab Science)
+4 credits
+1,2
+IDS 2020 - Career Development
+0
+credits
+MTH 1120 - Calculus II
+4
+credits
+UXD 1001 - Human-Centered Design
+3
+credits
+Year Two
+Fall
+Total: 14 lecture hours - 4 lab hours - 16 credits
+BUS 2411 - Building Inclusive Teams
+3
+credits
+MTH 2310 - Discrete Mathematics
+3
+credits
+Raider Core Elective
+3 credits
+3
+♦
+Exhibit Curiosity
+SWE 2511 - Web Applications
+3
+credits
+1 *
+SWE 2710 - Software Tools and Process
+4
+credits
+1 *
+Spring
+Total: 14 lecture hours - 4 lab hours - 16 credits
+COM 2001 - Writing for the STEM Disciplines
+3
+credits
+♦ Raider Core:
+Collaborate Successfully/Communicate Effectively
+CSC 2210 - Procedural and Object-Oriented C++
+4
+credits
+*
+MTH 2480 - Probability and Statistics
+3
+credits
+SWE 2410 - Design and Cloud Patterns
+3
+credits
+1 *
+SWE 2721 - Introduction to Software Verification
+3
+credits
+1 *
+Year Three
+Fall
+Total: 13 lecture hours - 6 lab hours - 16 credits
+COM 3001 - Professional Presentations
+3
+credits
+♦ Raider Core:
+Collaborate Successfully/Communicate Effectively
+CSC 3210 - Operating Systems
+3
+credits
+*
+CSC 3320 - Databases
+3
+credits
+1 *
+SWE 3411 - Software Requirements and Architecture
+4
+credits
+1 *
+SWE 3710 - Software Development Laboratory I
+3
+credits
+1 *
+Spring
+Total: 14 lecture hours - 4 lab hours - 16 credits
+CSC 3310 - Algorithms and Advanced Data Structures
+3
+credits
+*
+MTH 2340 - Linear Algebra with Applications
+3
+credits
+Raider Core Elective ♦
+Embrace Diversity
+3 credits
+3
+SWE 3720 - Software Development Laboratory II
+3
+credits
+1 *
+♦ Raider Core:
+Integrate Learning
+SWE 4511 - DevSecOps
+4
+credits
+1 *
+Year Four
+Fall
+Total: 12 lecture hours - 2 lab hours - 15 credits
+Elective (Math or Science)
+3 credits
+4
+Elective (Program-Lower Technical)
+3 credits
+5 *
+Choice of
+PHL 3101
+,
+PHL 3102
+, or
+PHL 3103
+3 credits
+3
+♦ Raider Core:
+Demonstrate Ethical Understanding
+SWE 4211 - Real-time Systems
+3
+credits
+1 *
+SWE 4901 - Software Engineering Capstone I
+3
+credits
+*
+Spring
+Total: 13 lecture hours - 0 lab hours - 15 credits
+Elective (Free)
+3 credits
+6
+Elective (Math or Science)
+3 credits
+4
+Elective (Program-Upper Technical)
+3 credits
+7 *
+Raider Core Elective ♦
+Choice of CLO
+3 credits
+3
+SWE 4902 - Software Engineering Capstone II
+3
+credits
+* ♦ Raider Core:
+Integrate Learning
+Program total: 107 lecture hours - 28 lab hours - 124 credits
+Notes:
+* Courses with an asterisk are used to calculate major GPA. If a course offered by either the CSSE or ECBE Departments is chosen for the free elective, it will count toward the student’s major GPA.
+See
+The Raider Core
+page for details on the general education program and Common Learning Outcomes (CLOs). See the
+full list of courses covering CLOs
+for the Software Engineering program.
+1
+Includes a laboratory component.
+2
+Any 4 or more credit hour course that includes a laboratory component and is offered by the Physics and Chemistry Department.
+3
+Twelve
+Raider Core credit hours
+of foundational knowledge in the humanities and social sciences. The combination of courses must address and assess all of the following Common Learning Outcomes:
+Exhibit Curiosity
+,
+Embrace Diversity
+,
+and
+Demonstrate Ethical Understanding
+. The CLO noted on these courses is a placeholder. They can be taken in any order as long as they are all covered.
+4
+A total of 6 credit hours of coursework offered by the Math or Physics and Chemistry departments.
+5
+Any 3 or more credit hour course offered by either the CSSE or ECBE Departments that has a course number of 2000 or higher.
+6
+Any 3 or more credit hour course not found in the free elective exclusion list. If a course offered by either the CSSE or ECBE Departments is chosen for the free elective, it will count toward the student’s major GPA.
+7
+Any 3 or more credit hour course offered by either the CSSE or ECBE Departments that has a course number of 3000 or higher.
+The following ROTC courses could count for free elective credit in the software engineering major (there are 3 credits of free electives in the major):
+AIR 4141
+National Security Affairs/Preparation for Active Duty I (3 credits)
+AIR 4142
+National Security Affairs/Preparation for Active Duty II (3 credits)
+ARM 1800
+American Crucible: The Military and the Development of the United States (3 credits)
+NAV 3964
+Practicum in U.S. Marine Corps Leadership and Management (4 credits)
+NAV 4186
+Leadership and Core-Value-Based Decision-Making (3 credits)
+Return to:
+Degrees, Minors, and Certificates by Department
+Back to Top
+|
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+All
+catalogs
+© 2026 Milwaukee School of Engineering.
+Powered by
+Modern Campus Catalog™
+.

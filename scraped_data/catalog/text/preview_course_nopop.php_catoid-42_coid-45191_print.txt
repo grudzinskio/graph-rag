@@ -1,0 +1,153 @@
+BME 3410 - Biomechanics -
+2025-2026 Undergraduate Academic Catalog
+Milwaukee School of Engineering
+Mar 12, 2026
+2025-2026 Undergraduate Academic Catalog
+Select a Catalog
+2025-2026 Undergraduate Academic Catalog
+2025-2026 Graduate Academic Catalog
+2024-2025 Undergraduate Academic Catalog-June [ARCHIVED CATALOG]
+2024-2025 Graduate Academic Catalog-June [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Graduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Graduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Graduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Graduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Graduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Graduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Graduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Graduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Graduate Academic Catalog [ARCHIVED CATALOG]
+2013-14 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2012-2014 Graduate Academic Catalog [ARCHIVED CATALOG]
+2012-2013 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+Global Search
+Catalog Search
+Choose Search Location
+Select an option
+Courses
+Programs
+Academic Departments
+Other Content
+Entire Catalog
+Search Keyword Field
+Whole Word/Phrase
+Advanced Search
+Catalog Navigation
+Catalog Home
+Academic Calendar
+University Overview
+Admissions
+Student Financial Services
+Academic Regulations and Policies
+Degree Programs, Minors, and Certificates
+Degrees, Minors, and Certificates by Department
+Course Descriptions
+The Raider Core
+Explorer Pathways
+MSOE Honors Program
+Global Opportunities
+Reserve Officers’ Training Corps. (ROTC)
+Administration, Regents, and Advisory Committees
+Departments and Faculty
+Campus Map
+Student Resources
+My Portfolio
+HELP
+2025-2026 Undergraduate Academic Catalog
+Print this Page
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+BME 3410 - Biomechanics
+3
+lecture hours
+2
+lab hours
+4
+credits
+Course Description
+This course presents the fundamentals of human biomechanics and introduces multiple applications to sports, rehabilitation, and occupational biomechanics. The course starts with the study of engineering dynamics parameters and the forces and moments causing motion. Studies of linear motion, rotational motion, dynamic force analysis, work and energy, and impulse and momentum problems are illustrated. The course then discusses the application of kinematic and kinetic analyses of major human joint motions. Topics include anthropometry, mechanical work and energy, muscle mechanics, synthesis of human movement, repetitive motion, and introduction to the design of prosthetic devices.
+Prereq:
+BIO 2510
+,
+MEC 2010
+(quarter system prereq: BI 2306, ME 205)
+Note:
+None
+This course meets the following Raider Core CLO Requirement:
+None
+Course Learning Outcomes
+Upon successful completion of this course, the student will be able to:
+Determine the position, velocity, and acceleration of particles subjected to linear and rotational motions
+Determine the trajectory of projectiles given initial conditions
+Determine the motion of kinetic systems using the principle of work, energy, impulse, and momentum
+Define the terms, anatomical axes, and planes associated with human movement
+Perform basic anthropometric measurements and statistically determine common features between different populations
+Understand the physiology associated with skeletal muscle contractions, strength evaluation, joint mechanics, energy requirements, and fatigue
+Understand the principles and use of electromyography as a biomechanics investigational tool
+Apply the appropriate statistics and interpreting their results when analyzing biomechanical signals and systems
+Demonstrate proficiency in using computer-aided tools to analyze biomedical signals and systems, and for biomedical system modeling
+Define the design and behavior of the instrumentation, transducers, force plates, etc. used to collect and process human movement data
+Develop 2D link-segment models from basic anthropometric and kinematic data
+Obtain inverse solutions of joint moments and reaction forces from kinematic and force plate data
+Apply the principles of ergonomics in the design of medical equipment
+Use of the NIOSH lifting model for the evaluation of lifting tasks
+Prerequisites by Topic
+Knowledge of engineering statics
+Human physiology and knowledge of skeletal muscles
+Course Topics
+Intro to biomechanics; applications
+Body movements and terminology
+Anthropometry
+Functional anatomy of the skeletal system and joints: Review
+Joint biomechanics and joint stability
+Principles and use of electromyography
+Linear kinematics
+Angular kinematics
+Linear kinetics
+Angular kinetics
+Center of mass and stability
+Work and energy
+Conservation of energy
+Researching the biomechanics literature/model selection/group formations (2D link model)
+Impulse and momentum
+Impact and collisions
+2D 6 links human model
+Introduction to gait analysis
+Deformable body mechanics, viscoelastic models
+Occupational Biomechanics: NIOSH guidelines
+Ergonomics
+Rehabilitation engineering and assistive technologies
+Laboratory Topics
+Anthropometric measurements
+Center of mass motion during one leg, two leg, eyes open and closed trials for balance and fall risk assessments
+Kinematic and kinetic analysis of a major human joint (e.g., elbow, shoulder, knee) movement
+Analysis of impulse forces while walking/jumping
+EMG signal acquisition and processing
+Measurement postural sway using center of pressure data
+Analysis of the gait function
+Coordinator
+Dr. Ahmed Sayed
+Print this Page
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+All
+catalogs
+© 2026 Milwaukee School of Engineering.
+Powered by
+Modern Campus Catalog™
+.

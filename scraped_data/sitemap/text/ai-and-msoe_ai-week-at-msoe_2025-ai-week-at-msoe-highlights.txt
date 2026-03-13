@@ -1,0 +1,103 @@
+2025 AI Week at MSOE Highlights | MSOE
+Skip to Main Content
+Home
+AI and MSOE
+MSOE AI Week
+2025 AI Week at MSOE Highlights
+2025 AI Week at MSOE Highlights
+Below are the highlights from the 2025 AI Week at MSOE.
+Highlights from AI Week 2025
+The theme for AI Week 2025 was
+AI: The Future is Now
+. The weeklong event featured poster presentations, speakers, networking, the Rosie Supercomputer Super Challenge and more! A diverse array of industry experts served as keynote speakers, representing companies such as NVIDIA, Vanderbilt University, GE HealthCare, Medical College of Wisconsin and others. All events were free to attend.
+Events were held on MSOE's campus.
+View our campus map.
+View the 2025 AI Week at MSOE schedule by day:
+Tuesday, April 22, 2025
+|
+Wednesday, April 23, 2025
+|
+Thursday, April 24, 2025
+|
+Saturday, April 26, 2025
+Tuesday, April 22, 2025
+Innovative Teaching: Insights on Generative AI in Education
+Interact with MSOE’s Copilot 365 AI Community of Practice (AI CoP) members. The AI CoP is a group of MSOE faculty members who are exploring the features, potential, and pitfalls of Copilot 365 and other generative AI tools with a focus on how they can benefit university faculty and, indirectly, students. Topics include:
+Teaching responsible and effective use of AI tools.
+Generating and enhancing course presentations, handouts, and assignments (including lab activities) using AI tools.
+The creation of course- and instructor-specific AI agents (virtual tutors).
+Understanding the risks and benefits of automating the evaluation of student work.
+Identifying the misuse of AI tools by students, including using AI use detection tools.
+Automating routine and repetitive faculty administrative tasks using AI tools.
+The “Pocket Professor” CS Senior Design team will demonstrate their “AI Pocket Professor” chat agents that leverage recorded lectures for tunable instructional agents.
+Data Science Practicum Lightning Talks
+Current students in the CSC 4801 Data Science Practicum will present short talks on the current state of their projects. In this class students work in teams tackling data science problems for real clients using real data.
+AI in Healthcare: Transforming Patient Care and Innovation
+Keynote speakers will present and engage in discussion about options for AI integration into hospital and healthcare systems, with specific examples from Froedtert Hospital. Networking and a reception will allow ample opportunity for further discussion.
+AI in Healthcare - Responsibility and Enablement
+Melissa Desnoyers, Global Program Manager, EEDP, GE HealthCare
+Healthcare Panel - Integrating AI in Healthcare to Optimize Patient Care and Quality Outcomes
+Sheila Blogg, MSN, RN, PMC-NE, PMC-NL, MHFAC, Director of Nursing Services, Froedtert Hospital
+Eric Pieters, MSN, APNP, FNP, Nursing Operations and Projects Manager, Froedtert Hospital
+Lori Smith, Registered Cardiac Invasive Technologist, Advocate Aurora Cath Lab
+Wearable Devices, Partnering with Artificial Intelligence, Are Going to Transform Healthcare Delivery
+William Hall, MD, Professor and Chair of Department of Radiation Oncology, Department of Surgery, Medical College of Wisconsin
+Modeling with Meaning: Responsible AI for Drug Design
+Behrgen Smith '23, Engineering Scientist I at Congruence Therapeutics, Montreal, Quebec, Canada
+How to Think About How AI Thinks
+Chris Feilbach '13, Senior CPU Architect, NVIDIA
+Databricks User Group
+Learn how Databricks is revolutionizing the development and deployment of AI Agents:
+Compound AI Systems: Learn what makes these systems different from traditional AI models and how they work together
+Mosaic AI Agent Framework: See how this framework makes it easier to build and manage AI agents
+Tools & Integration: Learn how to use Unity Catalog functions as tools for AI agents – making them easy to find, manage, and share
+Live Demo: Set up an AI agent to analyze data and make decisions using natural language
+Wednesday, April 23, 2025
+MSOE AI Alumni Council Networking and Resume Raid
+Join members of MSOE's AI Alumni Council for insights on what prospective employers are looking for in a resume. Be prepared with a copy of your resume to review.
+Rosie Supercomputer Super Challenge Awards
+MSOE students will demonstrate how they've used Rosie the supercomputer to solve a problem, improve a process or answer a difficult question during the Rosie Supercomputer Super Challenge. Judging will take place by:
+Dr. Dwight Diercks ’90, NVIDIA senior VP of software engineering, MSOE Regent
+Nick Haemel ’02, NVIDIA VP of medical imaging and system software, MSOE Regent
+Dr. Jeremy Kedziora, PieperPower Endowed Chair of AI
+Dr. Derek Riley, MSOE computer science program director
+Rosie Awards Poster Session
+Rosie Awards Finals
+Thursday, April 24, 2025
+AI at MSOE: Student Voices
+Hear from MSOE students Nathan Seefeld (EE), Zachary Burke (UX), Ben Leshin (UX), Delande Forestal (AE), Lorelei Hengst (SE), Zach Peterson (BME), Cameron Pineres (IE), Ben Paulson (CS), and Brett Storoe (CS) and their thoughts on AI.
+Distinguished Lecturer: Dr. Jules White, Director of Future of Learning & Generative AI, Professor of Computer Science, Vanderbilt University
+Dr. Jules White's keynote presentation focuses on generative AI as a new paradigm in computing—one that centers human ideas as the starting point for computational action. Rather than relying on traditional programming, this approach allows people to express complex goals in natural language, making it possible to “compute on thought” across disciplines. His talk will explore how generative AI reshapes our relationship with technology by enabling systems that respond to intent, refine outputs through dialogue, and integrate diverse tools and data. The result is a more interdisciplinary model of innovation, where domain experts, creatives, and technologists collaborate through shared language. At its core, this shift is about augmented intelligence: amplifying human creativity, reasoning, and problem-solving—not replacing it—so that computing becomes a more fluid extension of human thought.
+White is Senior Advisor to the Chancellor, Director of Vanderbilt’s Initiative on the Future of Learning & Generative AI, and Professor of Computer Science in the Department of Computer Science at Vanderbilt University. He created one of the first online classes for Prompt Engineering (
+https://coursera.org/learn/prompt-engineering
+). His online courses have had over ~
+620,000 people
+enroll and have been covered in media outlets, such as The Wall Street Journal, CNN, and The Guardian. White is a National Science Foundation CAREER Award recipient. He won the 2024 Coursera Innovation Award. His research has won multiple Best Paper Awards. He has also published over 170 papers. He is an inventor on multiple patents and has launched several venture-backed startup companies.
+Saturday, April 26, 2025
+NVIDIA Deep Learning Institute Workshop
+View the 2025 AI Week at MSOE schedule by day:
+Tuesday, April 22, 2025
+|
+Wednesday, April 23, 2025
+|
+Thursday, April 24, 2025
+|
+Saturday, April 26, 2025
+Menu
+Search
+submit
+Resources For…
+MSOE University
+1025 North Broadway
+Milwaukee,
+WI
+53202-3109
+(800) 332-6763
+explore@msoe.edu
+Connect With MSOE
+Facebook
+Instagram
+Twitter
+Linkedin
+YouTube
+Vimeo

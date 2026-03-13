@@ -1,0 +1,446 @@
+Program: Electrical Engineering Technology, B.S. - Milwaukee School of Engineering
+Milwaukee School of Engineering
+Mar 12, 2026
+2012-2013 Undergraduate Academic Catalog
+Select a Catalog
+2025-2026 Undergraduate Academic Catalog
+2025-2026 Graduate Academic Catalog
+2024-2025 Undergraduate Academic Catalog-June [ARCHIVED CATALOG]
+2024-2025 Graduate Academic Catalog-June [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Graduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Graduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Graduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Graduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Graduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Graduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Graduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Graduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Graduate Academic Catalog [ARCHIVED CATALOG]
+2013-14 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2012-2014 Graduate Academic Catalog [ARCHIVED CATALOG]
+2012-2013 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+Global Search
+Catalog Search
+Choose Search Location
+Select an option
+Courses
+Programs
+Academic Departments
+Other Content
+Entire Catalog
+Search Keyword Field
+Whole Word/Phrase
+Advanced Search
+Catalog Navigation
+Catalog Home
+President’s Welcome
+Academic Calendar
+University Overview
+Enrollment Management Department
+Academic Regulations and Policies
+Student Accounts, Fees and Financial Aid
+Other Academic Resources
+Academic Departments, Degree Programs, Minors and Certificates
+Degree Programs, Minors and Certificates
+Two-degree Programs
+Graduate Studies Programs
+Reserve Officer Training Corps (ROTC)
+Course Descriptions
+Board of Regents, Academic Administration, Faculty and Advisory Committees
+Campus Map
+My Portfolio
+HELP
+2012-2013 Undergraduate Academic Catalog
+[ARCHIVED CATALOG]
+Electrical Engineering Technology, B.S.
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Return to:
+Academic Departments, Degree Programs, Minors and Certificates
+Program Director:
+To be determined
+Electrical Engineering and Computer Science Department
+Phone: (414) 277-7452
+Website:
+www.msoe.edu/eecs/et
+The prominence of electrical and electronic products in today’s society is increasing dramatically. Wireless communications, personal computers, efficient electric vehicles and high-definition television are just a few examples of exciting high-technology areas. Electrical engineering technology graduates are prepared to join industry in these and many other areas.
+2+2 Program
+The electrical engineering technology (EET) program at MSOE is a +2 EET (junior/senior years) program. Based on this design, students first complete an appropriate Associate of Applied Science (AAS) degree program at a two-year college before enrolling in the +2 program at MSOE.
+Students who have graduated with an AAS degree in electrical/electronics engineering technology from an institution with which MSOE has a transfer agreement in EET, and who meet the EET program admission requirements at MSOE, will be accepted into the EET program with junior standing. These students can follow the +2 EET track at MSOE without any need for prerequisite course work.
+Those with other AAS degrees, or other college experience, are encouraged to apply. Applicants who are accepted may be required to complete prerequisite course work. A transition plan into the BS-EET program will be developed with an EET program advisor. The transition plan will identify the prerequisites to be fulfilled in order to establish junior standing in the EET program.
+Program Goals
+The goals of the electrical engineering technology program are:
+to foster the personal and professional growth of its students.
+to produce competent and effective contributors to engineering technology and society as a whole.
+to provide a path for transfer students and working technicians to applied engineering positions.
+to achieve comprehension using an inductive, experience-based learning methodology that unites theory with practice.
+Program Educational Objectives
+Electrical Engineering Technology program graduates will:
+successfully function in applied engineering positions, demonstrating proficiencies that include problem solving and technical communications skills.
+continue to advance their skills through formal and informal activities related to their profession.
+exhibit conduct that is ethical and professional, including consideration of the societal and global impact of their professional endeavors.
+Student Outcomes
+Graduates of the electrical engineering technology program will:
+be able to unite theory with practice in engineering technology.
+have an ability to use modern computer tools and techniques in the solutions of applied engineering problems.
+have knowledge of mathematics, the basic sciences and the elements of engineering sciences as they apply to electrical engineering technology.
+be capable of developing test procedures, conducting tests, and interpreting experimental data.
+be capable of design based on specified requirements and known design techniques.
+possess problem-solving skills involving analysis, simulation, laboratory experimentation and teamwork, with application to electrical and electronic components, circuits, and systems.
+be proficient in oral and written communication, having the ability to write technical reports and conduct technical presentations of their work.
+have the preparation and an understanding of the importance to continue their education, both formally and informally, throughout their careers.
+have knowledge of professional and ethical responsibilities as applied to both engineering technology and society as a whole.
+have knowledge of economics, humanities, and social sciences.
+have knowledge of quality and continuous improvement, and ability to manage their project involvement, demonstrating project- and time-management skills on individual and team projects.
+The Electrical Engineering Technology (EET) Curriculum
+The EET program is accessible on both a full- and part-time basis to transfer students.
+The EET curriculum uses an experience-based learning methodology and, hence, most of the engineering technology and science courses have an associated laboratory. The electrical engineering technology program generally appeals to students who prefer the use of specific examples to help them learn the overall general concepts, and favor the use of physical concepts to clarify mathematics.
+Students in the EET program typically enter MSOE at the junior level. As students progress through the curriculum, the mathematics and science (physics and chemistry) courses, as well as previous engineering technology courses, lead into the more advanced engineering technology courses. This curricular approach fits well with the experience-based learning style and allows the student to reach and cover many advanced electrical and electronic topics such as:
+electrical and electronic circuit design.
+electronic signal representation and application to electronic circuits using Fourier series, Laplace transforms, Fourier transforms and digital signal processing.
+electronic communications including transmission lines and data communications.
+electromagnetic fields including an introduction to electromagnetic interference and signal integrity.
+control of systems using feedback.
+use of contemporary software tools and programming.
+digital- and microprocessor-based design.
+In addition to the breadth of these electrical topics, which are an integral part of the curriculum, the student completes a technical elective and a three-course senior project sequence in the senior year. The technical elective areas are offered based on student voting in the previous year (in the course
+GE 300
+). In the technical elective, students obtain a deeper understanding of the theory and applications in the topical area of the elective. Popular topical areas include analog and digital electronics, computer hardware and software, electronic communications, and industrial electronics and controls. In the senior project, students form teams that each define and complete a significant project. Examples of recent senior projects include:
+design of a closed-loop feedback control system for DC remote control cars to detect and control wheel slip.
+design of a solar-powered golf cart battery charging system.
+design of a wireless A/V switching system for aggregating multiple game consoles.
+design of an enhanced “white cane” with tactile feedback using an embedded multidimensional sensor for the visually impaired.
+design of an exercise bike that generates energy, and an associated energy storage system.
+design of an ice-fishing tip-up system that uses a wireless transmitter at each tip-up and a single receiver that identifies the triggered tip-up.
+FAA Approval
+The Federal Aviation Administration (FAA) has approved the MSOE EET curriculum, and has approved MSOE as a partnership institution, allowing EET students to participate in FAA internships and EET graduates to be hired through the FAA Collegiate Training Initiative (CTI) program.
+Career Opportunities
+Graduates of the electrical engineering technology program enter a variety of industries, such as:
+aerospace
+electronics and controls
+automation
+industrial equipment
+automotive
+instrumentation
+communications
+medical
+computers
+power generation and distribution
+Graduates of the program are inclined to enter industry in positions that involve:
+developing, designing or improving components and products.
+applications of engineering and technology to new and existing products, such as in applications engineering, field service or technical sales.
+manufacturing, testing or quality assurance of products.
+A few examples of industrial projects that program graduates have been involved with include:
+design and control of AC motor drive systems.
+establishment of wireless communications services in communities.
+design of RF (radio frequency) and microwave electronic circuits.
+testing products for electromagnetic interference.
+developing software for instrumentation and control.
+design or modification of digital- and/or microprocessor-based systems.
+2 + 2 Transfer Option
+A 2+2 transfer opportunity has been developed in cooperation with the Wisconsin Technical College System and with the College of Lake County in Illinois. Graduates from an Associate of Applied Science degree program in Electrical Engineering Technology (who meet specific conditions listed later in this section) at several Wisconsin and Illinois two-year colleges may transfer into the junior year of MSOE’s Bachelor of Science in Electrical Engineering Technology (BS-EET) program.
+This opportunity provides associate degree graduates with the education and skills they need for applied engineering positions in today’s fast-paced electronics industry. It also enables them to extend their education with study toward a BS-EET degree without losing credit for work already completed at the two-year college.
+This 2 + 2 program enables an EET associate degree graduate from a college in the Wisconsin Technical College System to be admitted with junior status into MSOE’s BS-EET program if the graduate meets the following conditions:
+has successfully completed all courses in the Associate of Applied Science in Electrical Engineering Technology program with a grade of “C” or better (not C-) in each course;
+has successfully completed any other specified courses, per the transfer agreement at the technical college, with a grade of “C” or better (not C-) in each course; and
+meets the MSOE admission requirements for transfer students into the BSEET program, with a cumulative GPA of 2.75 or greater for full acceptance (GPA of 2.50 to 2.74 for acceptance on probationary status).
+Consult the EET program Web page on the MSOE website,
+www.msoe.edu/eecs/et/2plus2.shtml
+, for a current list of transfer agreements with colleges in the Wisconsin Technical College System and in Illinois.
+Advice for Other Transfer Students
+Students whose previous formal education has been gained through a technical, community or junior college are required to consult with the Enrollment Management Department at MSOE about credit transfer. Consultation with an electrical engineering technology program advisor is required to plan a transition schedule around previously completed and qualifying academic experience.
+A student who plans to transfer from another college into the program at some future date is encouraged to correspond with the Enrollment Management Department at MSOE. The student will be assisted in coordinating, as closely as possible, courses to be taken at another institution of higher education with those courses that are part of the graduation requirements at MSOE. The MSOE philosophy of individual attention to each student is a major factor in making a successful academic transition possible.
+Model Full-time Track - V7.6
+Year Three
+Fall
+MA 227 - Differential Equations for Technologists
+3
+credits
+ET 3051 - Signals, Circuits, and Systems I
+4
+credits
+OR 307S - Transfer Orientation Seminar
+0
+credits
+ET 3900 - Design of Logic Systems
+4
+credits
+EG 1260 - Engineering Graphics – Visualization
+1
+credits
+AE 1311 - Introduction to CAD
+1
+credits
+SS 461 - Organizational Psychology
+3
+credits
+1
+Total: 14 lecture hours - 7 lab hours - 16 credits
+Winter
+EN 241 - Speech
+3
+credits
+1
+ET 3001 - Transient Circuit Analysis
+4
+credits
+ET 3910 - Embedded Systems
+4
+credits
+MT 4502 - Mechanics
+3
+credits
+GE 300 - Career and Professional Guidance
+1
+credits
+IE 423 - Engineering Economy
+3
+credits
+1
+Total: 14 lecture hours - 8 lab hours - 18 credits
+Spring
+ET 3060 - Signals, Circuits, and Systems II
+4
+credits
+CH 310 - Applied Chemistry
+4
+credits
+ET 3202 - Electromagnetic Field Concepts
+4
+credits
+ET 3100 - Electronic Circuit Design
+4
+credits
+Total: 14 lecture hours - 4 lab hours - 16 credits
+Year Four
+Fall
+ET 4620 - Data Communications
+4
+credits
+ET 4261 - Transmission Lines
+4
+credits
+ET 4710 - Feedback Control Systems and Circuits
+4
+credits
+MS 4801 - Project Management
+3
+credits
+ET 4021 - Senior Project I
+1
+credits
+Total: 13 lecture hours - 6 lab hours - 16 credits
+Winter
+ET 4250 - Electromagnetic Field Applications
+4
+credits
+HU 100 - Contemporary Issues in the Humanities
+3
+credits
+1
+ET 4022 - Senior Project II
+1
+credits
+Elective (Technical – EET)
+3 credits
+ET 4601 - Quality in Electronic Systems
+3
+credits
+Elective (HU)
+3 credits
+1
+Total: 14 lecture hours - 6 lab hours - 17 credits
+Spring
+PH 361 - Physics of Materials
+4
+credits
+MT 4511 - Thermodynamics and Heat Transfer
+3
+credits
+ET 4023 - Senior Project III
+3
+credits
+HU 423 - American Literature
+3
+credits
+Elective (HU)
+3 credits
+1
+Total: 14 lecture hours - 4 lab hours - 16 credits
+Note:
+1
+These courses are also offered in different quarters. Consult with an EET advisor for alternative scheduling. Accredited by the Engineering Technology Accreditation Commission of ABET,
+http://www.abet.org
+.
+Model Part-time Track - V7.6
+Year One
+Fall
+MA 227 - Differential Equations for Technologists
+3
+credits
+ET 3051 - Signals, Circuits, and Systems I
+4
+credits
+OR 307S - Transfer Orientation Seminar
+0
+credits
+Total: 7 lecture hours - 2 lab hours - 7 credits
+Winter
+EN 241 - Speech
+3
+credits
+1
+ET 3001 - Transient Circuit Analysis
+4
+credits
+Total: 5 lecture hours - 4 lab hours - 7 credits
+Spring
+ET 3060 - Signals, Circuits, and Systems II
+4
+credits
+CH 310 - Applied Chemistry
+4
+credits
+Total: 7 lecture hours - 2 lab hours - 8 credits
+Summer
+IE 423 - Engineering Economy
+3
+credits
+1
+Total: 3 lecture hours - 0 lab hours - 3 credits
+Year Two
+Fall
+ET 3900 - Design of Logic Systems
+4
+credits
+EG 1260 - Engineering Graphics – Visualization
+1
+credits
+AE 1311 - Introduction to CAD
+1
+credits
+Total: 4 lecture hours - 5 lab hours - 6 credits
+Winter
+ET 3910 - Embedded Systems
+4
+credits
+MT 4502 - Mechanics
+3
+credits
+Total: 6 lecture hours - 2 lab hours - 7 credits
+Spring
+ET 3202 - Electromagnetic Field Concepts
+4
+credits
+ET 3100 - Electronic Circuit Design
+4
+credits
+Total: 7 lecture hours - 2 lab hours - 8 credits
+Summer
+SS 461 - Organizational Psychology
+3
+credits
+1
+Total: 3 lecture hours - 0 lab hours - 3 credits
+Year Three
+Fall
+ET 4620 - Data Communications
+4
+credits
+ET 4261 - Transmission Lines
+4
+credits
+Total: 7 lecture hours - 2 lab hours - 8 credits
+Winter
+ET 4250 - Electromagnetic Field Applications
+4
+credits
+HU 100 - Contemporary Issues in the Humanities
+3
+credits
+1
+GE 300 - Career and Professional Guidance
+1
+credits
+Total: 6 lecture hours - 4 lab hours - 8 credits
+Spring
+PH 361 - Physics of Materials
+4
+credits
+MT 4511 - Thermodynamics and Heat Transfer
+3
+credits
+Total: 6 lecture hours - 2 lab hours - 7 credits
+Summer
+Elective (HU)
+3 credits
+1
+Total: 3 lecture hours - 0 lab hours - 3 credits
+Year Four
+Fall
+ET 4710 - Feedback Control Systems and Circuits
+4
+credits
+MS 4801 - Project Management
+3
+credits
+ET 4021 - Senior Project I
+1
+credits
+Total: 6 lecture hours - 4 lab hours - 8 credits
+Winter
+ET 4022 - Senior Project II
+1
+credits
+Elective (Technical – EET)
+3 credits
+ET 4601 - Quality in Electronic Systems
+3
+credits
+Total: 5 lecture hours - 4 lab hours - 7 credits
+Spring
+ET 4023 - Senior Project III
+3
+credits
+HU 432 - Ethics for Professional Managers and Engineers
+3
+credits
+Total: 5 lecture hours - 2 lab hours - 6 credits
+Winter
+Elective (HU)
+3 credits
+1
+Total: 3 lecture hours - 0 lab hours - 3 credits
+Note:
+1
+These courses are also offered in different quarters. Consult with an EET advisor for alternative scheduling.
+Accredited by the Engineering Technology Accreditation Commission of ABET,
+http://www.abet.org
+.
+Return to:
+Academic Departments, Degree Programs, Minors and Certificates
+Back to Top
+|
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+All
+catalogs
+© 2026 Milwaukee School of Engineering.
+Powered by
+Modern Campus Catalog™
+.

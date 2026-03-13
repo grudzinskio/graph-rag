@@ -1,0 +1,113 @@
+Hydraulic Systems Volume 1: Introduction to Hydraulics for Industry Professionals | MSOE
+Skip to Main Content
+Home
+Academics
+Center for Professional Education
+Fluid Power Seminars
+Public Seminars and Events
+Hydraulic Systems Volume 1: Introduction to Hydraulics for Industry Professionals
+Hydraulic Systems Volume 1: Introduction to Hydraulics for Industry Professionals
+Hydraulic control serves almost all industries we can see around us, such as civil engineering, aerospace, military, agriculture, oil and gas, etc... This 27-hour (5-day) seminar overviews components and basics of building hydraulic systems.  The core part of the seminar covers the construction, operating principle, and sizing of basic hydraulic components such as pumps, motors, valves, cylinders, rotary actuators and accumulators.
+The course also presents the terminologies and interpretation of symbols that help in reading hydraulic circuit diagrams.  The seminar presents detailed discussion about line losses, and sources of inefficiencies in pumps. The course concludes by exploring the basic techniques to build hydraulic circuits that work safely and efficiently. The course covers basic applications such as pressure limiting, pump unloading, driving single and multiple actuators against, resistive, overrunning, and combined loads. Other applications are covered such as sequence control and hydrostatic transmission.
+Program Overview
+Dates:
+Sept 15-19, 2025
+CEUs:
+2.7 |
+PDHs:
+27
+Cost:
+$2,700 (
+Includes all handout materials, graduation luncheon and break refreshments)
+Who Should Attend
+This seminar presents wide foundational understanding of hydraulic systems. Both inexperienced and experienced people should take the course where everyone will have some space to learn things based on their needs. Despite being named "introduction," the contents of the seminar are certainly beyond that. The target audience is engineers, technical sales personnel, technicians, and even management personnel.
+Upon successful completion, you will be able to:
+Identify the distinguishing features of hydraulic systems
+Recognize hydraulic components symbols and read schematics based on ISO standards
+Read hydraulic circuits diagrams
+Perform the required calculation to size a basic hydraulic system
+Explain the operation and applications of pumps, motors, valves, cylinders, rotary actuators and accumulators
+Apply continuity and energy balance equations
+Describe the basic configuration and operation of hydrostatic transmissions
+Program Details
+Course Outline:
+CH01:
+Hydraulic Systems Overview
+CH02:
+Basic Concepts Review
+CH03:
+Hydraulic Component Sizing Calculations
+CH04:
+Hydraulic Pumps and Motors
+CH05:
+Hydraulic Valves Overview
+CH06:
+Hydraulic Reciprocating Actuators
+CH07:
+Hydraulic Accumulators.
+CH08:
+Hydraulic Circuits for Basic Applications.
+Seminar attendees receive a free copy of
+“Introduction to Hydraulics for Industry Professionals”
+Laboratory Sessions:
+Lab01:
+Energy Losses in Hydraulic Conductors
+Lab02:
+Power Distribution in a Hydraulic System
+Lab03:
+Valve Coefficient Development.
+Lab04:
+Motion Control of Hydraulic Cylinder.
+Lab05:
+Control of Overrunning Loads.
+Lab06:
+Speed Control of Hydraulic Actuator.
+Lab07:
+Boosting Speed of Hydraulic Cylinder.
+Lab08:
+Sequence Operation of Hydraulic Cylinder.
+Agenda
+Days 1-4:
+9 a.m. to 4 p.m. – Lunch: noon to 1 p.m.
+Day 5:
+9 am – noon.
+Link to full agenda
+Continental Breakfast and lunch will be served daily.
+Beverages/Snacks are provided throughout the day.
+Instructors
+Dr. Medhat Khalil
+– Director of Professional Education & Research Development, Applied Technology Center
+TM
+, Milwaukee School of Engineering
+Tim Kerrigan
+– Adjunct Trainer, Fluid Power Institute
+TM
+Previous Session Evaluations
+Introduction to Hydraulics (76042)
+Introduction to Hydraulics (77081)
+Introduction to Hydraulics (70243)
+Register Now!
+Register today to secure your seat for this seminar
+Register
+Dr. Medhat Khalil
+(414) 277-7269
+khalil@msoe.edu
+Cell: (414) 940-2232
+Menu
+Search
+submit
+Resources For…
+MSOE University
+1025 North Broadway
+Milwaukee,
+WI
+53202-3109
+(800) 332-6763
+explore@msoe.edu
+Connect With MSOE
+Facebook
+Instagram
+Twitter
+Linkedin
+YouTube
+Vimeo

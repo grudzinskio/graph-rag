@@ -1,0 +1,133 @@
+ARE 3461 - Design of Plumbing Systems -
+2025-2026 Undergraduate Academic Catalog
+Milwaukee School of Engineering
+Mar 12, 2026
+2025-2026 Undergraduate Academic Catalog
+Select a Catalog
+2025-2026 Undergraduate Academic Catalog
+2025-2026 Graduate Academic Catalog
+2024-2025 Undergraduate Academic Catalog-June [ARCHIVED CATALOG]
+2024-2025 Graduate Academic Catalog-June [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Graduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Graduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Graduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Graduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Graduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Graduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Graduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Graduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Graduate Academic Catalog [ARCHIVED CATALOG]
+2013-14 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2012-2014 Graduate Academic Catalog [ARCHIVED CATALOG]
+2012-2013 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+Global Search
+Catalog Search
+Choose Search Location
+Select an option
+Courses
+Programs
+Academic Departments
+Other Content
+Entire Catalog
+Search Keyword Field
+Whole Word/Phrase
+Advanced Search
+Catalog Navigation
+Catalog Home
+Academic Calendar
+University Overview
+Admissions
+Student Financial Services
+Academic Regulations and Policies
+Degree Programs, Minors, and Certificates
+Degrees, Minors, and Certificates by Department
+Course Descriptions
+The Raider Core
+Explorer Pathways
+MSOE Honors Program
+Global Opportunities
+Reserve Officers’ Training Corps. (ROTC)
+Administration, Regents, and Advisory Committees
+Departments and Faculty
+Campus Map
+Student Resources
+My Portfolio
+HELP
+2025-2026 Undergraduate Academic Catalog
+Print this Page
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+ARE 3461 - Design of Plumbing Systems
+3
+lecture hours
+0
+lab hours
+3
+credits
+Course Description
+This course is a continuation of ARE 3401 - Principles of Mechanical Engineering for Buildings and transitions into the system component design, layout, and specification concepts of plumbing systems. The plumbing systems components to be examined include plumbing fixtures, piping, water heating equipment, pumps, and water reuse systems. System sizing problems for water supply, wastewater disposal, storm water treatment and disposal, and miscellaneous equipment will be covered. Design standards and variations will be discussed using plumbing codes and master specifications.  The architectural engineer’s responsibilities in design and specification writing will be emphasized through examples of construction document components, including plans, details, and specifications.
+Prereq:
+ARE 3401
+(quarter system prereq: AE 3301)
+Note:
+None
+This course meets the following Raider Core CLO Requirement:
+None
+Course Learning Outcomes
+Upon successful completion of this course, the student will be able to:
+Apply fluid mechanics principles, other general energy theories, and probability and statistical data to enhance design methods for calculating pipe sizes for all plumbing systems design layouts
+Design water supply and drainage piping systems for buildings
+Integrate backflow prevention devices into water supply systems to protect potable water systems
+Combine water treatment equipment into plumbing systems to improve water quality
+Analyze the hot water demands for a building and integrate appropriate water heating equipment
+Design a pumping system to maintain water temperature in a hot water system while maintaining safety
+Analyze water supply flow and pressure needs of a project and integrate water supply booster pumps into water supply systems
+Design sanitary and clear water pumping systems when needed to lift sanitary or storm waste to flow to gravity sewers
+Integrate wastewater interceptors into sanitary waste disposal systems
+Analyze pre-existing storm water flow from a building site, compare it to post-construction storm water flow, and design a basic stormwater treatment or storage facility to account for the excess quantity difference
+Develop specifications for a variety of plumbing system piping, specialties, fixtures, and equipment
+Evaluate piping options for water supply and drainage piping systems for buildings
+Prerequisites by Topic
+Understanding of basic plumbing systems, water supply, and drain-sizing calculations
+Course Topics
+Review of plumbing codes, standards, and specifications
+Water supply and waste disposal system sizing review
+Plumbing fixture selection and specifications
+Layout of black water disposal systems
+Backflow prevention device selections and specifications
+Water treatment equipment selection and specifications
+Hot water demand analysis
+Water heater selections and specification
+Hot water temperature maintenance circulating pump selection and specification
+Water supply analysis for pressure and booster pump selection
+Sub-sewer drainage analysis and sump pump selection
+Wastewater interceptors and grease traps selection and specification
+Water treatment technologies
+Reuse system design
+Storm water drainage system for building and property
+Coordinator
+Jayme Radomski, P.E.
+Print this Page
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+All
+catalogs
+© 2026 Milwaukee School of Engineering.
+Powered by
+Modern Campus Catalog™
+.

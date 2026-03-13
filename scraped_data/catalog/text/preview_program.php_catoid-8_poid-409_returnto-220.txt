@@ -1,0 +1,640 @@
+Program: Biomedical Engineering, B.S. - Milwaukee School of Engineering
+Milwaukee School of Engineering
+Mar 12, 2026
+2014-2015 Undergraduate Academic Catalog
+Select a Catalog
+2025-2026 Undergraduate Academic Catalog
+2025-2026 Graduate Academic Catalog
+2024-2025 Undergraduate Academic Catalog-June [ARCHIVED CATALOG]
+2024-2025 Graduate Academic Catalog-June [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Graduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Graduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Graduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Graduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Graduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Graduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Graduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Graduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Graduate Academic Catalog [ARCHIVED CATALOG]
+2013-14 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2012-2014 Graduate Academic Catalog [ARCHIVED CATALOG]
+2012-2013 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+Global Search
+Catalog Search
+Choose Search Location
+Select an option
+Courses
+Programs
+Academic Departments
+Other Content
+Entire Catalog
+Search Keyword Field
+Whole Word/Phrase
+Advanced Search
+Catalog Navigation
+Catalog Home
+President’s Welcome
+Academic Calendar
+University Overview
+Enrollment Management Department
+Graduate and Professional Education
+Academic Regulations and Policies
+Student Accounts, Fees and Financial Aid
+Other Academic Resources
+Academic Departments, Undergraduate Degree Programs, Minors and Certificates
+Degree Programs, Minors and Certificates
+Two-degree Programs
+Graduate Studies Programs
+Reserve Officer Training Corps (ROTC)
+Course Descriptions
+Board of Regents, Academic Administration, Faculty and Advisory Committees
+Campus Map
+My Portfolio
+HELP
+2014-2015 Undergraduate Academic Catalog
+[ARCHIVED CATALOG]
+Biomedical Engineering, B.S.
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Return to:
+Academic Departments, Undergraduate Degree Programs, Minors and Certificates
+Program Director:
+Dr. Charles S. Tritt
+Office: S-364
+Phone: (414) 277-7421
+Email:
+tritt@msoe.edu
+Biomedical engineers use scientific knowledge and engineering principles to solve health care related problems. They often create or improve medical devices. Biomedical engineers are also frequently involved in medical research. In general, they use the latest technologies and techniques to improve human well-being.
+Specialty Areas in Biomedical Engineering
+Biomedical engineering is a broad field with the following widely recognized specialty areas:
+Electronic Medical Instrumentation and Bio-signal Processing
+Electronic medical instrumentation and modern measurement techniques are routinely used to monitor patients and to diagnose and treat their diseases. Computers and embedded microcontrollers are essential parts of most modern medical devices, which include heart monitors, pulse oximeters, cardiac defibrillators and glucose monitors.
+Biomedical engineers apply signal processing methods to the design of medical devices that monitor and diagnose conditions in the human body. Bio-signal processing involves the sophisticated analysis of data collected from patients or experimental subjects using medical instrumentation in an effort to interpret these signals. This provides physicians and researchers with vital information about the condition of their subjects. Applications of bio-signal processing include heart arrhythmia detection and anesthesia monitoring.
+Biomaterials, Tissue Engineering and Regenerative Medicine
+Biomaterials include living tissue and natural and synthetic materials used for implantation and in medical devices. Understanding the properties of the living materials is vital in the selection of implantable materials. Selecting appropriate material to place in the human body may be one of the most difficult tasks faced by a biomedical engineer. Biomaterials must be nontoxic, non-carcinogenic, chemically inert, stable and often must be mechanically strong enough to withstand the repeated forces during a lifetime of use. Examples of biomaterials include temporary synthetic skin replacements, dental adhesives, bone cements, metals and polymers used in replacement joints and materials used in heart valve prosthetics.
+Tissue engineering and regenerative medicine is one of the newest and most rapidly advancing areas of biomedical engineering. Tissue engineering involves the formation of new tissues, either directly inside the body or ex vivo for implantation, to replace tissue damaged or destroyed by accident, disease, or congenital defect. Tissue engineering often involves the use of carefully designed synthetic scaffolds. Regenerative medicine involves inducing the body to regenerate natural tissue rather than form scar tissue after an injury. Examples of tissue engineering and regenerative medicine include the production of permanent living skin replacements, the regeneration of damaged cartilage and inducing the regeneration of functional heart muscle after heart attacks.
+Medical Imaging
+Medical imaging combines knowledge of unique physical phenomena (sound, radiation, magnetism, etc.) with high speed electronic data processing, analysis and display to generate images of medical interest. Often, these images can be obtained with minimally or completely noninvasive procedures. Examples include ultrasound imaging, magnetic resonance imaging (MRI) and computed x-ray tomography (CT).
+Artificial Organs
+In the past 50 years, biomedical engineers have helped create artificial replacements for several human organs, including lungs, hearts, kidneys and skin. However, none of these replacement organs work as well as their natural counterparts and there are several other organs that have so far not been successfully replaced. These shortcomings in artificial organ technology illustrate the need for biomedical engineers to continue their efforts to improve existing and create new artificial organs.
+Biomechanics and Rehabilitation Engineering
+Biomechanics is the application of fluid mechanics, kinematics and mechanical statics and dynamics to biological and medical situations. It includes the study of motion, material deformation and flow within the body, as well as the behavior of devices in and attached to the body. Examples include the development of artificial hearts and heart-assist devices, replacement heart valves, artificial joints and sophisticated prosthetic limbs.
+Rehabilitation engineering uses concepts from biomechanics and other areas to develop devices to enhance the capabilities and improve the quality of life for individuals with physical, sensory and cognitive impairments. Examples include orthotics, prosthetic limbs and home and workplace assistive devices.
+Systems Physiology and Modeling
+In the context of biomedical engineering, modeling refers to the use of mathematic, scientific and engineering principles to predict the behavior of systems. Systems may include the entire human body, organs or organ systems, tissues, medical devices and combinations of these.
+This aspect of biomedical engineering is used to gain a comprehensive and integrated understanding of the function of living systems and the interaction of medical devices with these systems. These models are often based on fluid mechanics and transport concepts. Modeling is used in the analysis of experimental data and in formulating mathematical descriptions of physiological events. In research, modeling is used as a predictive tool in designing new experiments to refine knowledge and understanding. Examples include the prediction of plasma glucose concentration in normal and diabetic individuals, the development of drug releasing skin patches, dynamic models of the biochemistry of human metabolism and modeling limb movements in normal and disease states.
+MSOE’s Biomedical Engineering Curriculum
+The biomedical engineering curriculum at MSOE enables students to develop relevant knowledge and engineering skills. This challenging curriculum exposes students to all the major technical areas of biomedical engineering as well as related non-technical topics. At the heart of this curriculum is a seven-quarter capstone design sequence in which student teams complete a biomedical design project using the same processes currently used in industry. As a result, graduates are well prepared to excel in either industrial or academic careers.
+Biomedical engineering at MSOE includes a solid foundation in general science and engineering topics. Students learn mathematics, physics, chemistry and social sciences. Biomedical engineering students also learn fundamental aspects of other traditional engineering fields such as electrical, mechanical and chemical. In addition, students gain specialized scientific knowledge in life science areas such as cell biology, molecular biology, biochemistry, biostatistics, anatomy and physiology. Students also learn engineering skills in areas such as bio-transport, electronic medical instrumentation, biomaterials, biomechanics and medical imaging. This breadth allows graduates to solve the complex problems that arise in health care situations.
+MSOE’s biomedical engineering program covers all the major specialty areas in the field, giving students:
+a solid foundation of engineering and life-sciences fundamentals to provide the basis for specialized biomedical engineering learning.
+a strong focus on the complete engineering design process including market analysis, customer focus, explicit specification statements, feasibility studies, formal presentations, regulatory compliance, design reviews, and prototype development and testing.
+an emphasis on entrepreneurship in both specific courses and throughout the curriculum.
+extensive application of the theoretical principles in modern laboratory experiences including a series of joint laboratory courses that integrate principles from traditionally distinct lecture courses.
+ready access to faculty, equipment, facilities and industry contacts to emphasize professional and academic development.
+Program Educational Objectives (v. 8.0)
+The objective of this program is for graduates to attain within a few years of graduation:
+Professional careers in the biomedical or related engineering fields,
+Graduate study or degrees in biomedical engineering or related engineering or science fields, or
+Other related professional endeavors such as education or practice in law, medicine, business or other fields.
+Student Outcomes (v. 5.0)
+The program’s student outcomes are:
+an ability to apply knowledge of mathematics, science, and engineering
+an ability to design and conduct experiments, as well as to analyze and interpret data
+an ability to design a system, component, or process to meet desired needs within realistic constraints such as economic, environmental, social, political, ethical, health and safety, manufacturability and sustainability
+an ability to function on multidisciplinary teams
+an ability to identify, formulate, and solve engineering problems
+an understanding of professional and ethical responsibility
+an ability to communicate effectively
+the broad education necessary to understand the impact of engineering solutions in a global, economic, environmental and societal context
+a recognition of the need for, and an ability to engage in life-long learning
+a knowledge of contemporary issues
+an ability to use the techniques, skills, and modern engineering tools necessary for engineering practice.
+View Annual Student Enrollment and Graduation Data
+Biomedical Engineering Model Full-time Track - V4.3
+Year One
+Fall
+BI 102 - Cell Biology and Genetics
+4
+credits
+CH 200 - Chemistry I
+4
+credits
+EN 131 - Composition
+3
+credits
+HU 100 - Contemporary Issues in the Humanities
+3
+credits
+MA 136 - Calculus for Engineers I
+4
+credits
+Total: 16 lecture hours - 5 lab hours - 18 credits
+Winter
+BE 1000 - Introduction to Biomedical Engineering
+2
+credits
+CH 201 - Chemistry II
+4
+credits
+EN 132 - Technical Composition
+3
+credits
+MA 137 - Calculus for Engineers II
+4
+credits
+PH 2010 - Physics I - Mechanics
+4
+credits
+Total: 14 lecture hours - 8 lab hours - 17 credits
+Spring
+CH 222 - Organic Chemistry I
+3
+credits
+EN 241 - Speech
+3
+credits
+MA 231 - Calculus for Engineers III
+4
+credits
+MA 3610 - Biostatistics
+4
+credits
+PH 2020 - Physics II–Electromagnetism/Optics
+4
+credits
+Total: 15 lecture hours - 7 lab hours - 18 credits
+Year Two
+Fall
+BE 2200 - Computing in Biomedical and BioMolecular Engineering
+4
+credits
+CH 223 - Biochemistry
+4
+credits
+MA 235 - Differential Equations for Engineers
+4
+credits
+ME 205 - Engineering Statics
+4
+credits
+MS 3425 - Entrepreneurship - An Overview
+1
+credits
+2
+Total: 15 lecture hours - 5 lab hours - 17 credits
+Winter
+EE 201 - Linear Networks: Steady-State Analysis
+4
+credits
+ME 206 - Engineering Dynamics
+4
+credits
+MS 3427 - The Business Plan
+1
+credits
+2
+PH 2030 - Physics III-Thermo/Quantum Physics
+4
+credits
+SS 461 - Organizational Psychology
+3
+credits
+Total: 15 lecture hours - 3 lab hours - 16 credits
+Spring
+BE 2000 - Biomedical Engineering Design I
+1
+credits
+BE 206 - Biomedical Signals and Systems I
+4
+credits
+EE 2905 - Introduction to Embedded Systems and Digital Electronics
+4
+credits
+MA 232 - Calculus for Engineers IV
+3
+credits
+ME 207 - Mechanics of Materials
+4
+credits
+Total: 13 lecture hours - 8 lab hours - 16 credits
+Year Three
+Fall
+BE 3000 - Biomedical Engineering Design II
+2
+credits
+BE 3100 - Quantitative Systems Physiology I
+3
+credits
+BE 3500 - Bio-thermal-fluid Transport 1
+4
+credits
+BE 3800 - Biomedical Signals and Systems II
+3
+credits
+BE 3900 - Physiology and Bio-System Joint Laboratory
+2
+credits
+Elective
+1
+3 credits
+Total: 15 lecture hours - 4 lab hours - 17 credits
+Winter
+BE 3001 - Biomedical Engineering Design III
+2
+credits
+BE 3110 - Quantitative Systems Physiology II
+3
+credits
+BE 3510 - Bio-thermal-fluid Transport 2
+3
+credits
+BE 3600 - Biomedical Instrumentation
+4
+credits
+BE 3910 - Physiology and Biotransport Joint Laboratory
+2
+credits
+Elective
+1
+3 credits
+Total: 14 lecture hours - 7 lab hours - 17 credits
+Spring
+BE 3002 - Biomedical Engineering Design IV
+2
+credits
+BE 3920 - Biomaterials and Biomechanics Joint Laboratory
+2
+credits
+BE 410 - Biomaterials
+3
+credits
+BE 411 - Biomechanics
+3
+credits
+EE 3111 - Electronic Devices and Circuits
+4
+credits
+HU 332 - Bioethics
+3
+credits
+Total: 14 lecture hours - 7 lab hours - 17 credits
+Year Four
+Fall
+BE 4000 - Biomedical Engineering Design V
+3
+credits
+BE 4700 - Biomedical Electronics
+4
+credits
+BE 4800 - Biomedical Digital Signal Processing
+3
+credits
+Elective
+1
+3 credits
+Elective
+1
+3 credits
+Total: 13 lecture hours - 9 lab hours - 16 credits
+Winter
+BE 4001 - Biomedical Engineering Design VI
+3
+credits
+BE 4810 - Biomedical Feedback Control Systems I
+4
+credits
+BE 4830 - Medical Imaging Systems
+3
+credits
+Elective
+1
+3 credits
+Elective
+1
+3 credits
+Total: 14 lecture hours - 6 lab hours - 16 credits
+Spring
+BE 4002 - Biomedical Engineering Design VII
+3
+credits
+BE 4820 - Biomedical Feedback Control Systems II
+4
+credits
+Elective
+1
+3 credits
+Elective
+1
+3 credits
+Total: 11 lecture hours - 6 lab hours - 13 credits
+Note:
+1
+There are 24 credits (8 courses) of electives that must be taken as detailed:
+15 credits (5 courses) must be humanities and social science (HU/SS) electives, of which 6 credits must be taken in the humanities area, 6 credits in the social science area, and 3 credits in either area.
+6 credits (2 courses) must be technical electives taken from the approved list or with prior approval.
+3 credits (1 course) must be a professional elective taken from the approved list or with prior approval.
+2
+MS 3423
+is a 3-credit hour business innovations course that can be substitutioned for
+MS 3425
+and
+MS 3427
+.
+Transfer students who have completed 36 quarter or 24 semester credits or more are expected to complete
+OR 301
+Transfer Orientation or
+OR 307S
+Transfer Orientation Seminar.
+Accredited by the Engineering Accreditation Commission of ABET,
+http://www.abet.org
+.
+Approved Electives - Biomedical Engineering 2014-2015 (v. 1.15))
+These courses have been pre-approved as professional and/or technical breadth electives. To be approved as technical or professional electives, courses must be substantial and reasonably expected to be useful in biomedical engineering practice. Science, math and engineering courses typically qualify as technical breadth electives, while all other courses are typically professional electives. BE specific elective courses may be taught periodically based on student interest and faculty availability. Students may ask the program director to add additional courses to this list, but must do so before taking the course.
+Pre-Approved Professional Electives
+EN 432 - Business Communication
+3
+credits
+MS 221 - Microeconomics
+3
+credits
+MS 2220 - Foundations of Business Economics
+3
+credits
+MS 322 - Macroeconomics
+3
+credits
+MS 331 - Business Law
+3
+credits
+MS 3330 - Legal Aspects Innovation and Entrepreneurship
+3
+credits
+MS 3411 - Leading Project Teams
+3
+credits
+MS 354 - Principles of Accounting
+3
+credits
+MS 382 - Introduction to Java Programming
+3
+credits
+MS 4801 - Project Management
+3
+credits
+Many ROTC courses (contact PD for details)
+SS 464 - Human Factors in Engineering and Design
+3
+credits
+TC 332 - Advanced Technical Writing
+3
+credits
+TC 342 - Professional Presentation Techniques
+3
+credits
+TC 451 - Mass Communication
+3
+credits
+TC 452 - Interpersonal Communication
+3
+credits
+TC 453 - Intercultural Communication
+3
+credits
+Pre-Approved Technical Breadth Electives
+BE 4340 - Advanced Topics in Biomedical Digital Signal Processing
+3
+credits
+BE 4980 - Independent Study
+3
+credits
+BI 256 - Microbiology
+4
+credits
+CH 302 - Chemistry III
+3
+credits
+1
+CH 303 - Chemistry III Lab
+1
+credits
+1
+CH 322 - Organic Chemistry II
+3
+credits
+1
+CH 323 - Organic Chemistry II Lab
+2
+credits
+1
+CH 353 - Fundamentals of Environmental Chem
+3
+credits
+CH 371 - Modern Biotechnology
+3
+credits
+CH 373 - Advanced Biotechnology
+3
+credits
+CH 3650 - Materials Science
+3
+credits
+CH 3660 - Surface Properties of Materials
+3
+credits
+CH 401 - Topics in Chemistry
+3
+credits
+EB 2240 - Engineering Applications in Biochemistry
+3
+credits
+EE 423 - Applications of Digital Signal Processing
+3
+credits
+EE 444 - Power Electronics
+3
+credits
+EE 4720 - Control Systems Applications
+3
+credits
+EE 481 - Fuzzy Sets and Applications
+3
+credits
+EE 484 - Neural Networks
+3
+credits
+EE 487 - Machine Vision
+3
+credits
+EE 488 - Introduction to Artificial Intelligence and Expert Systems
+3
+credits
+GE 4200 - Advanced MATLAB Programming
+3
+credits
+MA 330 - Vector Analysis
+3
+credits
+MA 343 - Linear Programming
+3
+credits
+MA 3710 - Mathematical Biology
+3
+credits
+MA 380 - Advanced Differential Equations
+3
+credits
+MA 381 - Complex Variables
+3
+credits
+MA 383 - Linear Algebra
+3
+credits
+MA 385 - Modern Algebra with Applications
+3
+credits
+MA 386 - Functions of a Real Variable
+3
+credits
+MA 387 - Partial Differential Equations
+3
+credits
+MA 388 - Introduction to Number Theory
+3
+credits
+ME 321 - Materials Science
+3
+credits
+ME 322 - Engineering Materials
+4
+credits
+ME 424 - Engineering with Plastics
+3
+credits
+ME 429 - Composite Materials
+3
+credits
+ME 460 - Finite Element Methods
+4
+credits
+ME 4610 - Medical Applications in Mechanical Engineering
+3
+credits
+NS 1142 - Naval Ship Systems 1
+3
+credits
+NS 2162 - Naval Ship Systems 2
+3
+credits
+NS 2163 - Naval Ship Systems 3
+3
+credits
+NU 2810 - Pharmacology I
+3
+credits
+NU 290 - Pathophysiology I
+4
+credits
+NU 3820 - Pharmacology II
+3
+credits
+NU 391 - Pathophysiology II
+4
+credits
+PH 320 - Lasers and Applications
+3
+credits
+PH 322 - Intro-Optics and Photonics
+3
+credits
+PH 324 - Fiber Optics/Fiber Optic Sensors
+3
+credits
+PH 325 - Acoustics & Illumination
+3
+credits
+PH 360 - Physics of Semiconductor Materials and Devices
+4
+credits
+PH 361 - Physics of Materials
+4
+credits
+SC 310 - Nanoscience and Nanotechnology
+3
+credits
+SE 1021 - Software Development II
+4
+credits
+Either
+BE 499 - Clinical Internship
+3
+credits
+2
+GE 3601 - Solid Modeling and Design I
+3
+credits
+GE 3602 - Solid Modeling and Design II
+3
+credits
+IE 340 - Project Management
+3
+credits
+IE 348 - Quality Assurance (SPC)
+3
+credits
+IE 431 - Six Sigma Methods
+3
+credits
+IE 4332 - Lean
+3
+credits
+IE 440 - Team Leadership/Facilitation
+3
+credits
+IE 449 - Quality Management
+3
+credits
+IE 470 - Topics in Industrial Engineering
+3
+credits
+IE 423 - Engineering Economy
+3
+credits
+IE 3621 - Ergonomics
+4
+credits
+ME 1601 - Introduction to Engineering Design
+3
+credits
+Note:
+1
+Students planning to attend medical school should take these courses.
+2
+Students interested in taking this course must contact the program director approximately 5 weeks prior to the expected start date to arrange the internship.
+Return to:
+Academic Departments, Undergraduate Degree Programs, Minors and Certificates
+Back to Top
+|
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+All
+catalogs
+© 2026 Milwaukee School of Engineering.
+Powered by
+Modern Campus Catalog™
+.

@@ -1,0 +1,356 @@
+Program: Software Engineering, B.S. - Milwaukee School of Engineering
+Milwaukee School of Engineering
+Mar 12, 2026
+2022-2023 Undergraduate Academic Catalog
+Select a Catalog
+2025-2026 Undergraduate Academic Catalog
+2025-2026 Graduate Academic Catalog
+2024-2025 Undergraduate Academic Catalog-June [ARCHIVED CATALOG]
+2024-2025 Graduate Academic Catalog-June [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Graduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Graduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Graduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Graduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Graduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Graduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Graduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Graduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Graduate Academic Catalog [ARCHIVED CATALOG]
+2013-14 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2012-2014 Graduate Academic Catalog [ARCHIVED CATALOG]
+2012-2013 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+Global Search
+Catalog Search
+Choose Search Location
+Select an option
+Courses
+Programs
+Academic Departments
+Other Content
+Entire Catalog
+Search Keyword Field
+Whole Word/Phrase
+Advanced Search
+Catalog Navigation
+Catalog Home
+Academic Calendar
+University Overview
+Admissions Department
+Academic Regulations and Policies
+Student Financial Services
+Degrees, Minors, and Certificates by Department
+Degree Programs, Minors, and Certificates
+University Scholars Honors Program
+Reserve Officers’ Training Corps. (ROTC)
+English for Academic Purposes (EAP)
+Course Descriptions
+Administration, Regents, Faculty, and Advisory Committees
+Campus Map
+Student Resources
+My Portfolio
+HELP
+2022-2023 Undergraduate Academic Catalog
+[ARCHIVED CATALOG]
+Software Engineering, B.S.
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Return to:
+Degree Programs, Minors, and Certificates
+Program Director
+Dr. Sohum Sohoni
+Office: DH 432
+Phone: 414-277-2603
+Email:
+sohoni@msoe.edu
+Program Educational Objectives
+The software engineering program is preparing graduates, within a few years of graduation, to:
+Contribute as a software engineering professional
+Apply knowledge of software engineering practice and process
+Work within a broader institutional and societal context
+Exercise technical and professional leadership
+Innovate and improve technologies and processes
+Progress in responsibility
+Integrate ethical and professional concerns
+Continue to learn
+Seek and adapt to change
+Leverage and apply advancements in the profession
+Collaborate effectively
+Demonstrate personal accountability
+Communicate to a variety of audiences
+Display interpersonal skills
+Cooperate in and facilitate teamwork
+Participate in professional networks
+Student Outcomes
+Upon successful completion of the software engineering program, graduates will have:
+an ability to identify, formulate, and solve complex engineering problems by applying principles of engineering, science, and mathematics
+an ability to apply engineering design to produce solutions that meet specified needs with consideration of public health, safety, and welfare, as well as global, cultural, social, environmental, and economic factors
+an ability to communicate effectively with a range of audiences
+an ability to recognize ethical and professional responsibilities in engineering situations and make informed judgments, which must consider the impact of engineering solutions in global, economic, environmental, and societal contexts
+an ability to function effectively on a team whose members together provide leadership, create a collaborative and inclusive environment, establish goals, plan tasks, and meet objectives
+an ability to develop and conduct appropriate experimentation, analyze and interpret data, and use engineering judgement to draw conclusions
+an ability to acquire and apply new knowledge as needed, using appropriate learning strategies
+View Annual Student Enrollment and Graduation Data
+Software Engineering Model Full-time Track - V3.5
+Year One
+Fall
+CH 200 - Chemistry I
+4
+credits
+1
+CS 1011 - Software Development I
+4
+credits
+GS 1001 - Freshman Studies I
+4
+credits
+MA 136 - Calculus I
+4
+credits
+Total: 14 lecture hours - 4 lab hours - 16 credits
+Winter
+CS 1021 - Software Development II
+4
+credits
+GS 1002 - Freshman Studies II
+4
+credits
+MA 137 - Calculus II
+4
+credits
+PH 2011 - Physics I - Mechanics
+4
+credits
+Total: 14 lecture hours - 4 lab hours - 16 credits
+Spring
+CS 2852 - Data Structures
+4
+credits
+GS 1003 - Freshman Studies III
+4
+credits
+MA 2314 - Calculus III
+4
+credits
+PH 2021 - Physics II - ElectroMagnetism
+4
+credits
+Total: 14 lecture hours - 4 lab hours - 16 credits
+Year Two
+Fall
+CS 2911 - Network Protocols
+4
+credits
+Elective
+2
+(Business)
+3 credits
+Elective
+2
+(Math/Science)
+3 credits
+MA 2310 - Discrete Mathematics I
+3
+credits
+SE 2030 - Software Engineering Tools and Practices
+3
+credits
+Total: 14 lecture hours - 4 lab hours - 16 credits
+Winter
+CS 2711 - Computer Organization
+4
+credits
+Elective
+2
+(Science) 4
+credits
+SE 2811 - Software Component Design
+4
+credits
+SE 2840 - Web Application Development
+4
+credits
+Total: 13 lecture hours - 6 lab hours - 16 credits
+Spring
+BA 3444 - Organizational Behavior and Leadership
+3
+credits
+CS 2040 - Programming in C and C++
+4
+credits
+MA 262 - Probability and Statistics
+3
+credits
+SE 2800 - Software Engineering Process I
+3
+credits
+SE 2832 - Introduction to Software Verification
+4
+credits
+Total: 14 lecture hours - 6 lab hours - 17 credits
+Year Three
+Fall
+CS 3860 - Database Systems
+4
+credits
+OR 402 - Professional Guidance
+1
+credits
+SE 3010 - Software Development Laboratory I
+4
+credits
+SE 3800 - Software Engineering Process II
+3
+credits
+SE 3821 - Software Requirements and Specification
+4
+credits
+Total: 14 lecture hours - 4 lab hours - 16 credits
+Winter
+CS 3840 - Operating Systems
+4
+credits
+Elective
+2
+(HU/SS)
+3 credits
+MA 3320 - Discrete Mathematics II
+3
+credits
+SE 3020 - Software Development Laboratory II
+3
+credits
+SE 3810 - Software Architecture
+4
+credits
+Total: 15 lecture hours - 4 lab hours - 17 credits
+Spring
+CS 3851 - Algorithms
+4
+credits
+Elective
+2
+(Free)
+3 credits
+HU 432 - Ethics for Professional Managers and Engineers
+3
+credits
+MA 383 - Linear Algebra
+3
+credits
+SE 3030 - Software Development Laboratory III
+3
+credits
+Total: 14 lecture hours - 4 lab hours - 16 credits
+Year Four
+Fall
+Elective
+2
+(HU/SS)
+3 credits
+Elective
+2
+(Math/Science)
+3 credits
+Elective
+2
+(Technical)
+3 credits
+SE 3910 - Real-Time Systems
+4
+credits
+SE 4000 - Senior Design Project I
+3
+credits
+Total: 14 lecture hours - 4 lab hours - 16 credits
+Winter
+Elective
+2
+(HU/SS)
+3 credits
+Elective
+2
+(Math/Science)
+3 credits
+Elective
+2
+(Technical)
+3 credits
+IE 423 - Engineering Economy
+3
+credits
+SE 4010 - Senior Design Project II
+3
+credits
+Total: 14 lecture hours - 2 lab hours - 15 credits
+Spring
+Elective
+2
+(Free)
+3 credits
+Elective
+2
+(HU/SS)
+3 credits
+Elective
+2
+(HU/SS)
+3 credits
+Elective
+2
+(Technical)
+3 credits
+SE 4020 - Senior Design Project III
+3
+credits
+Total: 14 lecture hours - 2 lab hours - 15 credits
+Total: 192 credits
+Notes:
+1
+BI 102
+- Cell Biology and Genetics may be taken in place of
+CH 200
+2
+There are 46 credits of elective subjects in the software engineering program that must be taken as follows:
+15 credits of humanities and social sciences: 6 credits of humanities (HU), 6 credits of social sciences (SS), and 3 credits of humanities or social sciences
+4 credits of an approved science elective
+9 credits of approved math and science electives
+9 credits of approved technical electives
+6 credits of approved from any area (free electives)
+3 credits of approved business (economics/entrepreneurship) elective(s)
+Students in Air Force ROTC may make the following substitutions in the software engineering program:
+AF 3131
+for the business elective and
+AF 4142
+for
+SS 455
+(a social science elective).
+Accredited by the Engineering Accreditation Commission of ABET,
+http://www.abet.org
+.
+Return to:
+Degree Programs, Minors, and Certificates
+Back to Top
+|
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+All
+catalogs
+© 2026 Milwaukee School of Engineering.
+Powered by
+Modern Campus Catalog™
+.

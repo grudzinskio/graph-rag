@@ -1,0 +1,131 @@
+PHL 3205 - Minds, Brains, and Computers -
+Milwaukee School of Engineering
+Mar 12, 2026
+2025-2026 Undergraduate Academic Catalog
+Select a Catalog
+2025-2026 Undergraduate Academic Catalog
+2025-2026 Graduate Academic Catalog
+2024-2025 Undergraduate Academic Catalog-June [ARCHIVED CATALOG]
+2024-2025 Graduate Academic Catalog-June [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Graduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Graduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Graduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Graduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Graduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Graduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Graduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Graduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Graduate Academic Catalog [ARCHIVED CATALOG]
+2013-14 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2012-2014 Graduate Academic Catalog [ARCHIVED CATALOG]
+2012-2013 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+Global Search
+Catalog Search
+Choose Search Location
+Select an option
+Courses
+Programs
+Academic Departments
+Other Content
+Entire Catalog
+Search Keyword Field
+Whole Word/Phrase
+Advanced Search
+Catalog Navigation
+Catalog Home
+Academic Calendar
+University Overview
+Admissions
+Student Financial Services
+Academic Regulations and Policies
+Degree Programs, Minors, and Certificates
+Degrees, Minors, and Certificates by Department
+Course Descriptions
+The Raider Core
+Explorer Pathways
+MSOE Honors Program
+Global Opportunities
+Reserve Officers’ Training Corps. (ROTC)
+Administration, Regents, and Advisory Committees
+Departments and Faculty
+Campus Map
+Student Resources
+My Portfolio
+HELP
+2025-2026 Undergraduate Academic Catalog
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+PHL 3205 - Minds, Brains, and Computers
+3
+lecture hours
+0
+lab hours
+3
+credits
+Course Description
+This course introduces students to the philosophical study of the mind, including its relationship to inquiry in cognitive science, neuroscience, and artificial intelligence. The 20th century witnessed a sea change in the study of mind, with work in neuroscience and computation being central drivers. Developments in both philosophy and areas of natural and applied science, including artificial intelligence, prompted a re-evaluation of foundational questions in the study of mind. Should we abandon mind-body dualism and endorse some form of materialism about the mind? Is the mind simply identical with the brain? Can we explain, or explain away, the nature of consciousness? Is intentionality-the “about-ness” of thought-the defining characteristic of mind, and, if so, how is it possible? How is it that we can represent facts about the world, such that we are capable of forming beliefs, desires, and intentions? Although these questions had been entertained in some form or another for millennia, novel work on computers and cognition opened a new avenue for considering them: namely, the attempt to design a machine that thinks, an artificial mind. Our goal in this class will be to explore and assess these questions at the intersection of philosophy of mind, empirical study of the brain, and artificial intelligence. Major elements of this course include close and critical reading of challenging philosophical and scientific texts, reconstruction and evaluation of philosophical arguments, and independent reflection and reasoning on topics and positions in philosophy of mind.
+Prereq:
+None
+Note:
+None
+This course meets the following Raider Core CLO Requirement:
+Exhibit Curiosity
+Course Learning Outcomes
+Upon successful completion of this course, the student will be able to:
+Demonstrate knowledge of some of the key themes and questions in philosophy of mind
+Demonstrate knowledge of some of the history and philosophical foundations of the study of mind in the natural and applied sciences, specifically neuroscience, cognitive science, and artificial intelligence
+Articulate philosophical questions and positions within philosophy of mind clearly and precisely, explaining their significance, context, and further implications
+Reconstruct and analyze philosophical arguments within philosophy of mind in a way that displays evidence of clear, critical, and precise thinking
+Engage in comparative analysis and evaluation of different philosophical and empirical perspectives on key topics in philosophy of mind
+Engage in independent philosophical inquiry, dialogue, and argument through both discussion and written work
+Anticipate and evaluate some of the applications, social implications, and future directions of the study of mind and its relationship to neuroscience and AI
+Prerequisites by Topic
+None
+Course Topics
+Plato on
+nous
+Cartesian dualism
+Consciousness
+Intentionality
+History and philosophical foundations of neuroscientific and computational approaches to mind
+Mind-brain identity theory and its critics
+Neuroscientific eliminativism about folk psychological concepts (e.g., Paul and Patricia Churchland)
+Turing and the project of GOFAI (“good old-fashioned artificial intelligence”)
+Dennett and the intentional stance
+Putnam’s machine functionalism
+Fodor’s representational theory of mind and the language of thought hypothesis
+Searle’s critique of AI
+Dreyfus’s critique of AI
+NFAI (“new-fangled artificial intelligence”), part I: connectionism and artificial neural networks
+NFAI Part II: embedded and embodied AI
+Social implications of neuroscience and AI (e.g., algorithmic bias, ethics of autonomous systems, issues in neuroethics)
+Philosophy of virtual “realities”
+Coordinator
+Dr. Andrew McAninch
+Back to Top
+|
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+All
+catalogs
+© 2026 Milwaukee School of Engineering.
+Powered by
+Modern Campus Catalog™
+.

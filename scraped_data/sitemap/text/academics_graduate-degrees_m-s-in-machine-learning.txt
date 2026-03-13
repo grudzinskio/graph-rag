@@ -1,0 +1,95 @@
+M.S. in Machine Learning | MSOE
+Skip to Main Content
+Home
+Academics
+Graduate Degrees
+M.S. in Machine Learning
+M.S. in Machine Learning
+The Master of Science in Machine Learning is an online program geared toward working professionals who wish to develop advanced skills in the area of machine learning.
+Hear directly from Dr. RJ Nowling, associate professor and program director, about how MSOE's online machine learning master's program is not like others.
+Overview
+The M.S. in Machine Learning empowers working professionals to leverage their existing skills in programming and application area knowledge, enabling them to dive right into advanced concepts that can be applied immediately. The program includes depth of technical content, industry applications in every course, use of Rosie the supercomputer, small class sizes and faculty who excel in teaching, research and student support.
+Students gain the skills they need to develop and deploy machine learning solutions in their technical fields. The M.S. in Machine Learning program prepares graduates to be lead architects on complex projects involving machine learning and data science, develop solutions that address ethical and professional concerns as both technology and society continue to evolve, and pursue continued technical and professional development.
+Mode of Delivery
+Program Credits
+Required Admissions Documents
+Online synchronous (two nights a week, 2-hour live lecture)
+32 credits
+Official undergraduate transcripts
+Resume
+Admissions Requirements
+Technical bachelor’s degree
+Programming experience with an object-oriented programming language (C++, python, etc.)
+One year of college coursework or equivalent minimum.
+A data structures course is preferred (can be taken at MSOE if needed)
+At least one year of differential and integral calculus.
+Multivariable or linear algebra preferred (can be taken at MSOE if needed)
+Why obtain an MS in Machine Learning?
+Graduates of the program will be able to analyze complex problems involving advanced applications of machine learning and data science, and effectively evaluate and utilize state-of-the-art software and parallel computing hardware in the design and implementation of projects. They will be able to successfully deploy production-quality solutions involving machine learning and data science techniques using current best practices.
+Stackable Certificates
+The M.S. in Machine Learning is organized around “stackable” certificates: the
+Applied Machine Learning certificate
+, the
+Machine Learning Engineering certificate
+, the
+Tiny Machine Learning certificate
+, and the
+Generative AI Production Systems certificate
+. Each certificate is comprised of two 4-credit courses. Students may start out with the certificates or earn them along the way. Students will not need to take additional credits to earn overlapping certificates and degrees.
+Alternative Certificate Option
+If you’re looking for a program that leverages cutting-edge A.I. and analytics without the heavy math prerequisites, consider the
+Graduate Certificate in Advanced Business Strategy Using AI and Analytics
+offered by the Rader School of Business. This program is designed to equip you with the strategic insights and analytical skills needed to excel in today’s data-driven business environment.
+Admissions Process
+Submit application online
+here
+.
+Submit supporting documents to admissions counselor via email or mail.
+Completed file reviewed by program director for admission decision.
+Upon acceptance, submit your enrollment deposit to secure your spot in the program.
+Get access to your myMSOE account and MSOE email.
+Admissions Office registers you for appropriate coursework and sends schedule when finalized by the Registrar’s Office.
+You are officially an MSOE Raider!
+Graduate Tuition
+Graduate Financial Aid
+Ready to learn more about Milwaukee School of Engineering and our Master of Science in Machine Learning degree? Filling out the application is fast and easy!
+Designated employees of MSOE’s corporate partners interested in applying for the M.S. in Machine Learning, Graduate Certificate in Applied Machine Learning or Graduate Certificate in Machine Learning Engineering can complete an application.
+Current MSOE students with junior standing wanting to apply for the Machine Learning Early Entry Master’s program can apply here.
+Read more about MSOE's M.S. in Machine Learning graduate degree.
+1 / 4
+“Rosie" is a supercomputer that includes three NVIDIA DGX-1 pods, each with eight NVIDIA V100 Tensor Core GPUs, and 20 servers each with four NVIDIA T4 GPUs. The nodes are joined together by Mellanox networking fabric and share 200TB of network-attached storage.
+2 / 4
+The supercomputer is available to both undergraduate and graduate students, offering them the ability to apply their learning in a hands-on environment to prepare for their careers.
+3 / 4
+The name of this number-crunching behemoth was inspired by the women who programmed one of the earliest computers – the Electronic Numerical Integrator and Computer (ENIAC) and captured in the documentary “Top Secret Rosies – The Female Computers of WWII.”
+4 / 4
+With its M.S. in Machine Learning, as well as its Graduate Certificate in Applied Machine Learning, MSOE is forging new frontiers in AI education.
+Dr. RJ Nowling
+Associate Professor, Program Director and Certificate Coordinator
+(414) 277-7318
+nowling@msoe.edu
+Lucia Kohne
+Director of Graduate Admissions
+(414) 277-7331
+kohne@msoe.edu
+Text +1 (414) 559 5756
+Graduate Inquiry Form
+Fill out the graduate inquiry form
+Menu
+Search
+submit
+Resources For…
+MSOE University
+1025 North Broadway
+Milwaukee,
+WI
+53202-3109
+(800) 332-6763
+explore@msoe.edu
+Connect With MSOE
+Facebook
+Instagram
+Twitter
+Linkedin
+YouTube
+Vimeo

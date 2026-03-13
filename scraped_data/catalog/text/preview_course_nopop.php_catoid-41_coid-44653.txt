@@ -1,0 +1,116 @@
+CVE 6881 - Life Cycle Assessment of Building and Infrastructure Systems -
+Milwaukee School of Engineering
+Mar 12, 2026
+2024-2025 Graduate Academic Catalog-June
+Select a Catalog
+2025-2026 Undergraduate Academic Catalog
+2025-2026 Graduate Academic Catalog
+2024-2025 Undergraduate Academic Catalog-June [ARCHIVED CATALOG]
+2024-2025 Graduate Academic Catalog-June [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Graduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Graduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Graduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Graduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Graduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Graduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Graduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Graduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Graduate Academic Catalog [ARCHIVED CATALOG]
+2013-14 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2012-2014 Graduate Academic Catalog [ARCHIVED CATALOG]
+2012-2013 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+Global Search
+Catalog Search
+Choose Search Location
+Select an option
+Courses
+Programs
+Academic Departments
+Other Content
+Entire Catalog
+Search Keyword Field
+Whole Word/Phrase
+Advanced Search
+Catalog Navigation
+Catalog Home
+Academic Calendar
+University Overview
+Graduate Admission Requirements
+Academic Regulations and Policies
+Student Financial Services
+Graduate Degree Programs and Certificates
+Graduate Degree Programs and Certificates by Department
+Course Descriptions
+Research Opportunities
+Administration and Board of Regents
+Graduate Faculty
+Campus Map
+Student Resources
+My Portfolio
+HELP
+2024-2025 Graduate Academic Catalog-June
+[ARCHIVED CATALOG]
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+CVE 6881 - Life Cycle Assessment of Building and Infrastructure Systems
+3
+lecture hours
+0
+lab hours
+3
+credits
+Course Description
+Life cycle assessment and costing allow the engineer to effectively model both the environmental and economic impacts of a building or infrastructure system. Integrating social impact scores into the life cycle assessment model also allows social impacts to be quantified.  In total, a project can be assessed based upon all three aspects of the Triple Bottom Line (TBL) paradigm.
+Prereq:
+None
+Note:
+None
+Course Learning Outcomes
+Upon successful completion of this course, the student will be able to:
+Understand the basic elements required when performing an ISO 14040 compliant Life Cycle Impact Assessment (LCIA)
+Understand the basic elements of the Economic Input Output (EIO) method for quantifying environmental life cycle impacts
+Perform a Life Cycle Inventory (LCI) on a building or infrastructure system
+Perform a Life Cycle Impacts Assessment (LCIA) on a building or infrastructure system
+Identify and quantify social impacts of a building or infrastructure system project
+Perform a Life Cycle Cost Assessment on a building or infrastructure project, accounting for uncertainties associated with future costs and discount rates
+Synthesize LCIA, LCC, and social impact score techniques to create a model for comparing TBL outcomes of two or more projects
+Prerequisites by Topic
+None
+Course Topics
+Introduction to the ISO 14040 Life Cycle Assessment protocols and methodology
+Introduction to the Economic Input Output (EIO) method
+Review of life cycle cost modeling using the net present value technique
+Strategies for quantifying uncertainties in the life cycle cost modelling of green building and infrastructure projects
+How LCA is incorporated into common green rating systems such as LEED, Green Globes, and Envision
+Social Impact scores and the Triple Bottom Line (TBL)
+Introduction to the OpenLCA software package for LCIA modelling
+Building and infrastructure case studies of life cycle assessment and life cycle cost modeling
+Coordinator
+Dr. Deborah Jackman, P.E.
+Back to Top
+|
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+All
+catalogs
+© 2026 Milwaukee School of Engineering.
+Powered by
+Modern Campus Catalog™
+.

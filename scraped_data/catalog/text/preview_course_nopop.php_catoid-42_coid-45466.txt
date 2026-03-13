@@ -1,0 +1,130 @@
+CVE 2852 - Introduction to Geographic Information Systems (GIS) -
+Milwaukee School of Engineering
+Mar 12, 2026
+2025-2026 Undergraduate Academic Catalog
+Select a Catalog
+2025-2026 Undergraduate Academic Catalog
+2025-2026 Graduate Academic Catalog
+2024-2025 Undergraduate Academic Catalog-June [ARCHIVED CATALOG]
+2024-2025 Graduate Academic Catalog-June [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Graduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Graduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Graduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Graduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Graduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Graduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Graduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Graduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Graduate Academic Catalog [ARCHIVED CATALOG]
+2013-14 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2012-2014 Graduate Academic Catalog [ARCHIVED CATALOG]
+2012-2013 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+Global Search
+Catalog Search
+Choose Search Location
+Select an option
+Courses
+Programs
+Academic Departments
+Other Content
+Entire Catalog
+Search Keyword Field
+Whole Word/Phrase
+Advanced Search
+Catalog Navigation
+Catalog Home
+Academic Calendar
+University Overview
+Admissions
+Student Financial Services
+Academic Regulations and Policies
+Degree Programs, Minors, and Certificates
+Degrees, Minors, and Certificates by Department
+Course Descriptions
+The Raider Core
+Explorer Pathways
+MSOE Honors Program
+Global Opportunities
+Reserve Officers’ Training Corps. (ROTC)
+Administration, Regents, and Advisory Committees
+Departments and Faculty
+Campus Map
+Student Resources
+My Portfolio
+HELP
+2025-2026 Undergraduate Academic Catalog
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+CVE 2852 - Introduction to Geographic Information Systems (GIS)
+1
+lecture hours
+2
+lab hours
+2
+credits
+Course Description
+This course will cover fundamentals of Geographic Information Systems (GIS) analysis applied to civil, transportation, and environmental engineering-related problems. In this course students learn to use ArcGIS Pro software, and students will learn key fundamentals of using GIS. At the end of the course, the student will be an informed GIS user, as well as being competent at using ArcGIS Pro.
+Prereq:
+CAE 1851
+(quarter system prereq: CV 1001)
+Note:
+None
+This course meets the following Raider Core CLO Requirement:
+None
+Course Learning Outcomes
+Upon successful completion of this course, the student will be able to:
+Describe applications of GIS in the civil engineering field
+Explain basic concepts of using GIS in mapping the earth in spatial terms and populating the GIS’s system to access data
+Create and access data in the GIS’s system using ArcGIS Pro
+Capture positional and attribute information with correct and accurate geographic referencing
+Convert geographic information among several coordinate systems
+Acquire GIS’s system information from databases, existing maps, and the internet including high resolution topographic information, soils, aerial images, and LIDAR data
+Annotate output for finished maps, documents, and reports
+Produce a new spatial dataset from the union and/or intersection of other spatial datasets
+Integrate numerical engineering models with GIS for spatial data preparation and output model output presentation
+Develop exhibits that effectively and professionally communicate key concepts for reports, presentations, and posters using graphic design principles
+Prerequisites by Topic
+None
+Course Topics
+Applications of GIS in civil engineering (i.e., data management in water resources, environmental, transportation, soils/geotechnical, and municipal engineering; presentation of modeling results, introduction to GIS (layers, features, attributes, vector vs raster)
+Locating and importing data sources including federal, state, county, and private
+Map design
+Creating GIS outputs - static and dynamic maps, interactive GIS, animations
+Creating and manipulating geodatabases
+Working with and processing spatial data
+Digitizing
+Geocoding
+Conceptualizing and solving spatial problems using GIS
+Integrating GIS with other software programs such as numerical models
+Developing professional quality graphics
+Laboratory Topics
+Weekly hands-on exercises and interactive problem-solving sessions that reinforce the weekly lecture topics
+Coordinator
+Dr. William S. Gonwa, P.E.
+Back to Top
+|
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+All
+catalogs
+© 2026 Milwaukee School of Engineering.
+Powered by
+Modern Campus Catalog™
+.

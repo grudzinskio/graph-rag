@@ -1,0 +1,378 @@
+Program: Electrical Engineering AAS-EET to BSEE Transfer Plan - Milwaukee School of Engineering
+Milwaukee School of Engineering
+Mar 12, 2026
+2014-2015 Undergraduate Academic Catalog
+Select a Catalog
+2025-2026 Undergraduate Academic Catalog
+2025-2026 Graduate Academic Catalog
+2024-2025 Undergraduate Academic Catalog-June [ARCHIVED CATALOG]
+2024-2025 Graduate Academic Catalog-June [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Graduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Graduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Graduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Graduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Graduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Graduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Graduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Graduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Graduate Academic Catalog [ARCHIVED CATALOG]
+2013-14 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2012-2014 Graduate Academic Catalog [ARCHIVED CATALOG]
+2012-2013 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+Global Search
+Catalog Search
+Choose Search Location
+Select an option
+Courses
+Programs
+Academic Departments
+Other Content
+Entire Catalog
+Search Keyword Field
+Whole Word/Phrase
+Advanced Search
+Catalog Navigation
+Catalog Home
+President’s Welcome
+Academic Calendar
+University Overview
+Enrollment Management Department
+Graduate and Professional Education
+Academic Regulations and Policies
+Student Accounts, Fees and Financial Aid
+Other Academic Resources
+Academic Departments, Undergraduate Degree Programs, Minors and Certificates
+Degree Programs, Minors and Certificates
+Two-degree Programs
+Graduate Studies Programs
+Reserve Officer Training Corps (ROTC)
+Course Descriptions
+Board of Regents, Academic Administration, Faculty and Advisory Committees
+Campus Map
+My Portfolio
+HELP
+2014-2015 Undergraduate Academic Catalog
+[ARCHIVED CATALOG]
+Electrical Engineering AAS-EET to BSEE Transfer Plan
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Return to:
+Degree Programs, Minors and Certificates
+Program Advisors
+Dr. Edward Chandler, P.E.
+Office: S306
+Phone: (414) 277-7337
+Email:
+chandler@msoe.edu
+Dr. Robert Strangeway
+Office: S357
+Phone: (414) 277-7311
+Email:
+strangew@msoe.edu
+The AAS-EET to BSEE transfer plan at MSOE is designed to allow AAS graduates of electrical engineering technology programs from colleges with which MSOE holds transfer agreements, to transfer efficiently into the electrical engineering program. Benefits include:
+An opportunity for AAS-EET graduates to earn the BSEE degree and advance to engineering positions in industry
+Strong emphasis on design, applications and experienced-based learning
+Transfer agreements with several two-year colleges
+Full-time and part-time tracks
+This program may also be appropriate for transfer students from other colleges. Consult with an academic advisor for more details and a list of colleges that have transfer agreements with MSOE.
+View Annual Student Enrollment and Graduation Data
+Electrical Engineering Model Full-time Track - V15.5C
+Year One
+Fall
+MA 3502 - Engineering Mathematics II
+4
+credits
+EE 3001B - Signals and Circuits I
+4
+credits
+MA 3501 - Engineering Mathematics I
+4
+credits
+EE 3900B - Design of Logic Systems
+4
+credits
+OR 307S - Transfer Orientation Seminar
+0
+credits
+Total: 15 lecture hours - 4 lab hours - 16 credits
+Winter
+EE 3002B - Signals and Circuits II
+4
+credits
+CH 200B - Chemistry I
+4
+credits
+GE 300 - Career and Professional Guidance
+1
+credits
+MA 383 - Linear Algebra
+3
+credits
+EE 3910B - Embedded Systems
+4
+credits
+Total: 13 lecture hours - 7 lab hours - 16 credits
+Spring
+MA 262 - Probability and Statistics
+3
+credits
+EE 3101 - Operational Amplifiers
+4
+credits
+EE 3051B - Dynamic Systems
+4
+credits
+EE 3220 - Digital Signal Processing
+4
+credits
+HU 100 - Contemporary Issues in the Humanities
+3
+credits
+Total: 16 lecture hours - 4 lab hours - 18 credits
+Year Two
+Fall
+EE 3031 - Signals and Systems
+4
+credits
+PH 2020 - Physics II–Electromagnetism/Optics
+4
+credits
+EE 3720 - Control Systems
+4
+credits
+CS 2510 - Introduction to Object-Oriented Programming
+3
+credits
+EE 407 - Senior Design Project I
+3
+credits
+Total: 14 lecture hours - 11 lab hours - 18 credits
+Winter
+EE 3202 - Electric and Magnetic Fields
+3
+credits
+PH 2030 - Physics III-Thermo/Quantum Physics
+4
+credits
+Elective (Technical)
+1
+3 credits
+EE 4022 - Principles of Communications
+4
+credits
+EE 408 - Senior Design Project II
+3
+credits
+Total: 14 lecture hours - 8 lab hours - 17 credits
+Spring
+ME 354 - Thermodynamics and Heat Transfer
+3
+credits
+EE 3212 - Electromagnetic Waves
+4
+credits
+PH 360 - Physics of Semiconductor Materials and Devices
+4
+credits
+Elective (Math/Science)
+3 credits
+EE 409 - Senior Design Project III
+3
+credits
+Total: 14 lecture hours - 8 lab hours - 17 credits
+Other Required Courses
+EN 241 - Speech
+3
+credits
+Elective (HU)
+3 credits
+Elective (HU)
+3 credits
+SS 461 - Organizational Psychology
+3
+credits
+HU 432 - Ethics for Professional Managers and Engineers
+3
+credits
+IE 423 - Engineering Economy
+3
+credits
+Note
+1
+Additional electrical engineering program technical electives may be required if certain courses specified by MSOE are not fulfilled at the AAS-EET institution.
+Accredited by the Engineering Accreditation Commission of ABET, http://www.abet.org.
+Electrical Engineering Model Part-time Track - V15.5D
+Year One
+Fall
+MA 3502 - Engineering Mathematics II
+4
+credits
+EE 3001B - Signals and Circuits I
+4
+credits
+OR 307S - Transfer Orientation Seminar
+0
+credits
+Total: 8 lecture hours - 2 lab hours - 8 credits
+Winter
+EE 3002B - Signals and Circuits II
+4
+credits
+CH 200B - Chemistry I
+4
+credits
+Total: 7 lecture hours - 3 lab hours - 8 credits
+Spring
+MA 262 - Probability and Statistics
+3
+credits
+EE 3101 - Operational Amplifiers
+4
+credits
+Total: 6 lecture hours - 2 lab hours - 7 credits
+Year Two
+Fall
+MA 3501 - Engineering Mathematics I
+4
+credits
+EE 3900B - Design of Logic Systems
+4
+credits
+Total: 7 lecture hours - 2 lab hours - 8 credits
+Winter
+MA 383 - Linear Algebra
+3
+credits
+EE 3910B - Embedded Systems
+4
+credits
+Total: 6 lecture hours - 2 lab hours - 7 credits
+Spring
+EE 3051B - Dynamic Systems
+4
+credits
+EE 3220 - Digital Signal Processing
+4
+credits
+Total: 7 lecture hours - 2 lab hours - 8 credits
+Year Three
+Fall
+EE 3031 - Signals and Systems
+4
+credits
+PH 2020 - Physics II–Electromagnetism/Optics
+4
+credits
+Total: 7 lecture hours - 3 lab hours - 8 credits
+Winter
+GE 300 - Career and Professional Guidance
+1
+credits
+EE 3202 - Electric and Magnetic Fields
+3
+credits
+PH 2030 - Physics III-Thermo/Quantum Physics
+4
+credits
+Total: 6 lecture hours - 5 lab hours - 8 credits
+Spring
+ME 354 - Thermodynamics and Heat Transfer
+3
+credits
+EE 3212 - Electromagnetic Waves
+4
+credits
+Total: 6 lecture hours - 2 lab hours - 7 credits
+Year Four
+Fall
+EE 3720 - Control Systems
+4
+credits
+CS 2510 - Introduction to Object-Oriented Programming
+3
+credits
+Total: 5 lecture hours - 5 lab hours - 7 credits
+Winter
+Elective (Technical)
+1
+3 credits
+EE 4022 - Principles of Communications
+4
+credits
+Total: 6 lecture hours - 2 lab hours - 7 credits
+Spring
+PH 360 - Physics of Semiconductor Materials and Devices
+4
+credits
+Elective (Math/Science)
+3 credits
+Total: 6 lecture hours - 3 lab hours - 7 credits
+Year Five
+Fall
+HU 100 - Contemporary Issues in the Humanities
+3
+credits
+EE 407 - Senior Design Project I
+3
+credits
+Total: 5 lecture hours - 3 lab hours - 6 credits
+Winter
+HU 432 - Ethics for Professional Managers and Engineers
+3
+credits
+EE 408 - Senior Design Project II
+3
+credits
+Total: 5 lecture hours - 3 lab hours - 6 credits
+Spring
+IE 423 - Engineering Economy
+3
+credits
+EE 409 - Senior Design Project III
+3
+credits
+Total: 5 lecture hours - 3 lab hours - 6 credits
+Other Required Courses
+EN 241 - Speech
+3
+credits
+Elective (HU)
+3 credits
+Elective (HU)
+3 credits
+SS 461 - Organizational Psychology
+3
+credits
+Note
+1
+Additional electrical engineering program technical electives may be required if certain courses specified by MSOE are not fulfilled at the AAS-EET institution.
+Accredited by the Engineering Accreditation Commission of ABET,
+http://www.abet.org
+.
+Return to:
+Degree Programs, Minors and Certificates
+Back to Top
+|
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+All
+catalogs
+© 2026 Milwaukee School of Engineering.
+Powered by
+Modern Campus Catalog™
+.

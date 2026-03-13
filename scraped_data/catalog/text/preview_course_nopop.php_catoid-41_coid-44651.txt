@@ -1,0 +1,120 @@
+CVE 5741 - Hydrology -
+Milwaukee School of Engineering
+Mar 12, 2026
+2024-2025 Graduate Academic Catalog-June
+Select a Catalog
+2025-2026 Undergraduate Academic Catalog
+2025-2026 Graduate Academic Catalog
+2024-2025 Undergraduate Academic Catalog-June [ARCHIVED CATALOG]
+2024-2025 Graduate Academic Catalog-June [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Graduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Graduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Graduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Graduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Graduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Graduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Graduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Graduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Graduate Academic Catalog [ARCHIVED CATALOG]
+2013-14 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2012-2014 Graduate Academic Catalog [ARCHIVED CATALOG]
+2012-2013 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+Global Search
+Catalog Search
+Choose Search Location
+Select an option
+Courses
+Programs
+Academic Departments
+Other Content
+Entire Catalog
+Search Keyword Field
+Whole Word/Phrase
+Advanced Search
+Catalog Navigation
+Catalog Home
+Academic Calendar
+University Overview
+Graduate Admission Requirements
+Academic Regulations and Policies
+Student Financial Services
+Graduate Degree Programs and Certificates
+Graduate Degree Programs and Certificates by Department
+Course Descriptions
+Research Opportunities
+Administration and Board of Regents
+Graduate Faculty
+Campus Map
+Student Resources
+My Portfolio
+HELP
+2024-2025 Graduate Academic Catalog-June
+[ARCHIVED CATALOG]
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+CVE 5741 - Hydrology
+3
+lecture hours
+0
+lab hours
+3
+credits
+Course Description
+This course focuses on developing advanced skills needed to analyze and characterize the relationship between rainfall and runoff needed for studies, facilities planning, and complex designs. Topics include the characteristics of precipitation, watershed characteristics and data, runoff generation, the transformation of surface runoff to streamflow, probabilistic approaches to determining peak flood flows, deterministic hydrologic modeling using standard software, transfer function modeling of rainfall-temperature-streamflow relationship, The course makes extensive use of publicly available GIS-based datasets and tools to characterize watersheds. A term project in which students develop a calibrated model of a watershed synthesizes most of the course topics into one project.
+Prereq:
+CVE 3701, MTH 2480 (quarter system prereq: CV 310, MA 262)
+Note:
+This course is open to qualified undergraduate students.
+Course Learning Outcomes
+Upon successful completion of this course, the student will be able to:
+Use geographic information systems and public information sources to obtain hydrologic data
+Determine the boundaries of a watershed, its time of concentration, and its infiltration characteristics
+Calculate infiltration, evapotranspiration, snowmelt, and runoff using various methods including water balance
+Disaggregate hydrographs into base and wet weather flow components
+Develop calibrated and synthetic unit hydrographs and apply unit hydrograph theory to develop storm hydrographs
+Characterize river flow and precipitation data using statistical methods including estimating return intervals of extreme hydrologic phenomena
+Perform hydrologic modeling of a watershed using a deterministic computer model (i.e. HEC-HMS) for purposes of analysis and design.
+Perform transfer function modeling of the rainfall-temperature-streamflow relationship for purposes of analysis and design
+Prerequisites by Topic
+Familiarity with Green-Ampt Equation, level pool routing, and NRCS hydrology
+Familiarity with statistical concepts such as mean, standard deviation, skew, probability density functions and cumulative distribution functions
+Ability to perform least squares regression
+Conceptual understanding of ordinary and partial differential equations
+Course Topics
+Precipitation: Weather systems, point and area precipitation, water balance, rainfall distributions.
+Watershed characteristics and data: Watershed delineation, watershed geomorphology, watershed data sources
+Runoff generation: Soil and cover characteristics evaporation, infiltration, curve numbers
+Stream flow: Developing unit hydrographs from stream gage records, synthetic unit hydrographs, time of concentration
+Probabilistic approaches: Probability concepts, probabilistic models of design flow rates, regional analysis, probability distributions, Bulletin 17C
+Deterministic modeling of events: Introduction to deterministic modeling, introduction to HEC-HMS, HEC-HMS modeling with applications, model calibration
+Transfer function hydrologic modeling: Introduction to H2O Metrics, Antecedent Moisture Model and linear transfer function model, antecedent moisture retention
+Term project: introduction, time of concentration, Antecedent moisture model, HEC-HMS model, report outline
+Coordinator
+Dr. William Gonwa, P.E.
+Back to Top
+|
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+All
+catalogs
+© 2026 Milwaukee School of Engineering.
+Powered by
+Modern Campus Catalog™
+.

@@ -1,0 +1,335 @@
+Program: Computer Science, B.S. - Milwaukee School of Engineering
+Milwaukee School of Engineering
+Mar 12, 2026
+2023-2024 Undergraduate Academic Catalog
+Select a Catalog
+2025-2026 Undergraduate Academic Catalog
+2025-2026 Graduate Academic Catalog
+2024-2025 Undergraduate Academic Catalog-June [ARCHIVED CATALOG]
+2024-2025 Graduate Academic Catalog-June [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Graduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Graduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Graduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Graduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Graduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Graduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Graduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Graduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Graduate Academic Catalog [ARCHIVED CATALOG]
+2013-14 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2012-2014 Graduate Academic Catalog [ARCHIVED CATALOG]
+2012-2013 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+Global Search
+Catalog Search
+Choose Search Location
+Select an option
+Courses
+Programs
+Academic Departments
+Other Content
+Entire Catalog
+Search Keyword Field
+Whole Word/Phrase
+Advanced Search
+Catalog Navigation
+Catalog Home
+Academic Calendar
+University Overview
+Admissions
+The Raider Core
+Academic Regulations and Policies
+Student Financial Services
+Degrees, Minors, and Certificates by Department
+Degree Programs, Minors, and Certificates
+Course Descriptions
+MSOE Honors Program
+Global Opportunities
+Reserve Officers’ Training Corps. (ROTC)
+Administration, Regents, and Advisory Committees
+Faculty and Faculty Emeriti
+Campus Map
+Student Resources
+My Portfolio
+HELP
+2023-2024 Undergraduate Academic Catalog
+[ARCHIVED CATALOG]
+Computer Science, B.S.
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Return to:
+Degree Programs, Minors, and Certificates
+Program Director
+Dr. Derek Riley
+Office: DH 430
+Phone: (414) 277-2269
+Email:
+riley@msoe.edu
+Overview
+Students will learn on the leading edge of this technological revolution, developing skills to solve problems using algorithms, applied mathematics, and artificial intelligence in a hands-on environment working on real problems with faculty who have industry experience.
+MSOE’s computer science degree prepares you for a career in a wide variety of computing areas including: app development, artificial intelligence, embedded systems programming, test engineering, software engineering, machine learning, web development, and many more. MSOE computer science students will develop skills to solve problems using algorithms, applied mathematics, and artificial intelligence in a hands-on environment working on real problems with faculty who have relevant industry experience. Students will learn in AI, big data, and robotics labs that will facilitate individual and collaborative problem-solving to tackle real-world challenges. Students will also work on projects with industry sponsors to further gain applications-based experience.
+Program Educational Objectives
+The computer science program is preparing graduates, within a few years of graduation, to:
+Contribute as computer science professionals
+Be technical leaders on projects integrating advanced computing into delivered business and research solutions
+Innovate and improve technologies and computer science methods
+Participate in professional organizations
+Develop professionally
+Adapt and learn new computing methods, paradigms, and techniques
+Develop solutions that address competing ethical and professional concerns as both technology and society continue to evolve
+Contribute to the broader field of computing and science
+Collaborate effectively
+Demonstrate effective cross-organization communication and collaboration skills
+Champion personal accountability
+Student Outcomes
+Graduates of the MSOE Computer Science program will have an ability to:
+Analyze a complex computing problem and apply principles of computing and other relevant disciplines to identify solutions
+Design, implement, and evaluate a computing-based solution to meet a given set of computing requirements in the context of the program’s discipline
+Communicate effectively in a variety of professional contexts
+Recognize professional responsibilities and make informed judgments in computing practice based on legal and ethical principles
+Function effectively as a member or leader of a team engaged in activities appropriate to the program’s discipline
+Apply computer science theory and software development fundamentals to produce computing-based solutions
+View Annual Student Enrollment and Graduation Data
+Computer Science, B.S. Version S1
+Year One
+Fall
+Total: 13 lecture hours - 4 lab hours - 15 credits
+COM 1001 - College Writing
+3
+credits
+♦ Raider Core:
+Communicate Effectively
+CSC 1110 - Software Development
+4
+credits
+1 *
+MTH 1110 - Calculus I
+4
+credits
+PHY 1110 - Physics I - Mechanics and Thermodynamics
+4
+credits
+1
+♦ Raider Core:
+Think Critically
+Spring
+Total: 14 lecture hours - 4 lab hours - 15 credits
+CSC 1120 - Data Structures and Graphical Interfaces
+4
+credits
+1 *
+Elective (Lab Science)
+4 credits
+1,2
+IDS 2020 - Career Development
+0
+credits
+MTH 1120 - Calculus II
+4
+credits
+Raider Core Elective ♦
+Exhibit Curiosity
+3 credits
+3
+Year Two
+Fall
+Total: 14 lecture hours - 4 lab hours - 16 credits
+COM 2001 - Writing for the STEM Disciplines
+3
+credits
+♦ Raider Core:
+Collaborate Succesfully/Communicate Effectively
+CSC 2611 - AI Tools
+3
+credits
+1 *
+MTH 2130 - Calculus III
+4
+credits
+MTH 2340 - Linear Algebra with Applications
+3
+credits
+SWE 2410 - Design and Cloud Patterns
+3
+credits
+1 *
+Spring
+Total: 14 lecture hours - 4 lab hours - 16 credits
+CSC 2621 - Introduction to Data Science
+3
+credits
+1 *
+MTH 2310 - Discrete Mathematics
+3
+credits
+MTH 2480 - Probability and Statistics
+3
+credits
+PHL 3102 - Ethics of Digital Technologies and Artificial Intelligence
+3
+credits
+♦ Raider Core:
+Demonstrate Ethical Understanding
+SWE 2710 - Software Tools and Process
+4
+credits
+1 *
+Year Three
+Fall
+Total: 14 lecture hours - 4 lab hours - 16 credits
+COM 3001 - Professional Presentations
+3
+credits
+♦ Raider Core:
+Collaborate Succesfully/Communicate Effectively
+CSC 2210 - Procedural and Object-Oriented C++
+4
+credits
+*
+CSC 3310 - Algorithms and Advanced Data Structures
+3
+credits
+*
+CSC 3511 - Security and Networking
+3
+credits
+1 *
+CSC 4601 - Theory of Machine Learning
+3
+credits
+1 *
+Spring
+Total: 13 lecture hours - 4 lab hours - 15 credits
+BUS 2411 - Building Inclusive Teams
+3
+credits
+CSC 3210 - Operating Systems
+3
+credits
+*
+CSC 3320 - Databases
+3
+credits
+1 *
+CSC 4611 - Introduction to Deep Learning
+3
+credits
+*
+CSC 4801 - Data Science Practicum
+3
+credits
+1 *
+♦ Raider Core:
+Integrate Learning
+Year Four
+Fall
+Total: 12 lecture hours - 2 lab hours - 15 credits
+CSC 4631 - Artificial Intelligence
+3
+credits
+1 *
+CSC 4901 - Computer Science Capstone I
+3
+credits
+*
+Elective (Lower Technical)
+3 credits
+4 *
+Elective (Free)
+3 credits
+5
+Raider Core Elective ♦
+Choice of CLO
+3 credits
+6
+Spring
+Total: 13 lecture hours - 0 lab hours - 15 credits
+CSC 4902 - Computer Science Capstone II
+3
+credits
+* ♦ Raider Core:
+Integrate Learning
+Elective (Upper Technical)
+3 credits
+7 *
+Elective (Upper Technical)
+3 credits
+7 *
+Elective (Free)
+3 credits
+5
+Raider Core Elective ♦
+Embrace Diversity
+3 credits
+3
+Program total: 107 lecture hours - 26 lab hours - 123 credits
+Notes:
+* Courses with an asterisk are used to calculate major GPA.
+See
+The Raider Core
+page for details on the general education program and Common Learning Outcomes (CLOs).
+1
+Includes a laboratory component.
+2
+Any 4 or more credit hour course that includes a laboratory component and is offered by the Physics and Chemistry Department.
+3
+6 Raider Core credit hours of foundational knowledge in the humanities and social sciences. The combination of courses must address and assess the
+Exhibit Curiosity
+and
+Embrace Diversity
+Common Learning Outcomes. With some exceptions, these courses must be taught out of the Humanities, Social Sciences, and Communication Department.
+4
+Any 3 or more credit hour course offered by the EECS Department that has a course number of 2000 or higher.
+5
+Any 3 or more credit hour course not found in the free elective exclusion list.
+6
+3 Raider Core credit hours of foundational knowledge in the humanities, sciences, mathematics, social sciences and arts. The course must address and assess at least one of the following Common Learning Outcomes:
+Collaborate Successfully
+,
+Think Critically
+,
+Demonstrate Ethical Understanding
+,
+Exhibit Curiosity
+, or
+Embrace Diversity
+. With some exceptions, these courses must be taught out of the Humanities, Social Sciences, and Communication, Mathematics, or Physics & Chemistry Departments.
+7
+6 or more credit hours from courses offered by the EECS Department where the course number is 3000 or higher.
+The following ROTC courses could count for free elective credit in the CS major (there are 6 credits of free electives in the major):
+AIR 4141
+National Security Affairs/Preparation for Active Duty I (3 credits)
+AIR 4142
+National Security Affairs/Preparation for Active Duty II (3 credits)
+ARM 1800
+American Crucible: The Military and the Development of the United States (3 credits)
+NAV 3964
+Practicum in U.S. Marine Corps Leadership and Management (4 credits)
+NAV 4186
+Leadership and Core-Value-Based Decision-Making (3 credits)
+Return to:
+Degree Programs, Minors, and Certificates
+Back to Top
+|
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+All
+catalogs
+© 2026 Milwaukee School of Engineering.
+Powered by
+Modern Campus Catalog™
+.

@@ -1,0 +1,133 @@
+AE 3641 - Building Electrical Power Distribution II -
+Milwaukee School of Engineering
+Mar 12, 2026
+2016-2017 Undergraduate Academic Catalog
+Select a Catalog
+2025-2026 Undergraduate Academic Catalog
+2025-2026 Graduate Academic Catalog
+2024-2025 Undergraduate Academic Catalog-June [ARCHIVED CATALOG]
+2024-2025 Graduate Academic Catalog-June [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Graduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Graduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Graduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Graduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Graduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Graduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Graduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Graduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Graduate Academic Catalog [ARCHIVED CATALOG]
+2013-14 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2012-2014 Graduate Academic Catalog [ARCHIVED CATALOG]
+2012-2013 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+Global Search
+Catalog Search
+Choose Search Location
+Select an option
+Courses
+Programs
+Academic Departments
+Other Content
+Entire Catalog
+Search Keyword Field
+Whole Word/Phrase
+Advanced Search
+Catalog Navigation
+Catalog Home
+Academic Calendar
+University Overview
+Enrollment Management Department
+Academic Regulations and Policies
+Student Financial Services
+Academic Departments, Undergraduate Degree Programs, Minors and Certificates
+Degree Programs, Minors and Certificates
+Reserve Officer Training Corps (ROTC)
+Course Descriptions
+Board of Regents, Academic Administration, Faculty and Advisory Committees
+Campus Map
+Student Resources
+My Portfolio
+HELP
+2016-2017 Undergraduate Academic Catalog
+[ARCHIVED CATALOG]
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+AE 3641 - Building Electrical Power Distribution II
+3
+lecture hours
+2
+lab hours
+4
+credits
+Course Description
+Campus power plants and distribution, large and tall building power distribution, totalizing loads, large and medium voltage services, power company coordination, emergency generators, power factor correction, underground duct banks, electrical vaults, per unit fault current calculations, medium voltage equipment, working clearances around equipment, large motors, motor control, and feeder and branch circuit design are all covered in this course. Case studies are presented to reinforce theory and application of electrical code. Continuation of the electrical design project started in
+AE 3631
+.   (prereq:
+AE 3631
+)
+Course Learning Outcomes
+Upon successful completion of this course, the student will be able to:
+Specify unit substations, transformers and power distribution circuits
+Design large, medium voltage service entrances
+Design power system protection schemes utilizing fuses, circuit breakers, instrument transformers, and protective relays
+Perform per unit fault calculations to determine short-circuit duties
+Design basic motor control circuits and motor control centers
+Design electrical power distribution system for a large commercial building
+Prerequisites by Topic
+Advanced mathematics including linear equations and complex numbers
+Basic power calculations from
+AE 3611
+,
+AE 3631
+Course Topics
+Electrical Protection (3 classes)
+Fuses (3 classes)
+Circuit Breakers (3 classes)
+Medium Voltage Switchgear (2 classes)
+Instrument transformers and relays (2 classes)
+Grounding (2 classes)
+Transformers (2 classes)
+Substations (2 classes)
+Short Circuit Calculations (2 classes)
+Coordination (2 classes)
+Design of Electrical Systems (2 classes)
+Motor Starters and Control (2 classes)
+Project Presentations (2 classes)
+Hands On Laboratory (10 classes)
+Exams and Review (2 classes)
+Laboratory Topics
+Calculate using PTW-32
+Observe MSOE Science Bldg Transformers
+Observe Miller Park Substations
+Course Project
+Observe 1000 North Water Street
+Observe St. Luke’s Hospital
+Observe Johnson Controls
+Coordinator
+Dudley Outcalt
+Back to Top
+|
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+All
+catalogs
+© 2026 Milwaukee School of Engineering.
+Powered by
+Modern Campus Catalog™
+.

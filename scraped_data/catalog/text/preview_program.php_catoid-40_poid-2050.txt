@@ -1,0 +1,478 @@
+Program: Biomedical Engineering, B.S. - Milwaukee School of Engineering
+Milwaukee School of Engineering
+Mar 12, 2026
+2024-2025 Undergraduate Academic Catalog-June
+Select a Catalog
+2025-2026 Undergraduate Academic Catalog
+2025-2026 Graduate Academic Catalog
+2024-2025 Undergraduate Academic Catalog-June [ARCHIVED CATALOG]
+2024-2025 Graduate Academic Catalog-June [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Graduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Graduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Graduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Graduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Graduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Graduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Graduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Graduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Graduate Academic Catalog [ARCHIVED CATALOG]
+2013-14 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2012-2014 Graduate Academic Catalog [ARCHIVED CATALOG]
+2012-2013 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+Global Search
+Catalog Search
+Choose Search Location
+Select an option
+Courses
+Programs
+Academic Departments
+Other Content
+Entire Catalog
+Search Keyword Field
+Whole Word/Phrase
+Advanced Search
+Catalog Navigation
+Catalog Home
+Academic Calendar
+University Overview
+Admissions
+Student Financial Services
+Academic Regulations and Policies
+Degree Programs, Minors, and Certificates
+Degrees, Minors, and Certificates by Department
+Course Descriptions
+The Raider Core
+MSOE Honors Program
+Global Opportunities
+Reserve Officers’ Training Corps. (ROTC)
+Administration, Regents, and Advisory Committees
+Departments and Faculty
+Campus Map
+Student Resources
+My Portfolio
+HELP
+2024-2025 Undergraduate Academic Catalog-June
+[ARCHIVED CATALOG]
+Biomedical Engineering, B.S.
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Program Director
+Dr. Jeffrey LaMack
+Office: S-364
+Phone: (414) 277-7535
+Email:
+lamack@msoe.edu
+Overview
+Biomedical engineering (BME) is the application of engineering principles to solve problems faced in health care through the creation and improvement of medical devices and systems. The focus of the BME program at MSOE is to prepare students for the medical device industry or graduate study in BME and related fields. This is achieved with a curriculum that provides foundations in classical engineering disciplines including electrical and mechanical engineering, as well as biological sciences and computer programming. After completing the first year in the curriculum, students choose to follow the
+general path
+or the
+artificial intelligence (AI) path
+. Both paths provide foundations across the subdisciplines of biomedical engineering, including biomechanics, bioinstrumentation, biotransport, medical imaging and biomedical control systems. The AI path includes a series of courses that further prepares students to pursue career paths involving the emerging areas of data science, machine learning and AI in the medical device industry and biomedical research.
+Through extensive hands-on laboratory exercises and real-world projects throughout the curriculum, all students gain highly sought-after skills for industry, including incorporation of microcontrollers and transducers, prototyping and testing, and medical device regulation. Students must fully address the medical device development process in their capstone senior design project, including thorough consideration of problem definition and customer needs, medical device market strategies, standards, and regulatory considerations. In addition to traditional BME careers, program graduates have chosen career paths in medicine, law, sports and auto safety biomechanics, and medical device regulatory compliance. Regular academic advising with experienced faculty, internship elective options, and program connections with alumni in diverse industries allow students to customize their education and gain experiences to pursue the career path of their choice in a high demand field.
+Program Educational Objectives
+The objective of this program is for graduates to attain, early in their careers, the ability to demonstrate leadership, teamwork, and readiness to contribute to diverse teams and lead with an inclusive mindset, as well as apply knowledge and practical experience to independently solve challenging problems in a variety of career paths, including:
+Professional careers in the biomedical or related engineering fields,
+Graduate study or degrees in biomedical engineering or related engineering or science fields, or
+Other related professional endeavors such as education or practice in law, medicine, business, or other fields.
+Student Outcomes
+Graduates of the biomedical engineering program, at the time of graduation, will have:
+an ability to identify, formulate, and solve complex engineering problems by applying principles of engineering, science, and mathematics
+an ability to apply engineering design to produce solutions that meet specified needs with consideration of public health, safety, and welfare, as well as global, cultural, social, environmental, and economic factors
+an ability to communicate effectively with a range of audiences
+an ability to recognize ethical and professional responsibilities in engineering situations and make informed judgments, which must consider the impact of engineering solutions in global, economic, environmental, and societal contexts
+an ability to function effectively on a team whose members together provide leadership, create a collaborative and inclusive environment, establish goals, plan tasks, and meet objectives
+an ability to develop and conduct appropriate experimentation, analyze and interpret data, and use engineering judgment to draw conclusions
+an ability to acquire and apply new knowledge as needed, using appropriate learning strategies
+The Biomedical Engineering (BS) program is accredited by the Engineering Accreditation Commission of
+ABET
+, under the commission’s General Criteria and Program Criteria for Bioengineering and Biomedical Engineering.
+View Annual Student Enrollment and Graduation Data
+Biomedical Engineering, B.S. Version S1.1
+Year One
+Fall
+General Path and AI Path
+Total: 11 lecture hours - 6 lab hours - 14 credits
+BIO 1110 - Cell Biology and Genetics
+4
+credits
+BME 1010 - Introduction to Biomedical Engineering
+2
+credits
+* ♦ Raider Core:
+Integrate Learning
+MTH 1110 - Calculus I
+4
+credits
+PHY 1110 - Physics I - Mechanics and Thermodynamics
+4
+credits
+♦ Raider Core:
+Think Critically
+Spring
+General Path and AI Path
+Total: 15 lecture hours - 4 lab hours - 17 credits
+COM 1001 - College Writing
+3
+credits
+♦ Raider Core:
+Communicate Effectively
+CSC 1310 - Introduction to Programming with Python
+3
+credits
+*
+ELE 2001 - Electric Circuits I: Theory and Applications
+4
+credits
+*
+Raider Core Elective ♦
+Choice of Diversity or Curiosity CLO
+3 credits
+1
+MTH 1120 - Calculus II
+4
+credits
+Year Two
+Fall
+General Path
+Total: 15 lecture hours - 4 lab hours - 17 credits
+BME 2310 - Embedded Systems for Biomedical Engineers
+3
+credits
+* ♦ Raider Core:
+Integrate Learning
+COM 2001 - Writing for the STEM Disciplines
+3
+credits
+♦ Raider Core:
+Collaborate Successfully/Communicate Effectively
+3 credits
+1
+ELE 2011 - Electric Circuits II: Theory and Applications
+4
+credits
+*
+MTH 2140 - Differential Equations
+3
+credits
+PHY 1120 - Physics II - Electricity, Magnetism, and Optics
+4
+credits
+AI Path
+Total: 14 lecture hours - 4 lab hours - 16 credits
+BME 2310 - Embedded Systems for Biomedical Engineers
+3
+credits
+* ♦ Raider Core:
+Integrate Learning
+CSC 2611 - AI Tools
+3
+credits
+*
+ELE 2011 - Electric Circuits II: Theory and Applications
+4
+credits
+*
+MTH 2140 - Differential Equations
+3
+credits
+MTH 2340 - Linear Algebra with Applications
+3
+credits
+Spring
+General Path
+Total: 16 lecture hours - 2 lab hours - 16 credits
+BIO 2510 - Human Physiology I
+3
+credits
+*
+CHM 1010 - Chemistry I
+4
+credits
+IDS 2020 - Career Development
+0
+credits
+MEC 2010 - Engineering Mechanics I: Statics
+3
+credits
+MTH 2480 - Probability and Statistics
+3
+credits
+Raider Core Elective ♦
+Choice of Diversity or Curiosity CLO
+3 credits
+1
+AI Path
+Total: 16 lecture hours - 4 lab hours - 17 credits
+BIO 2510 - Human Physiology I
+3
+credits
+*
+CHM 1010 - Chemistry I
+4
+credits
+CSC 2621 - Introduction to Data Science
+3
+credits
+*
+IDS 2020 - Career Development
+0
+credits
+MTH 2130 - Calculus III
+4
+credits
+MTH 2480 - Probability and Statistics
+3
+credits
+Year Three
+Fall
+General Path
+Total: 15 lecture hours - 4 lab hours - 17 credits
+BIO 2520 - Human Physiology II
+4
+credits
+*
+BME 3510 - Biotransport Phenomena
+4
+credits
+*
+BME 3710 - Biomedical Instrumentation I
+3
+credits
+*
+♦ Raider Core:
+Integrate Learning
+ELE 3300 - Signals and Systems
+3
+credits
+*
+Choice of
+PHL 3101
+,
+PHL 3102
+, or
+PHL 3103
+3 credits ♦
+Raider Core:
+Demonstrate Ethical Understanding
+AI Path
+Total: 13 lecture hours - 6 lab hours - 16 credits
+BIO 2520 - Human Physiology II
+4
+credits
+*
+BME 3710 - Biomedical Instrumentation I
+3
+credits
+*
+♦ Raider Core:
+Integrate Learning
+COM 2001 - Writing for the STEM Disciplines
+3
+credits
+♦ Raider Core:
+Collaborate Successfully/Communicate Effectively
+CSC 4601 - Theory of Machine Learning
+3
+credits
+*
+ELE 3300 - Signals and Systems
+3
+credits
+*
+Spring
+General Path
+Total: 13 lecture hours - 6 lab hours - 16 credits
+BME 3010 - Medical Device Regulation and Standards
+3
+credits
+*
+BME 3310 - Sensors, Actuators, and Interfaces
+3
+credits
+*
+BME 3410 - Biomechanics
+4
+credits
+*
+COM 3001 - Professional Presentations
+3
+credits
+♦ Raider Core:
+Collaborate Successfully/Communicate Effectively
+ELE 3320 - Digital Signal Processing
+3
+credits
+*
+AI Path
+Total: 12 lecture hours - 6 lab hours - 15 credits
+BME 3010 - Medical Device Regulation and Standards
+3
+credits
+*
+BME 3310 - Sensors, Actuators, and Interfaces
+3
+credits
+*
+COM 3001 - Professional Presentations
+3
+credits
+♦ Raider Core:
+Collaborate Successfully/Communicate Effectively
+CSC 4801 - Data Science Practicum
+3
+credits
+*
+ELE 3320 - Digital Signal Processing
+3
+credits
+*
+Year Four
+Fall
+General Path
+Total: 11 lecture hours - 7 lab hours - 15 credits
+BME 3610 - Biomaterials
+3
+credits
+*
+BME 4210 - Medical Imaging Systems
+3
+credits
+*
+BME 4710 - Biomedical Instrumentation II
+3
+credits
+*
+BME 4901 - Biomedical Engineering Senior Design I
+3
+credits
+*
+Elective (Technical)
+3 credits
+3
+AI Path
+Total: 13 lecture hours - 4 lab hours - 16 credits
+BME 3510 - Biotransport Phenomena
+4
+credits
+*
+BME 4210 - Medical Imaging Systems
+3
+credits
+*
+BME 4901 - Biomedical Engineering Senior Design I
+3
+credits
+*
+MEC 2010 - Engineering Mechanics I: Statics
+3
+credits
+PHL 3102 - Ethics of Digital Technologies and Artificial Intelligence
+3
+credits
+♦ Raider Core:
+Demonstrate Ethical Understanding
+Spring
+General Path
+Total: 13 lecture hours - 4 lab hours - 16 credits
+BME 4110 - Control Systems for Biomedical Applications
+4
+credits
+*
+BME 4902 - Biomedical Engineering Senior Design II
+3
+credits
+* ♦ Raider Core:
+Integrate Learning
+Raider Core Elective ♦
+Choice of CLO
+3 credits
+2
+Elective (Technical)
+3 credits
+3
+Elective (Free)
+3 credits
+4
+AI Path
+Total: 13 lecture hours - 6 lab hours - 17 credits
+BME 3410 - Biomechanics
+4
+credits
+*
+BME 4110 - Control Systems for Biomedical Applications
+4
+credits
+*
+BME 4902 - Biomedical Engineering Senior Design II
+3
+credits
+* ♦ Raider Core:
+Integrate Learning
+Raider Core Elective ♦
+Choice of Diversity or Curiosity CLO
+3 credits
+1
+Raider Core Elective ♦
+Choice of CLO
+3 credits
+2
+Program total (General Path): 109 lecture hours - 37 lab hours - 128 credits
+Program total (AI Path): 107 lecture hours - 40 lab hours - 128 credits
+Notes:
+* Courses with an asterisk are used to calculate major GPA.
+See
+The Raider Core
+page for details on the general education program and Common Learning Outcomes (CLOs). See the full list of courses covering CLOs for the Biomedical Engineering program for the
+general path
+and for the
+AI path
+.
+1
+Two Raider Core courses (six credits) are required. These courses must be selected from the HSC Department to collectively complete the Common Learning Outcomes
+Exhibit Curiosity
+and
+Embrace Diversity
+.
+2
+One
+Raider Core elective
+(three credits) is required. This course must be selected from the HSC, Physics & Chemistry, or Mathematics Department to complete one of the following Common Learning Outcomes:
+Collaborate Successfully
+,
+Think Critically
+,
+Demonstrate Ethical Understanding
+,
+Exhibit Curiosity
+, or
+Embrace Diversity
+.
+3
+(General Path Only) Six credits of technical electives are required. These courses must be on the pre-approved technical electives list for biomedical engineering. Alternatively, students may request approval of specific courses not on the list that prepare the student for an identified career path.
+4
+(General Path Only) Three credits must be taken to satisfy the free elective subject to limitations in the Academic Catalog.
+Back to Top
+|
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+All
+catalogs
+© 2026 Milwaukee School of Engineering.
+Powered by
+Modern Campus Catalog™
+.

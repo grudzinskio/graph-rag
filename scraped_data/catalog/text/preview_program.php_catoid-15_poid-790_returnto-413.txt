@@ -1,0 +1,302 @@
+Program: Medical Informatics (MSMI), M.S. - Milwaukee School of Engineering
+Milwaukee School of Engineering
+Mar 12, 2026
+2016-2017 Graduate Academic Catalog
+Select a Catalog
+2025-2026 Undergraduate Academic Catalog
+2025-2026 Graduate Academic Catalog
+2024-2025 Undergraduate Academic Catalog-June [ARCHIVED CATALOG]
+2024-2025 Graduate Academic Catalog-June [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Graduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Graduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Graduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Graduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Graduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Graduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Graduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Graduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Graduate Academic Catalog [ARCHIVED CATALOG]
+2013-14 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2012-2014 Graduate Academic Catalog [ARCHIVED CATALOG]
+2012-2013 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+Global Search
+Catalog Search
+Choose Search Location
+Select an option
+Courses
+Programs
+Academic Departments
+Other Content
+Entire Catalog
+Search Keyword Field
+Whole Word/Phrase
+Advanced Search
+Catalog Navigation
+Catalog Home
+Academic Calendar
+University Overview
+Graduate and Professional Education
+Graduate Admission Requirements
+Academic Regulations and Policies
+Student Financial Services
+Services and Resources for Graduate Students
+Academic Departments, Graduate Degree Programs and Certificates
+Degree Programs and Certificates
+Course Descriptions
+Board of Regents, Academic Administration and Faculty
+Campus Map
+Student Resources
+My Portfolio
+HELP
+2016-2017 Graduate Academic Catalog
+[ARCHIVED CATALOG]
+Medical Informatics (MSMI), M.S.
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Return to:
+Academic Departments, Graduate Degree Programs and Certificates
+Note: The M.S. Medical Informatics Program is no longer accepting incoming students.
+Program Co-Directors
+Katie A. McCarthy, MSMI, CQIA (ASQ), CSQE (ASQ)
+Office: R308
+Phone: (414) 277-2316
+Email:
+mccarthk@msoe.edu
+Dr. Gary Barnas
+The Medical College of Wisconsin
+Joint Degree Offering
+The M.S. Medical Informatics (MSMI) Program is jointly offered by MSOE and MCW.
+Introduction
+Medical Informatics (MI) is the applied science at the junction of the disciplines of medicine, business, and information technology, which supports the health care delivery process and promotes measurable improvements in both quality of care and cost-effectiveness.
+The mission of the M.S. Medical Informatics (MSMI) Program is to provide an applied graduate educational experience that prepares professionals to participate in and lead multidisciplinary teams in the development, implementation, and management of information technology solutions in health care.
+The MSMI Program emphasizes the applied aspect of using informatics in the health care setting, which differentiates this program from other programs that focus on theory.  We strive to provide a practical education that prepares students to effectively participate in development, implementation, and management of teams charged with producing solutions that improve patient care and reduce the cost of care.
+It is not the goal of the MSMI Program to comprehensively cross train individuals from one medical informatics discipline to another.  We will not make doctors or nurses into network engineers or finance experts, for example.  Our intent is to give graduates the knowledge and skills to identify, recruit, and work with expert resources needed for successful project.
+Finally, the MSMI Program is designed with a focus on the adult learner.  The majority of students have education in one of the three primary medical informatics disciplines and several years of working experience.  This education and experience allows the student to immediately see the implications and applications of course topics.
+Faculty:
+Dr. (Hon.) G. Woodrow Adkins, Dr. Ruth Barratt, Dr, Steven Bialek, Dr. Jeffrey Blessing, Dr. Rachel Boechler, Melinda Davies, Dr. Kenneth Dobbs, Dr. Kathy Faggiani, Dr. Gary Kiltz, Terry Hoffmann, Dr. Paul A. Hudec, Stanley Kosmatka, Patricia Kramer, Carol Mannino, Katie McCarthy, Dr. Jenne Meyer, Dr. Kathleen Miezio, Dr. Katrina Moskalik, Dr. Patricia Neudecker, Paul Nistler, Dr. C. Kelly Lawrence Ottman, Dr. Michael Payne, Allison Rudich, Dr. Jeffrey Santaga, David Schmitz, Gary Shimek, Beth Slayman, David Tietyen, Dr. John Traxler, Quyhn Trueblood, Gary Vroman
+Program Educational Outcomes
+Five years after graduation, Medical Informatics graduates will have significant competency in:
+Applying complex medical informatics solutions and analyzing outcomes.
+Meeting the professional requirements for highly responsible positions.
+Identifying revenue, cost savings, or efficiency improvements which add value to their organizations.
+Influencing decision-making in the application of informatics solutions.
+Facilitating, leading, and/or sponsoring multidisciplinary teams.
+Engaging in substantial life-long learning activities.
+Student Outcomes
+Upon graduation, Medical Informatics students should have:
+The broad education necessary to understand where and when informatics solutions can be appropriately applied.
+An ability to evaluate and integrate disciplines (medicine, information technology, and business) within the field of medical informatics.
+An ability to effectively participate in multidisciplinary teams.
+An ability to evaluate and apply process improvements.
+An understanding of the components of change management.
+An ability to communicate effectively.
+An ability to integrate professional and ethical responsibility.
+An appreciation for, and an ability to engage in, lifelong learning.
+Required courses (45 credits)
+MI 15000 - Medical Informatics Seminar
+1
+credits
+MI 15010 - Health Care Environment
+2
+credits
+MI 15020 - Overview of Informatics
+2
+credits
+MI 15030 - Communication Strategies for Change and Project Management
+4
+credits
+MI 16010 - Workflow Analysis and Redesign
+4
+credits
+MI 16020 - Information Security and Infrastructure
+4
+credits
+MI 16030 - Data Management and Systems Integration
+4
+credits
+MI 16040 - System Lifecycle
+4
+credits
+MI 17010 - Evidence-based Medicine and Decision Support
+4
+credits
+MI 17020 - Health Care Data Analytics
+4
+credits
+MI 17030 - Patient Safety and Quality Improvement
+4
+credits
+MI 17040 - Strategic Leadership
+4
+credits
+MI 18010 - Medical Informatics Capstone I
+1
+credits
+MI 18020 - Medical Informatics Capstone II
+1
+credits
+MI 18030 - Medical Informatics Capstone III
+1
+credits
+MI 18040 - Medical Informatics Capstone IV
+1
+credits
+Model Full-time Track (V8.0)
+Year One
+Quarter One
+MI 15000 - Medical Informatics Seminar
+1
+credits
+MI 15010 - Health Care Environment
+2
+credits
+MI 15020 - Overview of Informatics
+2
+credits
+MI 16010 - Workflow Analysis and Redesign
+4
+credits
+Total: 7 lecture hours - 4 lab hours - 9 credits
+Quarter Two
+MI 15030 - Communication Strategies for Change and Project Management
+4
+credits
+MI 16020 - Information Security and Infrastructure
+4
+credits
+MI 18010 - Medical Informatics Capstone I
+1
+credits
+Total: 4 lecture hours - 10 lab hours - 9 credits
+Quarter Three
+MI 16030 - Data Management and Systems Integration
+4
+credits
+MI 17020 - Health Care Data Analytics
+4
+credits
+MI 18020 - Medical Informatics Capstone II
+1
+credits
+Total: 4 lecture hours - 10 lab hours - 9 credits
+Year Two
+Quarter One
+MI 16040 - System Lifecycle
+4
+credits
+MI 17010 - Evidence-based Medicine and Decision Support
+4
+credits
+MI 18030 - Medical Informatics Capstone III
+1
+credits
+Total: 4 lecture hours - 10 lab hours - 9 credits
+Quarter Two
+MI 17030 - Patient Safety and Quality Improvement
+4
+credits
+MI 17040 - Strategic Leadership
+4
+credits
+MI 18040 - Medical Informatics Capstone IV
+1
+credits
+Total: 4 lecture hours - 10 lab hours - 9 credits
+Notes
+Model Part-time Track (V8.0)
+Year One
+Quarter One
+MI 15000 - Medical Informatics Seminar
+1
+credits
+MI 15010 - Health Care Environment
+2
+credits
+MI 15020 - Overview of Informatics
+2
+credits
+Quarter Two
+MI 15030 - Communication Strategies for Change and Project Management
+4
+credits
+Quarter Three
+MI 16030 - Data Management and Systems Integration
+4
+credits
+Year One Totals: 9 lecture hours - 8 lab hours - 13 credits
+Year Two
+Quarter One
+MI 16010 - Workflow Analysis and Redesign
+4
+credits
+Quarter Two
+MI 16020 - Information Security and Infrastructure
+4
+credits
+Quarter Three
+MI 17020 - Health Care Data Analytics
+4
+credits
+Year Two Totals: 6 lecture hours - 12 lab hours - 12 credits
+Year Three
+Quarter One
+MI 16040 - System Lifecycle
+4
+credits
+Quarter Two
+MI 17030 - Patient Safety and Quality Improvement
+4
+credits
+Quarter Three
+MI 18010 - Medical Informatics Capstone I
+1
+credits
+MI 18020 - Medical Informatics Capstone II
+1
+credits
+Year Three Totals: 4 lecture hours - 12 lab hours - 10 credits
+Year Four
+Quarter One
+MI 17010 - Evidence-based Medicine and Decision Support
+4
+credits
+MI 18030 - Medical Informatics Capstone III
+1
+credits
+Quarter Two
+MI 17040 - Strategic Leadership
+4
+credits
+MI 18040 - Medical Informatics Capstone IV
+1
+credits
+Year Four Totals: 4 lecture hours - 12 lab hours - 10 credits
+Notes
+Part-time students may enroll in fewer courses each quarter than listed above, however, students are expected to complete all degree requirements within five years of beginning the program.
+Return to:
+Academic Departments, Graduate Degree Programs and Certificates
+Back to Top
+|
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+All
+catalogs
+© 2026 Milwaukee School of Engineering.
+Powered by
+Modern Campus Catalog™
+.

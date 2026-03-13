@@ -1,0 +1,126 @@
+AE 3601 - Principles of Electrical Engineering for Buildings -
+Milwaukee School of Engineering
+Mar 12, 2026
+2019-2020 Undergraduate Academic Catalog
+Select a Catalog
+2025-2026 Undergraduate Academic Catalog
+2025-2026 Graduate Academic Catalog
+2024-2025 Undergraduate Academic Catalog-June [ARCHIVED CATALOG]
+2024-2025 Graduate Academic Catalog-June [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Graduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Graduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Graduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Graduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Graduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Graduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Graduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Graduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Graduate Academic Catalog [ARCHIVED CATALOG]
+2013-14 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2012-2014 Graduate Academic Catalog [ARCHIVED CATALOG]
+2012-2013 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+Global Search
+Catalog Search
+Choose Search Location
+Select an option
+Courses
+Programs
+Academic Departments
+Other Content
+Entire Catalog
+Search Keyword Field
+Whole Word/Phrase
+Advanced Search
+Catalog Navigation
+Catalog Home
+Academic Calendar
+University Overview
+Enrollment Management Department
+Academic Regulations and Policies
+Student Financial Services
+Academic Departments, Undergraduate Degree Programs, Minors and Certificates
+Degree Programs, Minors and Certificates
+University Scholars Honors Program
+Reserve Officers’ Training Corps. (ROTC)
+English as a Second Language
+Course Descriptions
+Administration, Board of Regents, Faculty and Advisory Committees
+Campus Map
+Student Resources
+My Portfolio
+HELP
+2019-2020 Undergraduate Academic Catalog
+[ARCHIVED CATALOG]
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+AE 3601 - Principles of Electrical Engineering for Buildings
+4
+lecture hours
+0
+lab hours
+4
+credits
+Course Description
+This introductory electrical systems design course presents basic concepts on the design and implementation of building power and lighting systems. Power system topics include AC electrical power calculations, overcurrent protective devices, distribution equipment, transformers, motors, grounding, conductors and conduits. Emphasis is placed on cross-discipline coordination as well as an introduction to the National Electrical Code. Lighting system topics include the introduction to light sources, light fixtures, lighting controls as well as applicable codes and standards. This course features a design project where students are required to generate and present a basic set of electrical design documents.   (prereq:
+EE 201
+)
+Course Learning Outcomes
+Upon successful completion of this course, the student will be able to:
+Perform basic single and three phase power calculations, and understand relationships between Apparent Power, Real Power, Reactive Power and Power Factor
+Identify basic electrical power distribution systems
+Understand the role of system grounding and equipment grounding for safety and proper system operation
+Calculate basic short circuit levels available in low voltage distribution systems, based upon transformer sizes and impedances
+Calculate and select proper size conductors and conduits for various electrical loads
+select fuses or circuit breakers for various electrical loads, understanding the advantages and disadvantages of protecting with fuses and circuit breakers
+Draw a basic one-line of an electrical distribution system, indicating the proper sizes of all major components
+Draw a room in plan view, indicating circuits, conductors, and home runs to a supply panel
+Select lighting sources and luminaires appropriate to task, function, and space type
+Calculate illuminance and lighting power density in a typical application
+Prerequisites by Topic
+Electrical current
+AC steady-state analysis
+DC circuit analysis
+Course Topics
+Electrical design in buildings
+Codes and standards including the National Electrical Code
+Electrical power
+3-phase power
+Short circuits
+Transformers
+Motors
+Conductors
+Voltage drop
+Overcurrent protection
+Coordination with other disciplines
+Lighting sources and equipment
+Lighting calculations
+Lighting controls
+Coordinator
+Christine Brotz
+Back to Top
+|
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+All
+catalogs
+© 2026 Milwaukee School of Engineering.
+Powered by
+Modern Campus Catalog™
+.

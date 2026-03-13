@@ -1,0 +1,151 @@
+CSC 1020 - Data Structures, I/O, and Graphical Interfaces -
+Milwaukee School of Engineering
+Mar 12, 2026
+2025-2026 Undergraduate Academic Catalog
+Select a Catalog
+2025-2026 Undergraduate Academic Catalog
+2025-2026 Graduate Academic Catalog
+2024-2025 Undergraduate Academic Catalog-June [ARCHIVED CATALOG]
+2024-2025 Graduate Academic Catalog-June [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Graduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Graduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Graduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Graduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Graduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Graduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Graduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Graduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Graduate Academic Catalog [ARCHIVED CATALOG]
+2013-14 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2012-2014 Graduate Academic Catalog [ARCHIVED CATALOG]
+2012-2013 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+Global Search
+Catalog Search
+Choose Search Location
+Select an option
+Courses
+Programs
+Academic Departments
+Other Content
+Entire Catalog
+Search Keyword Field
+Whole Word/Phrase
+Advanced Search
+Catalog Navigation
+Catalog Home
+Academic Calendar
+University Overview
+Admissions
+Student Financial Services
+Academic Regulations and Policies
+Degree Programs, Minors, and Certificates
+Degrees, Minors, and Certificates by Department
+Course Descriptions
+The Raider Core
+Explorer Pathways
+MSOE Honors Program
+Global Opportunities
+Reserve Officers’ Training Corps. (ROTC)
+Administration, Regents, and Advisory Committees
+Departments and Faculty
+Campus Map
+Student Resources
+My Portfolio
+HELP
+2025-2026 Undergraduate Academic Catalog
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+CSC 1020 - Data Structures, I/O, and Graphical Interfaces
+4
+lecture hours
+2
+lab hours
+5
+credits
+Course Description
+This course covers interfaces, exceptions, file input/output, graphical user interfaces and event-driven programming as well as the organization of data and the algorithms that act upon them. Various sorting algorithms and data structures are covered. The topics of arrays, linked lists, stacks, queues, trees, sets, and hash tables are introduced. Fundamentals of algorithm performance are also introduced, with an emphasis placed on time complexity analysis. Laboratory activities include implementation of data structures as well as development of GUI applications that apply data structures from standard libraries.
+Prereq:
+CSC 1010
+or
+CSC 1110
+(quarter system prereq: CS 1021)
+Note:
+Only one of CSC 1020,
+CSC 1120
+, and
+CSC 1120A
+can be used to meet a degree requirement unless approved by the program director.
+This course meets the following Raider Core CLO Requirement:
+None
+Course Learning Outcomes
+Upon successful completion of this course, the student will be able to:
+Translate UML class diagrams into Java code
+Apply abstract classes and interfaces
+Distinguish between extending a class (inheritance) and implementing an interface
+Make appropriate use of exception handling
+Use classes from the Java standard library to read and write files on disk
+Use the Java API specification (javadoc) to determine correct use of standard library classes
+Understand and apply complex data structures and algorithms
+Use appropriate algorithms (and associated data structures) to solve problems
+Have a thorough understanding of commonly used library data structures
+Analyze the time complexity of algorithms
+Understand the use of recursion in problem solving
+Interpret and implement multiple sorting algorithms
+Use data structures in software design and implementation
+Apply standard library data structures in software design
+Select appropriate data structures for a given application
+Write unit tests to verify software behavior
+Use Git to manage versioning of source code
+Understand the event-driven programming model
+Design and implement applications with graphical user interfaces
+Prerequisites by Topic
+Java programming fundamentals
+Control structures
+Looping
+Classes
+Inheritance
+Course Topics
+Interfaces
+Exception handling
+File input and output
+Graphical interfaces
+Event-driven programming
+Functional programming
+Recursion
+Testing
+ArrayLists
+LinkedList
+Sorting algorithms
+Stacks and queues
+Trees
+Hash tables
+Time and space complexity
+Coordinator
+Dr. Chris Taylor, Sean Jones
+Back to Top
+|
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+All
+catalogs
+© 2026 Milwaukee School of Engineering.
+Powered by
+Modern Campus Catalog™
+.

@@ -1,0 +1,161 @@
+ELE 2022 - Bridge Electric Circuits -
+Milwaukee School of Engineering
+Mar 12, 2026
+2025-2026 Undergraduate Academic Catalog
+Select a Catalog
+2025-2026 Undergraduate Academic Catalog
+2025-2026 Graduate Academic Catalog
+2024-2025 Undergraduate Academic Catalog-June [ARCHIVED CATALOG]
+2024-2025 Graduate Academic Catalog-June [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Graduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Graduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Graduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Graduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Graduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Graduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Graduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Graduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Graduate Academic Catalog [ARCHIVED CATALOG]
+2013-14 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2012-2014 Graduate Academic Catalog [ARCHIVED CATALOG]
+2012-2013 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+Global Search
+Catalog Search
+Choose Search Location
+Select an option
+Courses
+Programs
+Academic Departments
+Other Content
+Entire Catalog
+Search Keyword Field
+Whole Word/Phrase
+Advanced Search
+Catalog Navigation
+Catalog Home
+Academic Calendar
+University Overview
+Admissions
+Student Financial Services
+Academic Regulations and Policies
+Degree Programs, Minors, and Certificates
+Degrees, Minors, and Certificates by Department
+Course Descriptions
+The Raider Core
+Explorer Pathways
+MSOE Honors Program
+Global Opportunities
+Reserve Officers’ Training Corps. (ROTC)
+Administration, Regents, and Advisory Committees
+Departments and Faculty
+Campus Map
+Student Resources
+My Portfolio
+HELP
+2025-2026 Undergraduate Academic Catalog
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+ELE 2022 - Bridge Electric Circuits
+3
+lecture hours
+2
+lab hours
+4
+credits
+Course Description
+This course completes the coverage of the topics in ELE 2001 and 2011, Electric Circuits I and II, respectively, typically from calculus-based engineering Electric Circuits from another college. The assumed background is documented in ELE 2021 Transfer Electric Circuits. The course starts with using symbolic expressions, mathematical software and simulation software for DC and AC circuit analysis. AC circuit relationships are developed from the exponential representation of phasors. Superposition and linearity are examined. Circuits with models of sensors, actuators, and machines, with dependent sources, and with transformers are analyzed. DC and AC Thévenin and Norton equivalent circuits are determined using the test source method. Frequency response, transfer functions, and Bode plots are used to characterize of RL and RC circuits as a function of frequency. Resonant circuits and op-amp circuits in non-standard configurations are analyzed. Transient circuit responses are determined using time domain and Laplace transforms. Select electrical and electronic applications, simulations, and laboratory experiments are utilized to provide a context and to reinforce the concepts.
+Prereq:
+ELE 2021
+Coreq:
+MTH 2140
+Note:
+None
+This course meets the following Raider Core CLO Requirement:
+None
+Course Learning Outcomes
+Upon successful completion of this course, the student will be able to:
+Perform DC and AC circuit analysis computations using mathematical software
+Analyze DC and AC circuits using circuit simulation software
+Mathematically represent the time domain and the phasor forms of AC sinusoidal steady-state signals
+Symbolically analyze and numerically evaluate AC circuits for electric circuit quantities, complex power, frequency response with AC transfer functions, and op-amp circuits
+Analytically interrelate the polar, exponential, and time domain expressions for AC sinusoidal waveforms, both symbolically and numerically
+Develop the AC complex impedance relations of passive components from the voltage-current time-domain relationships
+Develop complex power expressions from the exponential forms of phasor voltage and current
+Determine complex power for single-phase AC multisource circuits where a source absorbs AC real power (informational note: power factor correction is introduced but is not an outcome)
+Use superposition to analyze a circuit with both DC and one AC frequency and a circuit with two sources of the same and of different frequencies
+Recognize when the linearity condition for superposition in a circuit is valid
+Analyze and simulate circuits with provided models of sensors, actuators, and machines
+Analyze circuits with dependent sources that model components, circuits, and devices (informational note: analysis of circuits with randomly placed dependent sources is
+not
+a learning outcome)
+Analytically determine Thévenin and Norton equivalent circuits of DC circuits using the open circuit - short circuit approach and graphically using voltage-current (
+i-v
+) plots (informational note: limited-size DC circuits are intended)
+Determine DC and AC Thévenin and Norton equivalent circuits with the test source method, including when the original circuits contain dependent sources and transformers
+Analyze AC circuits containing an ideal transformer, using the dot convention and reflected impedance where appropriate (informational note: mutual inductor analysis is not an outcome in this course)
+Identify lowpass, highpass, bandpass, and bandstop (bandreject) filter types in frequency response plots
+Plot the frequency response of two-component series RL and RC circuits on semilogarithmic graphs using mathematical software and using simulations
+Determine the transfer function, the break frequency, and the magnitude and phase Bode approximations (plots) of series RL and RC AC circuits
+Distinguish power ratios in dB (10 log) from voltage, current, and other non-power ratios (20 log)
+Explain qualitatively why the phase response of a filter matters
+Analyze single op-amp circuits in non-standard configurations, including simple active filters, using circuit principles and ideal op‑amp properties
+Derive the resonant frequency of unloaded and loaded series, parallel, and series-parallel RLC resonant circuits that have a single resonant frequency
+Compute the resonant frequency and resonant impedance or admittance
+Determine the quality factor (
+Q
+) and the half-power bandwidth from resonant frequency response plots
+Reduce first-order circuits using Thévenin equivalent circuit analysis to determine the transient response and time constant
+Express the step (switching), ramp, and impulse functions mathematically and graphically
+Formulate composite waveform expressions using the time delay property and combinations of step, ramp, and impulse functions
+Graphically determine the voltage (current) waveform when a current (voltage) waveform is applied to a capacitor or an inductor
+Determine the step response of series and parallel (not series-parallel) RLC circuits with initial conditions using differential-equation based time domain analysis techniques
+Identify the damping type and parameters of series and parallel RLC circuits
+Determine Laplace and inverse Laplace transforms of basic signals by using a transform pairs table and by using software for real poles and non-repeated complex conjugate poles
+Analyze first-order and second-order circuits in the Laplace transform domain, including initial condition models where needed,
+Use software to perform partial fraction expansion for identification of poles (informational note: use of software as opposed to manual methods is intentional)
+Determine transfer functions in the complex frequency (
+s
+) domain for simple RL, RC, and RLC series-parallel circuits
+Explain the significance of poles as they relate to time domain and frequency domain behaviors
+Demonstrate electrical laboratory measurement and instrumentation skills in DC and AC circuits, including those with sensors and actuators
+Prerequisites by Topic
+Electric circuit quantities in steady-state DC and AC contexts: voltage, current, resistance, capacitance, inductance, reactance, impedance, admittance, conductance, and susceptance, including SI units and prefixes
+Sources and loads in an energy conversion context, shorts and opens
+Symbols and circuit schematics relationships to physical components
+Common circuit configuration identification:  series, parallel, series-parallel, and standard ideal op-amp configurations
+DC and AC steady-state series-parallel circuit analysis, using phasors, impedances and admittances for AC, through application of Kirchhoff’s voltage and current laws, voltage and current divider rules, and nodal analysis
+Ideal op-amp circuit analysis in standard configurations
+Complex power for single-phase AC circuits from the phasor voltage and current
+Thévenin and Norton equivalent circuits of DC and AC circuits
+Time constant of series and parallel RL and RC circuits
+Step response of series and parallel (not series-parallel) RLC circuits with initial conditions using differential-equation based time domain analysis techniques
+Electrical laboratory measurement and instrumentation skills in DC and AC circuits
+Coordinator
+Dr. Richard Kelnhofer
+Back to Top
+|
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+All
+catalogs
+© 2026 Milwaukee School of Engineering.
+Powered by
+Modern Campus Catalog™
+.

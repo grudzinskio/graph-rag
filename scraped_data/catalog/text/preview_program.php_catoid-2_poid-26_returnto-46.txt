@@ -1,0 +1,502 @@
+Program: Electrical Engineering, B.S. - Milwaukee School of Engineering
+Milwaukee School of Engineering
+Mar 12, 2026
+2012-2013 Undergraduate Academic Catalog
+Select a Catalog
+2025-2026 Undergraduate Academic Catalog
+2025-2026 Graduate Academic Catalog
+2024-2025 Undergraduate Academic Catalog-June [ARCHIVED CATALOG]
+2024-2025 Graduate Academic Catalog-June [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Graduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Graduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Graduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Graduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Graduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Graduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Graduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Graduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Graduate Academic Catalog [ARCHIVED CATALOG]
+2013-14 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2012-2014 Graduate Academic Catalog [ARCHIVED CATALOG]
+2012-2013 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+Global Search
+Catalog Search
+Choose Search Location
+Select an option
+Courses
+Programs
+Academic Departments
+Other Content
+Entire Catalog
+Search Keyword Field
+Whole Word/Phrase
+Advanced Search
+Catalog Navigation
+Catalog Home
+President’s Welcome
+Academic Calendar
+University Overview
+Enrollment Management Department
+Academic Regulations and Policies
+Student Accounts, Fees and Financial Aid
+Other Academic Resources
+Academic Departments, Degree Programs, Minors and Certificates
+Degree Programs, Minors and Certificates
+Two-degree Programs
+Graduate Studies Programs
+Reserve Officer Training Corps (ROTC)
+Course Descriptions
+Board of Regents, Academic Administration, Faculty and Advisory Committees
+Campus Map
+My Portfolio
+HELP
+2012-2013 Undergraduate Academic Catalog
+[ARCHIVED CATALOG]
+Electrical Engineering, B.S.
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Return to:
+Degree Programs, Minors and Certificates
+Program Director:
+Dr. Richard Kelnhofer
+Office: S-300
+Phone: (414) 277-7420
+Fax: (414) 277-7465
+Email:
+kelnhofer@msoe.edu
+Website:
+www.msoe.edu/eecs/ee
+Have you ever thought about who created items you so commonly use? Your livelihood depends on electrically engineered products such as your cell phone, HDTV, GPS navigators and implantable defibrillators. Electrical engineers create all such things that use electricity to improve peoples’ lives.
+Consider becoming an electrical engineer if you:
+like to work with physical things you can touch and see, such as electronic components and products, yet use a computer to control and interact with these components and products.
+want a broad choice of career opportunities, yet be able to specialize in topics of your choosing.
+are looking for a career that can last a lifetime, yet can also serve as a springboard for other opportunities, such as management, business and law.
+Consider studying electrical engineering at MSOE for the following reasons:
+The curriculum is broadly based with a primary focus on hardware equipment that is real; objects you can see, hold and break. Some of what you will work with can only be seen under a microscope (integrated circuits, nanotechnology) and some will dwarf you (power station generators, wind turbines and solar arrays).
+You will experience a strong emphasis on design and hands-on laboratory experimentation.
+You will learn about communications, controls, motors, embedded systems, electronics, microprocessors and more, and use software applications.
+The curriculum has one or more electrical engineering courses in every quarter of each academic year, including the entire freshman year.
+Program Educational Objectives
+The electrical engineering program is preparing graduates to attain the following objectives within a few years of graduation:
+The technical maturity necessary to be productive and successful in their chosen field.
+Active participation in the affairs of their profession and continued professional development.
+Student Outcomes
+In support of the program objectives, graduates of the program will have:
+an ability to apply knowledge of mathematics, science and engineering.
+an ability to design and conduct experiments, as well as to analyze and interpret data.
+an ability to design a system, component, or process to meet desired needs within realistic constraints such as economic, environmental, social, political, ethical, health and safety, manufacturability and sustainability.
+an ability to function on multidisciplinary teams.
+an ability to identify, formulate and solve engineering problems.
+an understanding of professional and ethical responsibility.
+an ability to communicate effectively.
+the broad education necessary to understand the impact of engineering solutions in a global, economic, environmental and societal context.
+a recognition of the need for and an ability to engage in life-long learning.
+a knowledge of contemporary issues.
+an ability to use the techniques, skills and modern engineering tools necessary for engineering practice.
+an ability to apply knowledge of probability and statistics to electrical engineering.
+The Electrical Engineering Curriculum
+The electrical engineering program (BSEE) at MSOE places a very strong emphasis on design, applications and hands-on laboratory experimentation. Think for a moment of how you can demonstrate that you learned something very well. What if, in addition to the normal exams, you designed, built and debugged an electronic circuit that functions just like it is supposed to? The laboratory is a great place to work out the details of your understanding of the theory. Consequently, the BSEE program at MSOE prepares its graduates for successful entry into the engineering profession, as well as for graduate school.
+Design and laboratory projects grow in complexity throughout the four-year BSEE curriculum. In the freshman year students start with experiments that range over electrical engineering topics, such as microprocessors, communications, motors and digital circuits. Students learn structured programming executed on an embedded system and the basics of circuit theory. In succeeding years typical topics covered include: designing decision-making circuits and sing the software applications MATLAB and Simulink in the analysis and design of automatic control systems.
+This design process culminates in the senior design project where a team of senior students (often coming together from different disciplines) work on a single major project for the entire academic year. The project is taken from concept to a working prototype. Recent projects included:
+Tactical Response SWAT Robot
+Internet-Enabled Heart Health Monitor
+Universal Test Platform for NASA Zero-Gravity Flights
+Solar Powered Boat for Competitive Racing
+SAE Formula Hybrid Vehicle
+Many of the projects use wireless communication and microprocessors. The projects are usually defined by the students, sometimes with the help of faculty and/or local industry. Because of its urban location, MSOE has a very strong relationship with local industry. This is very advantageous for students, not just for design projects, but also for industry internships or summer jobs.
+BSEE students have the option of a very unique junior year study-abroad program with the Lübeck University of Applied Sciences in Lübeck, Germany. This is a tremendous opportunity for anyone who is thinking about a career path that involves the global economy and viewpoint. For details, please see
+Electrical Engineering, German Study-Abroad, MSOE Students, B.S.
+of this catalog.
+Careers in Electrical Engineering
+Graduating with a degree in electrical engineering prepares the student for an extremely wide variety of careers in almost any industry.
+Examples of the
+types of industries
+graduates could work in include:
+Aerospace
+Automation
+Automotive
+Communications
+Computers
+Electronics
+Instrumentation
+Integrated circuits
+Medical
+Power generation/distribution
+Examples of typical electrical engineering
+topical areas
+implemented in these industries are:
+Expert systems
+High-definition television
+Micro-electromechanical systems
+Microprocessor controls
+Optical communications
+Programmable controllers
+Robotics
+Wireless communications
+Examples of the
+types of jobs
+that are available:
+Computer automation
+Computer modeling/simulations
+Development of new products
+Design of products or equipment
+Manufacturing/production
+Project leader
+Researcher of new ideas
+Technical marketing
+Examples of specific
+career opportunities:
+Design engineer - Uses computer simulations and modeling to design new high-frequency circuits for digital cellular phones.
+Research engineer - Invents new optoelectronic devices to build an optical computer.
+Project engineer - Leads a team of engineers from different disciplines to design, test and manufacture an undersea optical amplifier.
+Test engineer - Writes and implements the computer program to do automated testing of an electronic ignition system.
+Application engineer - Defines and integrates existing equipment to solve customer problems.
+System engineer - Defines and develops a communications network.
+Model Full-time Track - V15.4
+Year One
+Fall
+EE 100 - Introduction to Electrical Engineering
+2
+credits
+MA 136 - Calculus for Engineers I
+4
+credits
+EN 131 - Composition
+3
+credits
+HU 100 - Contemporary Issues in the Humanities
+3
+credits
+OR 100 - Freshman Orientation
+0
+credits
+1
+Elective (Business)
+3 credits
+2
+Total: 15 lecture hours - 2 lab hours - 15 credits
+Winter
+EE 1910 - Introduction to Embedded Systems Programming
+4
+credits
+MA 137 - Calculus for Engineers II
+4
+credits
+EN 132 - Technical Composition
+3
+credits
+CH 200 - Chemistry I
+4
+credits
+AE 1311 - Introduction to CAD
+1
+credits
+Total: 14 lecture hours - 6 lab hours - 16 credits
+Spring
+EE 2050 - Linear Circuits - Steady State I
+4
+credits
+MA 231 - Calculus for Engineers III
+4
+credits
+EN 241 - Speech
+3
+credits
+EG 1260 - Engineering Graphics – Visualization
+1
+credits
+PH 2010 - Physics I – Mechanics
+4
+credits
+Total: 12 lecture hours - 9 lab hours - 16 credits
+Year Two
+Fall
+EE 2060 - Linear Circuits - Steady State II
+4
+credits
+EE 2920 - Embedded Systems
+4
+credits
+MA 235 - Differential Equations for Engineers
+4
+credits
+PH 2020 - Physics II - Electromagnetism and Optics
+4
+credits
+Total: 13 lecture hours - 9 lab hours - 16 credits
+Winter
+EE 2070 - Linear Circuits – Transients
+3
+credits
+EE 2930 - Systems Interfacing
+3
+credits
+EE 2900 - Combinational Logic Circuits
+4
+credits
+MA 232 - Calculus for Engineers IV
+3
+credits
+PH 2030 - Physics III - Thermodynamics and Quantum Physics
+4
+credits
+Total: 14 lecture hours - 8 lab hours - 17 credits
+Spring
+EE 2902 - Sequential Logic Circuits
+4
+credits
+CS 2510 - Introduction to Object-Oriented Programming
+3
+credits
+MA 383 - Linear Algebra
+3
+credits
+ME 255 - Engineering Statics for Nonmechanical Engineers
+3
+credits
+ME 354 - Thermodynamics and Heat Transfer
+3
+credits
+Total: 14 lecture hours - 5 lab hours - 16 credits
+Year Three
+Fall
+EE 3050 - Dynamic Systems
+3
+credits
+EE 3101 - Operational Amplifier Design
+4
+credits
+EE 3921 - Digital System Design
+4
+credits
+IE 423 - Engineering Economy
+3
+credits
+SS 461 - Organizational Psychology
+3
+credits
+Total: 15 lecture hours - 5 lab hours - 17 credits
+Winter
+EE 3111 - Electronic Devices and Circuits
+4
+credits
+EE 3202 - Electric and Magnetic Fields
+3
+credits
+EE 3220 - Digital Signal Processing
+4
+credits
+EE 3720 - Control Systems
+4
+credits
+GE 300 - Career and Professional Guidance
+1
+credits
+Total: 12 lecture hours - 10 lab hours - 16 credits
+Spring
+EE 3101 - Operational Amplifier Design
+4
+credits
+EE 3212 - Electromagnetic Waves
+4
+credits
+EE 3401 - Electromechanical Energy Conversion
+4
+credits
+MA 3620 - Random Variables and Statistics
+3
+credits
+Elective (Science)
+3 credits
+2
+Total: 16 lecture hours - 5 lab hours - 18 credits
+Year Four
+Fall
+EE 407 - Senior Design Project I
+3
+credits
+EE 4021 - Principles of Communications
+4
+credits
+PH 360 - Physics of Semiconductor Materials and Devices
+4
+credits
+Elective (Technical)
+3 credits
+2
+Elective (HU/SS)
+3 credits
+2
+Total: 15 lecture hours - 5 lab hours - 17 credits
+Winter
+EE 408 - Senior Design Project II
+3
+credits
+Elective (Technical)
+3 credits
+2
+Elective (Technical)
+3 credits
+2
+Elective (HU/SS)
+3 credits
+2
+Elective (HU/SS)
+3 credits
+2
+Total: 14 lecture hours - 3 lab hours - 15 credits
+Spring
+EE 409 - Senior Design Project III
+3
+credits
+HU 432 - Ethics for Professional Managers and Engineers
+3
+credits
+Elective (Technical)
+3 credits
+2
+Elective (HU/SS)
+3 credits
+2
+Elective (HU/SS)
+3 credits
+2
+Total: 14 lecture hours - 3 lab hours - 15 credits
+Note:
+1
+Transfer students who have completed 36 quarter credits or 24 semester credits will be waived from
+OR 100
+, but will be required to complete
+OR 301
+Transfer Student Orientation.
+2
+The 33 credits of elective subjects in the electrical engineering program must be taken as follows:
+15 required credits of humanities and social science electives: 6 credits of humanities (HU), 6 credits of social science (SS), and 3 credits of humanities or social science.
+12 credits of approved EE program technical electives.
+3 credits of approved science elective.
+3 credits of approved business (economics/entrepreneurship) elective.
+Engineering technology courses may not be used to satisfy any electrical engineering program requirements.
+Students in Air Force ROTC may make the following course substitutions: the course combination AF-400/401 for
+SS 455
+(a social science elective), AF-402 for a technical elective, and the course sequence AF-300/301/302 for both
+EE 3212
+and
+SS 461
+. Additional AF courses cannot be used to satisfy any electrical engineering requirements.
+Accredited by the Engineering Accreditation Commission of ABET,
+http://www.abet.org
+.
+Electrical Engineering Electives
+CE 4950 - Networking I
+3
+credits
+EE 393 - VLSI Design
+4
+credits
+EE 4050 - Low-Noise Analog System Design
+3
+credits
+EE 4060 - Introduction to Nonlinear Dynamics and Chaos
+3
+credits
+EE 4112 - Advanced Analog Electronics
+3
+credits
+EE 421 - Digital Communication Systems
+3
+credits
+EE 423 - Applications of Digital Signal Processing
+3
+credits
+EE 424 - Data Communications
+3 credits
+EE 425 - Radio Frequency Circuit Design
+3
+credits
+EE 4250 - Advanced Signal Processing
+3
+credits
+EE 429 - Microwave Engineering
+3
+credits
+EE 444 - Power Electronics
+3
+credits
+EE 447 - Power System Analysis I
+3
+credits
+EE 449 - Power System Analysis II
+3
+credits
+EE 4720 - Control Systems Applications
+3
+credits
+EE 474 - Programmable Controllers
+3
+credits
+EE 481 - Fuzzy Sets and Applications
+3
+credits
+EE 484 - Neural Networks
+3
+credits
+EE 487 - Machine Vision
+3
+credits
+EE 488 - Introduction to Artificial Intelligence and Expert Systems
+3
+credits
+EE 493 - Advanced Microprocessors
+3
+credits
+EE 499 - Independent Study
+3
+credits
+Electrical Engineering Cooperative Education Program
+Cooperative education is designed to integrate classroom study with planned and supervised work experiences. The co-op program offers students an opportunity to gain industrial experience as part of their formal education. Co-op students are employed in technical capacities in research, development, design, manufacturing and engineering departments of industrial companies, consulting firms and in federal and state agencies. The employment sessions begin in the summer following the sophomore year and typically include three rotations of co-op experience. Each rotation lasts for one academic term and one summer.
+The co-op program is optional and positions are not guaranteed. Positions are awarded at the discretion of the employer after a competitive interviewing process.
+Anyone interested in a co-op position should contact the Career Services Office at (414) 277-7120.
+Advantages to the Student
+The co-op program:
+provides practical work experience.
+increases educational motivation.
+develops greater professional understanding: Students develop greater understanding of other people and learn varied techniques of human relations by their personal contact with their fellow workers and peers.
+accelerates maturation: Students mature more quickly by their association with professional people in their everyday work.
+provides orientation to the world of work. The co-op program provides a solid foundation for career planning and career guidance in the following ways:
+test interests and abilities in connection with real jobs.
+gain firsthand career information and guidance in the co-op environment.
+discover strengths and weaknesses through co-op employment.
+provides financial aid.
+provides useful employment contacts.
+Requirements for the Electrical Engineering Co-op Program
+Full-time student status in electrical engineering at MSOE.
+Maintain a minimum cumulative GPA of 2.50.
+Must have completed the sophomore year and receive prior approval from the Electrical Engineering and Computer Science Department co-op administrator prior to applying for a co-op experience.
+Any student who wishes to pursue placement in a co-op position must have an application form on file in the Career Placement Office and a resume completed on Career Net.
+Return to:
+Degree Programs, Minors and Certificates
+Back to Top
+|
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+All
+catalogs
+© 2026 Milwaukee School of Engineering.
+Powered by
+Modern Campus Catalog™
+.

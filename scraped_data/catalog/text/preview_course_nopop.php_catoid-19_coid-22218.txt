@@ -1,0 +1,120 @@
+AE 6224 - Connection Design -
+Milwaukee School of Engineering
+Mar 12, 2026
+2018-2019 Graduate Academic Catalog
+Select a Catalog
+2025-2026 Undergraduate Academic Catalog
+2025-2026 Graduate Academic Catalog
+2024-2025 Undergraduate Academic Catalog-June [ARCHIVED CATALOG]
+2024-2025 Graduate Academic Catalog-June [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Graduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Graduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Graduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Graduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Graduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Graduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Graduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Graduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Graduate Academic Catalog [ARCHIVED CATALOG]
+2013-14 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2012-2014 Graduate Academic Catalog [ARCHIVED CATALOG]
+2012-2013 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+Global Search
+Catalog Search
+Choose Search Location
+Select an option
+Courses
+Programs
+Academic Departments
+Other Content
+Entire Catalog
+Search Keyword Field
+Whole Word/Phrase
+Advanced Search
+Catalog Navigation
+Catalog Home
+Academic Calendar
+University Overview
+Professional Education
+Graduate Admission Requirements
+Academic Regulations and Policies
+Student Financial Services
+Research Opportunities
+Academic Departments, Graduate Degree Programs and Certificates
+Degree Programs and Certificates
+Course Descriptions
+Administration, Board of Regents, and Graduate Faculty
+Campus Map
+Student Resources
+My Portfolio
+HELP
+2018-2019 Graduate Academic Catalog
+[ARCHIVED CATALOG]
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+AE 6224 - Connection Design
+3
+lecture hours
+0
+lab hours
+3
+credits
+Course Description
+This course focuses on the design of connections between structural members with emphasis on connecting hot-rolled steel members. Topics include overview of connection design; limit states; connection selection; shear connections; moment connections; partially restrained connections; bracing connections; and design of special connections for earthquake loading.   (prereq:
+AE 5220
+or
+CV 5220
+)
+Course Learning Outcomes
+Upon successful completion of this course, the student will be able to:
+Understand the basis for connection design as presented in the AISC Manual
+Determine limit states for different types of connections
+Determine connection efficiency for given loads
+Determine suitability of connections for different situations
+Understand analysis methods unique to connection design
+Design simple shear, moment and partially restrained connections
+Design light and heavy bracing connections
+Understand how seismic loading affects the design of the connection
+Prerequisites by Topic
+Determinate and indeterminate structural analysis
+Understanding of structural analysis software
+Understanding of basic design for steel tension, compression, flexural and combined flexural/axial members
+Understanding of design of simple connections (tension, shear, moment)
+Course Topics
+Fastener types
+Eccentric loading on fasteners
+Prying action
+Framing connections
+Moment connections
+Bracing connections
+Partially restrained connections
+Introduction to connection design for seismic loading
+Coordinator
+Christopher Raebel
+Back to Top
+|
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+All
+catalogs
+© 2026 Milwaukee School of Engineering.
+Powered by
+Modern Campus Catalog™
+.

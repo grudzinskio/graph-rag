@@ -1,0 +1,138 @@
+CSC 1110 - Software Development -
+2025-2026 Undergraduate Academic Catalog
+Milwaukee School of Engineering
+Mar 12, 2026
+2025-2026 Undergraduate Academic Catalog
+Select a Catalog
+2025-2026 Undergraduate Academic Catalog
+2025-2026 Graduate Academic Catalog
+2024-2025 Undergraduate Academic Catalog-June [ARCHIVED CATALOG]
+2024-2025 Graduate Academic Catalog-June [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Graduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Graduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Graduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Graduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Graduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Graduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Graduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Graduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Graduate Academic Catalog [ARCHIVED CATALOG]
+2013-14 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2012-2014 Graduate Academic Catalog [ARCHIVED CATALOG]
+2012-2013 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+Global Search
+Catalog Search
+Choose Search Location
+Select an option
+Courses
+Programs
+Academic Departments
+Other Content
+Entire Catalog
+Search Keyword Field
+Whole Word/Phrase
+Advanced Search
+Catalog Navigation
+Catalog Home
+Academic Calendar
+University Overview
+Admissions
+Student Financial Services
+Academic Regulations and Policies
+Degree Programs, Minors, and Certificates
+Degrees, Minors, and Certificates by Department
+Course Descriptions
+The Raider Core
+Explorer Pathways
+MSOE Honors Program
+Global Opportunities
+Reserve Officers’ Training Corps. (ROTC)
+Administration, Regents, and Advisory Committees
+Departments and Faculty
+Campus Map
+Student Resources
+My Portfolio
+HELP
+2025-2026 Undergraduate Academic Catalog
+Print this Page
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+CSC 1110 - Software Development
+3
+lecture hours
+2
+lab hours
+4
+credits
+Course Description
+This course provides an introduction to object-oriented software development using the Java programming language. Students design, document, and implement software solutions based on written problem descriptions. Topics covered include Java program structure, algorithmic problem solving and modularization, I/O statements, control constructs, looping techniques, class libraries, arrays, ArrayLists, abstraction, encapsulation, declaring and implementing abstract data types, interfaces, and inheritance, exception handling, and file I/O.
+Prereq:
+None
+Note:
+Only one of
+BUS 2730
+, CSC 1110, and
+CSC 1110A
+can be used to meet a degree requirement unless approved by the program director.
+This course meets the following Raider Core CLO Requirement:
+None
+Course Learning Outcomes
+Upon successful completion of this course, the student will be able to:
+Design and document an algorithmic solution for a given problem statement
+Use if/if-else/switch statements to control program flow in algorithmic solutions
+Select the appropriate selection control statement for a given task
+Create and interpret complex expressions that use relational and Boolean operators
+Use while/do-while/for statements to control repetition in algorithmic solutions
+Select the appropriate repetition control statement for a given task
+Translate UML class diagrams into Java code
+Design and implement simple classes
+Design and implement class and object methods
+Use existing Java class libraries
+Design and implement simple Java programs
+Declare and use collections of primitive and object data using arrays
+Declare and use collections of object data using ArrayLists
+Explain the rationale for object-oriented design and programming
+Apply composition, inheritance, and interfaces
+Distinguish between extending a class (inheritance) and implementing an interface
+Design and implement simple Java classes and packages
+Document the implementation of small software systems
+Make appropriate use of exception handling
+Use classes from the Java standard library to read and write files on disk
+Use the Java API specification (javadoc) to determine correct use of standard library classes
+Prerequisites by Topic
+None
+Course Topics
+Java programming fundamentals
+Control structures
+Looping
+Classes
+Interfaces
+Inheritance
+Exception handling
+File input and output
+Coordinator
+Dr. Chris Taylor, Sean Jones
+Print this Page
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+All
+catalogs
+© 2026 Milwaukee School of Engineering.
+Powered by
+Modern Campus Catalog™
+.

@@ -1,0 +1,180 @@
+PHY 1120 - Physics II - Electricity, Magnetism, and Optics -
+Milwaukee School of Engineering
+Mar 12, 2026
+2025-2026 Undergraduate Academic Catalog
+Select a Catalog
+2025-2026 Undergraduate Academic Catalog
+2025-2026 Graduate Academic Catalog
+2024-2025 Undergraduate Academic Catalog-June [ARCHIVED CATALOG]
+2024-2025 Graduate Academic Catalog-June [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Graduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Graduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Graduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Graduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Graduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Graduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Graduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Graduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Graduate Academic Catalog [ARCHIVED CATALOG]
+2013-14 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2012-2014 Graduate Academic Catalog [ARCHIVED CATALOG]
+2012-2013 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+Global Search
+Catalog Search
+Choose Search Location
+Select an option
+Courses
+Programs
+Academic Departments
+Other Content
+Entire Catalog
+Search Keyword Field
+Whole Word/Phrase
+Advanced Search
+Catalog Navigation
+Catalog Home
+Academic Calendar
+University Overview
+Admissions
+Student Financial Services
+Academic Regulations and Policies
+Degree Programs, Minors, and Certificates
+Degrees, Minors, and Certificates by Department
+Course Descriptions
+The Raider Core
+Explorer Pathways
+MSOE Honors Program
+Global Opportunities
+Reserve Officers’ Training Corps. (ROTC)
+Administration, Regents, and Advisory Committees
+Departments and Faculty
+Campus Map
+Student Resources
+My Portfolio
+HELP
+2025-2026 Undergraduate Academic Catalog
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+PHY 1120 - Physics II - Electricity, Magnetism, and Optics
+3
+lecture hours
+2
+lab hours
+4
+credits
+Course Description
+This course is the calculus-based continuation of Physics I (PHY1110). The purpose of this course is to acquaint the students with the fundamental laws of electricity and magnetism, optics, introduction to modern physics, and nuclear physics. The course begins with electrostatic vector fields, scalar potential, capacitance and dielectrics, energy and force in electrostatic systems, electric circuits, magnetic fields and forces, and electromagnetic waves. The basic properties of light including reflection, refraction, interference, and diffraction is also discussed. The photon theory of light is then explored, and the quantum nature of light is used to explain the photoelectric effect. The sources, uses, and hazards of ionizing radiation are explored in the laboratory portion of this course. With Physics I, this course provides one year of comprehensive university level physics.
+Prereq:
+MTH 1110
+,
+PHY 1110
+(quarter system prereq: PH 2011 or PH 2011A)
+Coreq:
+MTH 1120
+Note:
+None
+This course meets the following Raider Core CLO Requirement:
+Think Critically
+Course Learning Outcomes
+Upon successful completion of this course, the student will be able to:
+Explain the concept of electric charge and apply coulomb’s law to calculate the electric forces vector between, and the electric field vector produced by point charges
+Determine the electric fields produced by distributed charges and conductors
+Apply Gauss’s law to determine the electric field for a spherical and cylindrical symmetry
+Calculate the electric potential (V) from point charges, from potential energy and from electric field
+Apply the relationships between C, V, E, Q and U to solve problems related to capacitors including capacitors in series and parallel combination, and dielectrics
+Apply Ohm’s law to solve problems and make basic electric circuit calculations including resistors in series and parallel combination, RC circuits, and electromotive force.
+Apply the relation between the macroscopic concepts (V, I, R etc.) and the microscopic concepts (E, j, rho etc.) to solve problems
+Calculate the magnetic forces and torques on moving charges and currents
+Solve problems related to the magnetic fields produced by currents in a straight wire, loop, solenoid, and toroid, as well as by magnetic material
+Apply the concept of changing magnetic flux to calculate the induced emf and relate inductance to magnetic flux
+Determine the basic properties of electromagnetic waves
+Apply the principles of reflection, refraction, diffraction, interference, to solve problems
+Apply the principle of reflection and refraction to explain the formation of images by mirrors and lenses.
+Compare and contrast light as waves and light as photons, and be able to convert the wavelength of light to the equivalent photon energy.
+Explain the physics underlying the photoelectric effect and Compton effect, and be able to perform calculations involving the photoelectric effect and Compton effect
+Compare and contrast the particle nature and wave nature of matter, and be able to calculate the De Broglie wavelength of a particle
+Describe ionizing radiation, the interaction of ionizing radiation with matter, and the radiation effects on human health
+State Einstein’s two postulates of special relativity, relate them to time dilation, length contraction, mass-energy conversions, and relativistic momentum and energy, and be able to perform calculations involving them
+Lab outcomes:
+Apply general physical laws related to electricity, magnetism, optics and nuclear physics to solve specific problems and make quantitative predictions
+Translate physical scenarios into formalisms that allow rigorous quantitative analysis using both analytical and numerical tools
+Analyze and solve physical problems by applying mathematical techniques including graphing, vector mathematics and calculus
+Discern the applicability and limitations of models used to describe physical phenomena
+Clearly communicate quantitative information with unambiguous and properly constructed tables and figures
+Use graphical analysis to analyze the results of an experiment
+Use curve-fitting and regression analysis to extract quantitative information from experimental data
+Analyze relationships of varying sophistication, from simple linear correspondence to complex behaviors
+Quantify uncertainties in measurement and understand how these impact confidence in experimental results
+Critique experimental design and practices to identify potential sources of error and distinguish between random and systematic error
+Identify limitations of models of physical phenomena that may be responsible for discrepancies between theory and experiment
+Prerequisites by Topic
+Calculus (differentiation and integration)
+Vectors (scalar and vector products)
+College level calculus base mechanics-kinematics, dynamics and energy concepts
+Waves
+College level lab experience - techniques, safety, and report writing
+Course Topics
+Electricity
+Electric charge, electric force (Coulomb’s law), and electric field (due to a point charge and to charge distribution)
+Gauss’s law: for basic spherical and cylindrical symmetry and infinite plane of charge.
+Electric potential (due to point charges, and to charge distribution); electric potential energy
+Capacitors (parallel plates capacitor); capacitors in series and parallel; dielectrics
+Electric circuits including Ohm’s law; EMF, Kirchhoff’s rules and RC circuits
+Magnetism
+Magnetic force on a moving charge in magnetic field and on a current in magnetic field; motors; and Hall effect.
+Sources of magnetic field (straight wires carrying current, solenoid, toroid, and current loop); Ampere’s law; Biot-Savart law
+Induction: Faraday’s law and Lenz’s law; inductance; LR circuit; and LC circuits (resonance)
+Maxwell’s equations and light as an electromagnetic wave
+Optics
+Reflection and refraction of light; formation of images by mirrors and thin lens
+Interference; diffraction by a single slit; diffraction grating; and thin-film interference
+Modern physics
+Photon theory of light; the photoelectric effect; photon energy; and complementary principle
+Nuclear physics (two experiments)
+Energy-mass conversion (E=mc
+2
+), types of radiation including antiparticles, nuclear reactions and decay, half lifetime
+Laboratory Topics
+Electrostatic acceleration and deflection of electrons
+Qualitative field and equipotential plots for various electrode configurations
+Quantitative determination of the field between concentric cylinders
+Parallel plate capacitors
+Ohm’s law, resistors in series and parallel
+Resistivity of water
+RC circuit
+Magnetic deflection of electrons and weighing the electron
+Magnetic field produced by magnets and currents (solenoid and coil)
+Electromagnetic induction
+Mirrors and lenses
+Interference and diffraction
+Half live of radioactive silver
+Gamma ray scintillation spectroscopy
+Coordinator
+Dr. Nazieh Masoud
+Back to Top
+|
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+All
+catalogs
+© 2026 Milwaukee School of Engineering.
+Powered by
+Modern Campus Catalog™
+.

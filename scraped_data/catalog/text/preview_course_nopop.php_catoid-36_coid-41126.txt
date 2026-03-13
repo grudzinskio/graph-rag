@@ -1,0 +1,128 @@
+ARE 5451 - Design of Mechanical Systems II -
+Milwaukee School of Engineering
+Mar 12, 2026
+2023-2024 Graduate Academic Catalog-June Update
+Select a Catalog
+2025-2026 Undergraduate Academic Catalog
+2025-2026 Graduate Academic Catalog
+2024-2025 Undergraduate Academic Catalog-June [ARCHIVED CATALOG]
+2024-2025 Graduate Academic Catalog-June [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Graduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Graduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Graduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Graduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Graduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Graduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Graduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Graduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Graduate Academic Catalog [ARCHIVED CATALOG]
+2013-14 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2012-2014 Graduate Academic Catalog [ARCHIVED CATALOG]
+2012-2013 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+Global Search
+Catalog Search
+Choose Search Location
+Select an option
+Courses
+Programs
+Academic Departments
+Other Content
+Entire Catalog
+Search Keyword Field
+Whole Word/Phrase
+Advanced Search
+Catalog Navigation
+Catalog Home
+Academic Calendar
+University Overview
+Graduate Admission Requirements
+Academic Regulations and Policies
+Student Financial Services
+Graduate Degree Programs and Certificates
+Graduate Degree Programs and Certificates by Department
+Course Descriptions
+Research Opportunities
+Professional Education
+Administration and Board of Regents
+Graduate Faculty
+Campus Map
+Student Resources
+My Portfolio
+HELP
+2023-2024 Graduate Academic Catalog-June Update
+[ARCHIVED CATALOG]
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+ARE 5451 - Design of Mechanical Systems II
+3
+lecture hours
+0
+lab hours
+3
+credits
+Course Description
+This course continues the development of heating and cooling systems design, by applying what has been learned in ARE 3401 - Principles of Mechanical Engineering for Buildings and the Systems-and-Equipment-intensive course ARE 3451 - Design of Mechanical Systems.  The course applies a systematic approach to the use of heating and cooling design as required by building simulation software currently used in the industry. A commercial building case study is utilized as a term project. Upon completion of the course, the student will be able to comprehensively design an HVAC system using a building energy simulation program and produce appropriate mechanical drawings.   (prereq: ARE 3451) (quarter system prereq: AE 3421)
+Course Learning Outcomes
+Upon successful completion of this course, the student will be able to:
+Define all heat gains and losses in a given building, and calculate the total cooling load and heating load of a building
+Identify the fundamental parts of building energy simulation structures and their hierarchies
+Identify the fundamental parts of a mechanical design process and coordinate with the appropriate stakeholders
+Apply the basic principles of fluid mechanics, to calculate pressure losses in ducts and pipes and produce a design
+Design heat exchangers
+Analyze and characterize different cooling equipment systems
+Analyze and characterize different heating equipment systems
+Analyze and characterize different cooling equipment plants
+Analyze and characterize different heating equipment plants
+Compare the ASHRAE Standards to HVAC calculations and design
+Compare the utility rate structures to the building energy consumption and demand
+Prerequisites by Topic
+None
+Course Topics
+Building energy simulation software structure
+Cooling and heating loads calculations with computer software
+Cooling systems
+Heating systems
+Cooling plants
+Vapor compression refrigeration components
+Heating plants
+Ancillary heating and cooling devices
+Utility (electricity and gas rate) structures
+Duct design
+Ductwork equipment selection
+Pipe design
+Piping equipment selection
+Heat exchangers
+Working drawings
+Building energy simulation modeling with computer software
+Acoustics
+Mechanical specifications
+Construction administration work
+Coordinator
+David Grassl, P.E.
+Back to Top
+|
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+All
+catalogs
+© 2026 Milwaukee School of Engineering.
+Powered by
+Modern Campus Catalog™
+.

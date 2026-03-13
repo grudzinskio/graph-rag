@@ -1,0 +1,334 @@
+Program: User Experience, B.S. - Milwaukee School of Engineering
+Milwaukee School of Engineering
+Mar 12, 2026
+2022-2023 Undergraduate Academic Catalog
+Select a Catalog
+2025-2026 Undergraduate Academic Catalog
+2025-2026 Graduate Academic Catalog
+2024-2025 Undergraduate Academic Catalog-June [ARCHIVED CATALOG]
+2024-2025 Graduate Academic Catalog-June [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Graduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Graduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Graduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Graduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Graduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Graduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Graduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Graduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Graduate Academic Catalog [ARCHIVED CATALOG]
+2013-14 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2012-2014 Graduate Academic Catalog [ARCHIVED CATALOG]
+2012-2013 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+Global Search
+Catalog Search
+Choose Search Location
+Select an option
+Courses
+Programs
+Academic Departments
+Other Content
+Entire Catalog
+Search Keyword Field
+Whole Word/Phrase
+Advanced Search
+Catalog Navigation
+Catalog Home
+Academic Calendar
+University Overview
+Admissions Department
+Academic Regulations and Policies
+Student Financial Services
+Degrees, Minors, and Certificates by Department
+Degree Programs, Minors, and Certificates
+University Scholars Honors Program
+Reserve Officers’ Training Corps. (ROTC)
+English for Academic Purposes (EAP)
+Course Descriptions
+Administration, Regents, Faculty, and Advisory Committees
+Campus Map
+Student Resources
+My Portfolio
+HELP
+2022-2023 Undergraduate Academic Catalog
+[ARCHIVED CATALOG]
+User Experience, B.S.
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Return to:
+Degrees, Minors, and Certificates by Department
+Program Director
+Dr. Nadya Shalamova
+Office: DH 436
+Phone: (414) 277-2331
+Email:
+shalamova@msoe.edu
+Program Description
+Committed to designing for people, User Experience (UX) professionals create user-friendly products and services that make the world better for all.
+Our curriculum empowers students to embrace the power of inclusive, human-centered design to create innovative design solutions to complex problems.
+Our Gene Carter Usability Lab provides students with the opportunity to collaborate with community partners, research, design, and prototype user-friendly interfaces, products, and services.
+Educational Objectives
+The program aims to produce graduates who will:
+Use their education to become productive and contributing professionals in their chosen field.
+Demonstrate initiative and leadership in their professional activities.
+Demonstrate commitment to continued professional development.
+Understand the impact of their professional activities on society.
+Student Outcomes
+Upon successful completion of the program, students should be able to:
+Identify and employ inclusive, human-centered design and other appropriate methodologies to create innovative products and services
+Explain and effectively apply visual, user interface, voice, and data visualization design principles
+Analyze user needs to synthesize data and conduct user research
+Demonstrate proficiency in core front-end and contemporary technologies
+Exercise professional integrity by evaluating and applying ethical standards of UX and contemporary technology
+Navigate team dynamics and collaborate effectively
+Exhibit proficiency in oral, written, interpersonal, and visual communication
+Select and use appropriate professional software and tools
+User Experience V 2.0
+Year One
+Fall
+GS 1001 - Freshman Studies I
+4
+credits
+MA 120 - Precalculus Mathematics
+4
+credits
+TC 1400 - Foundations of Communication Design
+3
+credits
+UX 1400 - Foundations of User Experience
+3
+credits
+Total: 14 lecture hours - 0 lab hours - 14 credits
+Winter
+GS 1002 - Freshman Studies II
+4
+credits
+MA 129 - Business Calculus
+4
+credits
+SS 460 - Foundations of Psychology
+3
+credits
+UX 1511 - Visual Design I
+3
+credits
+Total:14 lecture hours - 0 lab hours - 14 credits
+Spring
+GS 1003 - Freshman Studies III
+4
+credits
+MA 340 - Business Statistics
+4
+credits
+SS 473 - Cultural Anthropology
+3
+credits
+UX 1521 - Visual Design II
+3
+credits
+Total:14 lecture hours - 0 lab hours - 14 credits
+Year Two
+Fall
+CS 1011 - Software Development I
+4
+credits
+SS 463 - Psychology of Design
+3
+credits
+TC 2010 - Writing for Digital Media
+3
+credits
+UX 253 - Inclusive Design
+3
+credits
+UX 2011 - Interface Design I
+3
+credits
+Total:15 lecture hours - 2 lab hours - 16 credits
+Winter
+TC 452 - Interpersonal Communication
+3
+credits
+TC 3320 - User Documentation
+3
+credits
+UX 2021 - Interface Design II
+3
+credits
+UX 2023 - Design Systems
+3
+credits
+UX 2024 - Information Architecture
+3
+credits
+Total:15 lecture hours - 0 lab hours - 15 credits
+Spring
+HU 489 - Film and Media Studies
+3
+credits
+TC 334 - Project Communications
+3
+credits
+TC 2030 - Collaborative Design
+3
+credits
+TC 2040 - Intelligent Publishing
+3
+credits
+SS 3630 - Design Thinking
+3
+credits
+UX 2031 - Interaction Design
+3
+credits
+Total: 18 lecture hours- 0 lab hours - 18 credits
+Year Three
+Fall
+BA 2015 - Business Analytics I
+3
+credits
+ME 1601 - Introduction to Solid Modeling and Design
+3
+credits
+SS 3700 - Digital Society
+3
+credits
+TC 3010 - Digital Workplace
+3
+credits
+TC 3015 - Digital Storytelling
+3
+credits
+UX 3011 - UX Research I
+3
+credits
+Total: 17 lecture hours - 2 lab hours - 18 credits
+Winter
+HU 4321 - Ethics of Digital Technologies and AI
+3
+credits
+TC 3020 - Instructional Design
+3
+credits
+UX 3015 - Designing for the Digital Future
+3
+credits
+UX 3021 - UX Research II
+3
+credits
+UX 3025 - Data Visualization
+3
+credits
+Total: 15 lecture hours - 0 lab hours - 15 credits
+Spring
+TC 342 - Professional Presentations
+3
+credits
+TC 3030 - Conflict Management
+3
+credits
+UX 3031 - Agile Product Management
+3
+credits
+UX 3035 - Design for Voice
+3
+credits
+UX 3045 - SEO and Analytics
+3
+credits
+Total: 15 lecture hours - 0 lab hours - 15 credits
+Year Four
+Fall
+Elective
+1
+(Major Elective)
+3 credits
+Elective
+2
+(SS)
+3 credits
+UX 4410 - Digital Portfolio and Professional Development
+3
+credits
+UX 4011 - UX Senior Project I
+3
+credits
+Total: 11 lecture hours - 2 lab hours - 12 credits
+Winter
+Elective
+2
+(HU)
+3 credits
+Elective
+1
+(Major Elective)
+3 credits
+Elective
+3
+(Science, with Lab)
+4 credits
+Elective
+2
+(SS)
+3 credits
+UX 4021 - UX Senior Project II
+3
+credits
+Total: 14 lecture hours - 4 lab hours - 16 credits
+Spring
+Elective
+4
+(General Education)
+3 credits
+Elective
+2
+(HU)
+3 credits
+Elective
+2
+(HU/SS)
+3 credits
+Elective
+1
+(Major Elective)
+3 credits
+UX 4031 - UX Senior Project III
+3
+credits
+Total: 14 lecture hours - 2 lab hours - 15 credits
+Total: 182 credits
+Notes:
+1
+9 credits of major electives are required. Major electives can be any college level course relevant to the degree. Major electives must be approved by the program director.
+2
+15 credits of HU/SS are required. Of them, six credits must be taken in HU and six credits in SS.
+3
+Students must have a minimum of four credits of college-level mathematics, inclusive of a statistics course. Additionally, students must have a minimum of four credits of college-level science courses, with an associated lab. The sum total of the college-level courses in mathematics and science courses must meet the minimum requirement of 16 credits.
+4
+Three additional credits in any one of the three categories (Mathematics and Science, Professional Preparedness, and Humanities & Social Science).
+Return to:
+Degrees, Minors, and Certificates by Department
+Back to Top
+|
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+All
+catalogs
+© 2026 Milwaukee School of Engineering.
+Powered by
+Modern Campus Catalog™
+.

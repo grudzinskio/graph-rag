@@ -1,0 +1,161 @@
+ELE 2801 - Bridge Digital Design and Procedural Programming -
+Milwaukee School of Engineering
+Mar 12, 2026
+2025-2026 Undergraduate Academic Catalog
+Select a Catalog
+2025-2026 Undergraduate Academic Catalog
+2025-2026 Graduate Academic Catalog
+2024-2025 Undergraduate Academic Catalog-June [ARCHIVED CATALOG]
+2024-2025 Graduate Academic Catalog-June [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Graduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Graduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Graduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Graduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Graduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Graduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Graduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Graduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Graduate Academic Catalog [ARCHIVED CATALOG]
+2013-14 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2012-2014 Graduate Academic Catalog [ARCHIVED CATALOG]
+2012-2013 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+Global Search
+Catalog Search
+Choose Search Location
+Select an option
+Courses
+Programs
+Academic Departments
+Other Content
+Entire Catalog
+Search Keyword Field
+Whole Word/Phrase
+Advanced Search
+Catalog Navigation
+Catalog Home
+Academic Calendar
+University Overview
+Admissions
+Student Financial Services
+Academic Regulations and Policies
+Degree Programs, Minors, and Certificates
+Degrees, Minors, and Certificates by Department
+Course Descriptions
+The Raider Core
+Explorer Pathways
+MSOE Honors Program
+Global Opportunities
+Reserve Officers’ Training Corps. (ROTC)
+Administration, Regents, and Advisory Committees
+Departments and Faculty
+Campus Map
+Student Resources
+My Portfolio
+HELP
+2025-2026 Undergraduate Academic Catalog
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+ELE 2801 - Bridge Digital Design and Procedural Programming
+3
+lecture hours
+2
+lab hours
+4
+credits
+Course Description
+This course introduces students to two types of programming languages. VHDL, a hardware descriptive language, will be used to develop digital logic-based solutions. It will be used to implement combinational and sequential logic solutions. Designs may include components such as ALUs, multiplexors, buses, flip-flops, counters, registers, and finite state machines. The designs will be realized in hardware using an FPGA-based development board. The other part of this course introduces concepts that are required to solve engineering problems using structured programming techniques. Students will develop a working knowledge of a high-level programming language and the tools used in developing solutions to solve engineering problems. Emphasis will be placed on understanding the interaction of programs with the supporting hardware (program flow in memory, data usage in memory, pointers, and structures). A course project incorporating the major topics from the class may be included.
+Prereq:
+ELE 1801
+(quarter system prereq: typical AAS-EET digital and typical AAS-EET embedded programming)
+Note:
+None
+This course meets the following Raider Core CLO Requirement:
+None
+Course Learning Outcomes
+Upon successful completion of this course, the student will be able to:
+Design combinational logic circuits using VHDL and test on a programmable logic device (FPGA)
+Design storage elements (Flip-flops, Latches), ALU, counters, registers, tristate devices, multiplexers, and bus using VHDL and test on a programmable logic device (FPGA)
+Design synchronous sequential circuits using state diagrams and/or ASM using VHDL and test on a programmable logic device (FPGA)
+Design VHDL model of a digital system and test on a programmable logic device (FPGA)
+Use commercially available digital-design software tools and evaluation boards to design, simulate, and implement design circuits
+Use structured programming techniques in C
+Design and write software to solve engineering problems
+Document the software solution for an engineering problem
+Explain concepts and terminology related to processor architecture
+Describe the relationship between software and hardware
+Use Integrated Development Environment tools for software development and debugging
+Utilize library functions and algorithms
+Recognize and employ good software practices
+Prerequisites by Topic
+College Algebra I
+Number systems: binary, decimal, hexadecimal
+Conversion from one number system to another
+Binary arithmetic
+Logic operations
+Logic gates
+Logic expressions
+Logic functions
+Simplification of logic functions using Karnaugh map and/or Boolean algebra
+Codes: Binary Coded Decimal (BCD), ASCII
+Combinational digital circuits
+Storage elements such as flip-flops and latches, and synchronous sequential digital circuits
+Procedural programming concepts
+Course Topics
+Hardware description language for modeling of digital circuits
+Design combinational logic circuits using VHDL
+Design VHDL models of storage elements (Flip-flops, Latches), ALU, counters, registers, tristate devices, multiplexers, and buses
+Design finite state machines (FSM) using state diagrams and/or ASM, and implement using VHDL
+Implementation of logic elements, combinational logic circuits, sequential circuits in a FPGA
+Design ROM, SRAM, or DRAM using design tool library components and/or VHDL
+Problem solving, algorithm, flow-chart, and pseudo-code development
+Number systems, data types, and binary arithmetic
+State machines
+Basic microcontroller architecture, subsystems, and memories
+Hardware / software interaction
+Variables, expressions, and operators
+Control constructs, and looping techniques
+User-defined functions, parameters, returns, and function prototypes
+Subscripted variables, arrays
+Pointers and function parameter passing by pointers
+Pointer arithmetic
+Tool chains
+Software libraries, header files, and coding conventions
+Structures
+Laboratory Topics
+Design combinational circuits using VHDL
+Design VHDL models of storage elements (Flip-Flops, Latches), ALU, counters, registers, tristate devices, multiplexers, and bus
+Design finite state machine (FSM) and implement using VHDL
+Design RAM or ROM using design tool library components and/or VHDL
+Implementation of combinational logic circuits, sequential circuits, and FSMs on an FPGA
+Solve a problem with software that uses functions and control structures
+Solve a problem with software that uses arrays and pointers
+Solve a problem with software that uses external libraries
+Coordinator
+Dr. Joshua Carl
+Back to Top
+|
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+All
+catalogs
+© 2026 Milwaukee School of Engineering.
+Powered by
+Modern Campus Catalog™
+.

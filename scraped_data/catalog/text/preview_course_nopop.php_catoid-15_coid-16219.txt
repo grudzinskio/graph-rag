@@ -1,0 +1,130 @@
+CS 5881 - Artificial Intelligence -
+Milwaukee School of Engineering
+Mar 12, 2026
+2016-2017 Graduate Academic Catalog
+Select a Catalog
+2025-2026 Undergraduate Academic Catalog
+2025-2026 Graduate Academic Catalog
+2024-2025 Undergraduate Academic Catalog-June [ARCHIVED CATALOG]
+2024-2025 Graduate Academic Catalog-June [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Graduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Graduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Graduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Graduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Graduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Graduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Graduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Graduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Graduate Academic Catalog [ARCHIVED CATALOG]
+2013-14 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2012-2014 Graduate Academic Catalog [ARCHIVED CATALOG]
+2012-2013 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+Global Search
+Catalog Search
+Choose Search Location
+Select an option
+Courses
+Programs
+Academic Departments
+Other Content
+Entire Catalog
+Search Keyword Field
+Whole Word/Phrase
+Advanced Search
+Catalog Navigation
+Catalog Home
+Academic Calendar
+University Overview
+Graduate and Professional Education
+Graduate Admission Requirements
+Academic Regulations and Policies
+Student Financial Services
+Services and Resources for Graduate Students
+Academic Departments, Graduate Degree Programs and Certificates
+Degree Programs and Certificates
+Course Descriptions
+Board of Regents, Academic Administration and Faculty
+Campus Map
+Student Resources
+My Portfolio
+HELP
+2016-2017 Graduate Academic Catalog
+[ARCHIVED CATALOG]
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+CS 5881 - Artificial Intelligence
+3
+lecture hours
+0
+lab hours
+3
+credits
+Course Description
+This course provides an introduction to basic concepts of artificially intelligent systems. Topics covered include knowledge representation, search strategies and machine learning. The course introduces modern machine learning techniques for supervised, unsupervised, and reinforcement learning and describes the role of artificial intelligence (AI) in engineering and computing systems. Practical exercises permit students to apply AI tools and languages to suitable problems.   (prereq: CS 2852, MA 2310, or equivalent or consent of instructor)
+Course Learning Outcomes
+Upon successful completion of this course, the student will be able to:
+Demonstrate an understanding of the principles of Formal Logic including Propositional and First Order Logic
+Conduct proofs of correctness in reasoning systems using the methods of Unification and Resolution
+Understand the techniques involved with reasoning in the presence of uncertainty
+Address the problems related to search, and its application to intelligent systems, including: game playing, decision making, and adversarial search
+Understand and apply modern machine learning techniques for supervised, unsupervised, and reinforcement learning
+Prerequisites by Topic
+A fundamental understanding of structured programming languages
+A fundamental understanding of data structures and algorithms
+A fundamental understanding of probability and statistics
+Course Topics
+Problem Solving, Uninformed Search
+A* Search and Heuristic Functions
+Local Search
+Constraint Satisfaction
+Online Search
+Game Playing
+Logical Agents, Propositional Logic
+Forward Chaining, Backward Chaining, Knowledge Agents
+More Knowledge Based Agents
+First Order Logic
+First Order Inference
+Knowledge Representation
+Acting under uncertainty, axioms of probability, inference using joint distributions
+Bayes Networks
+Machine Learning
+Supervised learning: Naive Bayes, Decision Trees, and Neural Networks
+Unsupervised learning: Clustering with K-Means, K-Medoids, and Hierarchical Agglomerative clustering
+Collaborative filtering
+Reinforcement Learning
+Data mining
+Concept Learning and Inductive Hypothesis
+Laboratory Topics
+History, defining intelligence, grand challenges, biologically inspired computing
+Intelligent agents, uninformed search, informed search
+Knowledge based agents
+Machine learning
+Coordinator
+Jay Urbain
+Back to Top
+|
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+All
+catalogs
+© 2026 Milwaukee School of Engineering.
+Powered by
+Modern Campus Catalog™
+.

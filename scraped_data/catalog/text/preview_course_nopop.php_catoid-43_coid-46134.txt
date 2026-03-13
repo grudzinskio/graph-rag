@@ -1,0 +1,113 @@
+CAE 5840 - Introduction to Artificial Intelligence in the Built Environment -
+Milwaukee School of Engineering
+Mar 12, 2026
+2025-2026 Graduate Academic Catalog
+Select a Catalog
+2025-2026 Undergraduate Academic Catalog
+2025-2026 Graduate Academic Catalog
+2024-2025 Undergraduate Academic Catalog-June [ARCHIVED CATALOG]
+2024-2025 Graduate Academic Catalog-June [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Graduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Graduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Graduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Graduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Graduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Graduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Graduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Graduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Graduate Academic Catalog [ARCHIVED CATALOG]
+2013-14 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2012-2014 Graduate Academic Catalog [ARCHIVED CATALOG]
+2012-2013 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+Global Search
+Catalog Search
+Choose Search Location
+Select an option
+Courses
+Programs
+Academic Departments
+Other Content
+Entire Catalog
+Search Keyword Field
+Whole Word/Phrase
+Advanced Search
+Catalog Navigation
+Catalog Home
+Academic Calendar
+University Overview
+Graduate Admission Requirements
+Academic Regulations and Policies
+Student Financial Services
+Graduate Degree Programs and Certificates
+Graduate Degree Programs and Certificates by Department
+Course Descriptions
+Research Opportunities
+Administration and Board of Regents
+Graduate Faculty
+Campus Map
+Student Resources
+My Portfolio
+HELP
+2025-2026 Graduate Academic Catalog
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+CAE 5840 - Introduction to Artificial Intelligence in the Built Environment
+3
+lecture hours
+0
+lab hours
+3
+credits
+Course Description
+Inspired by recent advances in machine learning, computer vision, natural language processing, and other fields; academic and industrial organizations are looking into AI-based solutions for construction processes such as design optimization, scheduling, documentation, safety, and project monitoring. This course presents a comprehensive introduction to the principles of AI with a particular focus on the field of construction. The course is centered around several main AI topics covering the notion of machine learning (ML) and deep learning (DL).
+Prereq:
+Senior or graduate standing
+Note:
+This course is open to qualified undergraduate students.
+Course Learning Outcomes
+Upon successful completion of this course, the student will be able to:
+Demonstrate knowledge of the principles of artificial intelligence and its major branches, including machine learning and deep learning
+Describe the history of artificial intelligence and see how far it has evolved since its inception
+Describe the areas of application, current limitations, and future potential of AI technologies
+Discover how AI-based solutions can help increase efficiency and decrease risks in construction
+Explore several ML/DL algorithms and understand the basic steps to develop a valid model
+Demonstrate knowledge of how to decompose a real-world problem into a form suitable for a solution using AI technologies
+Prerequisites by Topic
+Prior familiarity with Python helpful, but not required
+Course Topics
+Introduction to AI, its history and evolution
+Applications of AI in construction
+Machine learning
+Deep learning
+Logic programming
+Automation in construction
+Complexity and rationality analysis
+Coordinator
+Gage Christianson
+Back to Top
+|
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+All
+catalogs
+© 2026 Milwaukee School of Engineering.
+Powered by
+Modern Campus Catalog™
+.

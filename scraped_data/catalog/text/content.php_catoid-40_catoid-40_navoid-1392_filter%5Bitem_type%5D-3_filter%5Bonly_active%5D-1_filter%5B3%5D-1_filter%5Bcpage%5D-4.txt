@@ -1,0 +1,417 @@
+Course Descriptions - Milwaukee School of Engineering
+Milwaukee School of Engineering
+Mar 12, 2026
+2024-2025 Undergraduate Academic Catalog-June
+Select a Catalog
+2025-2026 Undergraduate Academic Catalog
+2025-2026 Graduate Academic Catalog
+2024-2025 Undergraduate Academic Catalog-June [ARCHIVED CATALOG]
+2024-2025 Graduate Academic Catalog-June [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Graduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Graduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Graduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Graduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Graduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Graduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Graduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Graduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Graduate Academic Catalog [ARCHIVED CATALOG]
+2013-14 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2012-2014 Graduate Academic Catalog [ARCHIVED CATALOG]
+2012-2013 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+Global Search
+Catalog Search
+Choose Search Location
+Select an option
+Courses
+Programs
+Academic Departments
+Other Content
+Entire Catalog
+Search Keyword Field
+Whole Word/Phrase
+Advanced Search
+Catalog Navigation
+Catalog Home
+Academic Calendar
+University Overview
+Admissions
+Student Financial Services
+Academic Regulations and Policies
+Degree Programs, Minors, and Certificates
+Degrees, Minors, and Certificates by Department
+Course Descriptions
+The Raider Core
+MSOE Honors Program
+Global Opportunities
+Reserve Officers’ Training Corps. (ROTC)
+Administration, Regents, and Advisory Committees
+Departments and Faculty
+Campus Map
+Student Resources
+My Portfolio
+HELP
+2024-2025 Undergraduate Academic Catalog-June
+[ARCHIVED CATALOG]
+Course Descriptions
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Course Filter
+Filter this list of courses using course prefix, course code, keywords or any combination.
+Prefix:
+Code or Number:
+Type
+Keyword or Phrase:
+Choose Course Prefix
+All prefixes…
+ACS
+AHT
+AIR
+ANT
+ARE
+ARM
+BIO
+BME
+BUS
+CAE
+CBE
+CHM
+COM
+CON
+CPE
+CSC
+CSE
+CVE
+CYB
+EAP
+ECB
+ELE
+FNA
+GER
+HON
+HST
+HUM
+IDS
+IND
+LIT
+MEC
+MTH
+MUS
+NAV
+NUR
+PHL
+PHY
+PSC
+PSY
+RSC
+SCI
+SOC
+SPN
+SSC
+SWE
+TCM
+UGR
+UXD
+Choose Course Number
+Choose Course Type
+All types…
+Actuarial Science
+Air Force
+Anthropology
+Architectural Engineering
+Army
+Art History
+Biological Sciences
+Biomedical Engineering
+Business
+Chemical and Biomolecular Engineering
+Chemistry
+Civil and Architectural Engineering
+Civil Engineering
+Communication
+Computer Engineering
+Computer Science
+Computer Science and Software Engineering
+Construction Management
+Cybersecurity
+Electrical Engineering
+Electrical, Computer, and Biomedical Engineering
+English for Academic Purposes (EAP)
+Fine Arts
+German
+History
+Honors
+Humanities
+Industrial Engineering
+Interdisciplinary Studies
+Literature
+Mathematics
+Mechanical Engineering
+Music
+Naval Science
+Nursing
+Philosophy
+Physics
+Political Science
+Psychology
+Raider Success Courses
+Science
+Social Sciences
+Sociology
+Software Engineering
+Spanish
+Technical Communication
+Undergraduate Research
+User Experience
+Choose Keyword
+Find whole word or phrase only.
+Civil Engineering
+•
+CVE 4611 - Traffic Analysis
+•
+CVE 4621 - Design and Planning of Airports
+•
+CVE 4631 - Design of Bridges
+•
+CVE 4661 - Pavement Design
+•
+CVE 4671 - Traffic Safety
+•
+CVE 4681 - Traffic Control
+•
+CVE 4721 - Hydraulic Design
+•
+CVE 4731 - Physical Hydrogeology
+•
+CVE 4741 - Hydrology
+•
+CVE 4901 - Civil Engineering Capstone I
+•
+CVE 4902 - Civil Engineering Capstone II
+•
+CVE 4980 - Topics in Civil Engineering
+•
+CVE 4999 - Civil Engineering Independent Study
+Communication
+•
+COM 1001 - College Writing
+•
+COM 2001 - Writing for the STEM Disciplines
+•
+COM 2980 - Topics in Communication
+•
+COM 2999 - Communication Independent Study
+•
+COM 3001 - Professional Presentations
+•
+COM 3980 - Topics in Communication
+•
+COM 3999 - Communication Independent Study
+•
+COM 4980 - Topics in Communication
+•
+COM 4999 - Communication Independent Study
+Computer Engineering
+•
+CPE 1500 - Digital Logic
+•
+CPE 1510 - Computer Architecture and Assembly Language
+•
+CPE 2600 - Systems Programming
+•
+CPE 2610 - Embedded Systems
+•
+CPE 3300 - Computer Networking
+•
+CPE 3600 - Advanced Embedded Systems
+•
+CPE 4510 - Superscalar, Multicore, and Multiprocessor Architecture
+•
+CPE 4520 - Memory System and I/O System Architecture
+•
+CPE 4610 - Embedded Systems Fabrication
+•
+CPE 4800 - Information Security
+•
+CPE 4901 - Computer Engineering Senior Design Project I
+•
+CPE 4902 - Computer Engineering Senior Design Project II
+•
+CPE 4980 - Topics in Computer Engineering
+•
+CPE 4981 - Topics in Computer Engineering with Lab
+•
+CPE 4999 - Computer Engineering Independent Study
+Computer Science
+•
+CSC 0100 - First Year Seminar- Computing
+•
+CSC 1010 - Introductory Java Development
+•
+CSC 1020 - Data Structures, I/O, and Graphical Interfaces
+•
+CSC 1110 - Software Development
+•
+CSC 1110A - Software Development
+•
+CSC 1120 - Data Structures and Graphical Interfaces
+•
+CSC 1120A - Data Structures and Graphical Interfaces
+•
+CSC 1310 - Introduction to Programming with Python
+•
+CSC 2210 - Procedural and Object-Oriented C++
+•
+CSC 2611 - AI Tools
+•
+CSC 2621 - Introduction to Data Science
+•
+CSC 2661 - Python for AI
+•
+CSC 2663 - Machine Learning Techniques
+•
+CSC 2980 - Topics in Computer Science
+•
+CSC 2981 - Topics in Computer Science with Lab
+•
+CSC 3210 - Operating Systems
+•
+CSC 3310 - Algorithms and Advanced Data Structures
+•
+CSC 3320 - Databases
+•
+CSC 3511 - Security and Networking
+•
+CSC 4201 - Microservices and Cloud Computing
+•
+CSC 4241 - GPU Programming
+•
+CSC 4243 - Compiler Construction
+•
+CSC 4341 - Competitive Programming
+•
+CSC 4601 - Theory of Machine Learning
+•
+CSC 4611 - Introduction to Deep Learning
+•
+CSC 4631 - Artificial Intelligence
+•
+CSC 4641 - Natural Language Processing
+•
+CSC 4651 - Deep Learning in Signal Processing
+•
+CSC 4661 - Reinforcement Learning
+•
+CSC 4801 - Data Science Practicum
+•
+CSC 4901 - Computer Science Capstone I
+•
+CSC 4902 - Computer Science Capstone II
+•
+CSC 4911 - Mobile Application Development
+•
+CSC 4941 - Robotics
+•
+CSC 4980 - Topics in Computer Science
+•
+CSC 4981 - Topics in Computer Science with Lab
+•
+CSC 4999 - Computer Science Independent Study
+Computer Science and Software Engineering
+•
+CSE 3991 - Co-op Experience I
+•
+CSE 3992 - Co-op Experience II
+•
+CSE 4991 - Co-op Experience III
+•
+CSE 4992 - Co-op Experience IV
+•
+CSE 4993 - International Student Internship Experience
+Construction Management
+•
+CON 2001 - Introduction to Construction Management
+•
+CON 2011 - Surveying
+•
+CON 2071 - Construction Safety
+•
+CON 2980 - Topics in Construction Management
+•
+CON 3001 - Principles of Construction Project Management
+•
+CON 3011 - Building Mechanical and Electrical Systems for CM
+•
+CON 3021 - Construction Estimating
+•
+CON 3061 - Construction Scheduling
+•
+CON 3071 - Construction Jobsite and Equipment Management
+•
+CON 3980 - Topics in Construction Management
+•
+CON 4011 - Lean Construction and Resource Management
+•
+CON 4021 - Construction Finance and Accounting
+•
+CON 4051 - Construction Project Management II
+•
+CON 4052 - Project Acquisition and Business Development
+•
+CON 4053 - Construction Project Leadership
+•
+CON 4901 - Construction Management Capstone I
+•
+CON 4902 - Construction Management Capstone II
+•
+CON 4980 - Topics in Construction Management
+•
+CON 4999 - Construction Management Independent Study
+Cybersecurity
+•
+CYB 2001 - Introduction to Cybersecurity Principles
+•
+CYB 2311 - Introduction to Applied Cryptography
+Page:
+1
+|
+2
+|
+3
+|
+4
+|
+5
+|
+6
+|
+7
+|
+8
+|
+9
+Back to Top
+|
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+All
+catalogs
+© 2026 Milwaukee School of Engineering.
+Powered by
+Modern Campus Catalog™
+.

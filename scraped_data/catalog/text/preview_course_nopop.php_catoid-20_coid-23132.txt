@@ -1,0 +1,118 @@
+AE 3636 - Communication Systems Design -
+Milwaukee School of Engineering
+Mar 12, 2026
+2019-2020 Undergraduate Academic Catalog
+Select a Catalog
+2025-2026 Undergraduate Academic Catalog
+2025-2026 Graduate Academic Catalog
+2024-2025 Undergraduate Academic Catalog-June [ARCHIVED CATALOG]
+2024-2025 Graduate Academic Catalog-June [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Graduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Graduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Graduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Graduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Graduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Graduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Graduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Graduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Graduate Academic Catalog [ARCHIVED CATALOG]
+2013-14 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2012-2014 Graduate Academic Catalog [ARCHIVED CATALOG]
+2012-2013 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+Global Search
+Catalog Search
+Choose Search Location
+Select an option
+Courses
+Programs
+Academic Departments
+Other Content
+Entire Catalog
+Search Keyword Field
+Whole Word/Phrase
+Advanced Search
+Catalog Navigation
+Catalog Home
+Academic Calendar
+University Overview
+Enrollment Management Department
+Academic Regulations and Policies
+Student Financial Services
+Academic Departments, Undergraduate Degree Programs, Minors and Certificates
+Degree Programs, Minors and Certificates
+University Scholars Honors Program
+Reserve Officers’ Training Corps. (ROTC)
+English as a Second Language
+Course Descriptions
+Administration, Board of Regents, Faculty and Advisory Committees
+Campus Map
+Student Resources
+My Portfolio
+HELP
+2019-2020 Undergraduate Academic Catalog
+[ARCHIVED CATALOG]
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+AE 3636 - Communication Systems Design
+4
+lecture hours
+0
+lab hours
+4
+credits
+Course Description
+Students will gain an understanding of various low voltage systems and how they function in typical building applications. Data networks, telephone, signaling, multimedia, security, and fire alarm along with the supporting equipment will be studied. Emphasis will be on viewing each low voltage modality as a fully functional system. Practice in specifying and laying out building low voltage systems will cumulate in a final project. Relevant codes and standards will be referenced and integrated into design work. Topics include communication systems, data networks, signaling, multimedia (A/V, videoconferencing), security, fire alarm, monitoring, building automation systems.   (prereq:
+AE 3601
+)
+Course Learning Outcomes
+Upon successful completion of this course, the student will be able to:
+Understand the various low voltage systems and cabling which are regularly encountered in the design and building construction industry
+Become a resource to both design and construction professionals to properly coordinate and implement low voltage systems into a building
+Apply knowledge of codes and standards as they relate to the design of low voltage systems such as Fire Alarm, Telecommunications, and Nurse Call for the protection of human life and physical wellbeing
+Understand the process of designing and specifying low voltage and telecommunications systems, the infrastructure necessary to facilitate proper installation, and the coordination required with other disciplines of design
+Prerequisites by Topic
+Basic electrical systems
+Electrical power calculations
+Course Topics
+Introduction of low voltage and communication systems
+Principles of signal transmission
+Network cable and bandwith
+Wireless technologies
+Network equipment
+Building network infrastructure and topology design
+Campus network infrastructure
+Mass notification systems
+Fire alarm systems
+Audio, video, multimedia systems
+Healthcare systems
+Building automation systems
+Integration of systems
+Coordinator
+Christine Brotz
+Back to Top
+|
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+All
+catalogs
+© 2026 Milwaukee School of Engineering.
+Powered by
+Modern Campus Catalog™
+.

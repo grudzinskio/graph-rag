@@ -1,0 +1,142 @@
+PHY 2600 - Introduction to Optics and Photonics -
+2025-2026 Undergraduate Academic Catalog
+Milwaukee School of Engineering
+Mar 12, 2026
+2025-2026 Undergraduate Academic Catalog
+Select a Catalog
+2025-2026 Undergraduate Academic Catalog
+2025-2026 Graduate Academic Catalog
+2024-2025 Undergraduate Academic Catalog-June [ARCHIVED CATALOG]
+2024-2025 Graduate Academic Catalog-June [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Graduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Graduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Graduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Graduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Graduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Graduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Graduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Graduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Graduate Academic Catalog [ARCHIVED CATALOG]
+2013-14 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2012-2014 Graduate Academic Catalog [ARCHIVED CATALOG]
+2012-2013 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+Global Search
+Catalog Search
+Choose Search Location
+Select an option
+Courses
+Programs
+Academic Departments
+Other Content
+Entire Catalog
+Search Keyword Field
+Whole Word/Phrase
+Advanced Search
+Catalog Navigation
+Catalog Home
+Academic Calendar
+University Overview
+Admissions
+Student Financial Services
+Academic Regulations and Policies
+Degree Programs, Minors, and Certificates
+Degrees, Minors, and Certificates by Department
+Course Descriptions
+The Raider Core
+Explorer Pathways
+MSOE Honors Program
+Global Opportunities
+Reserve Officers’ Training Corps. (ROTC)
+Administration, Regents, and Advisory Committees
+Departments and Faculty
+Campus Map
+Student Resources
+My Portfolio
+HELP
+2025-2026 Undergraduate Academic Catalog
+Print this Page
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+PHY 2600 - Introduction to Optics and Photonics
+2
+lecture hours
+2
+lab hours
+3
+credits
+Course Description
+This course is designed to help students gain an understanding of the fundamental principles of optics and photonics. Topics covered include the properties and operating principles of sources and detectors of light, the principles of reflection, refraction, image formation, image aberrations, absorption, scattering, fiber optic communications, polarization, diffraction, interference, lasers, and holography. Applications of the principles of optics and photonics are emphasized with examples that range from optics in nature to optics and photonics in science and engineering. In the associated laboratory section, students have opportunities to gain hands-on experience in the MSOE Applied Optics Laboratory and the Photonics and Sensors Laboratory.
+Prereq:
+PHY 1110
+,
+PHY 1120
+(quarter system prereq: PH 2011, PH 2021, PH 2031)
+Note:
+None
+This course meets the following Raider Core CLO Requirement:
+Think Critically
+Course Learning Outcomes
+Upon successful completion of this course, the student will be able to:
+Characterize the properties of light from an electromagnetic wave and from a photon point of view
+Understand the basic operating principles of a wide variety of sources and detectors of light and use information about the characteristics of those sources and detectors to make recommendations for specific applications
+Apply the laws of reflection and refraction to predict the paths taken by the reflected and transmitted rays when a light ray is incident on the boundary between two different transparent regions, and use Fresnel’s equation to predict the details of how the energy in the incident ray is divided into the energies of the reflected and transmitted rays
+Apply the laws of reflection and refraction to explain the principles of retro-reflecting mirror assemblies, prisms, and the transmission of light using optical fibers
+Apply elementary geometrical optics to design lens and mirror systems to accomplish the formation of real and virtual images of objects and to predict the location, orientation and brightness of the images
+Explain the operation of and be able to design simple optical instruments such as rangefinders, cameras, microscopes, and telescopes using principles that minimize the effects of spherical and chromatic aberration
+Explain how signal degradation occurs in optical fibers due to attenuation of light and because of modal, material, and waveguide dispersion of light
+Distinguish between Fresnel and Fraunhofer diffraction of light and explain how interference and diffraction can be used to design anti-reflecting films, diffraction gratings and optical instruments such as interferometers
+Explain the different ways to polarize light, the principles of quarter-wave plates and half-wave plates, and the principles of operation and applications of polarized light such as is used for liquid crystal displays
+Understand the operation and properties of gas lasers and semiconductor p-n junction lasers
+Show how to use the principles of holography to construct a hologram and to use the double-exposure technique and the continuous-exposure or real-time technique to accomplish holographic testing for stresses and strains in materials
+Explain the principles of infrared, visible, and ultraviolet spectroscopy, and be able to show how those spectroscopic techniques can be used to study the properties of atoms, molecules, and the surfaces of materials
+Design zone plates for applications at different wavelength of electro-magnetic radiation
+Apply the principles of reflection, refraction, and interference to explain the many different patterns of light and color that appear in the sky due to interaction of rays of sunlight with raindrops and airborne ice crystals
+Prerequisites by Topic
+None
+Course Topics
+History of optics; properties of light-wave and particle models; IR-Vis-UV light and the E-M spectrum, photoelectric effect, Thomas Young’s double-slit experiment, and Maxwell’s equations, five ways to change the direction of a ray of light: reflection, refraction, diffraction, scattering, and gravity
+Sources of light: principles, properties, and applications, stars and the sun, incandescent lamps, fluorescent lamps, sodium vapor lamps, LEDs, diode and gas lasers, intensity, spectrum, and many other properties
+Detectors of light: principles, properties, and applications; human eyes and animal eyes, photocells; photodiodes; phototransistors; photomultipliers and charge-coupled devices
+The laws of reflection and refraction, Fermat’s principle, the vector form of the law of reflection, applications of reflection: corner-cube reflectors-design of taillight reflectors for vehicles, total internal reflection, Fresnel’s equation for reflectance, prisms and Newton’s observations
+Image formation by plane mirrors, concave and convex spherical mirrors, and parabolic mirrors, ray diagrams and algebraic methods to determine the location, orientation, and size of an image, real and virtual images, spherical aberration
+Image formation by refraction using converging and diverging glass lenses, ray diagrams and algebraic methods to determine the location, orientation, and size of an image, real and virtual images, spherical and chromatic lens aberrations
+Optical instruments that use reflection and refraction to form images: cameras magnifying glasses, microscopes, reflecting and refracting telescopes. Newton’s contribution
+Absorption and scattering-Rayleigh scattering; blue skies and red sunsets, molecular spectroscopy, applications of total internal reflection: history and development of fiber-optic communications
+Principles of transmission of information by sending pulses of light in optical fibers, acceptance angle and numerical aperture
+Signal degradation due to three types of dispersion: odal dispersion, material dispersion, and waveguide dispersion, attenuation of light pulses due to scattering, absorption, and bending losses, relationship of input power, output power, fiber length, and the attenuation coefficient
+Polarized light: sources, principles, and applications, polarization by Polaroid sheets, reflection, and scattering, Polaroid sunglasses, liquid crystal displays, and polarized skylight, Haidinger’s brush
+Interference: Young’s double-slit experiment; the Michelson interferometer, thin-film interference: antireflection coatings for lenses, optical fibers, and solar cells
+Fraunhofer diffraction: Single-slit diffraction patterns; Babinet’s principle, diffraction by a circular aperture; telescopic astronomical limitations, the Rayleigh criterion for resolution, apodization
+Diffraction gratings: history, principles, and applications, formation of spectra, dispersion, resolving power, monochromators
+Fresnel diffraction: zone plates-principles, properties, and applications, reflection, refraction, and interference explanations for: “Light and Color in the Daytime Sky”
+Laboratory Topics
+A collection of 67 experimental projects in optics produced with support from
+National Science
+Foundation
+Award No. DUE:955048 are available for student work in the laboratory section of PHY 2600.
+Coordinator
+Dr. Robert Olsson
+Print this Page
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+All
+catalogs
+© 2026 Milwaukee School of Engineering.
+Powered by
+Modern Campus Catalog™
+.

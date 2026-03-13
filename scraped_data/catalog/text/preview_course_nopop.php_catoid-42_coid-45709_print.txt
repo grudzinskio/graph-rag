@@ -1,0 +1,145 @@
+BME 4210 - Medical Imaging Systems -
+2025-2026 Undergraduate Academic Catalog
+Milwaukee School of Engineering
+Mar 12, 2026
+2025-2026 Undergraduate Academic Catalog
+Select a Catalog
+2025-2026 Undergraduate Academic Catalog
+2025-2026 Graduate Academic Catalog
+2024-2025 Undergraduate Academic Catalog-June [ARCHIVED CATALOG]
+2024-2025 Graduate Academic Catalog-June [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Graduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Graduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Graduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Graduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Graduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Graduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Graduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Graduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Graduate Academic Catalog [ARCHIVED CATALOG]
+2013-14 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2012-2014 Graduate Academic Catalog [ARCHIVED CATALOG]
+2012-2013 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+Global Search
+Catalog Search
+Choose Search Location
+Select an option
+Courses
+Programs
+Academic Departments
+Other Content
+Entire Catalog
+Search Keyword Field
+Whole Word/Phrase
+Advanced Search
+Catalog Navigation
+Catalog Home
+Academic Calendar
+University Overview
+Admissions
+Student Financial Services
+Academic Regulations and Policies
+Degree Programs, Minors, and Certificates
+Degrees, Minors, and Certificates by Department
+Course Descriptions
+The Raider Core
+Explorer Pathways
+MSOE Honors Program
+Global Opportunities
+Reserve Officers’ Training Corps. (ROTC)
+Administration, Regents, and Advisory Committees
+Departments and Faculty
+Campus Map
+Student Resources
+My Portfolio
+HELP
+2025-2026 Undergraduate Academic Catalog
+Print this Page
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+BME 4210 - Medical Imaging Systems
+2
+lecture hours
+2
+lab hours
+3
+credits
+Course Description
+The objective of this course is to introduce the students to medical imaging system modalities, multi-dimensional systems and signals, and the fundamentals of image processing. The fundamental concepts of physics, technology, and operation of medical imaging modalities such as x-ray radiography, computed tomography, magnetic resonance imaging, ultrasound and nuclear medicine systems will be presented. The concepts of image acquisition, reconstruction, and fundamental image processing techniques will be discussed and practiced.
+Prereq:
+ELE 3300
+or
+CSC 4611
+(quarter system prereq: EE 3032)
+Note:
+None
+This course meets the following Raider Core CLO Requirement:
+None
+Course Learning Outcomes
+Upon successful completion of this course, the student will be able to:
+Demonstrate an understanding of fundamental multi-dimensional systems and signals concepts
+Demonstrate an understanding of general image characteristics across various imaging modalities
+Demonstrate an understanding of physics fundamentals of various imaging modalities
+Demonstrate an understanding of how a basic x-ray radiography system works, and how images are created and analyzed
+Demonstrate an understanding of how a basic CT system works, and how images are created and analyzed
+Demonstrate an understanding of how a basic MRI system works, and how images are created and analyzed
+Demonstrate an understanding of how a basic ultrasound system works, and how images are created and analyzed
+Demonstrate an understanding of how basic nuclear medicine systems (e.g., PET and SPECT) work, and how images are created and analyzed
+Demonstrate an understanding of fundamental image processing methodologies
+Proficiently apply fundamental image processing methodologies to medical images
+Proficiently apply MATLAB and Anatomage Table (or other modern computer-aided tools) to perform image analysis and visualization
+Prerequisites by Topic
+Linear and time-invariant systems
+Signal transformations
+Impulse response function and convolution
+Medical imaging phantom design
+Course Topics
+History of medical imaging and development of medical imaging systems
+Fundamentals of multi-dimensional systems
+Fundamentals of multi-dimensional signals (images) and image characteristics
+DICOM standard
+Medical imaging phantoms
+Fundamentals of image processing such as spatial and frequency domain representation, multi-dimensional FFT, image histograms, minimum and maximum intensity images, thresholding, spatial filtering, image segmentation, image registration and other related methodologies
+Fundamentals of x-ray physics
+Radiation and radiation units
+X-Ray radiography systems
+Angiography imaging
+Computed Tomography (CT) systems
+Magnetic Resonance Imaging (MRI)
+Ultrasound
+Nuclear Medicine Imaging (PET, SPECT, Gamma Camera systems)
+Artificial Intelligence applications in medical imaging
+Laboratory Topics
+Image visualization, basic quantification, and filtering
+Image reconstruction
+Image registration
+Image segmentation
+Frequency analysis of medical images
+Deep learning in medical imaging
+Phantom design, 3D printing, scanning, and image analysis and quantification
+Coordinator
+Dr. Olga Imas
+Print this Page
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+All
+catalogs
+© 2026 Milwaukee School of Engineering.
+Powered by
+Modern Campus Catalog™
+.

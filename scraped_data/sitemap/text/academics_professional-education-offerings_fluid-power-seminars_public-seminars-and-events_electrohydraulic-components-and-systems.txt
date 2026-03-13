@@ -1,0 +1,104 @@
+Hydraulic Systems Volume 2: Electrohydraulic Components and Systems | MSOE
+Skip to Main Content
+Home
+Academics
+Center for Professional Education
+Fluid Power Seminars
+Public Seminars and Events
+Hydraulic Systems Volume 2: Electrohydraulic Components and Systems
+Hydraulic Systems Volume 2: Electrohydraulic Components and Systems
+Electrification of hydraulic systems became a trend over the past two decades and will continue in the future. This 27-hour (5-day) seminar is designed to overview electrohydraulic components and systems. The seminar starts by discussing the basic difference between hydraulic and electrical control and how to merge both in one system. Following that part, the seminar presents several examples about how to convert a legacy hydromechanical system to an electrohydraulic system.
+The seminar presents detailed discussion about the construction, principle of operation, selection, and sizing of solenoid operated valves, proportional valves, and servo valves. The seminar also covers the electrical control units used to drive such valves. The seminar also covers the concept of on/off control versus analog control using open-loop and closed-loop electro-hydraulic concepts. The state-of-the-art Universal Fluid Power Trainers are used to demonstrate the theory presented.
+Program Overview
+Date:
+Oct 20-24, 2025
+CEUs:
+2.7 |
+PDHs:
+27
+Cost:
+$2,700 per person.
+Who Should Attend
+Application engineers, system integrators, motion control engineers, sales engineers, field engineers and end users of electro-hydraulic components.
+Seminar attendees receive a copy of
+“
+Electro-Hydraulic Components and Systems, Hydraulic Systems Volume 2
+”
+Upon successful completion, you will be able to:
+Recognize the difference in construction, principle of operation and characteristics between ON/OFF valves, proportional valves and servo valves.
+Apply real-time control technique for EH systems and perform infield tuning to adjust the system performance.
+Read the basic electronic schematics of the proportional/servo valve amplifiers.
+Make the best selection of the components required to build open- and closed-loop electro-hydraulic control systems.
+Program Details
+Course Outline:
+CH. 1 Hydraulic versus Electrical Systems
+CH. 2 Hydro-Mechanical versus Electro-Hydraulic Solutions
+CH. 3 Switching Valves Construction and Operation
+CH. 4 Electrical Circuits for Switching Valves
+CH. 5 Proportional Valves
+CH. 6 Servo Valves
+CH. 7 Electro-Hydraulic Valve Selection Criteria
+CH. 8 Open-Loop versus Closed-Loop EH Applications
+CH. 9 Control Electronics for Electro-Hydraulic Valves
+Ch. 10 Electro-Hydraulic Valves Commissioning and Maintenance
+Agenda
+Days 1-4:
+9 a.m. to 4 p.m. – Lunch: noon to 1 p.m.
+Day 5:
+9 a.m. to noon
+Link to full agenda
+Continental breakfast and lunch will be served daily. Beverages/Snacks provided throughout the day.
+Laboratory Sessions
+Lab20:
+Cylinder extension upon pressing a push-button
+Lab21:
+Signal storage by electrical self-locking
+Lab22:
+Electrical locking by means of contactors contact
+Lab23:
+Position-dependent cylinder deceleration
+Lab24:
+Pressure-Dependent cylinder reversal
+Lab25:
+Event-Dependent warning circuit
+Lab26:
+Cylinder Motion Control Performance using Switching Valve vs. Proportional Valve
+Lab27:
+Cylinder Motion Control Performance using Servo Valve vs. Proportional Valve
+Lab28:
+Digital Control of EH Variable Displacement Pumps
+Lab29:
+Digital Control of Electro-Hydraulic Cylinder Position
+Instructors
+Dr. Medhat Khalil
+– Director of Professional Education & Research Development, Applied Technology Center
+TM
+, Milwaukee School of Engineering
+Previous Session Evaluations
+Electrohydraulic Components and Systems (77076)
+Electrohydraulic Components and Systems (70203)
+Register Now!
+Register today to secure your seat for this seminar
+Register
+Dr. Medhat Khalil
+(414) 277-7269
+khalil@msoe.edu
+Cell: (414) 940-2232
+Menu
+Search
+submit
+Resources For…
+MSOE University
+1025 North Broadway
+Milwaukee,
+WI
+53202-3109
+(800) 332-6763
+explore@msoe.edu
+Connect With MSOE
+Facebook
+Instagram
+Twitter
+Linkedin
+YouTube
+Vimeo

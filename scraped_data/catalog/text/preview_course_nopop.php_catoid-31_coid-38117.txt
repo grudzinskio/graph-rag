@@ -1,0 +1,131 @@
+BME 2310 - Embedded Systems for Biomedical Engineers -
+Milwaukee School of Engineering
+Mar 12, 2026
+2023-2024 Undergraduate Academic Catalog
+Select a Catalog
+2025-2026 Undergraduate Academic Catalog
+2025-2026 Graduate Academic Catalog
+2024-2025 Undergraduate Academic Catalog-June [ARCHIVED CATALOG]
+2024-2025 Graduate Academic Catalog-June [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Graduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Graduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Graduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Graduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Graduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Graduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Graduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Graduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Graduate Academic Catalog [ARCHIVED CATALOG]
+2013-14 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2012-2014 Graduate Academic Catalog [ARCHIVED CATALOG]
+2012-2013 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+Global Search
+Catalog Search
+Choose Search Location
+Select an option
+Courses
+Programs
+Academic Departments
+Other Content
+Entire Catalog
+Search Keyword Field
+Whole Word/Phrase
+Advanced Search
+Catalog Navigation
+Catalog Home
+Academic Calendar
+University Overview
+Admissions
+The Raider Core
+Academic Regulations and Policies
+Student Financial Services
+Degrees, Minors, and Certificates by Department
+Degree Programs, Minors, and Certificates
+Course Descriptions
+MSOE Honors Program
+Global Opportunities
+Reserve Officers’ Training Corps. (ROTC)
+Administration, Regents, and Advisory Committees
+Faculty and Faculty Emeriti
+Campus Map
+Student Resources
+My Portfolio
+HELP
+2023-2024 Undergraduate Academic Catalog
+[ARCHIVED CATALOG]
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+BME 2310 - Embedded Systems for Biomedical Engineers
+2
+lecture hours
+2
+lab hours
+3
+credits
+Course Description
+This course introduces students to embedded systems, embedded programming concepts, and basic electronics interfacing. Course topics include microcontroller architecture, subsystems, and embedded systems terminology. The course includes limited coverage of electrical interfacing of embedded systems to external digital and analog electronics. An integrated high-level programming environment is used. Students complete a course project that emphasizes the interaction between the hardware and software components of a practical embedded system. This course meets the following Raider Core CLO requirement:
+Integrate Learning
+.   (prereq:
+CSC 1310
+) (quarter system prereq: none)
+Course Learning Outcomes
+Upon successful completion of this course, the student will be able to:
+Describe the general sub-systems and operation of embedded controllers
+Describe biomedical applications of embedded systems
+Describe the purpose of integrated development environments
+Describe and effectively use data types in a modern, high-level computing environment
+Describe and effectively use control constructions in a modern, high-level computing environment
+Describe and effectively use digital inputs and outputs, PWM outputs, and analog inputs and outputs in a high-level computing environment running on modern embedded system hardware
+Describe and effectively use user defined functions or blocks in a modern, high-level computer programming environment
+Design, create, and document relatively simple embedded programs
+Describe operating systems at a high level of abstraction, comparing two or more common operating systems
+Prerequisites by Topic
+Procedural computer programming
+Course Topics
+General sub-systems and operation of embedded controllers
+Survey of biomedical applications of embedded systems
+Integrated development environments for embedded programming
+Designing, implementing, and documenting relatively simple embedded programs
+Digital inputs and outputs, PWM outputs, and analog inputs and outputs in a modern, high-level computer programming environment running on modern embedded system hardware
+User defined functions or blocks in a modern, high-level computer programming environment
+Using provided classes and libraries in a high-level computer programming environment running on a modern embedded operating system
+Introduction to operating system abstractions
+Introduction to Unix and comparison of operating systems
+Laboratory Topics
+Introduction to IDE, embedded hardware platform and programming
+Digital and PWM outputs, digital inputs, and analog inputs and outputs
+Displays and user interfaces
+Interfacing with MATLAB (serial communications)
+Programming with functions
+Programming with arrays (including strings)
+Programming using hardware interrupts
+Introduction to basic Unix commands and utilities
+Coordinator
+Dr. Charles Tritt
+Back to Top
+|
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+All
+catalogs
+© 2026 Milwaukee School of Engineering.
+Powered by
+Modern Campus Catalog™
+.

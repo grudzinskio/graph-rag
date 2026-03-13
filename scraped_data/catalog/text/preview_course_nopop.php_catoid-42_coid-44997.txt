@@ -1,0 +1,163 @@
+MTH 1120 - Calculus II -
+Milwaukee School of Engineering
+Mar 12, 2026
+2025-2026 Undergraduate Academic Catalog
+Select a Catalog
+2025-2026 Undergraduate Academic Catalog
+2025-2026 Graduate Academic Catalog
+2024-2025 Undergraduate Academic Catalog-June [ARCHIVED CATALOG]
+2024-2025 Graduate Academic Catalog-June [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Graduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Graduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Graduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Graduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Graduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Graduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Graduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Graduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Graduate Academic Catalog [ARCHIVED CATALOG]
+2013-14 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2012-2014 Graduate Academic Catalog [ARCHIVED CATALOG]
+2012-2013 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+Global Search
+Catalog Search
+Choose Search Location
+Select an option
+Courses
+Programs
+Academic Departments
+Other Content
+Entire Catalog
+Search Keyword Field
+Whole Word/Phrase
+Advanced Search
+Catalog Navigation
+Catalog Home
+Academic Calendar
+University Overview
+Admissions
+Student Financial Services
+Academic Regulations and Policies
+Degree Programs, Minors, and Certificates
+Degrees, Minors, and Certificates by Department
+Course Descriptions
+The Raider Core
+Explorer Pathways
+MSOE Honors Program
+Global Opportunities
+Reserve Officers’ Training Corps. (ROTC)
+Administration, Regents, and Advisory Committees
+Departments and Faculty
+Campus Map
+Student Resources
+My Portfolio
+HELP
+2025-2026 Undergraduate Academic Catalog
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+MTH 1120 - Calculus II
+4
+lecture hours
+0
+lab hours
+4
+credits
+Course Description
+This course is a continuation of MTH 1110. It focuses on integration methods, parametric and polar equations, and the study of infinite series. Topics include integration by parts, trigonometric integrals, partial fractions, and numerical integration methods, L’Hȏpital’s rule, improper integrals, parametric equations, polar coordinates, vector algebra, sequences, infinite series, power series, Taylor and Maclaurin series, and operations with series. Applications include areas, arc length, volumes, work using integration, and function approximation using Taylor polynomials.
+Prereq:
+MTH 1110
+(quarter system prereq: MA 137)
+Note:
+None
+This course meets the following Raider Core CLO Requirement:
+None
+Course Learning Outcomes
+Upon successful completion of this course, the student will be able to:
+Evaluate integrals using the method of integration by parts
+Integrate products and powers of trigonometric functions
+Integrate proper and improper rational functions using the method of partial fractions
+Find areas between curves
+Find volumes of solids of revolution using the disk and washer methods
+Use numerical approximation to estimate definite integrals
+Analyze the error of approximation in numerical integration
+Identify indeterminate forms and use L’Hȏpital’s rule to evaluate limits
+Evaluate improper integrals
+Find the arc length of the graph of a function
+Find the work performed by a variable force using integration
+Eliminate the parameter from parametric equations
+Sketch graphs of parametric equations and determine the orientation for increasing parameter
+Find slope and concavity of parameterized curves
+Find arc length of parameterized curves
+Convert between rectangular and polar coordinates
+Sketch graphs of polar curves
+Find slope, area, and arc length in polar coordinates
+Perform vector addition, scalar vector multiplication, and normalization; interpret these operations geometrically
+Find dot and cross products of vectors; interpret these operations geometrically
+Identify the n-th term of a sequence by recognizing a pattern
+Determine if a sequence converges or diverges
+Identify a closed form of the partial sums of a series and evaluate the limit
+Identify a geometric series and evaluate the sum, if convergent
+Apply the divergence test to determine if a series diverges
+Apply the integral test to determine whether a series converges or diverges
+Identify p-series and determine whether the series converges or diverges
+Apply the ratio test to determine whether a series converges or diverges
+Apply convergence tests to determine absolute convergence
+Construct Taylor and Maclaurin series of functions
+Find the interval of convergence of a power series
+Perform algebraic and calculus operations on power series
+Use Taylor and Maclaurin polynomials to approximate functions
+Prerequisites by Topic
+Precalculus mathematics
+Limits
+Differentiation of algebraic and transcendental functions
+Definition of the definite integral
+Fundamental theorem of calculus
+Integration by substitution
+Course Topics
+Integration by parts
+Trigonometric integrals
+Integration by partial fractions
+Areas between curves
+Volumes using disks and washers
+Numerical integration
+L’Hȏpital’s rule
+Improper integrals
+Arc length
+Work
+Parametric equations
+Polar coordinates and graphs
+Vector addition, scalar vector multiplication, normalization
+Dot and cross products of vectors
+Sequences
+Infinite series and tests for convergence
+Power series and intervals of convergence
+Taylor and Maclaurin series
+Coordinator
+Dr. Kseniya Fuhrman
+Back to Top
+|
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+All
+catalogs
+© 2026 Milwaukee School of Engineering.
+Powered by
+Modern Campus Catalog™
+.

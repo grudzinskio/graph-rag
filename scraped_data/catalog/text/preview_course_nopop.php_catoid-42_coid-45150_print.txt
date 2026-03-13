@@ -1,0 +1,135 @@
+MEC 3140 - Thermodynamics II -
+2025-2026 Undergraduate Academic Catalog
+Milwaukee School of Engineering
+Mar 12, 2026
+2025-2026 Undergraduate Academic Catalog
+Select a Catalog
+2025-2026 Undergraduate Academic Catalog
+2025-2026 Graduate Academic Catalog
+2024-2025 Undergraduate Academic Catalog-June [ARCHIVED CATALOG]
+2024-2025 Graduate Academic Catalog-June [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Graduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Graduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Graduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Graduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Graduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Graduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Graduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Graduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Graduate Academic Catalog [ARCHIVED CATALOG]
+2013-14 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2012-2014 Graduate Academic Catalog [ARCHIVED CATALOG]
+2012-2013 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+Global Search
+Catalog Search
+Choose Search Location
+Select an option
+Courses
+Programs
+Academic Departments
+Other Content
+Entire Catalog
+Search Keyword Field
+Whole Word/Phrase
+Advanced Search
+Catalog Navigation
+Catalog Home
+Academic Calendar
+University Overview
+Admissions
+Student Financial Services
+Academic Regulations and Policies
+Degree Programs, Minors, and Certificates
+Degrees, Minors, and Certificates by Department
+Course Descriptions
+The Raider Core
+Explorer Pathways
+MSOE Honors Program
+Global Opportunities
+Reserve Officers’ Training Corps. (ROTC)
+Administration, Regents, and Advisory Committees
+Departments and Faculty
+Campus Map
+Student Resources
+My Portfolio
+HELP
+2025-2026 Undergraduate Academic Catalog
+Print this Page
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+MEC 3140 - Thermodynamics II
+3
+lecture hours
+0
+lab hours
+3
+credits
+Course Description
+This is a continuation of thermodynamic concepts, with emphasis on applications of thermodynamic principles to typical energy systems. Topics include analysis of advanced power and refrigeration cycles, one-dimensional compressible flow, gas mixtures, psychrometrics, combustion reactions, and renewable energy technologies. Students will also complete projects involving the design of energy conversion systems.
+Prereq:
+MEC 2110
+(quarter system prereq: ME 2980)
+Note:
+None
+This course meets the following Raider Core CLO Requirement:
+None
+Course Learning Outcomes
+Upon successful completion of this course, the student will be able to:
+Explain the characteristics and differences among reciprocating engine cycles
+Calculate reciprocating engine performance parameters
+Evaluate the performance Rankine and Brayton cycles, with their modifications
+Design power and refrigeration cycles to meet design specifications
+Calculate thermodynamic properties of ideal gas mixtures
+Utilize the psychrometric chart to evaluate various psychrometric properties
+Perform mass and energy balances on various air-conditioning processes
+Balance combustion reactions involving hydrocarbon fuels
+Perform open and closed system energy balances on combustion processes
+Calculate the adiabatic flame temperature for combustion processes
+Assess the impact of combustion parameters on pollutant emissions and control
+Define and evaluate various properties associated with compressible flow such as stagnation properties, speed of sound, and Mach number
+Explain how disturbances are propagated through compressible media and distinguish between subsonic and supersonic flows
+Evaluate the variation of kinematic and thermodynamic properties in flows through converging and converging-diverging nozzles
+Explain the phenomena of choked flow and its implications
+Compute the kinematic and thermodynamic property changes across a normal shock
+Explain the current status and relative importance of different forms of renewable energy systems including solar, wind, and geothermal
+Evaluate the performance of solar, wind and geothermal energy applications
+Complete open-ended problems focusing on the design of energy conversion systems
+Prerequisites by Topic
+Thermodynamics I
+Course Topics
+Reciprocating engines: air-standard assumptions, engine terminology, Otto, diesel, and dual cycles
+Brayton cycle: ideal, non-ideal, reheat, regeneration, and intercooling
+Rankine cycle: ideal, non-ideal, reheat, regenerative
+Cogeneration and combined gas-vapor power cycles
+Refrigeration cycle: cascade, multistage, and gas refrigeration cycles, refrigerant selection
+Gas mixtures: mass and mole fractions, properties
+Psychrometrics: relative humidity, dew-point temperature, wet-bulb temperature, psychrometric chart, air conditioning processes
+Chemical reactions: balancing combustion reaction, air-fuel ratio, equivalence ratio, enthalpy of formation, enthalpy of combustion, heating values, first-law analysis of reacting systems, adiabatic flame temperature
+Compressible flow: stagnation properties, speed of sound and Mach number, isentropic flow through nozzles, normal shocks
+Renewable energy systems: solar, wind, and geothermal energy systems
+Coordinator
+Dr. Prabhakar Venkateswaran
+Print this Page
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+All
+catalogs
+© 2026 Milwaukee School of Engineering.
+Powered by
+Modern Campus Catalog™
+.

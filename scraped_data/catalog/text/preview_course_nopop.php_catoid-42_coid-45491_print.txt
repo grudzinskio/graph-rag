@@ -1,0 +1,137 @@
+PHY 3600 - Lasers and Applications -
+2025-2026 Undergraduate Academic Catalog
+Milwaukee School of Engineering
+Mar 12, 2026
+2025-2026 Undergraduate Academic Catalog
+Select a Catalog
+2025-2026 Undergraduate Academic Catalog
+2025-2026 Graduate Academic Catalog
+2024-2025 Undergraduate Academic Catalog-June [ARCHIVED CATALOG]
+2024-2025 Graduate Academic Catalog-June [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Graduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Graduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Graduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Graduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Graduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Graduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Graduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Graduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Graduate Academic Catalog [ARCHIVED CATALOG]
+2013-14 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2012-2014 Graduate Academic Catalog [ARCHIVED CATALOG]
+2012-2013 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+Global Search
+Catalog Search
+Choose Search Location
+Select an option
+Courses
+Programs
+Academic Departments
+Other Content
+Entire Catalog
+Search Keyword Field
+Whole Word/Phrase
+Advanced Search
+Catalog Navigation
+Catalog Home
+Academic Calendar
+University Overview
+Admissions
+Student Financial Services
+Academic Regulations and Policies
+Degree Programs, Minors, and Certificates
+Degrees, Minors, and Certificates by Department
+Course Descriptions
+The Raider Core
+Explorer Pathways
+MSOE Honors Program
+Global Opportunities
+Reserve Officers’ Training Corps. (ROTC)
+Administration, Regents, and Advisory Committees
+Departments and Faculty
+Campus Map
+Student Resources
+My Portfolio
+HELP
+2025-2026 Undergraduate Academic Catalog
+Print this Page
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+PHY 3600 - Lasers and Applications
+2
+lecture hours
+2
+lab hours
+3
+credits
+Course Description
+The laser is one of the most important technological innovations to come out of modern physics and the applications of lasers have grown tremendously since its introduction. This course delves into the unique features of laser light, laser operating principles and some of the many applications of lasers. The huge variety of laser types are discussed: from gas to solid state to diode-based lasers and others, as well as the features that make particular configurations best suited for certain applications. Important applications in industry, communications, and cutting-edge science are explored. The unique hazards of laser radiation are also covered in detail. The lab component of the course gives students an opportunity to gain experience with optical technology and techniques. Lab exercises span from basic characteristics of light and optical phenomena to comparing performance of different laser technologies to demonstration of select laser applications.
+Prereq:
+PHY 1110
+,
+PHY 1120
+(quarter system prereq: PH 2011, PH 2021)
+Note:
+None
+This course meets the following Raider Core CLO Requirement:
+Think Critically
+Course Learning Outcomes
+Upon successful completion of this course, the student will be able to:
+Know and apply basic concepts of geometrical optics, including reflection, refraction, total internal reflection, and fiber optics
+Explain and apply basic concepts of wave optics, including polarization, interference, coherence, and diffraction
+Calculate the energy, frequency, and wavelength of the photon emitted or absorbed in a radiative transition as depicted in an energy level diagram
+Describe absorption spectra of various materials and emission spectra of various light sources as well as be able to measure and quantify absorption
+Distinguish between the properties of laser light and other light sources
+Explain coherence and distinguish spatial and temporal coherence
+Describe and perform simple calculations and measurements involving Gaussian beams
+Describe requirements for laser operation and explain generally how a laser works
+Explain spontaneous emission, stimulated emission, and stimulated absorption; relate these processes mathematically
+Explain non-radiative excitation and de-excitation mechanisms in atoms
+Describe laser pumping processes and population inversion in three and four level laser systems as well as why a 2-level system cannot create a laser
+Explain the functions and operation of a laser cavity
+Distinguish between continuous wave and pulsed lasers and describe mechanisms such as Q-switching and mode-locking used in pulsed lasers
+Compare and contrast common laser types such as gas (for example HeNe and CO
+2
+), solid state (such as Nd:YAG) and diode lasers and know some of their common applications
+Identify some of the many important applications of lasers in areas like industry, medicine, fiber optic communications, and basic science, as well as everyday applications such as consumer products like CD players, laser pointers, etc.
+Know the basics of laser safety and be able to safely use medium power class IIIb lasers in a laboratory setting
+Prerequisites by Topic
+Introductory physics: mechanics
+Introductory physics: electricity and magnetism
+Course Topics
+Laser safety considerations including laser safety classification, protective equipment, and laser safety procedures
+Basic geometrical and wave optics
+Gaussian beams and beam propagation
+Basic atomic transition behavior and related laser operating principles
+Laser cavities
+Types of lasers including gas, solid state, fiber, diode and other configurations
+Basic emission spectroscopy of different light sources
+Optical absorption
+Coherence and interferometry
+Industrial, communications, medical, and fundamental science applications of lasers
+Coordinator
+Dr. Zach Simmons
+Print this Page
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+All
+catalogs
+© 2026 Milwaukee School of Engineering.
+Powered by
+Modern Campus Catalog™
+.

@@ -1,0 +1,124 @@
+CSC 2611 - AI Tools -
+2025-2026 Undergraduate Academic Catalog
+Milwaukee School of Engineering
+Mar 12, 2026
+2025-2026 Undergraduate Academic Catalog
+Select a Catalog
+2025-2026 Undergraduate Academic Catalog
+2025-2026 Graduate Academic Catalog
+2024-2025 Undergraduate Academic Catalog-June [ARCHIVED CATALOG]
+2024-2025 Graduate Academic Catalog-June [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Graduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Graduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Graduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Graduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Graduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Graduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Graduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Graduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Graduate Academic Catalog [ARCHIVED CATALOG]
+2013-14 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2012-2014 Graduate Academic Catalog [ARCHIVED CATALOG]
+2012-2013 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+Global Search
+Catalog Search
+Choose Search Location
+Select an option
+Courses
+Programs
+Academic Departments
+Other Content
+Entire Catalog
+Search Keyword Field
+Whole Word/Phrase
+Advanced Search
+Catalog Navigation
+Catalog Home
+Academic Calendar
+University Overview
+Admissions
+Student Financial Services
+Academic Regulations and Policies
+Degree Programs, Minors, and Certificates
+Degrees, Minors, and Certificates by Department
+Course Descriptions
+The Raider Core
+Explorer Pathways
+MSOE Honors Program
+Global Opportunities
+Reserve Officers’ Training Corps. (ROTC)
+Administration, Regents, and Advisory Committees
+Departments and Faculty
+Campus Map
+Student Resources
+My Portfolio
+HELP
+2025-2026 Undergraduate Academic Catalog
+Print this Page
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+CSC 2611 - AI Tools
+2
+lecture hours
+2
+lab hours
+3
+credits
+Course Description
+This course is an introduction to the tools, languages, and methods to support artificial intelligence. Topics include Python programming, functional programming, benchmarking, and libraries for data-driven computational problems. Deep learning and machine learning concepts will also be introduced using hands-on exercises to develop an understanding of capabilities and limitations. Libraries used will include Pandas, NumPy, SciKitLearn, MatPlotLib, as well as deep learning libraries such as Tensorflow and Keras.
+Prereq:
+CSC 1120
+or
+CSC 1310
+or instructor consent (quarter system prereq: CS 2852)
+Note:
+None
+This course meets the following Raider Core CLO Requirement:
+None
+Course Learning Outcomes
+Upon successful completion of this course, the student will be able to:
+Leverage basic shell scripting in Unix for file manipulation, program execution, and debugging
+Use control, loop, and function syntax to develop algorithmic solutions in Python
+Use Python’s set, list, tuples, and dictionary to structure and organize data
+Measure and estimate the runtime and memory utilization of algorithms and data structures
+Construct regular expressions to solve pattern matching problems and clean data
+Use a Jupyter notebook environment to write, structure, run, document, and debug Python programs
+Use Pandas to load, process, and analyze tabular data sets in Series and DataFrames
+Describe and utilize NumPy array data structures for various numerical use cases
+Utilize a plotting library to create simple plots such as histograms, bar or column charts, line plots, and scatter plots including legends, appropriate axis ranges and labels, appropriate font sizes and resolutions
+Apply supervised learning algorithms for classification and regression tasks
+Explain how to calculate loss, accuracy, and precision from model predictions and ground truth labels
+Explain the relationship between the size of data sets and the number of variables that can be inferred in a model both for classical and deep learning models
+Execute and justify splitting training, testing, and validation data for machine learning methods
+Describe over-fitting in the context of a machine learning problem
+Justify tradeoffs between hyperparameters when training
+Explain the GPU execution model at a high level (e.g., SIMD parallelism) and how this is advantageous for training on large data sets / large models
+Explain how deep learning architectures and hyper-parameters are important to model accuracy and motivate the need to run multiple experiments to find the best model
+Prerequisites by Topic
+Programming experience in a high-level language
+Coordinator
+Dr. Derek Riley, Dr. Sebastian Berisha
+Print this Page
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+All
+catalogs
+© 2026 Milwaukee School of Engineering.
+Powered by
+Modern Campus Catalog™
+.

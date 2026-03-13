@@ -1,0 +1,113 @@
+ACS 3540 - Fundamentals of Actuarial Mathematics II -
+Milwaukee School of Engineering
+Mar 12, 2026
+2023-2024 Undergraduate Academic Catalog
+Select a Catalog
+2025-2026 Undergraduate Academic Catalog
+2025-2026 Graduate Academic Catalog
+2024-2025 Undergraduate Academic Catalog-June [ARCHIVED CATALOG]
+2024-2025 Graduate Academic Catalog-June [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Graduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Graduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Graduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Graduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Graduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Graduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Graduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Graduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Graduate Academic Catalog [ARCHIVED CATALOG]
+2013-14 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2012-2014 Graduate Academic Catalog [ARCHIVED CATALOG]
+2012-2013 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+Global Search
+Catalog Search
+Choose Search Location
+Select an option
+Courses
+Programs
+Academic Departments
+Other Content
+Entire Catalog
+Search Keyword Field
+Whole Word/Phrase
+Advanced Search
+Catalog Navigation
+Catalog Home
+Academic Calendar
+University Overview
+Admissions
+The Raider Core
+Academic Regulations and Policies
+Student Financial Services
+Degrees, Minors, and Certificates by Department
+Degree Programs, Minors, and Certificates
+Course Descriptions
+MSOE Honors Program
+Global Opportunities
+Reserve Officers’ Training Corps. (ROTC)
+Administration, Regents, and Advisory Committees
+Faculty and Faculty Emeriti
+Campus Map
+Student Resources
+My Portfolio
+HELP
+2023-2024 Undergraduate Academic Catalog
+[ARCHIVED CATALOG]
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+ACS 3540 - Fundamentals of Actuarial Mathematics II
+3
+lecture hours
+0
+lab hours
+3
+credits
+Course Description
+This course is the second in two-course Fundamentals of Actuarial Mathematics sequence. It is focused on developing a deeper understanding of probability and mathematical modeling. This course covers topics such as premium and policy value calculations, put-call parity, binomial option pricing, and the Black-Scholes formula. Substantial focus will also be placed on developing efficient problem-solving skills for all topics covered in the Fundamentals of Actuarial Mathematics course sequence. This sequence prepares students for Exam FAM.   (prereq:
+ACS 3530
+) (quarter system prereq: Actuarial Science program director consent)
+Course Learning Outcomes
+Upon successful completion of this course, the student will be able to:
+Calculate premiums and policy values related to life insurance and other long-term insurance coverages
+Know and apply basic principles related to option pricing, such as put-call parity, binomial option pricing models, and the Black-Scholes formula
+Apply all the concepts learned in AC 3530 and the topics above to actuarial problems
+Prerequisites by Topic
+Calculus
+Probability
+Statistics
+Interest rate theory
+Course Topics
+Premium and policy value calculations
+Put-call parity
+Binomial option pricing methodology
+Black-Scholes formula
+Applying all the concepts learned in AC 3530 and the topics above to actuarial problems
+Coordinator
+Dr. Yvonne Yaz
+Back to Top
+|
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+All
+catalogs
+© 2026 Milwaukee School of Engineering.
+Powered by
+Modern Campus Catalog™
+.

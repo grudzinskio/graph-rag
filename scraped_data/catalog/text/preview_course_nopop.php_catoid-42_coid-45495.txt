@@ -1,0 +1,149 @@
+PHY 3550 - Nuclear Physics -
+Milwaukee School of Engineering
+Mar 12, 2026
+2025-2026 Undergraduate Academic Catalog
+Select a Catalog
+2025-2026 Undergraduate Academic Catalog
+2025-2026 Graduate Academic Catalog
+2024-2025 Undergraduate Academic Catalog-June [ARCHIVED CATALOG]
+2024-2025 Graduate Academic Catalog-June [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Graduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Graduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Graduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Graduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Graduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Graduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Graduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Graduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Graduate Academic Catalog [ARCHIVED CATALOG]
+2013-14 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2012-2014 Graduate Academic Catalog [ARCHIVED CATALOG]
+2012-2013 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+Global Search
+Catalog Search
+Choose Search Location
+Select an option
+Courses
+Programs
+Academic Departments
+Other Content
+Entire Catalog
+Search Keyword Field
+Whole Word/Phrase
+Advanced Search
+Catalog Navigation
+Catalog Home
+Academic Calendar
+University Overview
+Admissions
+Student Financial Services
+Academic Regulations and Policies
+Degree Programs, Minors, and Certificates
+Degrees, Minors, and Certificates by Department
+Course Descriptions
+The Raider Core
+Explorer Pathways
+MSOE Honors Program
+Global Opportunities
+Reserve Officers’ Training Corps. (ROTC)
+Administration, Regents, and Advisory Committees
+Departments and Faculty
+Campus Map
+Student Resources
+My Portfolio
+HELP
+2025-2026 Undergraduate Academic Catalog
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+PHY 3550 - Nuclear Physics
+2
+lecture hours
+2
+lab hours
+3
+credits
+Course Description
+This course is designed to introduce students to nuclear physics with a focus on applications. The course examines the nature of radioactivity, nuclear reactions and radioactive decay. The majority of discussion of applications is dedicated to nuclear power, the control and utilization of energy from fission and fusion reactions. Use of radioactive isotopes and radiation in medicine and basic science, among other applications, is also discussed. Course time is also dedicated to the uniquely insidious hazards of radiation. The course has a lab that meets every other week and gives students a unique opportunity for tangible exploration of course concepts as well as experience with real radioactive sources, radiation detection and measurement technology, and practice with safety techniques and best practices.
+Prereq:
+PHY 1120
+(quarter system prereq: PH 2021, PH 2031)
+Note:
+None
+This course meets the following Raider Core CLO Requirement:
+Think Critically
+Course Learning Outcomes
+Upon successful completion of this course, the student will be able to:
+Define and explain basic nuclear physics concepts such as nuclear reactions and radiation, binding energy, nuclear stability, neutron reactions, and radioactive isotopes
+Explain interaction of radiation with matter and be able to calculate quantities such as radioactive dose
+Compare and contrast nuclear fission and fusion
+Discuss recent advances in fusion
+Explain biological effects of radiation
+Explain and perform simple calculations involving radioactive dating and recognize the applicability of different isotopes for different applications
+Describe medical diagnostic and therapeutic techniques that utilize radiation effects such as PET scans, radiosurgery, and radiopharmaceuticals
+Explain radiation safety procedures and protection equipment
+Reactor Physics:
+Explain the process of nuclear fission, fission energy, and critical mass
+Explain the interaction of neutrons with matter including concepts like the cross-sections for neutrons and distinguish between “slow” and “fast” neutrons
+Explain the criticality condition for a steady state reactor and multiplication factors
+Identify reactor components and discuss different reactor fuels, moderators and control materials
+Compare and contrast the advantages and disadvantages of different reactor designs
+State the basic differences between a homogeneous reactor and a heterogeneous reactor
+Describe different methods of control of a nuclear reactor
+Discuss the two different types of neutrons in a reactor; the prompt neutrons and the delayed neutrons. Discuss the effect of delayed neutrons in a reactor
+Define reactivity and the units of reactivity. Also, explain the natural reactivity changes and the factors affecting reactivity
+Explain temperature effects on reactivity and define the temperature coefficient of reactivity
+Discuss reactor safety considerations
+Prerequisites by Topic
+Physics: mechanics
+Physics: electricity and magnetism
+Course Topics
+Nuclear physics fundamental, nuclear reactions and radiation
+Radioactive half-lives
+Biological effect of radiation, radiation safety considerations, radioactive shielding
+Radiation detectors and instruments
+Nuclear energy
+Reactor theory and operation
+Thermodynamics of nuclear power plants
+Applications of nuclear physics in medicine
+Useful radiation effects in materials
+Radioactive waste disposal
+Laboratory Topics
+Potential lab topics include, but are not limited to:
+Radiation background survey
+Radioactive decay counting statistics
+Attenuation coefficient for gamma rays through lead
+X-ray diffraction using LiF, bremsstrahlung and Bragg’s law
+X-ray diffraction of cubic crystals including lattice constant
+GM tube activity and dose
+Half lives of two radioactive silver isotopes
+X-ray fluorescence spectroscopy
+PMT scintillation gamma ray spectroscopy
+Coordinator
+Dr. Zach Simmons
+Back to Top
+|
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+All
+catalogs
+© 2026 Milwaukee School of Engineering.
+Powered by
+Modern Campus Catalog™
+.

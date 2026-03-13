@@ -1,0 +1,147 @@
+Program: Computer Engineering Minor - Milwaukee School of Engineering
+Milwaukee School of Engineering
+Mar 12, 2026
+2024-2025 Undergraduate Academic Catalog-June
+Select a Catalog
+2025-2026 Undergraduate Academic Catalog
+2025-2026 Graduate Academic Catalog
+2024-2025 Undergraduate Academic Catalog-June [ARCHIVED CATALOG]
+2024-2025 Graduate Academic Catalog-June [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Graduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Graduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Graduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Graduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Graduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Graduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Graduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Graduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Graduate Academic Catalog [ARCHIVED CATALOG]
+2013-14 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2012-2014 Graduate Academic Catalog [ARCHIVED CATALOG]
+2012-2013 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+Global Search
+Catalog Search
+Choose Search Location
+Select an option
+Courses
+Programs
+Academic Departments
+Other Content
+Entire Catalog
+Search Keyword Field
+Whole Word/Phrase
+Advanced Search
+Catalog Navigation
+Catalog Home
+Academic Calendar
+University Overview
+Admissions
+Student Financial Services
+Academic Regulations and Policies
+Degree Programs, Minors, and Certificates
+Degrees, Minors, and Certificates by Department
+Course Descriptions
+The Raider Core
+MSOE Honors Program
+Global Opportunities
+Reserve Officers’ Training Corps. (ROTC)
+Administration, Regents, and Advisory Committees
+Departments and Faculty
+Campus Map
+Student Resources
+My Portfolio
+HELP
+2024-2025 Undergraduate Academic Catalog-June
+[ARCHIVED CATALOG]
+Computer Engineering Minor
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Return to:
+Degrees, Minors, and Certificates by Department
+Coordinator
+Dr. Russ Meier, FIEEE
+Office: L-349
+Phone: (414) 277-2243
+Email:
+meier@msoe.edu
+Overview
+A computer engineering minor broadens expertise in the architectural design of computer hardware as well as the hardware and software techniques used in embedded systems design. For non-majors, adding the computer engineering minor can increase skillset and make graduates more attractive to potential employers as well as enhance preparedness for graduate school. To qualify for a Minor in Computer Engineering (CPE), a student must take at least 18 credits of eligible courses.
+Students pursuing a computer engineering major are not eligible to complete a computer engineering minor.
+For additional information, see the
+minors policy.
+Computer Engineering Minor Version S1
+Required Courses
+Students complete all three of the following courses, totaling 12 credits:
+CPE 1500 - Digital Logic
+4
+credits
+CPE 2600 - Systems Programming
+4
+credits
+1,2
+CPE 2610 - Embedded Systems
+4
+credits
+2
+Approved Elective Courses
+Students choose courses from the list below to total a minimum of 6 credits:
+CPE 1510 - Computer Architecture and Assembly Language
+4
+credits
+CPE 3300 - Computer Networking
+4
+credits
+CPE 3600 - Advanced Embedded Systems
+4
+credits
+CPE 4510 - Superscalar, Multicore, and Multiprocessor Architecture
+3
+credits
+CPE 4520 - Memory System and I/O System Architecture
+3
+credits
+CPE 4610 - Embedded Systems Fabrication
+3
+credits
+CPE 4800 - Information Security
+4
+credits
+Total: 18-20 credits
+Notes:
+1
+Students in the CS and SE majors may substitute
+CSC 2210
+for CPE 2600.
+2
+Students in the EE major may substitute
+ELE 1601
+and
+ELE 2610
+for CPE 2600 and CPE 2610.
+Return to:
+Degrees, Minors, and Certificates by Department
+Back to Top
+|
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+All
+catalogs
+© 2026 Milwaukee School of Engineering.
+Powered by
+Modern Campus Catalog™
+.

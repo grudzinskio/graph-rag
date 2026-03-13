@@ -1,0 +1,152 @@
+MTH 1110 - Calculus I -
+2025-2026 Undergraduate Academic Catalog
+Milwaukee School of Engineering
+Mar 12, 2026
+2025-2026 Undergraduate Academic Catalog
+Select a Catalog
+2025-2026 Undergraduate Academic Catalog
+2025-2026 Graduate Academic Catalog
+2024-2025 Undergraduate Academic Catalog-June [ARCHIVED CATALOG]
+2024-2025 Graduate Academic Catalog-June [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Graduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Graduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Graduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Graduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Graduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Graduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Graduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Graduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Graduate Academic Catalog [ARCHIVED CATALOG]
+2013-14 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2012-2014 Graduate Academic Catalog [ARCHIVED CATALOG]
+2012-2013 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+Global Search
+Catalog Search
+Choose Search Location
+Select an option
+Courses
+Programs
+Academic Departments
+Other Content
+Entire Catalog
+Search Keyword Field
+Whole Word/Phrase
+Advanced Search
+Catalog Navigation
+Catalog Home
+Academic Calendar
+University Overview
+Admissions
+Student Financial Services
+Academic Regulations and Policies
+Degree Programs, Minors, and Certificates
+Degrees, Minors, and Certificates by Department
+Course Descriptions
+The Raider Core
+Explorer Pathways
+MSOE Honors Program
+Global Opportunities
+Reserve Officers’ Training Corps. (ROTC)
+Administration, Regents, and Advisory Committees
+Departments and Faculty
+Campus Map
+Student Resources
+My Portfolio
+HELP
+2025-2026 Undergraduate Academic Catalog
+Print this Page
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+MTH 1110 - Calculus I
+4
+lecture hours
+0
+lab hours
+4
+credits
+Course Description
+This initial course in calculus introduces the concepts of limits, differentiation, and integration. Topics include limits, continuity, differentiation of algebraic, trigonometric, exponential, logarithmic, and inverse trigonometric functions, definite and indefinite integrals, Fundamental Theorem of Calculus, and method of substitution. Applications include graphing, extreme values, related rates, optimization, local linear approximation, Newton’s method, and rectilinear motion.
+Prereq:
+MTH 1080
+or placement in MTH 1110 (quarter system prereq: MA 120 or placement into MTH 1110)
+Note:
+None
+This course meets the following Raider Core CLO Requirement:
+None
+Course Learning Outcomes
+Upon successful completion of this course, the student will be able to:
+Evaluate two-sided and one-sided limits graphically
+Identify vertical and horizontal asymptotes using limits
+Evaluate the limits of algebraic, trigonometric, exponential, logarithmic, and inverse trigonometric, and composite functions analytically
+Determine if a function is continuous at a point by analyzing the three conditions of continuity
+Identify removable, jump, and infinite discontinuities
+Interpret the derivative as instantaneous rate of change and slope of tangent line
+Find the derivative of a function using the limit definition
+Find an equation for a tangent line
+Analyze the behavior of the derivative from the graph of a function, including identifying points of non-differentiability
+Find the derivative of algebraic, trigonometric, exponential, logarithmic, and inverse trigonometric functions
+Determine the appropriate rules to use in differentiating various functions
+Apply basic differentiation rules including power, product, quotient, and chain rules to find derivatives
+Find higher-order derivatives
+Use various notations for derivatives
+Find and interpret the position, velocity, and acceleration of a moving object
+Find derivatives implicitly
+Find a derivative using logarithmic differentiation
+Solve related rates problems
+Find relative extrema using First and Second Derivative tests
+Find absolute extrema on closed, open, and infinite intervals
+Use derivatives to find points of inflection on a curve
+Solve optimization problems
+Use Newton’s method to approximate a zero of a function
+Find the differential of a function and use it to approximate error
+Find the local linear approximation of a function about a point
+Integrate functions involving algebraic, exponential, trigonometric, logarithmic, and inverse trigonometric forms
+Solve an initial value problem
+Evaluate a definite integral by the limit of Riemann sums
+Apply and interpret the Fundamental Theorem of Calculus Part I and Part II
+Evaluate definite integrals by Fundamental Theorem of Calculus
+Evaluate indefinite and definite integrals using the method of substitution
+Find position and velocity functions using integration
+Find displacement and distance traveled using integration
+Prerequisites by Topic
+Precalculus mathematics
+Course Topics
+Limits and continuity
+Rates of change, tangent lines, and the definition of derivative
+Derivatives of algebraic, trigonometric, exponential, logarithmic, inverse trigonometric, and composite functions
+Related rates problems
+First and second derivative tests for extrema, curve sketching
+Optimization problems
+Mean Value Theorem
+Newton’s method
+Local linear approximation and differentials
+Definite and indefinite integrals
+Fundamental Theorem of Calculus, Part I and Part II
+Integration by method of substitution
+Rectilinear motion
+Coordinator
+Dr. Alyssa Genschaw
+Print this Page
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+All
+catalogs
+© 2026 Milwaukee School of Engineering.
+Powered by
+Modern Campus Catalog™
+.

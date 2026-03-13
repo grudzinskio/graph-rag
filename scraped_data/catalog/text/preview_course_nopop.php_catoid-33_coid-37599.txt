@@ -1,0 +1,106 @@
+CS 6230 - AI Tools -
+Milwaukee School of Engineering
+Mar 12, 2026
+2022-2023 Graduate Academic Catalog
+Select a Catalog
+2025-2026 Undergraduate Academic Catalog
+2025-2026 Graduate Academic Catalog
+2024-2025 Undergraduate Academic Catalog-June [ARCHIVED CATALOG]
+2024-2025 Graduate Academic Catalog-June [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Graduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Graduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Graduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Graduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Graduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Graduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Graduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Graduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Graduate Academic Catalog [ARCHIVED CATALOG]
+2013-14 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2012-2014 Graduate Academic Catalog [ARCHIVED CATALOG]
+2012-2013 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+Global Search
+Catalog Search
+Choose Search Location
+Select an option
+Courses
+Programs
+Academic Departments
+Other Content
+Entire Catalog
+Search Keyword Field
+Whole Word/Phrase
+Advanced Search
+Catalog Navigation
+Catalog Home
+Academic Calendar
+University Overview
+Professional Education
+Graduate Admission Requirements
+Academic Regulations and Policies
+Student Financial Services
+Research Opportunities
+Academic Departments, Graduate Degree Programs and Certificates
+Degree Programs and Certificates
+Course Descriptions
+Administration, Board of Regents, and Graduate Faculty
+Campus Map
+Student Resources
+My Portfolio
+HELP
+2022-2023 Graduate Academic Catalog
+[ARCHIVED CATALOG]
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+CS 6230 - AI Tools
+3
+lecture hours
+2
+lab hours
+4
+credits
+Course Description
+This course introduces topics, tools, and methods used in modern AI practice.  Subjects of study include data preparation, exploratory data analysis, computational modeling, visualization, machine learning, and deep learning.  Labs, discussions, and assignments expose students to modern tools and concepts such as Jupyter Notebooks, Python, NumPy, Pandas, SciKitLearn, MatPlotLib, Keras, functional programming, vectorization, GPU-enabled libraries, and high performance computing.   (prereq: enrollment in Machine Learning Graduate Certificate program)
+Course Learning Outcomes
+Upon successful completion of this course, the student will be able to:
+Learn and apply the scientific method to data analysis and inference
+Clean and manage data using functional programming and vectorization with libraries such as Pandas and NumPy
+Structure data for analysis and manipulation
+Manipulate and train machine learning models of real-world problems based on data
+Characterize the accuracy of a trained model and adjust training hyper-parameters to improve accuracy
+Predict the runtime and memory utilization of algorithms based on complexity analysis methods
+Communicate data interpretations including generating meaningful data visualizations
+Leverage high-performance computing methods to efficiently scale large computational problems
+Prerequisites by Topic
+Substantial, contemporary programming experience
+Fundamental probability and statistics
+Derivative calculus
+Coordinator
+Dr. Derek Riley
+Back to Top
+|
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+All
+catalogs
+© 2026 Milwaukee School of Engineering.
+Powered by
+Modern Campus Catalog™
+.

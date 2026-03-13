@@ -1,0 +1,127 @@
+AE 3451 - Building Systems Control -
+Milwaukee School of Engineering
+Mar 12, 2026
+2016-2017 Undergraduate Academic Catalog
+Select a Catalog
+2025-2026 Undergraduate Academic Catalog
+2025-2026 Graduate Academic Catalog
+2024-2025 Undergraduate Academic Catalog-June [ARCHIVED CATALOG]
+2024-2025 Graduate Academic Catalog-June [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Graduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Graduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Graduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Graduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Graduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Graduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Graduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Graduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Graduate Academic Catalog [ARCHIVED CATALOG]
+2013-14 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2012-2014 Graduate Academic Catalog [ARCHIVED CATALOG]
+2012-2013 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+Global Search
+Catalog Search
+Choose Search Location
+Select an option
+Courses
+Programs
+Academic Departments
+Other Content
+Entire Catalog
+Search Keyword Field
+Whole Word/Phrase
+Advanced Search
+Catalog Navigation
+Catalog Home
+Academic Calendar
+University Overview
+Enrollment Management Department
+Academic Regulations and Policies
+Student Financial Services
+Academic Departments, Undergraduate Degree Programs, Minors and Certificates
+Degree Programs, Minors and Certificates
+Reserve Officer Training Corps (ROTC)
+Course Descriptions
+Board of Regents, Academic Administration, Faculty and Advisory Committees
+Campus Map
+Student Resources
+My Portfolio
+HELP
+2016-2017 Undergraduate Academic Catalog
+[ARCHIVED CATALOG]
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+AE 3451 - Building Systems Control
+3
+lecture hours
+2
+lab hours
+4
+credits
+Course Description
+This course familiarizes the mechanical and electrical specialty student with a basic knowledge of HVAC, electrical, illumination and communication system controls and control theory. Topics covered will be pneumatic, electric, and electronic control systems and components. Building energy management and its connection to control systems will be introduced. In addition to this, basic motors starters and power sources will be reviewed.  Reinforcement of the various topics will be provided through laboratory tests.   (prereq:
+AE 3421
+for mechanical specialty students,
+AE 3632
+and
+AE 3636
+for electrical specialty students)
+Course Learning Outcomes
+Upon successful completion of this course, the student will be able to:
+Have a basic knowledge of MEP system control theory
+Be able to write a basic control specification for a variety of MEP system types
+Be able to discuss the operating characteristics and proper application of control systems components
+Be able to design a basic control system using the proper interface devices
+Be able to read, interpret and evaluate existing control diagrams
+Have a basic knowledge of controls systems and applications across multiple disciplines
+Prerequisites by Topic
+Basic MEP systems
+Course Topics
+Basic control theory and terminology
+Elements of control systems
+Control enery sources and control devices
+Sub-system controls
+Equipment control
+Complete HVAC control systems
+Management and control systems
+Central plant control systems
+Electrical and Illumination control systems
+Communication and other low voltage control systems
+Building Automation System (BAS) structure
+Integration of non-HVAC control systems into a BAS
+Laboratory Topics
+Control Equipment Identification
+System Schematic Design
+Building Automation Systems
+HVAC Controls
+Lighting Controls
+Site Visit
+Coordinator
+Blake Wentz
+Back to Top
+|
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+All
+catalogs
+© 2026 Milwaukee School of Engineering.
+Powered by
+Modern Campus Catalog™
+.

@@ -1,0 +1,124 @@
+PHL 3102 - Ethics of Digital Technologies and Artificial Intelligence -
+Milwaukee School of Engineering
+Mar 12, 2026
+2023-2024 Undergraduate Academic Catalog
+Select a Catalog
+2025-2026 Undergraduate Academic Catalog
+2025-2026 Graduate Academic Catalog
+2024-2025 Undergraduate Academic Catalog-June [ARCHIVED CATALOG]
+2024-2025 Graduate Academic Catalog-June [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Graduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Graduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Graduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Graduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Graduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Graduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Graduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Graduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Graduate Academic Catalog [ARCHIVED CATALOG]
+2013-14 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2012-2014 Graduate Academic Catalog [ARCHIVED CATALOG]
+2012-2013 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+Global Search
+Catalog Search
+Choose Search Location
+Select an option
+Courses
+Programs
+Academic Departments
+Other Content
+Entire Catalog
+Search Keyword Field
+Whole Word/Phrase
+Advanced Search
+Catalog Navigation
+Catalog Home
+Academic Calendar
+University Overview
+Admissions
+The Raider Core
+Academic Regulations and Policies
+Student Financial Services
+Degrees, Minors, and Certificates by Department
+Degree Programs, Minors, and Certificates
+Course Descriptions
+MSOE Honors Program
+Global Opportunities
+Reserve Officers’ Training Corps. (ROTC)
+Administration, Regents, and Advisory Committees
+Faculty and Faculty Emeriti
+Campus Map
+Student Resources
+My Portfolio
+HELP
+2023-2024 Undergraduate Academic Catalog
+[ARCHIVED CATALOG]
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+PHL 3102 - Ethics of Digital Technologies and Artificial Intelligence
+3
+lecture hours
+0
+lab hours
+3
+credits
+Course Description
+This course introduces students to some of the central ethical issues in existing and emerging digital technologies, with an emphasis on the ethics of artificial intelligence (AI). Students will explore topics in digital and AI ethics as they arise in the context of relevant professional areas-such as information science, computer science, software engineering, user experience and design, among others-as well as topics concerning the broader social implications of digital technologies and the ethical challenges they raise. The goal of the course is to critically engage with these topics and cases interactively, studying both their theoretical context and practical implications, so that students can pursue continued, independent reflection on key issues in digital and AI ethics and apply the guiding ethical principles that emerge to their own professional and personal lives. This course meets the following Raider Core CLO requirement:
+Demonstrate Ethical Understanding
+.   (prereq: none)
+Course Learning Outcomes
+Upon successful completion of this course, the student will be able to:
+Demonstrate knowledge of existing ethical issues in digital technologies and AI
+Anticipate ethical issues arising from emerging digital technologies and developments in AI
+Identify the philosophical bases for ethical concerns surrounding digital technologies and AI
+Exhibit familiarity with and understanding of established ethical frameworks, concepts, and principles within ethical theory
+Connect those theoretical frameworks, concepts, and principles to applied issues
+Use those theoretical resources to help understand and resolve the applied issues while at the same time scrutinizing the theoretical principles by evaluating their real-world implications
+Evaluate competing considerations about engineers’ and designers’ moral responsibility for the products they create and services they provide
+Engage in independent ethical reasoning on novel problems using theoretical and practical ethical resources learned
+Foster ethical behavior and integrity in one’s professional and personal life using the theoretical and practical resources learned
+Prerequisites by Topic
+None
+Course Topics
+Ethical frameworks, concepts, and principles (consequentialism, deontology, rights, etc.)
+Ethics of information, part I: privacy and transparency
+Ethics of information, part II: intellectual property, individual liberties, and human rights
+Algorithmic bias and social justice
+The “black box” explainability problem in deep learning AI
+Ethics of human-AI interaction and impact on social relationships
+Digital technologies and human well-being: digital media and mental health
+Digital technologies and democracy: digital media, misinformation, and political polarization
+AI and human work: automation and the meaning of work
+Ethics of design and user experience
+Ethics of digital advertising and “surveillance capitalism”
+Ethics of biometric identification
+Artificial moral agency, theory and application (driverless cars, autonomous weapons systems)
+Coordinator
+Dr. Andrew McAninch
+Back to Top
+|
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+All
+catalogs
+© 2026 Milwaukee School of Engineering.
+Powered by
+Modern Campus Catalog™
+.

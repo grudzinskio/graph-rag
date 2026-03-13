@@ -1,0 +1,115 @@
+AE 2011 - Mechanics of Materials I -
+Milwaukee School of Engineering
+Mar 12, 2026
+2016-2017 Undergraduate Academic Catalog
+Select a Catalog
+2025-2026 Undergraduate Academic Catalog
+2025-2026 Graduate Academic Catalog
+2024-2025 Undergraduate Academic Catalog-June [ARCHIVED CATALOG]
+2024-2025 Graduate Academic Catalog-June [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Graduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Graduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Graduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Graduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Graduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Graduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Graduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Graduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Graduate Academic Catalog [ARCHIVED CATALOG]
+2013-14 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2012-2014 Graduate Academic Catalog [ARCHIVED CATALOG]
+2012-2013 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+Global Search
+Catalog Search
+Choose Search Location
+Select an option
+Courses
+Programs
+Academic Departments
+Other Content
+Entire Catalog
+Search Keyword Field
+Whole Word/Phrase
+Advanced Search
+Catalog Navigation
+Catalog Home
+Academic Calendar
+University Overview
+Enrollment Management Department
+Academic Regulations and Policies
+Student Financial Services
+Academic Departments, Undergraduate Degree Programs, Minors and Certificates
+Degree Programs, Minors and Certificates
+Reserve Officer Training Corps (ROTC)
+Course Descriptions
+Board of Regents, Academic Administration, Faculty and Advisory Committees
+Campus Map
+Student Resources
+My Portfolio
+HELP
+2016-2017 Undergraduate Academic Catalog
+[ARCHIVED CATALOG]
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+AE 2011 - Mechanics of Materials I
+3
+lecture hours
+0
+lab hours
+3
+credits
+Course Description
+This course is the study of stress and strain of elastic bodies. The focus of the course includes Hooke’s Law and stress and strain due to axial force, torsion, bending moment, and shear force. Statically indeterminate structures with axial and torsional loadings are also studied.   (prereq:
+AE 200
+,
+PH 2010
+)
+Course Learning Outcomes
+Upon successful completion of this course, the student will be able to:
+Determine normal stress and strain, and axial displacement, due to axial loadings. This includes axially determinate and indeterminate structures and thermal loadings
+Apply Hooke’s Law to determine deformations in elastic materials subjected to biaxial loading
+Determine shear stress and strain, and twist angle, due to torsional loadings. This includes torsionally determinate and indeterminate structures
+Determine normal stresses in beams due to bending moment. This includes ordinary and composite beams, and biaxial bending moment
+Determine normal stresses in structures with combined axial force and bending moment
+Prerequisites by Topic
+Concepts and applications of static equilibrium
+Course Topics
+Introduction, normal stress and shear stress, allowable stress, design concepts (4 classes)
+Axial loading: Normal strain, thermal strain, axial indeterminacy (5 classes)
+Multiaxial loading, Poisson effect, Hooke’s law (3 classes)
+Concepts of fatigue and stress concentration (1 class)
+Torsion: shear stress and strain, angle of twist, torsional indeterminacy (4 classes)
+Review shear and moment in beams (2 classes)
+Moment of inertia (2 classes)
+Bending: normal stress, composite beams (5 classes)
+Combined axial + bending, biaxial bending (2 classes)
+Tests (2 classes)
+Coordinator
+Douglas Stahl
+Back to Top
+|
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+All
+catalogs
+© 2026 Milwaukee School of Engineering.
+Powered by
+Modern Campus Catalog™
+.

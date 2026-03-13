@@ -1,0 +1,656 @@
+Program: Engineering, B.S. - Milwaukee School of Engineering
+Milwaukee School of Engineering
+Mar 12, 2026
+2016-2017 Undergraduate Academic Catalog
+Select a Catalog
+2025-2026 Undergraduate Academic Catalog
+2025-2026 Graduate Academic Catalog
+2024-2025 Undergraduate Academic Catalog-June [ARCHIVED CATALOG]
+2024-2025 Graduate Academic Catalog-June [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Graduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Graduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Graduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Graduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Graduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Graduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Graduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Graduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Graduate Academic Catalog [ARCHIVED CATALOG]
+2013-14 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2012-2014 Graduate Academic Catalog [ARCHIVED CATALOG]
+2012-2013 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+Global Search
+Catalog Search
+Choose Search Location
+Select an option
+Courses
+Programs
+Academic Departments
+Other Content
+Entire Catalog
+Search Keyword Field
+Whole Word/Phrase
+Advanced Search
+Catalog Navigation
+Catalog Home
+Academic Calendar
+University Overview
+Enrollment Management Department
+Academic Regulations and Policies
+Student Financial Services
+Academic Departments, Undergraduate Degree Programs, Minors and Certificates
+Degree Programs, Minors and Certificates
+Reserve Officer Training Corps (ROTC)
+Course Descriptions
+Board of Regents, Academic Administration, Faculty and Advisory Committees
+Campus Map
+Student Resources
+My Portfolio
+HELP
+2016-2017 Undergraduate Academic Catalog
+[ARCHIVED CATALOG]
+Engineering, B.S.
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Return to:
+Academic Departments, Undergraduate Degree Programs, Minors and Certificates
+Program Director
+Dr. Cynthia Barnicki
+Office: S-112
+Phone: (414) 277-7461
+Email:
+barnickc@msoe.edu
+The Bachelor of Science in Engineering program provides a general, flexible, interdisciplinary academic experience in the engineering field. It offers a firm grounding in the fundamentals of engineering science and engineering design, as well as numerous elective options that offer the opportunity to customize the technical focus of the degree program. Suggested elective tracks in the areas of product design and enterprise systems are available, but other unique plans of study can be accommodated. The program is tailored to the adult learner, who may have previous college experience, an engineering-related career and very clear professional objectives for continued study in engineering, coupled with a desire to pursue the degree using part-time and evening hours.
+Program Educational Objectives
+The Bachelor of Science in Engineering will produce engineering graduates who in the first few years after graduation will:
+Use their engineering, design, business and problem-solving skills to contribute professionally in an industrial environment.
+Demonstrate initiative, leadership, ability to work as part of a professional team, and continued development in their professional careers.
+Understand the impact of their professional activities on society.
+Student Outcomes
+Upon completion of the Bachelor of Science in Engineering program, the student will have:
+An ability to apply knowledge of mathematics, science and engineering.
+An ability to design and conduct experiments, as well as to analyze and interpret data.
+An ability to design a system, component, or process to meet desired needs within the types of realistic constraints such as economic, environmental, social, political, ethical, health and safety, manufacturability and sustainability.
+An ability to function on multi-disciplinary teams.
+An ability to identify, formulate and solve engineering problems.
+An understanding of professional and ethical responsibility.
+An ability to communicate effectively.
+The broad education necessary to understand the impact of engineering solutions in a global, economic, environmental and societal context.
+A recognition of the need for, and an ability to engage in, lifelong learning.
+A knowledge of the contemporary issues in his or her profession.
+An ability to use the techniques, skills and modern engineering tools necessary for engineering practice.
+View Annual Student Enrollment and Graduation Data
+B.S. in Engineering Model Part-time Track - V2.0
+Year One
+Fall
+PH 113 - College Physics I
+4
+credits
+Elective (Economics)
+1
+3 credits
+Winter
+MA 136 - Calculus I
+4
+credits
+PH 123 - College Physics II
+4
+credits
+Spring
+MA 137 - Calculus II
+4
+credits
+ME 190 - Computer Applications in Engineering I
+3
+credits
+Total: 19 lecture hours - 6 lab hours - 22 credits
+Year Two
+Fall
+MA 231 - Calculus III
+4
+credits
+GS 1001 - Freshman Studies I
+4
+credits
+Winter
+MA 235 - Differential Equations
+4
+credits
+ME 1601 - Introduction to Engineering Design
+3
+credits
+Spring
+GS 1002 - Freshman Studies II
+4
+credits
+MA 232 - Calculus IV
+3
+credits
+Total: 21 lecture hours - 2 lab hours - 22 credits
+Year Three
+Fall
+GS 1003 - Freshman Studies III
+4
+credits
+MS 354 - Principles of Accounting
+3
+credits
+Winter
+CH 200B - Chemistry I
+4
+credits
+Elective (HU/SS)
+1
+3 credits
+Spring
+MA 262 - Probability and Statistics
+3
+credits
+CH 201 - Chemistry II
+4
+credits
+Total: 19 lecture hours - 5 lab hours - 21 credits
+Year Four
+Fall
+IE 340 - Project Management
+3
+credits
+GE 3102 - Fluid Mechanics
+4
+credits
+Winter
+ME 2001 - Mechanics I
+4
+credits
+IE 423 - Engineering Economy
+3
+credits
+Spring
+ME 2002 - Mechanics II
+4
+credits
+EE 201 - Linear Networks: Steady-State Analysis
+4
+credits
+Total: 21 lecture hours - 4 lab hours - 22 credits
+Year Five
+Fall
+ME 2003 - Mechanics III
+4
+credits
+Elective (HU/SS)
+1
+3 credits
+Winter
+EE 1910 - Introduction to Embedded Systems Programming
+4
+credits
+HU 432 - Ethics for Professional Managers and Engineers
+3
+credits
+Spring
+ME 354 - Thermodynamics and Heat Transfer
+3
+credits
+Elective (Technical)
+1
+3 credits
+Total: 19 lecture hours - 3 lab hours - 19 credits
+Year Six
+Fall
+ME 321 - Materials Science
+3
+credits
+ME 2004 - Mechanics of Materials I
+4
+credits
+Winter
+BI 102 - Cell Biology and Genetics
+4
+credits
+Elective (Technical)
+1
+3 credits
+Spring
+MA 383 - Linear Algebra
+3
+credits
+Elective (Technical)
+1
+Total: 19 lecture hours - 3 lab hours - 20 credits
+Year Seven
+Fall
+GE 3302 - Instrumentation and Control of Engineered Systems
+4
+credits
+MS 331 - Business Law
+3
+credits
+Winter
+GE 3650 - Engineering Systems Design
+4
+credits
+MA 330 - Vector Analysis
+3
+credits
+Spring
+GE 3651 - Computer-Aided Engineering Design
+3
+credits
+Elective (Technical)
+1
+3 credits
+Total: 18 lecture hours - 4 lab hours - 20 credits
+Year Eight
+Fall
+Elective (Free)
+1
+3 credits
+Elective (Free)
+1
+3 credits
+Elective (Free)
+1
+3 credits
+Winter
+Elective (Free)
+1
+3 credits
+Elective (Free)
+1
+3 credits
+Elective (HU/SS)
+1
+3 credits
+Spring
+Elective (Free)
+1
+3 credits
+Elective (HU/SS)
+1
+3 credits
+Elective (HU/SS)
+1
+3 credits
+Total: 27 lecture hours - 0 lab hours - 27 credits
+Year Nine
+Fall
+GE 4901 - Capstone Design I
+3
+credits
+Elective (Technical)
+1
+3 credits
+Winter
+GE 4902 - Capstone Design II
+3
+credits
+Elective (Technical)
+1
+3 credits
+Spring
+GE 4903 - Capstone Design III
+3
+credits
+Elective (Technical)
+1
+3 credits
+Total: 18 lecture hours - 0 lab hours - 18 credits
+Model Full-time Track - V2.0
+Year One
+Fall
+PH 113 - College Physics I
+4
+credits
+MA 136 - Calculus I
+4
+credits
+Elective (Free)
+1
+3 credits
+Elective (Economics)
+1
+3 credits
+Total: 13 lecture hours - 2 lab hours - 10 credits
+Winter
+MA 137 - Calculus II
+4
+credits
+ME 1601 - Introduction to Engineering Design
+3
+credits
+PH 123 - College Physics II
+4
+credits
+Elective (Free)
+1
+3 credits
+Total: 12 lecture hours - 4 lab hours - 14 credits
+Spring
+MA 231 - Calculus III
+4
+credits
+ME 190 - Computer Applications in Engineering I
+3
+credits
+Elective (Free)
+1
+3 credits
+CH 200 - Chemistry I
+4
+credits
+Elective (HU/SS)
+1
+3 credits
+Total: 15 lecture hours - 4 lab hours - 17 credits
+Year Two
+Fall
+MA 235 - Differential Equations
+4
+credits
+GS 1001 - Freshman Studies I
+4
+credits
+ME 2001 - Mechanics I
+4
+credits
+CH 201 - Chemistry II
+4
+credits
+Total: 15 lecture hours - 2 lab hours - 16 credits
+Winter
+BI 102 - Cell Biology and Genetics
+4
+credits
+GS 1002 - Freshman Studies II
+4
+credits
+ME 2002 - Mechanics II
+4
+credits
+MS 354 - Principles of Accounting
+3
+credits
+Elective (HU/SS)
+1
+3 credits
+Total: 17 lecture hours - 3 lab hours - 18 credits
+Spring
+EE 201 - Linear Networks: Steady-State Analysis
+4
+credits
+MA 232 - Calculus IV
+3
+credits
+ME 2003 - Mechanics III
+4
+credits
+GS 1003 - Freshman Studies III
+4
+credits
+Elective (HU/SS)
+1
+3 credits
+Total: 19 lecture hours - 0 lab hours - 19 credits
+Year Three
+Fall
+MS 331 - Business Law
+3
+credits
+GE 3102 - Fluid Mechanics
+4
+credits
+ME 321 - Materials Science
+3
+credits
+ME 2004 - Mechanics of Materials I
+4
+credits
+Elective (HU/SS)
+1
+3 credits
+Total: 16 lecture hours - 2 lab hours - 17 credits
+Winter
+GE 3650 - Engineering Systems Design
+4
+credits
+MA 262 - Probability and Statistics
+3
+credits
+EE 1910 - Introduction to Embedded Systems Programming
+4
+credits
+Elective (HU/SS)
+1
+3 credits
+Elective (Technical)
+1
+3 credits
+Total: 16 lecture hours - 3 lab hours - 17 credits
+Spring
+GE 3651 - Computer-Aided Engineering Design
+3
+credits
+ME 354 - Thermodynamics and Heat Transfer
+3
+credits
+Elective (Technical)
+1
+3 credits
+Elective (Technical)
+1
+3 credits
+MA 383 - Linear Algebra
+3
+credits
+Total: 14 lecture hours - 2 lab hours - 15 credits
+Year Four
+Fall
+GE 4901 - Capstone Design I
+3
+credits
+GE 3302 - Instrumentation and Control of Engineered Systems
+4
+credits
+IE 340 - Project Management
+3
+credits
+Elective (Technical)
+1
+3 credits
+Elective (Free)
+1
+3 credits
+Total: 15 lecture hours - 2 lab hours - 16 credits
+Winter
+GE 4902 - Capstone Design II
+3
+credits
+Elective (Technical)
+1
+3 credits
+Elective (Free)
+1
+3 credits
+IE 423 - Engineering Economy
+3
+credits
+MA 330 - Vector Analysis
+3
+credits
+Total: 15 lecture hours - 0 lab hours - 15 credits
+Spring
+GE 4903 - Capstone Design III
+3
+credits
+Elective (Technical)
+1
+3 credits
+Elective (Technical)
+1
+3 credits
+Elective (Free)
+1
+3 credits
+HU 432 - Ethics for Professional Managers and Engineers
+3
+credits
+Total: 15 lecture hours - 0 lab hours - 15 credits
+Note
+1
+There are 57 credits of electives in the Engineering program, which must be taken as follows:
+15 credits from Humanities and Social Sciences (HU/SS), distributed as follows:
+6 credits from courses with a SS designation.
+6 credits from courses with a HU designation.
+3 credits with either an HU or SS designation.
+3 credits from economics (
+MS 221
+or
+MS 322
+)
+21 credits from the Technical Electives list, with at least 15 credits from courses that are 300/3000 level or higher.
+18 credits from any college-level subject (Free Elective), subject to an approved plan of study.
+Accredited by the Engineering Accreditation Commission of ABET,
+http://www.abet.org
+.
+Engineering Electives
+Suggested Technical Electives
+FP 2701 - Basic Fluid Power
+3
+credits
+FP 4701 - Advanced Fluid Power
+4
+credits
+IE 347 - Facilities Design
+4
+credits
+IE 348 - Quality Assurance (SPC)
+3
+credits
+IE 3621 - Ergonomics
+4
+credits
+IE 377 - Safety in Engineering
+3
+credits
+IE 3770 - Computer Integrated Manufacturing
+4
+credits
+IE 431 - Six Sigma Methods
+3
+credits
+IE 4332 - Lean
+3
+credits
+IE 460 - Design for Quality
+3
+credits
+ME 309 - Intermediate Mechanics of Materials
+3
+credits
+ME 363 - Design of Machine Components
+4
+credits
+ME 322 - Engineering Materials
+4
+credits
+ME 323 - Manufacturing Processes
+4
+credits
+ME 423 - Materials Selection
+3
+credits
+ME 424 - Engineering with Plastics
+3
+credits
+ME 471 - Fluid Power Circuits
+3
+credits
+ME 485 - Energy Systems Design Project
+3
+credits
+Product Design Focus
+IE 431 - Six Sigma Methods
+3
+credits
+ME 309 - Intermediate Mechanics of Materials
+3
+credits
+ME 322 - Engineering Materials
+4
+credits
+ME 323 - Manufacturing Processes
+4
+credits
+ME 361 - Dynamics of Machinery
+3
+credits
+ME 363 - Design of Machine Components
+4
+credits
+ME 423 - Materials Selection
+3
+credits
+ME 424 - Engineering with Plastics
+3
+credits
+ME 362 - Design of Machinery
+3
+credits
+ME 429 - Composite Materials
+3
+credits
+ME 460 - Finite Element Methods
+4
+credits
+Enterprise Systems Focus
+IE 347 - Facilities Design
+4
+credits
+IE 348 - Quality Assurance (SPC)
+3
+credits
+IE 3621 - Ergonomics
+4
+credits
+IE 377 - Safety in Engineering
+3
+credits
+IE 3770 - Computer Integrated Manufacturing
+4
+credits
+IE 431 - Six Sigma Methods
+3
+credits
+IE 4332 - Lean
+3
+credits
+Note
+Graphics or engineering technology courses may also be used up to three credits, assuming there is no duplication of material with any other required or elective course (see academic advisor for details).
+Return to:
+Academic Departments, Undergraduate Degree Programs, Minors and Certificates
+Back to Top
+|
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+All
+catalogs
+© 2026 Milwaukee School of Engineering.
+Powered by
+Modern Campus Catalog™
+.

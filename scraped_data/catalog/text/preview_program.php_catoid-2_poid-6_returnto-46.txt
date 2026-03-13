@@ -1,0 +1,428 @@
+Program: Management Information Systems, B.S. - Milwaukee School of Engineering
+Milwaukee School of Engineering
+Mar 12, 2026
+2012-2013 Undergraduate Academic Catalog
+Select a Catalog
+2025-2026 Undergraduate Academic Catalog
+2025-2026 Graduate Academic Catalog
+2024-2025 Undergraduate Academic Catalog-June [ARCHIVED CATALOG]
+2024-2025 Graduate Academic Catalog-June [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Graduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Graduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Graduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Graduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Graduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Graduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Graduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Graduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Graduate Academic Catalog [ARCHIVED CATALOG]
+2013-14 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2012-2014 Graduate Academic Catalog [ARCHIVED CATALOG]
+2012-2013 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+Global Search
+Catalog Search
+Choose Search Location
+Select an option
+Courses
+Programs
+Academic Departments
+Other Content
+Entire Catalog
+Search Keyword Field
+Whole Word/Phrase
+Advanced Search
+Catalog Navigation
+Catalog Home
+President’s Welcome
+Academic Calendar
+University Overview
+Enrollment Management Department
+Academic Regulations and Policies
+Student Accounts, Fees and Financial Aid
+Other Academic Resources
+Academic Departments, Degree Programs, Minors and Certificates
+Degree Programs, Minors and Certificates
+Two-degree Programs
+Graduate Studies Programs
+Reserve Officer Training Corps (ROTC)
+Course Descriptions
+Board of Regents, Academic Administration, Faculty and Advisory Committees
+Campus Map
+My Portfolio
+HELP
+2012-2013 Undergraduate Academic Catalog
+[ARCHIVED CATALOG]
+Management Information Systems, B.S.
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Return to:
+Degree Programs, Minors and Certificates
+Bachelor of Science Management Information Systems
+Program Director:
+Dr. Jeffrey Blessing
+Office: R-305
+Phone: (414) 277-7194
+Fax: (414) 277-7479
+Email:
+blessing@msoe.edu
+The Bachelor of Science in Management Information Systems (MIS) program provides students with a combination of business, management and information technology preparation needed to succeed in today’s dynamic business environment. The program offers a comprehensive view that takes students through many of the core technologies and languages of computing. The student will learn by doing the very things that industry demands of its information technology professionals. Our notebook computer program for full-time students makes the resources that they need available on a 24-hour basis. Our commitment to using open source software ensures that part-time students will also have ready access to the tools they need to be successful.
+The program provides the opportunity for students to focus their studies by selecting course work in one of the following concentrations:
+Computer Systems and Networking – networking, systems analysis, systems design, operating systems and security; and
+Software Systems Development – advanced computer programming, Internet and World Wide Web applications, business process analysis, software integration and implementation, database development and information technology product management.
+Program Educational Objectives and Student Outcomes
+The goal of the program is to produce graduates who:
+are prepared to excel in positions of responsibility and leadership in the computer-oriented, information and technology-based organizations of the future.
+have a solid grounding in humanistic studies, an appreciation for cultural diversity and skills to work effectively with people.
+possess the skills to achieve competitive advantage for business and service organizations through making effective and efficient use of information technology.
+have a propensity to be lifelong learners, to track new information technology and assist in incorporating it into an organization’s strategic, planning and operational practices.
+Through an integrated array of courses and application of technologies, graduates of the program:
+understand and can apply the methodology and tools of quantitative analysis, and a systems approach to the application of knowledge and decision-making.
+are prepared to lead business and industry in a global information and communication-dominated economy.
+possess technical and managerial skills and capabilities in the gathering, analysis and communication of critical business information.
+are able to integrate technology to maintain and improve productivity, enhance the quality of work life, and advance technically oriented products, services and information.
+The degree is available to traditional full-time undergraduate students, and flexible plans of study are also available for working professionals. For those with an associate degree, the transfer plan grants junior standing to qualified individuals. Courses in the program can be completed on a part-time or full-time basis. Classes may be taken during the day or evening, with several options for blended Internet study available each academic term.
+Traditional Full-time Track - V2.5
+Year One
+Fall
+MS 1010 - Introduction to Business
+3
+credits
+MS 184 - Introduction to Computer Methods and Applications
+3
+credits
+MS 280 - Introduction to Management Information Systems
+3
+credits
+EN 131 - Composition
+3
+credits
+OR 100 - Freshman Orientation
+0
+credits
+1
+Elective (Science for Business Students)
+4 credits
+2
+Total: 16 lecture hours - 2 lab hours - 16 credits
+Winter
+HU 100 - Contemporary Issues in the Humanities
+3
+credits
+MS 221 - Microeconomics
+3
+credits
+EN 132 - Technical Composition
+3
+credits
+MA 127 - College Algebra II
+4
+credits
+Elective (Science for Business Students)
+4 credits
+2
+Total: 16 lecture hours - 2 lab hours - 17 credits
+Spring
+MS 273 - Website Design
+3
+credits
+MS 322 - Macroeconomics
+3
+credits
+EN 241 - Speech
+3
+credits
+MA 129 - Business Calculus
+4
+credits
+SS 460 - Foundations of Psychology
+3
+credits
+Total: 15 lecture hours - 2 lab hours - 16 credits
+Year Two
+Fall
+MS 331 - Business Law
+3
+credits
+MS 354 - Principles of Accounting
+3
+credits
+MS 361 - Marketing
+3
+credits
+MS 382 - Introduction to Java Programming
+3
+credits
+Elective (HU/SS)
+3 credits
+3
+Total: 15 lecture hours - 0 lab hours - 15 credits
+Winter
+MS 356 - Business Finance
+3
+credits
+MS 3803 - Intermediate Java Programming
+3
+credits
+MS 42xx - Microsoft Operating & Networking Systems
+3 credits
+7
+MA 340 - Business Statistics
+4
+credits
+Elective (HU/SS)
+3 credits
+3
+Total: 15 lecture hours - 2 lab hours - 16 credits
+Spring
+MS 327 - International Business
+3
+credits
+MS 342 - Management Principles
+3
+credits
+MS 358 - Managerial Cost Accounting
+3
+credits
+TC 342 - Professional Presentation Techniques
+3
+credits
+Elective (Specialty)
+3 credits
+5
+Elective (HU/SS)
+3 credits
+4
+Total: 17 lecture hours - 2 lab hours - 18 credits
+Year Three
+Fall
+MS 3425 - Entrepreneurship - An Overview
+1
+credits
+MS 371 - Introduction to Unix Operating Systems
+3
+credits
+MS 467 - Marketing Research
+3
+credits
+MS 483 - Database Management Systems
+3
+credits
+Elective (Specialty)
+3 credits
+5
+Elective (HU/SS)
+3 credits
+3
+Total: 16 lecture hours - 0 lab hours - 16 credits
+Winter
+MS 3427 - Entrepreneurial Business Plans
+1
+credits
+MS 373 - Advanced Unix and System Administration
+3
+credits
+MS 387 - Computer Systems Analysis and Design I
+3
+credits
+MS 4599 - Managerial Finance
+3
+credits
+SS 461 - Organizational Psychology
+3
+credits
+Elective (Specialty)
+3 credits
+5
+Total: 16 lecture hours - 0 lab hours - 16 credits
+Spring
+MS 3429 - Entrepreneurial Finance
+1
+credits
+MS 395 - e-business Technologies
+3
+credits
+MS 448 - Employment Law
+3
+credits
+MS 485 - Telecommunications
+3
+credits
+MS 498 - Management Internship Experience
+3
+credits
+Elective (Specialty)
+3 credits
+5
+Total: 13 lecture hours - 10 lab hours - 16 credits
+Year Four
+Fall
+MS 300 - Principles of Operating Systems
+3
+credits
+MS 3812 - C++ Programming for Business
+3
+credits
+HU 432 - Ethics for Professional Managers and Engineers
+3
+credits
+OR 402 - Professional Guidance
+1
+credits
+Elective (Specialty)
+3 credits
+5
+Elective (HU/SS)
+3 credits
+4
+Total: 16 lecture hours - 0 lab hours - 16 credits
+Winter
+MS 3832 - Advanced C++ Programming for Business
+3
+credits
+MS 4801 - Project Management
+3
+credits
+EN 432 - Business Communications
+3
+credits
+Elective (Specialty)
+3 credits
+5
+Elective (HU/SS)
+3 credits
+4
+Total: 15 lecture hours - 0 lab hours - 15 credits
+Spring
+MS 444 - Business and Government Relations
+3
+credits
+MS 446 - Business Strategy Capstone
+3
+credits
+Elective (Specialty)
+3 credits
+5
+Elective (Specialty)
+3 credits
+5
+Elective (HU/SS)
+3 credits
+3
+Total: 15 lecture hours - 0 lab hours - 15 credits
+Note:
+1
+Transfer students who have completed 36 quarter or 24 semester credits will be waived from
+OR 100
+, but will be required to complete
+OR 301
+Transfer Student Orientation. Students following the Model Full-time Track may be required to take classes during the evening or occasionally on weekends.
+2
+Students must complete a minimum of 8 natural science credits. The specific course selection MUST be approved by the curriculum advisor. At least one course chosen must have a lab.
+3
+MIS students must complete at least 9 credits of social science (SS) electives. Electives are chosen in consultation with an advisor.
+4
+MIS students must complete at least 12 credits of humanities electives in addition to the prescribed requirements of
+HU 100
+and
+HU 432
+. Electives are chosen in consultation with an advisor.
+5
+MIS students must complete at least 24 elective credits. At least SIX courses must be from the specialty course list. Courses are chosen in consultation with an advisor.
+6
+Management Internship Experience is not required for students who can show evidence of an internship experience appropriate to their professional development related to the MIS program. One MS elective will be substituted with consent of advisor.
+7
+MIS students must complete one course featuring Microsoft Operating Systems & Networking.
+Concentration Electives
+Students following the full-time traditional MIS track are expected to complete 24 credits of concentration elective course work.
+At least SIX courses must be completed from one of the following concentration areas:
+Specialty Electives*
+Students following the full-time traditional MIS track are expected to complete 24 credits of specialty elective course work. At least SIX courses must be completed from the following:
+MS 275 - Advanced Website Design
+3
+credits
+MS 277 - Multimedia for Website Design
+3
+credits
+MS 2815 - Developing Business Solutions with C#
+3
+credits
+MS 3804 - Advanced Java Programming
+3
+credits
+MS 3805 - Introduction to Enterprise Java Programming
+3
+credits
+MS 3806 - Intermediate Enterprise Java Programming
+3
+credits
+MS 3807 - Advanced Enterprise Java Programming
+3
+credits
+MS 388 - Computer Systems Analysis and Design II
+3
+credits
+MS 389 - Data Center Management
+3
+credits
+MS 4080 - Information Technology Systems in Health Care
+3
+credits
+MS 4233 - Microsoft Windows Server 2008, Active Directory, and Network Infrastructure Administration
+4
+credits
+MS 4781 - Cisco Certified Network Associate
+3
+credits
+MS 479 - CompTia Network+
+3
+credits
+MS 4795 - CompTia Security+
+3
+credits
+MS 480 - XML/XSL Programming
+3
+credits
+MS 481 - C# Programming
+3
+credits
+MS 482 - Active Server Pages (ASP.NET)
+3
+credits
+MS 4831 - Advanced Database Management and SQL
+3
+credits
+MS 486 - Web Services
+3
+credits
+MS 488 - Wireless Programming
+3
+credits
+Note:
+* Alternatives to the listed courses are considered under extraordinary circumstances. Students should consult with the MIS program director when choosing elective courses.
+Return to:
+Degree Programs, Minors and Certificates
+Back to Top
+|
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+All
+catalogs
+© 2026 Milwaukee School of Engineering.
+Powered by
+Modern Campus Catalog™
+.

@@ -1,0 +1,129 @@
+AE 6412 - Building Energy Simulations -
+Milwaukee School of Engineering
+Mar 12, 2026
+2019-2020 Undergraduate Academic Catalog
+Select a Catalog
+2025-2026 Undergraduate Academic Catalog
+2025-2026 Graduate Academic Catalog
+2024-2025 Undergraduate Academic Catalog-June [ARCHIVED CATALOG]
+2024-2025 Graduate Academic Catalog-June [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Graduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Graduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Graduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Graduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Graduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Graduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Graduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Graduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Graduate Academic Catalog [ARCHIVED CATALOG]
+2013-14 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2012-2014 Graduate Academic Catalog [ARCHIVED CATALOG]
+2012-2013 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+Global Search
+Catalog Search
+Choose Search Location
+Select an option
+Courses
+Programs
+Academic Departments
+Other Content
+Entire Catalog
+Search Keyword Field
+Whole Word/Phrase
+Advanced Search
+Catalog Navigation
+Catalog Home
+Academic Calendar
+University Overview
+Enrollment Management Department
+Academic Regulations and Policies
+Student Financial Services
+Academic Departments, Undergraduate Degree Programs, Minors and Certificates
+Degree Programs, Minors and Certificates
+University Scholars Honors Program
+Reserve Officers’ Training Corps. (ROTC)
+English as a Second Language
+Course Descriptions
+Administration, Board of Regents, Faculty and Advisory Committees
+Campus Map
+Student Resources
+My Portfolio
+HELP
+2019-2020 Undergraduate Academic Catalog
+[ARCHIVED CATALOG]
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+AE 6412 - Building Energy Simulations
+3
+lecture hours
+0
+lab hours
+3
+credits
+Course Description
+This course focuses on elements of building energy simulations. An introduction and study of building energy assessment principles and protocols for new and existing commercial buildings. Course topics include hands-on techniques of energy measurement and verification, indoor environmental quality parameter identification and measurement, and energy metric comparison/analysis for the application and submission of a building disclosure, rating and labeling program. The course will also focus on energy modeling to inform and guide design of a new commercial building.   (prereq: graduate standing)
+Course Learning Outcomes
+Upon successful completion of this course, the student will be able to:
+Discuss and create a listing of potential Energy Efficiency Measures (EEM) including financial payback analysis
+Compute the impact of climate zones on energy use and different building types
+Analyze raw energy consumption data from measured-meter readings
+Explain energy metrics and how they are developed
+Define the process of certifying professionals in energy assessment
+Calculate an ASHRAE bEQ In Operation rating for a building
+Create and submit a bEQ In Operation workbook to apply for a bEQ Certificate and Dashboard
+Calculate a building energy model for a commercial building
+Discuss how building envelope construction affects building energy consumption
+Apply system selection procedures to a building based on energy use goals
+Define the title, purpose, and scope of ASHRAE Standard 90.1 and 189
+Explain the energy cost budget and performance rating method in ASHRAE 90.1
+Prerequisites by Topic
+Energy modeling software
+Course Topics
+Building energy use and management
+ASHRAE bEQ program
+US EPA Energy Star program
+Preliminary energy use analysis
+Analyzing energy costs, bills, and rate structures
+Developing energy targets and requirements
+Level 1, 2, and 3 energy audits
+Energy efficiency measures
+Identify opportunities for energy conservation
+Indoor environmental quality survey
+Completing and submitting a bEQ project
+Energy estimating and modeling methods
+Energy modeling and high-performance buildings
+Energy code analysis and compliance
+System selection process
+Architectural energy modeling
+Modeling as part of the design efforts
+Energy modeling for existing buildings
+Comparison of approaches to energy modeling
+Coordinator
+David Grassl
+Back to Top
+|
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+All
+catalogs
+© 2026 Milwaukee School of Engineering.
+Powered by
+Modern Campus Catalog™
+.

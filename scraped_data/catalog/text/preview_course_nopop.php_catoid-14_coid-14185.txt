@@ -1,0 +1,124 @@
+AE 3631 - Building Electrical Power Distribution I -
+Milwaukee School of Engineering
+Mar 12, 2026
+2016-2017 Undergraduate Academic Catalog
+Select a Catalog
+2025-2026 Undergraduate Academic Catalog
+2025-2026 Graduate Academic Catalog
+2024-2025 Undergraduate Academic Catalog-June [ARCHIVED CATALOG]
+2024-2025 Graduate Academic Catalog-June [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Graduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Graduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Graduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Graduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Graduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Graduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Graduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Graduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Graduate Academic Catalog [ARCHIVED CATALOG]
+2013-14 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2012-2014 Graduate Academic Catalog [ARCHIVED CATALOG]
+2012-2013 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+Global Search
+Catalog Search
+Choose Search Location
+Select an option
+Courses
+Programs
+Academic Departments
+Other Content
+Entire Catalog
+Search Keyword Field
+Whole Word/Phrase
+Advanced Search
+Catalog Navigation
+Catalog Home
+Academic Calendar
+University Overview
+Enrollment Management Department
+Academic Regulations and Policies
+Student Financial Services
+Academic Departments, Undergraduate Degree Programs, Minors and Certificates
+Degree Programs, Minors and Certificates
+Reserve Officer Training Corps (ROTC)
+Course Descriptions
+Board of Regents, Academic Administration, Faculty and Advisory Committees
+Campus Map
+Student Resources
+My Portfolio
+HELP
+2016-2017 Undergraduate Academic Catalog
+[ARCHIVED CATALOG]
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+AE 3631 - Building Electrical Power Distribution I
+3
+lecture hours
+2
+lab hours
+4
+credits
+Course Description
+Topics include power systems below 600 volts, totalizing loads, feeder and branch circuits, power transformers, overcurrent protection, fault currents, circuit breaker selection, and electrical code application. Panelboard and switchboard selection, electric service entrances, power factor correction, power company coordination, small and medium motors, motor control and electrical measuring devices are covered. Laboratory experiments relating to equipment and analysis, as well as a case study, provide students with an opportunity to demonstrate application of course material. An electrical design project is started in this course. Hardware emphasized in this course includes power triangles, transformers, DC motors, AC induction motors, AC drives and AC synchronous motors.   (prereq:
+AE 3612
+)
+Course Learning Outcomes
+Upon successful completion of this course, the student will be able to:
+Calculate Apparent Power, Real Power, Reactive Power, and Power Factor using complex numbers
+Calculate transformer current, voltage, apparent power, real power, reactive power, power factor
+Select properly sized conductors, conduits, circuit breakers, fuses, and ground conductors
+Calculate electrical and mechanical parameters for DC motors and AC induction motors
+Do basic design calculations for a commercial building, including service size, main and feeder breakers
+Draw and interpret basic 1-Line drawings
+Prerequisites by Topic
+Advanced mathematics-including linear equations and complex numbers
+Basic power calculations from
+AE 3612
+Course Topics
+Electrical Power and Phasors (3 classes)
+Transformers (4 classes)
+Building Electrical (2 classes)
+Fuses/Circuit Breakers (2 classes)
+Grounding (1 class)
+Motors (7 classes)
+Inverters (1 class)
+Design Project (4 classes)
+PLC’s (1 class)
+Hands On Laboratory (10 classes)
+Exams and Review (5 classes)
+Laboratory Topics
+Safety Introduction
+Single Phase Transformers
+3 Phase Transformers
+DC Motors
+AC Induction Motors
+PLC’s
+Coordinator
+Dudley Outcalt
+Back to Top
+|
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+All
+catalogs
+© 2026 Milwaukee School of Engineering.
+Powered by
+Modern Campus Catalog™
+.

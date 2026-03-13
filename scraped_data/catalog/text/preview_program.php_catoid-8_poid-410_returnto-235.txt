@@ -1,0 +1,444 @@
+Program: Computer Engineering, B.S. - Milwaukee School of Engineering
+Milwaukee School of Engineering
+Mar 12, 2026
+2014-2015 Undergraduate Academic Catalog
+Select a Catalog
+2025-2026 Undergraduate Academic Catalog
+2025-2026 Graduate Academic Catalog
+2024-2025 Undergraduate Academic Catalog-June [ARCHIVED CATALOG]
+2024-2025 Graduate Academic Catalog-June [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Graduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Graduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Graduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Graduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Graduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Graduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Graduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Graduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Graduate Academic Catalog [ARCHIVED CATALOG]
+2013-14 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2012-2014 Graduate Academic Catalog [ARCHIVED CATALOG]
+2012-2013 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+Global Search
+Catalog Search
+Choose Search Location
+Select an option
+Courses
+Programs
+Academic Departments
+Other Content
+Entire Catalog
+Search Keyword Field
+Whole Word/Phrase
+Advanced Search
+Catalog Navigation
+Catalog Home
+President’s Welcome
+Academic Calendar
+University Overview
+Enrollment Management Department
+Graduate and Professional Education
+Academic Regulations and Policies
+Student Accounts, Fees and Financial Aid
+Other Academic Resources
+Academic Departments, Undergraduate Degree Programs, Minors and Certificates
+Degree Programs, Minors and Certificates
+Two-degree Programs
+Graduate Studies Programs
+Reserve Officer Training Corps (ROTC)
+Course Descriptions
+Board of Regents, Academic Administration, Faculty and Advisory Committees
+Campus Map
+My Portfolio
+HELP
+2014-2015 Undergraduate Academic Catalog
+[ARCHIVED CATALOG]
+Computer Engineering, B.S.
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Return to:
+Degree Programs, Minors and Certificates
+Program Director
+Dr. Eric Durant
+Office: L-339
+Phone: (414) 277-7439
+Email:
+durant@msoe.edu
+Computer engineers are at the forefront of knowledge in arguably the most innovative professional discipline in the world. Beyond desktop and laptop computers, things like iPads, set-top boxes, digital cameras, anti-lock brakes, satellite radio, cell phones, avionics, “smart” credit cards and countless other 21st-century products exist today thanks to the creativity, knowledge and skills of computer engineers.
+MSOE’s B.S. in computer engineering program balances hardware and software, building on the disciplines of electrical engineering and computer science, by coupling computer hardware topics with the study of software - all this starting at the freshman level.
+Employers come back to MSOE year after year because of the level of knowledge, skills and professionalism our computer engineering graduates bring to the workplace. Their achievements are impressive, and you will find them working in exciting positions with some of the most respected companies and organizations across the country.
+Study Abroad
+Computer engineering sophomores interested in studying abroad have the ability to do so for five months at Czech Technical University (CTU), one of the oldest and best technical universities in the world. All courses are taught in English, participation does not delay graduation and the program costs the same as attending MSOE (excluding transportation costs). Interested students should start planning no later than September of the sophomore year to ensure timely receipt of their passports and visas and to ensure enrollment in necessary classes. For more information about studying abroad at CTU, contact the program director.
+Program Educational Objectives
+Within a few years of graduation, CE alumni will:
+have a record of successful delivery through product development, service, patent applications, etc.
+provide both informal and formal leadership (e.g., lead specific team efforts or function as team leader, project manager, etc.).
+develop expert knowledge in at least one area that is seen as an asset by colleagues and management.
+Student Outcomes
+Graduates of the computer engineering program will attain:
+an ability to apply knowledge of mathematics, science and engineering.
+an ability to design and conduct experiments, as well as to analyze and interpret data.
+an ability to design a system, component, or process to meet desired needs within realistic constraints such as economic, environmental, social, political, ethical, health and safety, manufacturability and sustainability.
+an ability to function on multidisciplinary teams.
+an ability to identify, formulate, and solve engineering problems.
+an understanding of professional and ethical responsibility.
+an ability to communicate effectively.
+the broad education necessary to understand the impact of engineering solutions in a global, economic, environmental and societal context.
+a recognition of the need for, and an ability to engage in life-long learning.
+knowledge of contemporary issues.
+an ability to use the techniques, skills, and modern engineering tools necessary for engineering practice.
+an ability to apply knowledge of probability and statistics to computer engineering.
+View Annual Student Enrollment and Graduation Data
+Computer Engineering Model Full-time Track - V3.5
+Year One
+Fall
+EN 131 - Composition
+3
+credits
+HU 100 - Contemporary Issues in the Humanities
+3
+credits
+MA 136 - Calculus for Engineers I
+4
+credits
+CE 1900 - Digital Logic I: Combinational Systems
+3
+credits
+SE 1011 - Software Development I
+4
+credits
+Total: 15 lecture hours - 4 lab hours - 17 credits
+Winter
+CH 200 - Chemistry I
+4
+credits
+EN 132 - Technical Composition
+3
+credits
+MA 137 - Calculus for Engineers II
+4
+credits
+CE 1910 - Digital Logic II: Sequential Systems
+3
+credits
+SE 1021 - Software Development II
+4
+credits
+Total: 15 lecture hours - 6 lab hours - 18 credits
+Spring
+EE 2050 - Linear Circuits - Steady State I
+4
+credits
+EN 241 - Speech
+3
+credits
+MA 231 - Calculus for Engineers III
+4
+credits
+CS 2852 - Data Structures
+4
+credits
+Total: 12 lecture hours - 6 lab hours - 15 credits
+Year Two
+Fall
+CE 2800 - Embedded Systems I
+4
+credits
+EE 2060 - Linear Circuits - Steady State II
+4
+credits
+MA 235 - Differential Equations for Engineers
+4
+credits
+PH 2010 - Physics I - Mechanics
+4
+credits
+Total: 13 lecture hours - 9 lab hours - 16 credits
+Winter
+EE 2070 - Linear Circuits - Transients
+3
+credits
+OR 2000 - Leadership and Teamwork
+1
+credits
+PH 2020 - Physics II–Electromagnetism/Optics
+4
+credits
+CE 2811 - Embedded Systems II
+4
+credits
+MA 2310 - Discrete Mathematics I
+3
+credits
+Total: 12 lecture hours - 8 lab hours - 15 credits
+Spring
+CE 2930 - Introduction to Computer Architecture
+4
+credits
+MA 232 - Calculus for Engineers IV
+3
+credits
+SE 2890 - Software Engineering Practices
+3
+credits
+MS 2220 - Foundations of Business Economics
+3
+credits
+PH 2030 - Physics III-Thermo/Quantum Physics
+4
+credits
+Total: 14 lecture hours - 7 lab hours - 17 credits
+Year Three
+Fall
+CS 3841 - Design of Operating Systems
+4
+credits
+EE 3050 - Dynamic Systems
+3
+credits
+MA 383 - Linear Algebra
+3
+credits
+SS 461 - Organizational Psychology
+3
+credits
+PH 360 - Physics of Semiconductor Materials and Devices
+4
+credits
+Total: 15 lecture hours - 5 lab hours - 17 credits
+Winter
+EE 3720 - Control Systems
+4
+credits
+MA 262 - Probability and Statistics
+3
+credits
+OR 3000 - Applied Servant-Leadership
+1
+credits
+OR 402 - Professional Guidance
+1
+credits
+EE 3220 - Digital Signal Processing
+4
+credits
+CS 321 - Computer Graphics
+4
+credits
+Total: 13 lecture hours - 10 lab hours - 17 credits
+Spring
+CE 3910 - Embedded Systems III
+4
+credits
+HU 432 - Ethics for Professional Managers and Engineers
+3
+credits
+ME 354 - Thermodynamics and Heat Transfer
+3
+credits
+MS 3423 - Innovation and Business Markets
+3
+credits
+CE 3100 - Digital Electronics and Computer Interfacing
+4
+credits
+Total: 15 lecture hours - 5 lab hours - 17 credits
+Year Four
+Fall
+CE 4000 - Senior Design Project I
+3
+credits
+CE 4920 - Embedded Systems IV
+3
+credits
+Elective (Program)
+1
+3 credits
+Elective (HU/SS)
+1
+3 credits
+Elective (HU/SS)
+1
+3 credits
+Total: 13 lecture hours - 4 lab hours - 15 credits
+Winter
+CE 4010 - Senior Design Project II
+3
+credits
+CE 4950 - Networking I
+3
+credits
+Elective (HU/SS)
+1
+3 credits
+Elective (HU/SS)
+1
+3 credits
+Elective (Free)
+1
+3 credits
+Total: 13 lecture hours - 4 lab hours - 15 credits
+Spring
+CE 4020 - Senior Design Project III
+3
+credits
+CE 4960 - Networking II
+3
+credits
+Elective (Program)
+1
+3 credits
+Elective (Math/Science)
+1
+3 credits
+Elective (HU/SS)
+1
+3 credits
+Total: 13 lecture hours - 4 lab hours - 15 credits
+Note:
+1
+There are 27 credits of elective subjects in the computer engineering program which must be taken as follows:
+15 credits of humanities and social sciences: 6 credits of humanities (HU), 6 credits of social science (SS), and 3 credits of humanities or social science
+6 credits of approved program electives
+3 credits of approved math/science elective
+3 credits of an approved upper-division course from any area
+Engineering technology courses may not be used to satisfy requirements of the computer engineering curriculum.
+Transfer students who have completed 36 quarter or 24 semester credits or more are expected to complete
+301OR 301
+Transfer Orientation or
+OR 307S
+Transfer Orientation Seminar.
+Students enrolled in Air Force ROTC must complete
+AF 1011
+,
+AF 2021
+,
+AF 2023
+,
+AF 3131
+,
+AF 3132
+,
+AF 3133
+,
+AF 4141
+,
+AF 4142
+, and
+AF 4143
+. Upon completion of these courses credit will be given for
+SS 455
+(a social science elective),
+OR 2000
+,
+OR 3000
+, one program elective, and the free elective.
+Accredited by the Engineering Accreditation Commission of ABET,
+http://www.abet.org
+.
+Computer Engineering Electives
+BE 4340 - Advanced Topics in Biomedical Digital Signal Processing
+3
+credits
+BE 4830 - Medical Imaging Systems
+3
+credits
+CE 3200 - Wireless Sensor Networks
+3
+credits
+CE 4220 - Mobile Networks and Simulation
+3
+credits
+CE 4930 - Computer Architecture II
+3
+credits
+CE 499 - Independent Study
+3
+credits
+CS 386 - Introduction to Database Systems
+3
+credits
+CS 421 - Advanced Computer Graphics
+3
+credits
+CS 4230 - Distributed and Cloud Computing
+3
+credits
+CS 4802 - Digital Image Processing
+3
+credits
+CS 4881 - Artificial Intelligence
+3
+credits
+CS 4920 - Information Security
+3
+credits
+CS 493 - Advanced Digital Design
+3
+credits
+EE 3101 - Operational Amplifiers
+4
+credits
+EE 3111 - Electronic Devices and Circuits
+4
+credits
+EE 423 - Applications of Digital Signal Processing
+3
+credits
+EE 474 - Programmable Controllers
+3
+credits
+EE 4060 - Introduction to Nonlinear Dynamics and Chaos
+3
+credits
+EE 4720 - Control Systems Applications
+3
+credits
+EE 481 - Fuzzy Sets and Applications
+3
+credits
+EE 484 - Neural Networks
+3
+credits
+SE 3250 - Introduction to Game Development
+3
+credits
+SE 4910 - Mobile Application Development
+3
+credits
+SE 4940 - Network Security Tools and Practices
+3
+credits
+SE 3830 - Human-Computer Interaction
+3
+credits
+SE 4930 - Developing Secure Software
+3
+credits
+Return to:
+Degree Programs, Minors and Certificates
+Back to Top
+|
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+All
+catalogs
+© 2026 Milwaukee School of Engineering.
+Powered by
+Modern Campus Catalog™
+.

@@ -1,0 +1,47 @@
+Endowed Chair in Artificial Intelligence | MSOE
+Skip to Main Content
+Home
+Endowed Chair in Artificial Intelligence
+The Search for an Endowed Chair in Artificial Intelligence
+Milwaukee School of Engineering (MSOE) seeks applicants for its PieperPower Endowed Chair in Artificial Intelligence.
+Overview
+The Chair will act as a catalyst to establish a global collaboration that will address the societal challenges and opportunities brought forth by the widespread use and increasing power of artificial intelligence. This new role at the university will further position MSOE at the forefront of artificial intelligence education and next generation technologies. MSOE has made significant investments in this space over the past 4 years, beginning with a $34 million gift from MSOE Regent and alumnus Dr. Dwight Diercks and his wife Dian to build the Dwight and Dian Diercks Computational Science Hall. Diercks Hall opened in 2019 and is home to “Rosie,” an NVIDIA GPU-accelerated supercomputer.
+The Application Process
+The search committee will accept nominations and applications until the position is filled.
+Application materials must be submitted via
+msoe.edu/ai-chair
+.
+When applying, please be prepared to upload a single pdf file which includes:
+a letter of interest
+a curriculum vita
+statement of research interests
+statement of teaching interest areas (including evidence of successful teaching if available)
+contact information for three professional references.
+The review of applications will begin when applications are received and will continue until the position is filled. It is the policy of MSOE to provide equal employment opportunity to all individuals regardless of their race, ethnicity, color, creed, religion, sex, age, national origin, physical or mental disability, military and veteran status, sexual orientation, gender identity, genetic characteristics, marital status or any other characteristic protected by local, state or federal law. This policy applies to all jobs at the university and to all the terms, benefits, and conditions of employment/enrollment.
+Computer Science focused on AI
+The computer science degree at MSOE is focused on artificial intelligence, boldly placing us among the top CS degrees in the nation.
+Be a Game Changer
+Meet Rosie
+“Rosie” the supercomputer includes three NVIDIA DGX-1 pods, each with eight NVIDIA V100 Tensor Core GPUs, and 20 servers each with four NVIDIA T4 GPUs. The nodes are joined together by Mellanox networking fabric and share 200TB of network-attached storage. Unique to MSOE, Rosie is available to undergraduate students.
+Learn More
+Diercks Hall
+The Dwight and Dian Diercks Computational Science Hall was made possible thanks to a generous $34 million gift from MSOE Regent and alumnus Dr. Dwight Diercks ’90 and his wife Dian.
+Read More
+Menu
+Search
+submit
+Resources For…
+MSOE University
+1025 North Broadway
+Milwaukee,
+WI
+53202-3109
+(800) 332-6763
+explore@msoe.edu
+Connect With MSOE
+Facebook
+Instagram
+Twitter
+Linkedin
+YouTube
+Vimeo

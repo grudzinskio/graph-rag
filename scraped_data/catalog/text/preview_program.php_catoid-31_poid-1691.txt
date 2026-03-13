@@ -1,0 +1,723 @@
+Program: Electrical Engineering, B.S. - Milwaukee School of Engineering
+Milwaukee School of Engineering
+Mar 12, 2026
+2023-2024 Undergraduate Academic Catalog
+Select a Catalog
+2025-2026 Undergraduate Academic Catalog
+2025-2026 Graduate Academic Catalog
+2024-2025 Undergraduate Academic Catalog-June [ARCHIVED CATALOG]
+2024-2025 Graduate Academic Catalog-June [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Graduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Graduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Graduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Graduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Graduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Graduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Graduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Graduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Graduate Academic Catalog [ARCHIVED CATALOG]
+2013-14 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2012-2014 Graduate Academic Catalog [ARCHIVED CATALOG]
+2012-2013 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+Global Search
+Catalog Search
+Choose Search Location
+Select an option
+Courses
+Programs
+Academic Departments
+Other Content
+Entire Catalog
+Search Keyword Field
+Whole Word/Phrase
+Advanced Search
+Catalog Navigation
+Catalog Home
+Academic Calendar
+University Overview
+Admissions
+The Raider Core
+Academic Regulations and Policies
+Student Financial Services
+Degrees, Minors, and Certificates by Department
+Degree Programs, Minors, and Certificates
+Course Descriptions
+MSOE Honors Program
+Global Opportunities
+Reserve Officers’ Training Corps. (ROTC)
+Administration, Regents, and Advisory Committees
+Faculty and Faculty Emeriti
+Campus Map
+Student Resources
+My Portfolio
+HELP
+2023-2024 Undergraduate Academic Catalog
+[ARCHIVED CATALOG]
+Electrical Engineering, B.S.
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Program Director
+Dr. Steven Holland
+Office: L-340
+Phone: (414) 277-7376
+Email:
+holland@msoe.edu
+EE Study Abroad Coordinator
+Dr. Jennifer Bonniwell
+Office: L-335
+Phone: (414) 277-7345
+Email:
+bonniwell@msoe.edu
+AAS-EET to BSEE Transfer Coordinator
+Dr. Robert Strangeway
+Office: S-357
+Phone: (414) 277-7311
+Email:
+transfer@msoe.edu
+Overview
+The Bachelor of Science in Electrical Engineering program (BSEE) at MSOE places a very strong emphasis on design, applications, and experience-based learning through laboratory experimentation. The laboratory is a great place to work out the details of your understanding of the theory. Consequently, the BSEE program at MSOE prepares its graduates for successful entry into the engineering profession, as well as for graduate school.
+The traditional four-year map of the BSEE program begins with an introduction to electrical engineering and a programming course along with important tools of EE: calculus, physics, and college writing. The curriculum flows naturally from there to the advanced EE applications courses, electives, and the year-long senior design experience.
+There are additional curriculum maps (paths) within the BSEE program at MSOE. Qualified students who have earned an Associate of Applied Science in Electrical Engineering Technology (AAS-EET) degree from colleges with which MSOE holds articulation agreements can transfer efficiently into the BSEE program.
+Another curriculum map provides MSOE BSEE students the opportunity to study abroad in their junior year at the Technische Hochschule Lübeck (THL) in Lübeck, Germany. This is a tremendous opportunity for anyone who is thinking about a career path that involves the global economy and viewpoint. All instruction is in English. Students will receive two bachelor of science degrees: one from MSOE and one from THL. Students will graduate in four years if they follow the EE curriculum map.
+Program Educational Objectives
+The electrical engineering program prepares graduates to attain the following objectives within a few years of graduation:
+Be productive and successful in their chosen career field by assuming greater degrees of responsibility and/or assuming leadership roles.
+Actively participate in the affairs of their profession and continue with their professional development.
+Student Outcomes
+In support of the program objectives, graduates of the program will have:
+an ability to identify, formulate, and solve complex engineering problems by applying principles of engineering, science, and mathematics
+an ability to apply engineering design to produce solutions that meet specified needs with consideration of public health, safety, and welfare, as well as global, cultural, social, environmental, and economic factors
+an ability to communicate effectively with a range of audiences
+an ability to recognize ethical and professional responsibilities in engineering situations and make informed judgments, which must consider the impact of engineering solutions in global, economic, environmental, and societal contexts
+an ability to function effectively on a team whose members together provide leadership, create a collaborative and inclusive environment, establish goals, plan tasks, and meet objectives
+an ability to develop and conduct appropriate experimentation, analyze and interpret data, and use engineering judgment to draw conclusions
+an ability to acquire and apply new knowledge as needed, using appropriate learning strategies
+This program is accredited by the Engineering Accreditation Commission of ABET,
+http://www.abet.org
+, under the General Criteria and the Electrical and Electronics Engineering Program Criteria.
+View Annual Student Enrollment and Graduation Data
+Jump to:
+Electrical Engineering, B.S. Study Abroad (MSOE students)
+Electrical Engineering, B.S. Study Abroad (THL students)
+EEX Transfer Program
+Electrical Engineering, B.S. Version S1
+Year One
+Fall
+Total: 15 lecture hours - 4 lab hours - 17 credits
+COM 1001 - College Writing
+3
+credits
+♦ Raider Core:
+Communicate Effectively
+CHM 1010 - Chemistry I
+4
+credits
+♦ Raider Core:
+Think Critically
+ELE 1000 - Introduction to Electrical Engineering
+3
+credits
+*
+ELE 1601 - Introduction to Programming for EEs
+3
+credits
+*
+MTH 1110 - Calculus I
+4
+credits
+Spring
+Total: 13 lecture hours - 6 lab hours - 16 credits
+CPE 1500 - Digital Logic
+4
+credits
+*
+ELE 2001 - Electric Circuits I: Theory and Applications
+4
+credits
+*
+MTH 1120 - Calculus II
+4
+credits
+PHY 1110 - Physics I - Mechanics and Thermodynamics
+4
+credits
+Year Two
+Fall
+Total: 13 lecture hours - 4 lab hours - 14 credits
+COM 2001 - Writing for the STEM Disciplines
+3
+credits
+♦ Raider Core:
+Collaborate Succesfully/Communicate Effectively
+ELE 2610 - Embedded Systems
+4
+credits
+*
+♦ Raider Core:
+Integrate Learning
+IDS 2020 - Career Development
+0
+credits
+MTH 2140 - Differential Equations
+3
+credits
+PHY 1120 - Physics II - Electricity, Magnetism, and Optics
+4
+credits
+Spring
+Total: 14 lecture hours - 4 lab hours - 16 credits
+ELE 2011 - Electric Circuits II: Theory and Applications
+4
+credits
+*
+ELE 3510 - Digital Systems
+4
+credits
+*
+MTH 2130 - Calculus III
+4
+credits
+PHY 3700 - Physics of Electronic Materials and Semiconductor Devices
+4
+credits
+Year Three
+Fall
+Total: 15 lecture hours - 4 lab hours - 17 credits
+COM 3001 - Professional Presentations
+3
+credits
+♦ Raider Core:
+Communicate Effectively/Collaborate Successfully
+ELE 3101 - Electronics I
+4
+credits
+*
+ELE 3300 - Signals and Systems
+3
+credits
+*
+ELE 3401 - Electric Power and Machines
+4
+credits
+*
+Raider Core Elective ♦
+Embrace Diversity
+3 credits
+1
+Spring
+Total: 11 lecture hours - 6 lab hours - 14 credits
+ELE 3111 - Electronics II
+3
+credits
+*
+ELE 3201 - Electromagnetics and Transmission Lines
+4
+credits
+*
+ELE 3310 - Introduction to Probability and Random Processes
+3
+credits
+*
+ELE 3320 - Digital Signal Processing
+3
+credits
+*
+ELE 3900 - Career and Professional Guidance
+1
+credits
+*
+Year Four
+Fall
+Total: 13 lecture hours - 2 lab hours - 16 credits
+ELE 3701 - Control Systems
+4
+credits
+*
+ELE 4901 - Electrical Engineering - Senior Design Project I
+3
+credits
+*
+Elective (EECS Technical)
+3 credits
+3
+Choice of
+PHL 3101
+,
+PHL 3102
+, or
+PHL 3103
+3 credits
+1
+Raider Core ♦
+Demonstrate Ethical Understanding
+Raider Core Elective
+♦ Exhibit Curiosity
+3 credits
+1
+Spring
+Total: 13 lecture hours - 0 lab hours - 15 credits
+ELE 4902 - Electrical Engineering - Senior Design Project II
+3
+credits
+* ♦ Raider Core:
+Integrate Learning
+Elective (Free Elective)
+3 credits
+3
+Elective (EECS Technical)
+3 credits
+3
+Elective (Technical)
+3 credits
+3
+Raider Core Elective ♦
+Choice of CLO
+3 credits
+2
+Total: 107 lecture hours - 30 lab hours - 125 credits
+Notes:
+*Courses with an asterisk are used to calculate the student’s major GPA.
+See
+The Raider Core
+page for details on teh general education program and Common Learning Outcomes (CLOs).
+1
+Three Raider Core electives (9 credits total) are required from the HSC department. These courses are selected from an approved course listing such that all of the following Common Learning Outcomes are completed: one course to address
+Exhibit Curiosity
+, one course to address
+Embrace Diversity,
+and one course to address
+Demonstrate Ethical Understanding
+.
+2
+One Raider Core elective (3 credits) is required from the HSC, Mathematics, or Physics & Chemistry departments. This course is selected from an approved course listing such that one of the following Common Learning Outcomes is completed:
+Collaborate Successfully
+,
+Exhibit Curiosity, Think Critically, Demonstrate Ethical Understanding
+, or
+Embrace Diversity
+.
+3
+Four electives (12 credits total) are to be selected according the following definitions:
+EECS Technical Elective
+: a 4000-level EECS course selected from the list of approved courses maintained by the EE program. Two EECS Technical Electives are required.
+Technical Elective
+: a 2000-level or higher course in an engineering discipline, physics, or mathematics area that is not already required as part of the EE program. One Technical Elective is required.
+Free Elective
+: any course offered at MSOE that is not already required by the EE program and that is not on the free elective exclusion list maintained by the EE program. One Free Elective is required.
+Electrical Engineering, B.S. Version S1A (German Study Abroad Program, MSOE students)
+This map is taken by MSOE EE students who participate in the study abroad program and enroll at Technische Hochschule Lübeck (THL) in Lübeck, Germany, for the entire third year of the EE program.
+Electrical engineering students interested in participating in the study abroad program at THL must have a cumulative GPA of 2.5 or higher at the end of the Fall Semester of their second year and be in good academic standing at the end of Spring Semester of their second year. In addition, all of the following courses must be completed by the end of the Spring Semester of the second year: MTH 1110, MTH 1120, MTH 2140, MTH 2130, MTH 2480, PHY 1110, PHY 1120, ELE 1601, ELE 2001, ELE 2011, ELE 3101, ELE 2610, and CPE 1500.
+Year One
+Fall
+Total: 15 lecture hours - 4 lab hours - 17 credits
+COM 1001 - College Writing
+3
+credits
+♦ Raider Core:
+Communicate Effectively
+CHM 1010 - Chemistry I
+4
+credits
+♦ Raider Core:
+Think Critically
+ELE 1000 - Introduction to Electrical Engineering
+3
+credits
+*
+ELE 1601 - Introduction to Programming for EEs
+3
+credits
+*
+MTH 1110 - Calculus I
+4
+credits
+Spring
+Total: 13 lecture hours - 6 lab hours - 16 credits
+CPE 1500 - Digital Logic
+4
+credits
+*
+ELE 2001 - Electric Circuits I: Theory and Applications
+4
+credits
+*
+MTH 1120 - Calculus II
+4
+credits
+PHY 1110 - Physics I - Mechanics and Thermodynamics
+4
+credits
+Year Two
+Fall
+Total: 14 lecture hours - 2 lab hours - 14 credits
+COM 2001 - Writing for the STEM Disciplines
+3
+credits
+♦ Raider Core:
+Collaborate Successfully/Communicate Effectively
+ELE 2011 - Electric Circuits II: Theory and Applications
+4
+credits
+*
+ELE 2610 - Embedded Systems
+4
+credits
+*
+IDS 2020 - Career Development
+0
+credits
+MTH 2140 - Differential Equations
+3
+credits
+Spring
+Total: 14 lecture hours - 4 lab hours - 16 credits
+ELE 3101 - Electronics I
+4
+credits
+*
+ELE 3900 - Career and Professional Guidance
+1
+credits
+*
+MTH 2130 - Calculus III
+4
+credits
+MTH 2480 - Probability and Statistics
+3
+credits
+PHY 1120 - Physics II - Electricity, Magnetism, and Optics
+4
+credits
+Year Three
+MSOE students attend THL for the entire third year.
+Fall (at THL)
+14 lecture hours - 4 lab hours - 16 credits
+Spring (at THL)
+12 lecture hours - 2 lab hours - 13 credits
+Year Four
+Fall
+Total: 12 lecture hours - 6 lab hours - 17 credits
+COM 3001 - Professional Presentations
+3
+credits
+♦ Raider Core:
+Collaborate Successfully/Communicate Effectively
+ELE 3201 - Electromagnetics and Transmission Lines
+4
+credits
+*
+ELE 3320 - Digital Signal Processing
+3
+credits
+*
+ELE 3510 - Digital Systems
+4
+credits
+*
+ELE 4901 - Electrical Engineering - Senior Design Project I
+3
+credits
+*
+Spring
+Total: 13 lecture hours - 2 lab hours - 16 credits
+ELE 4902 - Electrical Engineering - Senior Design Project II
+3
+credits
+* ♦ Raider Core:
+Integrate Learning
+Elective (EECS Technical)
+3 credits
+6
+Elective (Free Elective)
+3 credits
+6
+Choice of
+PHL 3101
+,
+PHL 3102
+, or
+PHL 3103
+3 credits
+1
+Raider Core:
+Demonstrate Ethical Understanding
+3 credits
+1
+PHY 3700 - Physics of Electronic Materials and Semiconductor Devices
+4
+credits
+Program Total: 107 lecture hours - 30 lab hours - 125 credits
+Notes:
+*Courses with asterisks are used to calculate the student’s major GPA.
+2
+One Raider Core elective (3 credits) is required from the HSC, Mathematics, or Physics and Chemistry departments. This course is selected from an approved course listing such that one of the following Common Learning Outcomes is completed:
+Collaborate Successfully, Think Critically, Demonstrate Ethical Understanding,
+Exhibit Curiosity,
+or
+Embrace Diversity
+.
+6
+For the German Study Abroad program, students originating at MSOE and attending THL during the third year satisfy the Technical Elective and one of the EECS Technical Elective requirements while at THL. As a result, two remaining electives (6 credits total) are required are to be selected according to the following definitions:
+EECS Technical Elective
+: a 4000-level EECS course selected from the list of approved courses maintained by the EE program. One EECS Technical Elective is required.
+Free Elective
+: any course offered at MSOE that is not already required by the EE program and that is not on the free elective exclusion list maintained by the EE program. One Free Elective is required.
+Electrical Engineering, B.S.Version S1B (German Study Abroad Program, THL Students)
+This map is taken by THL EE students who participate in the study abroad program and and enroll at MSOE for their fourth year plus a summer.
+Year Four
+Fall
+Total: 12 lecture hours - 4 lab hours - 16 credits
+COM 3001 - Professional Presentations
+3
+credits
+♦ Raider Core:
+Collaborate Successfully/Communicate Effectively
+EGR 6110 PDEs and Numerical Methods
+3 credits
+8
+ELE 3320 - Digital Signal Processing
+3
+credits
+*
+ELE 3510 - Digital Systems
+4
+credits
+*
+ELE 4901 - Electrical Engineering - Senior Design Project I
+3
+credits
+*
+Spring
+Total: 14 lecture hours - 0 lab hours - 16 credits
+BUS 2510 - Principles of Financial Accounting
+3
+credits
+8
+ELE 3900 - Career and Professional Guidance
+1
+credits
+*
+ELE 4902 - Electrical Engineering - Senior Design Project II
+3
+credits
+* ♦ Raider Core:
+Integrate Learning
+Raider Core Elective ♦
+Choice of CLO
+3 credits
+7
+Elective (EECS Elective - Image Processing)
+3 credits
+8
+Elective (EECS Technical)
+3 credits
+8
+Summer
+Total: 1 lecture hours - 0 lab hours - 3 credits
+ELE 4940 - THL Bachelor Thesis
+3
+credits
+*
+Program total: 26 lecture hours - 4 lab hours - 35 credits
+Notes:
+7
+For students originating at THL, courses taken during the first three years at THL satisfy two of the Raider Core elective requirements.  Thus, one remaining Raider Core elective (3 credits total) is required from the HSC department. This course is selected from an approved course listing such that it addresses the remaining Common Learning Outcome that is not already addressed by THL coursework, out of:
+Exhibit Curiosity, Embrace Diversity,
+and
+Demonstrate Ethical Understanding
+.
+8
+For THL-originating students, four electives (12 credits total) are to be taken while at MSOE. The elective definitions below are satisfied through three specified courses, and one student-selected course according to the following definitions and guidelines:
+EECS Technical Elective
+: a 4000-level EECS course selected from the list of approved courses maintained by the EE program. Two EECS Technical Electives are required, one of which must be an approved image processing course.
+Technical Elective
+: a 2000-level or higher course in an engineering discipline, physics, or mathematics area that is not already required as part of the EE program. This requirement is satisfied by EGR 6110.
+Free Elective
+: any course offered at MSOE that is not already required by the EE program and that is not on the free elective exclusion list maintained by the EE program. This requirement is satisfied by
+BUS 2510
+.
+Electrical Engineering, B.S. Version S1C (AAS-EET to BSEE Transfer)
+This map is taken by students who completed an AAS-EET degree at an institution for which MSOE has a formal articulation agreement.
+Year One
+Fall
+Total: 13 lecture hours - 6 lab hours - 15 credits
+CHM 1010A - Chemistry I
+4
+credits
+ELE 2801 - Bridge Digital Design and Procedural Programming
+4
+credits
+*
+IDS 2020 - Career Development
+0
+credits
+MTH 2140 - Differential Equations
+3
+credits
+PHY 1120 - Physics II - Electricity, Magnetism, and Optics
+4
+credits
+♦ Raider Core:
+Think Critically
+Spring
+Total: 14 lecture hours - 4 lab hours - 16 credits
+ELE 2011 - Electric Circuits II: Theory and Applications
+4
+credits
+*
+ELE 2610 - Embedded Systems
+4
+credits
+* ♦ Raider Core:
+Integrate Learning
+MTH 2130 - Calculus III
+4
+credits
+PHY 3700 - Physics of Electronic Materials and Semiconductor Devices
+4
+credits
+Year Two
+Fall
+Total: 12 lecture hours - 6 lab hours - 15 credits
+ELE 3151 - Bridge Electronics II
+4
+credits
+*
+ELE 3201 - Electromagnetics and Transmission Lines
+4
+credits
+*
+ELE 3300 - Signals and Systems
+3
+credits
+*
+ELE 3510 - Digital Systems
+4
+credits
+*
+Spring
+Total: 14 lecture hours - 2 lab hours - 17 credits
+COM 3001 - Professional Presentations
+3
+credits
+♦ Raider Core:
+Collaborate Successfully/Communicate Effectively
+ELE 3701 - Control Systems
+4
+credits
+*
+ELE 3900 - Career and Professional Guidance
+1
+credits
+*
+ELE 4901 - Electrical Engineering - Senior Design Project I
+3
+credits
+*
+Elective (EECS Technical)
+3 credits
+5
+Raider Core Elective ♦
+Choice of CLO
+3 credits
+4
+Year Three
+Fall
+Total: 12 lecture hours - 2 lab hours - 15 credits
+ELE 3310 - Introduction to Probability and Random Processes
+3
+credits
+*
+ELE 3320 - Digital Signal Processing
+3
+credits
+*
+ELE 4902 - Electrical Engineering - Senior Design Project II
+3
+credits
+* ♦ Raider Core:
+Integrate Learning
+Elective (EECS Technical)
+3 credits
+5
+Raider Core Elective ♦
+Choice of CLO
+3 credits
+2
+Total: 65 lecture hours - 20 lab hours - 78 credits
+Notes:
+*Courses with asterisks are used to calculate the student’s major GPA.
+2
+One Raider Core elective (3 credits) is required from the HSC, Mathematics, or Physics and Chemistry departments. This course is selected from an approved course listing such that one of the following Common Learning Outcomes is completed:
+Collaborate Successfully, Think Critically, Demonstrate Ethical Understanding, Exhibit Curiosity
+, or
+Embrace Diversity.
+4
+For the AAS-EET to BSEE map, courses taken at the two-year college nominally satisfy two of the Raider Core elective requirements. Thus, one remaining Raider Core elective (3 credits total) is required from the HSC department. This course is selected from an approved course listing such that it addresses the remaining Common Learning Outcome that is not addressed by courses transferred in from the two-year college, out of:
+Exhibit Curiosity,
+Embrace Diversity,
+and
+Demonstrate Ethical Understanding.
+5
+For the AAS-EET to BSEE map, courses taken at the two-year college nominally satisfy the Free Elective and Technical Elective requirements. Thus, two remaining electives (6 credits total) are required that satisfy the EECS Technical Elective definition:
+EECS Technical Elective:
+a 4000-level EECS course selected from the list of approved courses maintained by the EE program. Two EECS Technical Electives are required.​​​​​​​
+Electrical Engineering Approved Electives
+ELE 4142 - Modern Electronic Systems
+3
+credits
+ELE 4240 - Advanced Electromagnetics and Antenna Theory
+3
+credits
+ELE 4300 - Principles of Communications
+3
+credits
+ELE 4403 - Specialty Electric Machines
+3
+credits
+ELE 4440 - Power Electronics
+3
+credits
+ELE 4447 - Power System Models and Analysis
+3
+credits
+ELE 4451 - Grid Stability
+3
+credits
+ELE 4480 - Electrical Power Systems Quality
+3
+credits
+ELE 4610 - Advanced Programming for EEs
+3
+credits
+ELE 4630 - Advanced Embedded Systems
+3
+credits
+ELE 4701 - Control Systems Applications
+3
+credits
+Back to Top
+|
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+All
+catalogs
+© 2026 Milwaukee School of Engineering.
+Powered by
+Modern Campus Catalog™
+.

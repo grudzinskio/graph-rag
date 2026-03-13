@@ -1,0 +1,115 @@
+EE 529 - Microwave Engineering -
+Milwaukee School of Engineering
+Mar 12, 2026
+2014-2015 Graduate Academic Catalog
+Select a Catalog
+2025-2026 Undergraduate Academic Catalog
+2025-2026 Graduate Academic Catalog
+2024-2025 Undergraduate Academic Catalog-June [ARCHIVED CATALOG]
+2024-2025 Graduate Academic Catalog-June [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Graduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Graduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Graduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Graduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Graduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Graduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Graduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Graduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Graduate Academic Catalog [ARCHIVED CATALOG]
+2013-14 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2012-2014 Graduate Academic Catalog [ARCHIVED CATALOG]
+2012-2013 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+Global Search
+Catalog Search
+Choose Search Location
+Select an option
+Courses
+Programs
+Academic Departments
+Other Content
+Entire Catalog
+Search Keyword Field
+Whole Word/Phrase
+Advanced Search
+Catalog Navigation
+Catalog Home
+Academic Calendar
+University Overview
+Graduate and Professional Education
+Graduate Admission Requirements
+Academic Regulations and Policies
+Student Accounts, Fees and Financial Aid
+Services and Resources for Graduate Students
+Academic Departments, Graduate Degree Programs and Certificates
+Degree Programs and Certificates
+Course Descriptions
+Board of Regents, Academic Administration and Faculty
+Campus Map
+My Portfolio
+HELP
+2014-2015 Graduate Academic Catalog
+[ARCHIVED CATALOG]
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+EE 529 - Microwave Engineering
+2
+lecture hours
+2
+lab hours
+3
+credits
+Course Description
+This course emphasizes microwave transmission lines, especially microstrip, coax and rectangular waveguides. The theory is developed for each line in order to gain insight into transmission characteristics and operation. This is followed by a study of microwave resonant circuits, nonreciprocal ferrite devices and other microwave components. Fundamental and modern high-frequency measurement techniques and components are covered in the laboratory.    (prereq: EE-3212)
+Course Learning Outcomes
+Upon successful completion of this course, the student will be able to:
+• Describe the operation of and calculate key properties of microstrip characteristics and microstrip components
+• Utilize RF/microwave simulation software in high frequency circuit analysis
+• Describe and sketch field patterns in common high frequency transmission media, especially microstrip, stripline, and rectangular and circular waveguides
+• Determine the analytic expressions for the electromagnetic fields inside rectangular and circular waveguides
+• Describe the operation of and key specifications of microwave resonators and ferrite devices.
+Prerequisites by Topic
+• Transmission lines and Maxwell’s equations review. (2 classes)
+• TEM, especially microstrip, media and components. (4 classes)
+• Rectangular and circular waveguides. (7 classes)
+• Microwave resonators. (2 classes)
+• Microwave ferrite and other components. (3 classes)
+• Homework sessions. (2 classes) [Exams are typically take-home.]
+Course Topics
+• Electromagnetic fields (EE-3202 and EE-3212).
+• Transmission line theory and Smith charts (EE-3212).
+• Scattering parameters (EE-3212).
+• Plane waves (EE-3212).
+Laboratory Topics
+• Laboratory topics and schedule intended to be at the discretion of the instructor; typical laboratory topics:
+• RF/microwave simulation
+• Measurements of RF/microwave components
+• RF/microwave project (usually in microstrip)
+Coordinator
+Robert Strangeway
+Back to Top
+|
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+All
+catalogs
+© 2026 Milwaukee School of Engineering.
+Powered by
+Modern Campus Catalog™
+.

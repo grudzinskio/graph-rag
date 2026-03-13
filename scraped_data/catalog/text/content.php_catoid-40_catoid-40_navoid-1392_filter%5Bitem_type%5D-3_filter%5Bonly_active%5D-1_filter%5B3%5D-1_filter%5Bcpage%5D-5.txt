@@ -1,0 +1,418 @@
+Course Descriptions - Milwaukee School of Engineering
+Milwaukee School of Engineering
+Mar 12, 2026
+2024-2025 Undergraduate Academic Catalog-June
+Select a Catalog
+2025-2026 Undergraduate Academic Catalog
+2025-2026 Graduate Academic Catalog
+2024-2025 Undergraduate Academic Catalog-June [ARCHIVED CATALOG]
+2024-2025 Graduate Academic Catalog-June [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Graduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Graduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Graduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Graduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Graduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Graduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Graduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Graduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Graduate Academic Catalog [ARCHIVED CATALOG]
+2013-14 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2012-2014 Graduate Academic Catalog [ARCHIVED CATALOG]
+2012-2013 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+Global Search
+Catalog Search
+Choose Search Location
+Select an option
+Courses
+Programs
+Academic Departments
+Other Content
+Entire Catalog
+Search Keyword Field
+Whole Word/Phrase
+Advanced Search
+Catalog Navigation
+Catalog Home
+Academic Calendar
+University Overview
+Admissions
+Student Financial Services
+Academic Regulations and Policies
+Degree Programs, Minors, and Certificates
+Degrees, Minors, and Certificates by Department
+Course Descriptions
+The Raider Core
+MSOE Honors Program
+Global Opportunities
+Reserve Officers’ Training Corps. (ROTC)
+Administration, Regents, and Advisory Committees
+Departments and Faculty
+Campus Map
+Student Resources
+My Portfolio
+HELP
+2024-2025 Undergraduate Academic Catalog-June
+[ARCHIVED CATALOG]
+Course Descriptions
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Course Filter
+Filter this list of courses using course prefix, course code, keywords or any combination.
+Prefix:
+Code or Number:
+Type
+Keyword or Phrase:
+Choose Course Prefix
+All prefixes…
+ACS
+AHT
+AIR
+ANT
+ARE
+ARM
+BIO
+BME
+BUS
+CAE
+CBE
+CHM
+COM
+CON
+CPE
+CSC
+CSE
+CVE
+CYB
+EAP
+ECB
+ELE
+FNA
+GER
+HON
+HST
+HUM
+IDS
+IND
+LIT
+MEC
+MTH
+MUS
+NAV
+NUR
+PHL
+PHY
+PSC
+PSY
+RSC
+SCI
+SOC
+SPN
+SSC
+SWE
+TCM
+UGR
+UXD
+Choose Course Number
+Choose Course Type
+All types…
+Actuarial Science
+Air Force
+Anthropology
+Architectural Engineering
+Army
+Art History
+Biological Sciences
+Biomedical Engineering
+Business
+Chemical and Biomolecular Engineering
+Chemistry
+Civil and Architectural Engineering
+Civil Engineering
+Communication
+Computer Engineering
+Computer Science
+Computer Science and Software Engineering
+Construction Management
+Cybersecurity
+Electrical Engineering
+Electrical, Computer, and Biomedical Engineering
+English for Academic Purposes (EAP)
+Fine Arts
+German
+History
+Honors
+Humanities
+Industrial Engineering
+Interdisciplinary Studies
+Literature
+Mathematics
+Mechanical Engineering
+Music
+Naval Science
+Nursing
+Philosophy
+Physics
+Political Science
+Psychology
+Raider Success Courses
+Science
+Social Sciences
+Sociology
+Software Engineering
+Spanish
+Technical Communication
+Undergraduate Research
+User Experience
+Choose Keyword
+Find whole word or phrase only.
+Cybersecurity
+•
+CYB 3551 - Digital Forensics
+•
+CYB 4551 - Software Reverse Engineering
+•
+CYB 4911 - Cybersecurity Micro-practicum
+•
+CYB 4981 - Topics in Cybersecurity with Laboratory
+Electrical Engineering
+•
+ELE 1000 - Introduction to Electrical Engineering
+•
+ELE 1601 - Introduction to Programming for EEs
+•
+ELE 1801 - Transfer Digital Logic and Embedded Systems
+•
+ELE 2001 - Electric Circuits I: Theory and Applications
+•
+ELE 2011 - Electric Circuits II: Theory and Applications
+•
+ELE 2021 - Transfer Electric Circuits
+•
+ELE 2022 - Bridge Electric Circuits
+•
+ELE 2051 - Circuit Theory for Mechanical Engineering
+•
+ELE 2610 - Embedded Systems
+•
+ELE 2801 - Bridge Digital Design and Procedural Programming
+•
+ELE 3101 - Electronics I
+•
+ELE 3111 - Electronics II
+•
+ELE 3141 - Transfer Electronics
+•
+ELE 3151 - Bridge Electronics II
+•
+ELE 3201 - Electromagnetics and Transmission Lines
+•
+ELE 3300 - Signals and Systems
+•
+ELE 3310 - Introduction to Probability and Random Processes
+•
+ELE 3320 - Digital Signal Processing
+•
+ELE 3401 - Electric Power and Machines
+•
+ELE 3510 - Digital Systems
+•
+ELE 3701 - Control Systems
+•
+ELE 3900 - Career and Professional Guidance
+•
+ELE 4142 - Modern Electronic Systems
+•
+ELE 4190 - THL Advanced Analog Design
+•
+ELE 4240 - Advanced Electromagnetics and Antenna Theory
+•
+ELE 4290 - THL Radio Frequencies
+•
+ELE 4291 - THL Microwaves
+•
+ELE 4300 - Principles of Communications
+•
+ELE 4320 - Applications of DSP
+•
+ELE 4390 - THL Communication Networks
+•
+ELE 4403 - Specialty Electric Machines
+•
+ELE 4440 - Power Electronics
+•
+ELE 4447 - Power System Models and Analysis
+•
+ELE 4451 - Grid Stability
+•
+ELE 4480 - Electrical Power Systems Quality
+•
+ELE 4610 - Advanced Programming for EEs
+•
+ELE 4630 - Advanced Embedded Systems
+•
+ELE 4701 - Control Systems Applications
+•
+ELE 4901 - Electrical Engineering - Senior Design Project I
+•
+ELE 4902 - Electrical Engineering - Senior Design Project II
+•
+ELE 4940 - THL Bachelor Thesis
+•
+ELE 4980 - Topics in Electrical Engineering
+•
+ELE 4981 - Topics in Electrical Engineering with Laboratory
+•
+ELE 4999 - Electrical Engineering Independent Study
+Electrical, Computer, and Biomedical Engineering
+•
+ECB 2961 - General AI Application Foundation
+•
+ECB 2963 - General AI Application Contexts
+•
+ECB 3991 - Co-op Experience I
+•
+ECB 3992 - Co-op Experience II
+•
+ECB 4200 - Engineering Applications of MATLAB
+•
+ECB 4801 - AI for Emerging Applications Practicum
+•
+ECB 4991 - Co-op Experience III
+•
+ECB 4992 - Co-op Experience IV
+•
+ECB 4993 - International Student Internship Experience
+English for Academic Purposes (EAP)
+•
+EAP 0100 - Intensive Grammar Application
+•
+EAP 0200 - Critical Reading and Listening
+•
+EAP 0980 - Topics in English for Academic Purposes
+Fine Arts
+•
+FNA 2002 - Drama and The Theater
+•
+FNA 2980 - Topics in Fine Arts
+•
+FNA 2999 - Fine Arts Independent Study
+•
+FNA 3001 - Creative Writing
+•
+FNA 3980 - Topics in Fine Arts
+•
+FNA 3999 - Fine Arts Independent Study
+•
+FNA 4010 - Film and Media Studies
+•
+FNA 4980 - Topics in Fine Arts
+•
+FNA 4999 - Fine Arts Independent Study
+German
+•
+GER 1001 - Elementary German
+•
+GER 2001 - Intermediate German
+•
+GER 2999 - German Independent Study
+•
+GER 3001 - Advanced German
+•
+GER 3980 - Topics in the German-Speaking World
+•
+GER 3999 - German Independent Study
+•
+GER 4980 - Topics in the German-Speaking World
+•
+GER 4999 - German Independent Study
+History
+•
+HST 1013 - United States History I
+•
+HST 1014 - United States History II
+•
+HST 1015 - Latin American History I
+•
+HST 1016 - Latin American History II
+•
+HST 2011 - American Revolution
+•
+HST 2012 - Civil War and Reconstruction
+•
+HST 2014 - History of US World’s Fairs
+•
+HST 2015 - Topics in Twentieth Century American History
+•
+HST 2021 - Topics in Modern European History
+•
+HST 2022 - German History
+•
+HST 2031 - World War II
+•
+HST 2041 - Cuban History
+•
+HST 2053 - Music History
+•
+HST 2980 - Topics in History
+•
+HST 2999 - History Independent Study
+•
+HST 3980 - Topics in History
+•
+HST 3999 - History Independent Study
+•
+HST 4980 - Topics in History
+•
+HST 4999 - History Independent Study
+Honors
+•
+HON 2011 - Honors Practicum
+•
+HON 2051 - Honors Seminar I
+•
+HON 2052 - Honors Seminar II
+•
+HON 2060 - Honors Travel Experience
+Page:
+1
+|
+2
+|
+3
+|
+4
+|
+5
+|
+6
+|
+7
+|
+8
+|
+9
+Back to Top
+|
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+All
+catalogs
+© 2026 Milwaukee School of Engineering.
+Powered by
+Modern Campus Catalog™
+.

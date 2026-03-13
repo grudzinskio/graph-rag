@@ -1,0 +1,776 @@
+Program: Electrical Engineering, B.S. - Milwaukee School of Engineering
+Milwaukee School of Engineering
+Mar 12, 2026
+2022-2023 Undergraduate Academic Catalog
+Select a Catalog
+2025-2026 Undergraduate Academic Catalog
+2025-2026 Graduate Academic Catalog
+2024-2025 Undergraduate Academic Catalog-June [ARCHIVED CATALOG]
+2024-2025 Graduate Academic Catalog-June [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Graduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Graduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Graduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Graduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Graduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Graduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Graduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Graduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Graduate Academic Catalog [ARCHIVED CATALOG]
+2013-14 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2012-2014 Graduate Academic Catalog [ARCHIVED CATALOG]
+2012-2013 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+Global Search
+Catalog Search
+Choose Search Location
+Select an option
+Courses
+Programs
+Academic Departments
+Other Content
+Entire Catalog
+Search Keyword Field
+Whole Word/Phrase
+Advanced Search
+Catalog Navigation
+Catalog Home
+Academic Calendar
+University Overview
+Admissions Department
+Academic Regulations and Policies
+Student Financial Services
+Degrees, Minors, and Certificates by Department
+Degree Programs, Minors, and Certificates
+University Scholars Honors Program
+Reserve Officers’ Training Corps. (ROTC)
+English for Academic Purposes (EAP)
+Course Descriptions
+Administration, Regents, Faculty, and Advisory Committees
+Campus Map
+Student Resources
+My Portfolio
+HELP
+2022-2023 Undergraduate Academic Catalog
+[ARCHIVED CATALOG]
+Electrical Engineering, B.S.
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Program Director
+Dr. Steven S. Holland
+Office: L-340
+Phone: (414) 277-7376
+Email:
+holland@msoe.edu
+EE Study Abroad Coordinator
+Dr. Jennifer Bonniwell
+Office: L-335
+Phone: (414) 277-7345
+Email:
+bonniwell@msoe.edu
+AAS-EET to BSEE Transfer Track Coordinator
+Dr. Robert Strangeway
+Office: S-357
+Phone: (414) 277-7311
+Email:
+strangew@msoe.edu
+The electrical engineering program (BSEE) at MSOE places a very strong emphasis on design, applications, and experience-based learning through laboratory experimentation. The laboratory is a great place to work out the details of your understanding of the theory. Consequently, the BSEE program at MSOE prepares its graduates for successful entry into the engineering profession, as well as for graduate school.
+There are multiple curriculum tracks for the BSEE program at MSOE. One track provides BSEE students the opportunity to study abroad in their junior year at the Technische Hochschule Lübeck (THL) in Lübeck, Germany. This is a tremendous opportunity for anyone who is thinking about a career path that involves the global economy and viewpoint. All instruction is in English. Students will receive two degrees: one from MSOE and one from THL. Students will graduate on schedule, if they stay on track in the EE curriculum.
+Electrical engineering students wishing to participate in the study abroad program at THL must have a cumulative GPA of 2.5 or higher at the end of the Winter Quarter of their sophomore year and be in good academic standing at the end of Winter and Spring Quarters of their sophomore year. In addition, all of the following courses must be completed by the end of the Spring Quarter of the sophomore year:
+EE 1910
+,
+EE 2050
+,
+EE 2060
+,
+EE 2070
+,
+EE 3050
+or
+EE 3051B
+,
+EE 3102
+,
+MA 136
+,
+MA 137
+,
+MA 231
+or
+MA 2314
+,
+MA 232
+or
+MA 2323
+,
+MA 235
+,
+MA 262
+,
+MA 383
+,
+GS 1001
+,
+GS 1002
+,
+GS 1003
+,
+PH 2011
+.
+Qualified transfer students may also enter the program using the AAS-EET to BSEE transfer plan.  This curriculum track is designed to allow AAS graduates of electrical engineering technology programs from colleges with which MSOE holds transfer agreements, to transfer efficiently into the BSEE program.
+Program Educational Objectives
+The electrical engineering program is preparing graduates to attain the following objectives within a few years of graduation:
+Be productive and successful in their chosen career field by assuming greater degrees of responsibility and/or assuming leadership roles.
+Actively participate in the affairs of their profession and continue with their professional development.
+Student Outcomes
+In support of the program objectives, graduates of the program will have:
+an ability to identify, formulate, and solve complex engineering problems by applying principles of engineering, science, and mathematics
+an ability to apply engineering design to produce solutions that meet specified needs with consideration of public health, safety, and welfare, as well as global, cultural, social, environmental, and economic factors
+an ability to communicate effectively with a range of audiences
+an ability to recognize ethical and professional responsibilities in engineering situations and make informed judgments, which must consider the impact of engineering solutions in global, economic, environmental, and societal contexts
+an ability to function effectively on a team whose members together provide leadership, create a collaborative and inclusive environment, establish goals, plan tasks, and meet objectives
+an ability to develop and conduct appropriate experimentation, analyze and interpret data, and use engineering judgment to draw conclusions
+an ability to acquire and apply new knowledge as needed, using appropriate learning strategies
+Electrical Engineering Cooperative Education Program
+Cooperative education is designed to integrate classroom study with planned and supervised work experiences. The co-op program offers students an opportunity to gain industrial experience as part of their formal education. Co-op students are employed in technical capacities in a variety of companies. The co-op program is optional, and co-op positions are not guaranteed. Positions are awarded at the discretion of the employer after a competitive interviewing process.
+Requirements for Electrical Engineering Co-op Program
+Will consist of 3 segments consisting of two consecutive quarters with summers counting as a quarter
+Must have full-time student status in the electrical engineering program at MSOE
+Will begin after the completion of the sophomore academic year
+Cannot be on probation after the completion of the sophomore academic year
+If either the employer or the student do not wish to engage in the 2nd or 3rd co-op sequence the student may seek to complete the co-op experience with another employer
+If the student drops out of the co-op program for any reason, whether due to his/her own decision or that of the employer, no adjustment of when courses are offered will be made to accommodate the student
+View Annual Student Enrollment and Graduation Data
+Return to:
+Academic Departments, Undergraduate Degree Programs, Minors, and Certificates
+Jump to:
+Electrical Engineering B.S.
+Electrical Engineering B.S. Study Abroad program (originating at MSOE)
+Electrical Engineering B.S. German Study Abroad program (originating at THL)
+Electrical Engineering B.S. (AAS-EET to BSEE)
+Electrical Engineering Model Full-time Traditional Track - V16.2
+Year One
+Fall
+CH 200 - Chemistry I
+4
+credits
+EE 1000 - Introduction to Electrical Engineering
+4
+credits
+GS 1001 - Freshman Studies I
+4
+credits
+MA 136 - Calculus I
+4
+credits
+Total: 14 lecture hours - 4 lab hours - 16 credits
+Winter
+CE 1901 - Digital Logic 1
+4
+credits
+EE 1910 - Introduction to Embedded Systems Programming
+4
+credits
+GS 1002 - Freshman Studies II
+4
+credits
+MA 137 - Calculus II
+4
+credits
+Total: 14 lecture hours - 4 lab hours - 16 credits
+Spring
+CE 1911 - Digital Logic 2
+4
+credits
+EE 2050 - Linear Circuits - Steady State I
+4
+credits
+GS 1003 - Freshman Studies III
+4
+credits
+MA 2314 - Calculus III
+4
+credits
+Total: 14 lecture hours - 4 lab hours - 16 credits
+Year Two
+Fall
+EE 2060 - Linear Circuits - Steady State II
+4
+credits
+EE 2920 - Embedded Systems
+4
+credits
+MA 235 - Differential Equations
+4
+credits
+PH 2011 - Physics I - Mechanics
+4
+credits
+Total: 13 lecture hours - 6 lab hours - 16 credits
+Winter
+EE 2070 - Linear Circuits - Transients
+3
+credits
+EE 2931 - Systems Interfacing
+4
+credits
+MA 2323 - Calculus IV
+3
+credits
+MA 262 - Probability and Statistics
+3
+credits
+PH 2021 - Physics II - ElectroMagnetism
+4
+credits
+Total: 15 lecture hours - 4 lab hours - 17 credits
+Spring
+BA 2220 - Foundations of Business Economics
+3
+credits
+2
+EE 2510 - Introduction to Object-Oriented Programming
+3
+credits
+Elective
+1
+(HU/SS)
+3 credits
+MA 383 - Linear Algebra
+3
+credits
+PH 2031 - Waves, Optics, Thermodynamics, and Quantum Physics
+4
+credits
+Total: 14 lecture hours - 4 lab hours - 16 credits
+Year Three
+Fall
+EE 3050 - Dynamic Systems
+3
+credits
+EE 3102 - Analog Electronics I
+4
+credits
+EE 3921 - Digital System Design
+4
+credits
+ME 354 - Thermodynamics and Heat Transfer
+3
+credits
+Total: 12 lecture hours - 4 lab hours - 14 credits
+Winter
+EE 3032 - Signals and Systems
+4
+credits
+EE 3112 - Analog Electronics II
+4
+credits
+EE 3204 - Electric and Magnetic Fields
+4
+credits
+EE 3720 - Control Systems
+4
+credits
+GE 300 - Career and Professional Guidance
+1
+credits
+Total: 16 lecture hours - 4 lab hours - 17 credits
+Spring
+EE 3214 - Electromagnetic Waves
+4
+credits
+EE 3221 - Digital Signal Processing
+4
+credits
+EE 3401 - Electromechanical Energy Conversion
+4
+credits
+IE 423 - Engineering Economy
+3
+credits
+Total: 12 lecture hours - 6 lab hours - 15 credits
+Year Four
+Fall
+EE 407 - Senior Design Project I
+3
+credits
+EE 4022 - Principles of Communications
+4
+credits
+Elective
+1
+(Technical)
+3 credits
+Elective
+1
+(Math/Science)
+3 credits
+PH 3600 - Physics of Semiconductor Materials and Devices
+4
+credits
+Total: 14 lecture hours - 7 lab hours - 17 credits
+Winter
+EE 408 - Senior Design Project II
+3
+credits
+Elective
+1
+(Technical)
+3 credits
+Elective
+1
+(Technical)
+3 credits
+Elective
+1
+(HU/SS)
+3 credits
+Elective
+1
+(HU/SS)
+3 credits
+Total: 14 lecture hours - 3 lab hours - 15 credits
+Spring
+EE 409 - Senior Design Project III
+3
+credits
+Elective
+1
+(Technical)
+3 credits
+Elective
+1
+(HU/SS)
+3 credits
+Elective
+1
+(HU/SS)
+3 credits
+HU 432 - Ethics for Professional Managers and Engineers
+3
+credits
+Total: 14 lecture hours - 3 lab hours - 15 credits
+Total: 189 credits
+Notes:
+1
+The 30 credits of elective subjects in the electrical engineering program must be taken as follows:
+6 credits of humanities (HU)
+6 credits of social science (SS)
+3 credits of humanities (HU) or social science (SS)
+12 credits of approved EE program technical electives
+3 credits of approved math or science elective
+2
+BA 1220
+- Microeconomics or
+BA 2222
+- Macroeconomics can be used as a substitute for
+BA 2220
+.
+Accredited by the Engineering Accreditation Commission of ABET,
+http://www.abet.org
+.
+Electrical Engineering Track V16.2A (German Study-abroad Program, Originating at MSOE)
+Year One at MSOE
+Fall
+CH 200 - Chemistry I
+4
+credits
+EE 1000 - Introduction to Electrical Engineering
+4
+credits
+GS 1001 - Freshman Studies I
+4
+credits
+MA 136 - Calculus I
+4
+credits
+Total: 14 lecture hours - 4 lab hours - 16 credits
+Winter
+CE 1901 - Digital Logic 1
+4
+credits
+EE 1910 - Introduction to Embedded Systems Programming
+4
+credits
+GS 1002 - Freshman Studies II
+4
+credits
+MA 137 - Calculus II
+4
+credits
+Total: 14 lecture hours - 4 lab hours - 16 credits
+Spring
+CE 1911 - Digital Logic 2
+4
+credits
+EE 2050 - Linear Circuits - Steady State I
+4
+credits
+GS 1003 - Freshman Studies III
+4
+credits
+MA 2314 - Calculus III
+4
+credits
+Total: 14 lecture hours - 4 lab hours - 16 credits
+Year Two at MSOE
+Fall
+EE 2060 - Linear Circuits - Steady State II
+4
+credits
+EE 2920 - Embedded Systems
+4
+credits
+MA 235 - Differential Equations
+4
+credits
+PH 2011 - Physics I - Mechanics
+4
+credits
+Total: 13 lecture hours - 6 lab hours - 16 credits
+Winter
+EE 2070 - Linear Circuits - Transients
+3
+credits
+EE 2931 - Systems Interfacing
+4
+credits
+GE 300 - Career and Professional Guidance
+1
+credits
+MA 2323 - Calculus IV
+3
+credits
+PH 2021 - Physics II - ElectroMagnetism
+4
+credits
+Total: 14 lecture hours - 4 lab hours - 15 credits
+Spring
+EE 3051B - Dynamic Systems
+4
+credits
+EE 3102 - Analog Electronics I
+4
+credits
+MA 262 - Probability and Statistics
+3
+credits
+MA 383 - Linear Algebra
+3
+credits
+PH 2031 - Waves, Optics, Thermodynamics, and Quantum Physics
+4
+credits
+Total: 16 lecture hours - 4 lab hours - 18 credits
+Year Three at THL
+Fall Semester
+Total: 25 lecture hours - 5 lab hours - 4 credits
+Spring Semester
+Total: 21 lecture hours - 8 lab hours - 6 credits
+Year Four at MSOE
+Fall
+EE 407 - Senior Design Project I
+3
+credits
+EE 3921 - Digital System Design
+4
+credits
+ME 354 - Thermodynamics and Heat Transfer
+3
+credits
+PH 3600 - Physics of Semiconductor Materials and Devices
+4
+credits
+Total: 11 lecture hours - 7 lab hours - 14 credits
+Winter
+EE 408 - Senior Design Project II
+3
+credits
+EE 3204 - Electric and Magnetic Fields
+4
+credits
+EE 3221 - Digital Signal Processing
+4
+credits
+Elective
+1
+(Math or Science)
+3 credits
+HU 432 - Ethics for Professional Managers and Engineers
+3
+credits
+Total: 15 lecture hours - 5 lab hours - 17 credits
+Spring
+BA 1220 - Microeconomics
+3
+credits
+2
+EE 409 - Senior Design Project III
+3
+credits
+EE 2510 - Introduction to Object-Oriented Programming
+3
+credits
+EE 3401 - Electromechanical Energy Conversion
+4
+credits
+IE 423 - Engineering Economy
+3
+credits
+Total: 13 lecture hours - 7 lab hours - 16 credits
+Notes:
+1
+The 3 credits of elective subjects must be taken as follows:
+3 credits of program-approved math or science elective
+2
+BA 1220
+- Microeconomics or
+BA 2222
+- Macroeconomics can be used as a substitute for
+BA 2220
+.
+Accredited by the Engineering Accreditation Commission of ABET,
+http://www.abet.org
+.
+Electrical Engineering Track V16.2B (German Study-abroad Program, Originating at THL)
+Year Three at THL
+Fall Semester
+Total: 20 lecture hours - 6 lab hours - 0 credits
+Spring Semester
+Total: 19 lecture hours - 7 lab hours - 6 credits
+Year Four at MSOE
+Fall
+BA 2501 - Finance I
+3
+credits
+BA 2710 - Database Management
+3
+credits
+EE 3921 - Digital System Design
+4
+credits
+GE 611 - Numerical Methods
+3 credits
+Total: 12 lecture hours - 2 lab hours - 13 credits
+Winter
+EE 3221 - Digital Signal Processing
+4
+credits
+EE 3204 - Electric and Magnetic Fields
+4
+credits
+Elective
+1
+(HU)
+3 credits
+Elective
+1
+(HU)
+3 credits
+GE 300 - Career and Professional Guidance
+1
+credits
+Total: 15 lecture hours - 2 lab hours - 15 credits
+Spring
+EE 423 - Applications of Digital Signal Processing
+3
+credits
+EE 444 - Power Electronics
+3
+credits
+EE 3401 - Electromechanical Energy Conversion
+4
+credits
+GS 1003 - Freshman Studies III
+4
+credits
+HU 432 - Ethics for Professional Managers and Engineers
+3
+credits
+Total: 15 lecture hours - 4 lab hours - 17 credits
+Summer
+EE 499G - Independent Study - German Students
+12
+credits
+Total: 0 lecture hours - 0 lab hours - 12 credits
+Notes:
+1
+The 6 credits of elective subjects must be taken as follows:
+6 credits of approved humanities (HU)
+Accredited by the Engineering Accreditation Commission of ABET,
+http://www.abet.org
+.
+Electrical Engineering Track V16.2C (AAS-EET to BSEE, Full Time)
+Year One
+Fall Quarter
+EE 3001B - Signals and Circuits I
+4
+credits
+EE 3900B - Design of Logic Systems
+4
+credits
+MA 3501 - Engineering Mathematics I
+4
+credits
+4
+MA 3502 - Engineering Mathematics II
+4
+credits
+Total: 14 lecture hours - 4 lab hours - 16 credits
+Winter Quarter
+CH 200B - Chemistry I
+4
+credits
+1
+EE 3002B - Signals and Circuits II
+4
+credits
+EE 3910B - Embedded Systems
+4
+credits
+GE 300 - Career and Professional Guidance
+1
+credits
+MA 383 - Linear Algebra
+3
+credits
+Total: 16 lecture hours - 4 lab hours - 16 credits
+Spring Quarter
+EE 3051B - Dynamic Systems
+4
+credits
+3
+EE 3112 - Analog Electronics II
+4
+credits
+IE 423 - Engineering Economy
+3
+credits
+MA 262 - Probability and Statistics
+3
+credits
+PH 2021 - Physics II - ElectroMagnetism
+4
+credits
+Total: 16 lecture hours - 4 lab hours - 18 credits
+Year Two
+Fall Quarter
+EE 407 - Senior Design Project I
+3
+credits
+EE 2510 - Introduction to Object-Oriented Programming
+3
+credits
+EE 3032 - Signals and Systems
+4
+credits
+EE 3720 - Control Systems
+4
+credits
+PH 2031 - Waves, Optics, Thermodynamics, and Quantum Physics
+4
+credits
+Total: 14 lecture hours - 9 lab hours - 18 credits
+Winter Quarter
+EE 408 - Senior Design Project II
+3
+credits
+EE 3204 - Electric and Magnetic Fields
+4
+credits
+EE 3221 - Digital Signal Processing
+4
+credits
+EE 4022 - Principles of Communications
+4
+credits
+Elective
+2
+(Technical)
+3 credits
+Total: 15 lecture hours - 7 lab hours - 18 credits
+Spring Quarter
+EE 409 - Senior Design Project III
+3
+credits
+EE 3214 - Electromagnetic Waves
+4
+credits
+ME 354 - Thermodynamics and Heat Transfer
+3
+credits
+PH 3600 - Physics of Semiconductor Materials and Devices
+4
+credits
+Elective
+2
+(Technical)
+3 credits
+Total: 14 lecture hours - 7 lab hours - 17 credits
+Year Three
+Fall Quarter
+Elective
+2
+(HU)
+3 credits
+Elective
+2
+(HU)
+3 credits
+Elective
+2
+(Math or Science)
+3 credits
+GS 1003 - Freshman Studies III
+4
+credits
+HU 432 - Ethics for Professional Managers and Engineers
+3
+credits
+Total: 16 lecture hours - 0 lab hours - 16 credits
+Total: 119 credits
+Notes:
+1
+Students with high school chemistry may enroll in
+CH 200
+.
+2
+The 15 credits of elective subjects must be taken as follows:
+6 credits of humanities (HU).
+6 credits of approved EE program technical electives (Additional electrical engineering program technical electives may be required if certain courses specified by MSOE are not fulfilled at the AAS-EET institution)
+3 credits of program-approved math or science elective.
+3
+Students with
+PH 2011
+or equivalent may enroll in
+EE 3050
+.
+4
+MA 2323
+may be required for students based on their transfer courses. Consult with an AAS-EET to BSEE academic advisor.
+Accredited by the Engineering Accreditation Commission of ABET,
+http://www.abet.org
+.
+Back to Top
+|
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+All
+catalogs
+© 2026 Milwaukee School of Engineering.
+Powered by
+Modern Campus Catalog™
+.

@@ -1,0 +1,331 @@
+Program: Actuarial Science, B.S. - Milwaukee School of Engineering
+Milwaukee School of Engineering
+Mar 12, 2026
+2014-2015 Undergraduate Academic Catalog
+Select a Catalog
+2025-2026 Undergraduate Academic Catalog
+2025-2026 Graduate Academic Catalog
+2024-2025 Undergraduate Academic Catalog-June [ARCHIVED CATALOG]
+2024-2025 Graduate Academic Catalog-June [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Graduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Graduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Graduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Graduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Graduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Graduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Graduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Graduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Graduate Academic Catalog [ARCHIVED CATALOG]
+2013-14 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2012-2014 Graduate Academic Catalog [ARCHIVED CATALOG]
+2012-2013 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+Global Search
+Catalog Search
+Choose Search Location
+Select an option
+Courses
+Programs
+Academic Departments
+Other Content
+Entire Catalog
+Search Keyword Field
+Whole Word/Phrase
+Advanced Search
+Catalog Navigation
+Catalog Home
+President’s Welcome
+Academic Calendar
+University Overview
+Enrollment Management Department
+Graduate and Professional Education
+Academic Regulations and Policies
+Student Accounts, Fees and Financial Aid
+Other Academic Resources
+Academic Departments, Undergraduate Degree Programs, Minors and Certificates
+Degree Programs, Minors and Certificates
+Two-degree Programs
+Graduate Studies Programs
+Reserve Officer Training Corps (ROTC)
+Course Descriptions
+Board of Regents, Academic Administration, Faculty and Advisory Committees
+Campus Map
+My Portfolio
+HELP
+2014-2015 Undergraduate Academic Catalog
+[ARCHIVED CATALOG]
+Actuarial Science, B.S.
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Return to:
+Degree Programs, Minors and Certificates
+Program Director
+Dr. Yvonne Yaz
+Office: L321
+Phone: (414) 277-7423
+Email:
+yaz@msoe.edu
+Do you like mathematics but don’t want to become an engineer? Then the field of actuarial science might be for you.
+In fact, actuarial science is rated as one of the best jobs in the United States. In almost every category, such as work environment, employment outlook, job security, growth opportunity and especially salary, a career as an actuary is hard to beat.
+Actuaries are professionals who use math and statistics to manage risk, evaluate the likelihood of future events and reduce the likelihood and impact of undesirable events.
+Program Educational Objectives
+Graduates of the BS in actuarial science program will:
+demonstrate comprehensive knowledge and skills in applied mathematics.
+demonstrate comprehensive knowledge and skills in computer programming and computer applications such as: spreadsheets, presentation software, statistical analysis programs, database management, programming languages and linear/nonlinear/dynamic programming.
+display an understanding of professional and ethical responsibilities.
+display appropriate in-depth communications, management and teamwork skills, associated with the practical and professional aspects of operations research.
+be well prepared to be accepted and successfully complete an MS program in operations research at a university in the United States.
+Student Outcomes
+Upon graduation, students of the BS in Actuarial Science program should have:
+obtained general applied mathematics knowledge: single and multivariable calculus, linear algebra, and differential equations.
+obtained general mathematical modeling and strong probability and statistics knowledge: statistics, probability, mathematical modeling, applied probability models, game theory, linear and non-linear programming.
+have obtained general computational knowledge by completing courses such as: Visual Basic, Java, Computational Methods and Applications
+have completed business courses: Micro and Macro Economics, Principles of Accounting, Production Management, Applied Operations Management, Advanced Operations Management, and Quantitative Management Techniques
+have completed the course: Ethics for Professional Managers and Engineers
+have completed communication courses: Composition, Technical Composition, Business Communication and Speech.
+View Annual Student Enrollment and Graduation Data
+Actuarial Science Model Full-time Track V3.0
+Year One
+Fall
+MA 136 - Calculus for Engineers I
+4
+credits
+MA 183 - Transition to Advanced Topics in Mathematics
+3
+credits
+MS 184 - Introduction to Computer Methods/Applications
+3
+credits
+MS 2810 - Intro to Computer Prog Visual Basic
+3
+credits
+EN 131 - Composition
+3
+credits
+Total: 15 lecture hours - 2 lab hours - 16 credits
+Winter
+MA 137 - Calculus for Engineers II
+4
+credits
+MA 2831 - Linear Algebra for Math Majors I
+3
+credits
+MS 221 - Microeconomics
+3
+credits
+EN 132 - Technical Composition
+3
+credits
+CH 103 - Principles of Chemistry
+4
+credits
+Total: 16 lecture hours - 2 lab hours - 17 credits
+Spring
+MA 231 - Calculus for Engineers III
+4
+credits
+MA 2832 - Linear Algebra for Math Majors II
+3
+credits
+MS 322 - Macroeconomics
+3
+credits
+EN 241 - Speech
+3
+credits
+HU 100 - Contemporary Issues in the Humanities
+3
+credits
+Total: 15 lecture hours - 2 lab hours - 16 credits
+Year Two
+Fall
+MA 232 - Calculus for Engineers IV
+3
+credits
+MS 354 - Principles of Accounting
+3
+credits
+EN 432 - Business Communication
+3
+credits
+MA 2630 - Probability I
+4
+credits
+Elective (MS)
+3 credits
+Total: 16 lecture hours - 0 lab hours - 16 credits
+Winter
+MA 330 - Vector Analysis
+3
+credits
+MA 2631 - Probability II
+4
+credits
+MA 2410 - Statistics for Math Majors
+4
+credits
+MS 356 - Business Finance
+3
+credits
+Elective (HU/SS) 3 credits
+Total: 17 lecture hours - 0 lab hours - 17 credits
+Spring
+MA 235 - Differential Equations for Engineers
+4
+credits
+MS 358 - Managerial Cost Accounting
+3
+credits
+MS 273 - Web Site Design
+3
+credits
+PH 2010 - Physics I - Mechanics
+4
+credits
+Elective (HU/SS)
+3 credits
+Total: 16 lecture hours - 3 lab hours - 17 credits
+Year Three
+Fall
+Elective (MA)
+3 credits
+MA 380 - Advanced Differential Equations
+3
+credits
+MS 4599 - Managerial Finance
+3
+credits
+HU 432 - Ethics for Professional Managers and Engineers
+3
+credits
+Elective (HU/SS)
+3 credits
+Total: 15 lecture hours - 0 lab hours - 15 credits
+Winter
+MA 2310 - Discrete Mathematics I
+3
+credits
+MA 390 - Financial Mathematics
+4
+credits
+Elective (MS)
+3 credits
+Elective (HU/SS)
+3 credits
+MS 382 - Introduction to Java Programming
+3
+credits
+Total: 16 lecture hours - 0 lab hours - 16 credits
+Spring
+MA 343 - Linear Programming
+3
+credits
+MS 450 - Management Control Systems
+3
+credits
+Elective (MS)
+3 credits
+Elective (MS)
+3 credits
+MS 3803 - Intermediate Java Programming
+3
+credits
+Total: 15 lecture hours - 0 lab hours - 15 credits
+Year Four
+Fall
+MS 331 - Business Law
+3
+credits
+MS 483 - Database Management Systems
+3
+credits
+SS 461 - Organizational Psychology
+3
+credits
+Elective (MS)
+3 credits
+Elective (HU/SS)
+3 credits
+Total: 15 lecture hours - 0 lab hours - 15 credits
+Winter
+SS 467 - Social Psychology
+3
+credits
+Elective (MA)
+3 credits
+Elective (MS)
+3 credits
+Elective (HU/SS)
+3 credits
+HU 431A - Formal Logic
+3
+credits
+Total: 15 lecture hours - 0 lab hours - 15 credits
+Spring
+Elective (MA)
+3 credits
+MS 446 - Business Strategy Capstone
+3
+credits
+MS 488 - Cross-Platform Mobile Application Development
+3
+credits
+Elective (HU/SS)
+3 credits
+Elective (HU/SS)
+3 credits
+Total: 15 lecture hours - 0 lab hours - 15 credits
+Mathematics electives
+MA 3710 - Mathematical Biology
+3
+credits
+MA 381 - Complex Variables
+3
+credits
+MA 382 - Laplace and Fourier Transforms
+3
+credits
+MA 384 - Statistical Methods for Use in Research
+3
+credits
+MA 385 - Modern Algebra with Applications
+3
+credits
+MA 386 - Functions of a Real Variable
+3
+credits
+MA 387 - Partial Differential Equations
+3
+credits
+MA 388 - Introduction to Number Theory
+3
+credits
+MA 3320 - Discrete Mathematics II
+3
+credits
+Return to:
+Degree Programs, Minors and Certificates
+Back to Top
+|
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+All
+catalogs
+© 2026 Milwaukee School of Engineering.
+Powered by
+Modern Campus Catalog™
+.

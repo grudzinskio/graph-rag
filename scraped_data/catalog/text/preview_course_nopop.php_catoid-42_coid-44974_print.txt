@@ -1,0 +1,168 @@
+ELE 2001 - Electric Circuits I: Theory and Applications -
+2025-2026 Undergraduate Academic Catalog
+Milwaukee School of Engineering
+Mar 12, 2026
+2025-2026 Undergraduate Academic Catalog
+Select a Catalog
+2025-2026 Undergraduate Academic Catalog
+2025-2026 Graduate Academic Catalog
+2024-2025 Undergraduate Academic Catalog-June [ARCHIVED CATALOG]
+2024-2025 Graduate Academic Catalog-June [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Graduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Graduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Graduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Graduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Graduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Graduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Graduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Graduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Graduate Academic Catalog [ARCHIVED CATALOG]
+2013-14 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2012-2014 Graduate Academic Catalog [ARCHIVED CATALOG]
+2012-2013 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+Global Search
+Catalog Search
+Choose Search Location
+Select an option
+Courses
+Programs
+Academic Departments
+Other Content
+Entire Catalog
+Search Keyword Field
+Whole Word/Phrase
+Advanced Search
+Catalog Navigation
+Catalog Home
+Academic Calendar
+University Overview
+Admissions
+Student Financial Services
+Academic Regulations and Policies
+Degree Programs, Minors, and Certificates
+Degrees, Minors, and Certificates by Department
+Course Descriptions
+The Raider Core
+Explorer Pathways
+MSOE Honors Program
+Global Opportunities
+Reserve Officers’ Training Corps. (ROTC)
+Administration, Regents, and Advisory Committees
+Departments and Faculty
+Campus Map
+Student Resources
+My Portfolio
+HELP
+2025-2026 Undergraduate Academic Catalog
+Print this Page
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+ELE 2001 - Electric Circuits I: Theory and Applications
+3
+lecture hours
+2
+lab hours
+4
+credits
+Course Description
+This lower-division course establishes a foundation in the theory of electric circuits and initiates application of those concepts in electrical and electronic applications. The main topics include DC, AC, fundamental electric circuit laws, electrical components, the ideal operational amplifier, analysis of circuits containing equivalent circuits, models of sensors and actuators, and a brief introduction to digital signals. The laboratory experiences motivate the relevance of circuit theory to actual electrical and electronic devices and circuits. Laboratory topics include instrumentation, passive circuits, sensors and transducers, DC motors, operational amplifiers, filters, equivalent circuit models, and basic digital-to-analog conversion.
+Prereq:
+High school physics
+Coreq:
+MTH 1110
+Note:
+Only one of ELE 2001 and
+ARE 2111
+can be used to meet a degree requirement unless approved by the program director.
+This course meets the following Raider Core CLO Requirement:
+None
+Course Learning Outcomes
+Upon successful completion of this course, the student will be able to:
+Demonstrate knowledge of electrical quantities in a steady-state DC context:  voltage, current, resistance, power, and energy, including SI units and prefixes
+Identify sources and loads in an energy conversion context, shorts and opens
+Relate symbols and circuit schematics to physical components and circuit boards
+Identify common circuit configurations:  series, parallel, series-parallel, and standard ideal op-amp configurations
+Analyze DC series and parallel circuits through application of Ohm’s law and Kirchhoff’s voltage and current laws
+Analyze DC series-parallel circuits, including use of the voltage and current divider rules, of linear circuit elements and the passive sign convention with consequent implications for sources and loads (note: generally limited to five passive components)
+Analyze DC circuits using nodal analysis and mathematical software for the calculations (note: mesh circuit analysis is explicitly excluded)
+Analyze DC circuits using circuit simulation software
+Mathematically represent the time domain and the phasor forms of AC sinusoidal steady-state signals
+Demonstrate knowledge of capacitance, inductance, and the following items for capacitors and inductors:  i-v relationships, reactance, DC behavior, and AC behavior
+Compute impedances, voltages, and currents using complex numbers in AC calculations
+Analyze AC circuits using series-parallel and nodal circuit techniques using mathematical software for the calculations (notes: generally limited to five passive components; use of software as opposed to manual methods is intentional)
+Analyze AC circuits using circuit simulation software
+Use superposition to analyze a circuit with both DC and one AC frequency present (note: not multiple AC sources, which is covered in Electric Circuits II)
+Recognize when the linearity condition for superposition in a circuit is valid
+Compute real AC power in circuits that contain reactance at one frequency
+Distinguish real power from apparent power in simple series and parallel AC circuits
+Analyze ideal op-amp circuits in standard configurations
+Analyze and simulate circuits with provided models of sensors, actuators, and machines
+Analytically determine Thévenin and Norton equivalent circuits of DC circuits using the open circuit - short circuit approach and graphically using voltage-current (
+i-v
+) plots (note: limited-size DC circuits are intended)
+Analyze the magnitude frequency response of two-component series RL and RC circuits for the output voltage across one component (note: phase response is covered in Electric Circuits II)
+Plot the frequency response of two-component series RL and RC circuits on semilogarithmic graphs using mathematical software and using simulations
+Identify lowpass, highpass, bandpass, and bandstop (bandreject) filter types in frequency response plots
+Identify the 20 dB/decade slope and the break frequency in the magnitude frequency response plots of two-component series RL and RC circuits (note:  transfer functions, phase response plots, and Bode plots are topics in Electric Circuits II)
+Distinguish analog and digital signals
+Demonstrate electrical laboratory measurement and instrumentation skills in DC and AC circuits, including those with sensors and actuators
+Prerequisites by Topic
+Algebra and trigonometry through precalculus
+Concept of electric charges
+Power and energy concepts
+Course Topics
+Electrical quantities in a steady-state DC context:  voltage, current resistance, power, and energy; units and prefixes; sources and loads in an energy conversion context; shorts and opens; symbols, circuit schematics, relationship to physical components and circuit boards
+DC series and parallel circuit analysis, Kirchhoff’s voltage and current laws
+DC series-parallel circuit analysis; voltage and current divider rules of linear circuit elements, passive sign convention and implications for sources and loads
+Nodal analysis, including use of mathematical software and circuit simulation software
+AC sinusoidal steady state signal: time domain and phasor mathematical representations
+Capacitance, inductance, reactance; DC and AC in inductors and capacitors
+Impedance, complex numbers, and use of complex numbers in AC calculation; two-component RL and RC series circuits
+AC series-parallel and nodal circuit analysis
+Superposition, including linearity condition for applicability of superposition
+Real AC power for same and different frequencies; apparent power distinction
+Ideal op-amps and standard configurations circuit analysis
+Model concept and using models; Thevenin/Norton equivalent circuits; models of example devices, such as motors, batteries, pH probes, solar cell, and so forth
+Analytic determination of Thevenin and Norton equivalent circuits of limited-size DC circuits using the open circuit - short circuit approach and graphically using voltage-current (i-v) plots
+Variable frequency circuit analysis and semilogarithmic plots:  two-component series RL and RC circuits; the filtering concept; simulations; the 20 dB/decade slope and break frequency concepts; mathematical software, log scales, and the dB (note:  the transfer function is a topic in Electric Circuits 2)
+Overview of signal types: analog versus digital
+Laboratory Topics
+Laboratory safety; DC instrumentation use, breadboarding, basic voltage and current measurements
+Practice connections, Kirchhoff’s voltage law, Ohm’s law, input and output relationship
+Series and parallel resistances, loading effects, current-voltage characteristic
+Multi-branch circuits Kirchhoff’s current law
+Portable AC instrumentation:  generator and scope; scope output interpretation
+Benchtop AC instrumentation; imperfections of portable and benchtop equipment
+AC magnitude, phase, and current measurement using a sense resistor
+Inductive component model (RL) extraction from measurements
+DC op-amp circuit
+Superposition, filtering illustration, amplification, periodic signal scope triggering
+Frequency sweep, AC equivalent circuit model extraction
+Op-amp digital-to-analog converter experiment
+Midterm exams are held during laboratory sessions (no experiment that week)
+Coordinator
+Dr. Brian Faulkner
+Print this Page
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+All
+catalogs
+© 2026 Milwaukee School of Engineering.
+Powered by
+Modern Campus Catalog™
+.

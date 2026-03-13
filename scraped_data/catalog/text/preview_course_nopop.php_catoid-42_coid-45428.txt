@@ -1,0 +1,133 @@
+PHL 3202 - Introduction to Logic -
+Milwaukee School of Engineering
+Mar 12, 2026
+2025-2026 Undergraduate Academic Catalog
+Select a Catalog
+2025-2026 Undergraduate Academic Catalog
+2025-2026 Graduate Academic Catalog
+2024-2025 Undergraduate Academic Catalog-June [ARCHIVED CATALOG]
+2024-2025 Graduate Academic Catalog-June [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Graduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Graduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Graduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Graduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Graduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Graduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Graduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Graduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Graduate Academic Catalog [ARCHIVED CATALOG]
+2013-14 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2012-2014 Graduate Academic Catalog [ARCHIVED CATALOG]
+2012-2013 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+Global Search
+Catalog Search
+Choose Search Location
+Select an option
+Courses
+Programs
+Academic Departments
+Other Content
+Entire Catalog
+Search Keyword Field
+Whole Word/Phrase
+Advanced Search
+Catalog Navigation
+Catalog Home
+Academic Calendar
+University Overview
+Admissions
+Student Financial Services
+Academic Regulations and Policies
+Degree Programs, Minors, and Certificates
+Degrees, Minors, and Certificates by Department
+Course Descriptions
+The Raider Core
+Explorer Pathways
+MSOE Honors Program
+Global Opportunities
+Reserve Officers’ Training Corps. (ROTC)
+Administration, Regents, and Advisory Committees
+Departments and Faculty
+Campus Map
+Student Resources
+My Portfolio
+HELP
+2025-2026 Undergraduate Academic Catalog
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+PHL 3202 - Introduction to Logic
+3
+lecture hours
+0
+lab hours
+3
+credits
+Course Description
+The aim of this course is to learn about and apply some of the fundamental principles of reasoning, argumentation, and logic. Together we will focus on the construction and evaluation of arguments, the recognition and correction of fallacies in reasoning, the introduction of formal methods in deductive logic, and the structure and practice of scientific theorizing and testing. Throughout the course, we will apply this knowledge to concrete cases. Our course objective is not only to learn about the philosophical foundations and fundamentals of informal and formal logic but also to develop general critical reasoning skills that will prove valuable beyond the classroom.
+Prereq:
+None
+Note:
+None
+This course meets the following Raider Core CLO Requirement:
+Think Critically
+Course Learning Outcomes
+Upon successful completion of this course, the student will be able to:
+Exhibit familiarity with some of the history and philosophy of logic
+Identify, reconstruct, and evaluate arguments in both natural language and formal language (at the level of propositional logic)
+Identify and avoid fallacies in reasoning
+Apply formal methods to make arguments expressed in ordinary language­­­­­­­­­­­­­­­ more precise and transparent
+Demonstrate understanding of the meanings and truth conditions of the logical operators in propositional logic
+Execute proofs or derivations in basic propositional logic
+Recognize and apply fundamental elements of scientific reasoning (e.g., hypothesis construction and testing)
+Exhibit familiarity with debates surrounding the demarcation between science and pseudoscience (e.g., naïve vs. sophisticated falsificationism)
+Prerequisites by Topic
+None
+Course Topics
+History and philosophy of logic
+Informal vs. formal logic
+Inductive vs. deductive logic
+Strength and cogency of inductive arguments
+Validity and soundness of deductive arguments
+Types of informal arguments
+Forms of valid deductive arguments
+Informal fallacies
+Logical operators and their meanings
+Truth conditions in propositional logic
+Truth tables for logical operators and propositions
+Consistency, inconsistency, contradiction, and equivalence in logic
+Translations from natural language to propositional logic
+Proving invalidity through the counterexample method
+Logical proofs or derivations in propositional logic
+Categorical arguments and universal and existential quantification
+Hypothetical reasoning in science
+Science as falsification (e.g., Popper)
+Naïve falsificationism vs. sophisticated falsificationism
+Coordinator
+Dr. Andrew McAninch
+Back to Top
+|
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+All
+catalogs
+© 2026 Milwaukee School of Engineering.
+Powered by
+Modern Campus Catalog™
+.

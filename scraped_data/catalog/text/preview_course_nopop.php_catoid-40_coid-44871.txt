@@ -1,0 +1,147 @@
+ARE 4871 - Commissioning -
+Milwaukee School of Engineering
+Mar 12, 2026
+2024-2025 Undergraduate Academic Catalog-June
+Select a Catalog
+2025-2026 Undergraduate Academic Catalog
+2025-2026 Graduate Academic Catalog
+2024-2025 Undergraduate Academic Catalog-June [ARCHIVED CATALOG]
+2024-2025 Graduate Academic Catalog-June [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Graduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Graduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Graduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Graduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Graduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Graduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Graduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Graduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Graduate Academic Catalog [ARCHIVED CATALOG]
+2013-14 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2012-2014 Graduate Academic Catalog [ARCHIVED CATALOG]
+2012-2013 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+Global Search
+Catalog Search
+Choose Search Location
+Select an option
+Courses
+Programs
+Academic Departments
+Other Content
+Entire Catalog
+Search Keyword Field
+Whole Word/Phrase
+Advanced Search
+Catalog Navigation
+Catalog Home
+Academic Calendar
+University Overview
+Admissions
+Student Financial Services
+Academic Regulations and Policies
+Degree Programs, Minors, and Certificates
+Degrees, Minors, and Certificates by Department
+Course Descriptions
+The Raider Core
+MSOE Honors Program
+Global Opportunities
+Reserve Officers’ Training Corps. (ROTC)
+Administration, Regents, and Advisory Committees
+Departments and Faculty
+Campus Map
+Student Resources
+My Portfolio
+HELP
+2024-2025 Undergraduate Academic Catalog-June
+[ARCHIVED CATALOG]
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+ARE 4871 - Commissioning
+3
+lecture hours
+0
+lab hours
+3
+credits
+Course Description
+This course introduces the process of commissioning buildings for use and occupancy. The course covers processes that can be verified by one-time measurements and with hand-held measuring devices and those requiring short-term and long-term monitoring, verification, and analyses. Topics include commissioning of HVAC, plumbing, electrical, and building envelope systems; commissioning planning; recommissioning; and retro-commissioning.
+Prereq:
+ARE 4161
+or
+ARE 4451
+(quarter system prereq: AE 3422 or AE 3622)
+Note:
+None
+This course meets the following Raider Core CLO Requirement:
+None
+Course Learning Outcomes
+Upon successful completion of this course, the student will be able to:
+Identify the benefits that the commissioning process brings to new construction and existing buildings as it pertains to HVAC, plumbing, electrical, and building enclosure
+Define the commissioning process and the roles that commissioning providers, design teams, contractors, facilities, and owner play in the commissioning process
+Facilitate a successful commissioning meeting
+Implement the commissioning process and the steps necessary to create a cohesive team environment and a successful project outcome
+Prepare construction verification forms from design documents, specifications, and equipment submittals
+Identify installation and implementation issues while on site
+Explain sequences of operation in a manner understood by the entire commissioning team. Identify areas of concern or confusion
+Develop functional test documents from existing sequences of operation and controls submittals
+Demonstrate proficiency with hand-held measuring devices and data loggers
+Analyze trend data from controls systems and data loggers to verify proper or improper operation of the control system; provide appropriate samples to communicate concerns; evaluate outcomes of functional testing and the next steps to take to move towards a properly functioning system
+Compose verbal and written communication to address all levels of personnel on the commissioning team, including potential shareholders, with class participation with practice and feedback
+Prerequisites by Topic
+General understanding of at least one of the following building systems:
+HVAC
+Plumbing
+Electrical
+Fire protection
+Construction management (from a GC perspective)
+Envelope/enclosure
+Course Topics
+Introduction to commissioning, the role of the commissioning provider, the economics of commissioning, the benefits of commissioning, The Building Commissioning Association (BCA) Handbook, and ASHRAE Guideline 0
+Communication skills: verbal and written, use of words
+Participate in the process for creating an Owner’s Project Requirements (OPR) document through a user group meeting session, discussing the tie to commissioning, and creating an OPR
+Review Basis of Design (BoD) documents, including a compare and contrast of BoDs to OPR
+Perform commissioning-based design reviews at various stages of design - schematic, design, construction phase documents
+Construction phase commissioning process, commissioning kick-off meeting, commissioning progress meetings, defining the commissioning team
+Creating and utilizing construction verification forms; understanding what commissioning is looking for during visits to site, creating a site visit report
+Life safety dampers: reviewing the installation and functional testing processes and tie in to fire alarm testing (2 lecture hours)
+Firestopping review
+Students will participate in a tour of a site TBD to see mechanical and electrical equipment in action and to understand from a commissioning perspective what is important to verify both during the installation process and functional testing processes
+Building enclosure commissioning process from the design phase through the construction phase and field testing
+Review electrical distribution and emergency power projects, including information gathered with one-line drawings; discuss implementation on site and commissioning testing strategies
+Review a designer’s sequence of operation; review a controls submittal; facilitate a controls page turn meeting
+Learn strategies for writing functional test documents for the control contractor to utilize for testing on site
+Trends: verify trends, capture trends, review trends, analyze and understand trends
+Tools: use of various handheld measuring devices and data loggers
+Students will participate in functional testing on site if possible or via remote access to the BAS to see mechanical and electrical equipment performing through various control strategies
+Reporting of test data in an effective manner
+Operations phase commissioning process
+Seasonal functional testing
+Recommissioning and retro-commissioning; understand how the commissioning team dynamics differ from a new construction commissioning process, communication, planning, and facilitating the commissioning process
+Coordinator
+Jayme Radomski, P.E.
+Back to Top
+|
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+All
+catalogs
+© 2026 Milwaukee School of Engineering.
+Powered by
+Modern Campus Catalog™
+.

@@ -1,0 +1,110 @@
+MG 610 - The Application of Statistics -
+Milwaukee School of Engineering
+Mar 12, 2026
+2016-2017 Undergraduate Academic Catalog
+Select a Catalog
+2025-2026 Undergraduate Academic Catalog
+2025-2026 Graduate Academic Catalog
+2024-2025 Undergraduate Academic Catalog-June [ARCHIVED CATALOG]
+2024-2025 Graduate Academic Catalog-June [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Graduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Graduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Graduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Graduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Graduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Graduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Graduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Graduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Graduate Academic Catalog [ARCHIVED CATALOG]
+2013-14 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2012-2014 Graduate Academic Catalog [ARCHIVED CATALOG]
+2012-2013 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+Global Search
+Catalog Search
+Choose Search Location
+Select an option
+Courses
+Programs
+Academic Departments
+Other Content
+Entire Catalog
+Search Keyword Field
+Whole Word/Phrase
+Advanced Search
+Catalog Navigation
+Catalog Home
+Academic Calendar
+University Overview
+Enrollment Management Department
+Academic Regulations and Policies
+Student Financial Services
+Academic Departments, Undergraduate Degree Programs, Minors and Certificates
+Degree Programs, Minors and Certificates
+Reserve Officer Training Corps (ROTC)
+Course Descriptions
+Board of Regents, Academic Administration, Faculty and Advisory Committees
+Campus Map
+Student Resources
+My Portfolio
+HELP
+2016-2017 Undergraduate Academic Catalog
+[ARCHIVED CATALOG]
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+MG 610 - The Application of Statistics
+3
+lecture hours
+0
+lab hours
+3
+credits
+Course Description
+Decision-making, planning and the presentation of information can be significantly enhanced by the intelligent use of mathematical methods or statistics. This course expands on a basic understanding of statistics used in business today with the focus being on application rather than the mathematics and theory of the methods. Statistical tools used to describe collections of data, estimate parameters, make comparisons, develop mathematical relationships or models, control processes, predict outcomes, and plan experiments are covered. Specific tools include frequency distributions, sampling, estimation, Chi-Square analysis, regression and correlation analysis, simple and multiple regression, forecasting, control charts, and process capability analysis.   (prereq: none)
+Course Learning Outcomes
+Upon successful completion of this course, the student will be able to:
+Understand what kinds of statistical tools are available, and where and how they can be applied in a business and industrial environment
+Know what statistical tools require further independent study to satisfy the requirements of other courses as well as personal and career needs
+Prerequisites by Topic
+Experience in using or course(s) in basic statistical methods is strongly recommended
+Experience using Excel and software for statistical analysis would be helpful
+Course Topics
+Introduction and graphical descriptive statistics management, work environment, culture and its impact on the application of statistics Statistical thinking - problems must be addressed in the context of a larger system and not as an exercise in mathematics
+Basic concepts descriptive statistics - graphical methods (1 class)
+Descriptive statistics - numerical methods central value, spread, and correlation (1 class)
+Interval estimates and sampling confidence intervals, approaches to sampling, and probability (1 class)
+Hypothesis testing, and making comparisons and inferences comparing a condition to a standard, comparing two conditions, risks and sample sizes (1 class)
+Statistical quality control variables control charts, attributes control charts, capability studies and indexes (1 class)
+Systematic collection and analysis of information for making decisions making multiple comparisons using the analysis of variance - ANOVA, Design of experiments - DOE (2 classes)
+The analysis of enumerated or counted data evaluating goodness of fit, and checking for independence (1 class)
+Studying and defining relationships between variables regression analysis and correlation analysis (1 class)
+Nonparametric methods and review sign tests, ranking tests, rank correlation, and review (1 class)
+Final Exam
+Coordinator
+David Schmitz
+Back to Top
+|
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+All
+catalogs
+© 2026 Milwaukee School of Engineering.
+Powered by
+Modern Campus Catalog™
+.

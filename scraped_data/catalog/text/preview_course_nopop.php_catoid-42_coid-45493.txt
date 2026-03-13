@@ -1,0 +1,156 @@
+PHY 3530 - Quantum and Modern Physics -
+Milwaukee School of Engineering
+Mar 12, 2026
+2025-2026 Undergraduate Academic Catalog
+Select a Catalog
+2025-2026 Undergraduate Academic Catalog
+2025-2026 Graduate Academic Catalog
+2024-2025 Undergraduate Academic Catalog-June [ARCHIVED CATALOG]
+2024-2025 Graduate Academic Catalog-June [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Graduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Graduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Graduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Graduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Graduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Graduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Graduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Graduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Graduate Academic Catalog [ARCHIVED CATALOG]
+2013-14 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2012-2014 Graduate Academic Catalog [ARCHIVED CATALOG]
+2012-2013 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+Global Search
+Catalog Search
+Choose Search Location
+Select an option
+Courses
+Programs
+Academic Departments
+Other Content
+Entire Catalog
+Search Keyword Field
+Whole Word/Phrase
+Advanced Search
+Catalog Navigation
+Catalog Home
+Academic Calendar
+University Overview
+Admissions
+Student Financial Services
+Academic Regulations and Policies
+Degree Programs, Minors, and Certificates
+Degrees, Minors, and Certificates by Department
+Course Descriptions
+The Raider Core
+Explorer Pathways
+MSOE Honors Program
+Global Opportunities
+Reserve Officers’ Training Corps. (ROTC)
+Administration, Regents, and Advisory Committees
+Departments and Faculty
+Campus Map
+Student Resources
+My Portfolio
+HELP
+2025-2026 Undergraduate Academic Catalog
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+PHY 3530 - Quantum and Modern Physics
+3
+lecture hours
+0
+lab hours
+3
+credits
+Course Description
+Quantum mechanics has some strange implications that many people have heard of, but few people understand. The goal of this course is to introduce students to the foundational postulates of quantum mechanics and learn how concepts like quantum tunneling, entanglement, the uncertainty principle, the quantization of energy/momentum/spin are mathematical consequences of those postulates. We will investigate the foundational quantum systems such as the hydrogen atom, particle in a box, particle in free-space, and the quantum harmonic oscillator, examine the implications quantum mechanics has for atomic, molecular, and solid-state physics, and explore technological applications such as MRI machines, scanning tunneling microscopes, and quantum computers. The topics may vary from offering to offering, dependent on student interest.
+Prereq:
+PHY 1120
+(quarter system prereq: PH 2031)
+Coreq:
+MTH 2140
+or
+MTH 2340
+Note:
+None
+This course meets the following Raider Core CLO Requirement:
+Think Critically
+Course Learning Outcomes
+Upon successful completion of this course, the student will be able to:
+Explain important historical discoveries leading to the development of quantum mechanics
+Explain the differences between classical and quantum mechanics
+Explain the fundamental properties of wave functions (e.g. that wave functions obey the Schrodinger equation) and use wave functions to compute statistical quantities (e.g.  expectation values, average, variance, and RMS values) for various quantum properties
+Sketch approximate stationary state solutions for a given quantum potential that reflect an understanding of wave function boundary conditions. This would include identifying scenarios in which quantum tunneling occurs and explaining the motivation behind free particles being modeled as wave-packets
+Calculate the energy, momentum, and angular momentum of given quantum states utilizing the appropriate operators
+Explain the uncertainty principle and apply it appropriately to obtain approximate calculations of time/length/energy/momentum scales for important quantum systems
+Describe the structure of the hydrogen atom and explain key properties (e.g. quantization of energy and angular momentum) and their experimental implications (e.g. observations of the hydrogen emission spectrum)
+Describe the properties of the quantum oscillator and explain the differences between the quantum and classical oscillator. Identify scenarios in which it is a useful model for real-world phenomena
+Explain the dynamical implications of the intrinsic spin of quantum particles. Explain the implications that quantum spin and the Pauli-exclusion principle have on atomic spectra and chemical reactivity
+Explain the implications of quantum mechanics on the physics of atoms, molecules, nuclei, and solid matter
+Prerequisites by Topic
+Introductory physics (mechanics as well as electricity and magnetism)
+Have learned or are currently learning math beyond introductory calculus (namely differential equations or linear algebra)
+Course Topics
+Experimental results and theoretical developments that lead to the development of quantum mechanics. Building upon quantization of energy and wave-particle duality learned in intro physics sequence, discussing such concepts and experiments as blackbody radiation, photoelectric effect, Compton scattering, Rutherford gold-foil experiment, Stern-Gerlach experiment, and De Broglie wavelength.
+Introduce new topics from classical mechanics, such as potential diagrams, angular momentum, and Hamiltonian dynamics needed to understand quantum mechanics.
+Time-independent Schrodinger equation and wave function related topics, including:
+Quantum mechanics postulates
+The probabilistic nature of quantum states (including a primer on probability theory)
+Hamiltonian operators
+Wave mechanics and matrix mechanics (including potential diagrams, finite/infinite potential wells, potential barriers, and expectation values, mean, variance, RMS, of quantum variables)
+Heisenberg uncertainty principle
+Fundamental quantum models:
+Particle in an infinite potential well
+Particle in a finite potential box and quantum tunneling
+Quantum harmonic oscillator
+Wave packet model of particle in free space
+Atomic/nuclear topics:
+Introduce atomic quantum numbers (e.g. spin, angular momentum, energy)
+Discrete and continuous energy levels
+Hydrogen atom with quantum mechanics (as well as its relationship to Bohr model and its extensions)
+Pauli exclusion principle and the periodic table
+Quantum degeneracy
+Addition of angular momentum and spin-orbit coupling
+Optical and X-ray spectra and exclusion rules
+Orbital magnetic moments and Zeeman effect
+Nuclear spin, nuclear magnetic moments, and the hyperfine structure of spectra
+Application focus: MRI
+Molecular physics topics:
+Ionic molecules
+Electronic motion
+Motion of nuclei (vibration, rotation, and impacts on spectra)
+Solid-state topics:
+Crystalline solids and bonding
+Ionic crystals
+Impurities
+Application focus: scanning-tunneling microscopes
+As time permits, quantum computing and other applications
+Coordinator
+Dr. Adam Wright
+Back to Top
+|
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+All
+catalogs
+© 2026 Milwaukee School of Engineering.
+Powered by
+Modern Campus Catalog™
+.

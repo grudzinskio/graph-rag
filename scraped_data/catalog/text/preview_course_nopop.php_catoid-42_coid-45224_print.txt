@@ -1,0 +1,138 @@
+IND 2700 - Engineering Economics -
+2025-2026 Undergraduate Academic Catalog
+Milwaukee School of Engineering
+Mar 12, 2026
+2025-2026 Undergraduate Academic Catalog
+Select a Catalog
+2025-2026 Undergraduate Academic Catalog
+2025-2026 Graduate Academic Catalog
+2024-2025 Undergraduate Academic Catalog-June [ARCHIVED CATALOG]
+2024-2025 Graduate Academic Catalog-June [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Graduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Graduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Graduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Graduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Graduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Graduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Graduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Graduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Graduate Academic Catalog [ARCHIVED CATALOG]
+2013-14 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2012-2014 Graduate Academic Catalog [ARCHIVED CATALOG]
+2012-2013 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+Global Search
+Catalog Search
+Choose Search Location
+Select an option
+Courses
+Programs
+Academic Departments
+Other Content
+Entire Catalog
+Search Keyword Field
+Whole Word/Phrase
+Advanced Search
+Catalog Navigation
+Catalog Home
+Academic Calendar
+University Overview
+Admissions
+Student Financial Services
+Academic Regulations and Policies
+Degree Programs, Minors, and Certificates
+Degrees, Minors, and Certificates by Department
+Course Descriptions
+The Raider Core
+Explorer Pathways
+MSOE Honors Program
+Global Opportunities
+Reserve Officers’ Training Corps. (ROTC)
+Administration, Regents, and Advisory Committees
+Departments and Faculty
+Campus Map
+Student Resources
+My Portfolio
+HELP
+2025-2026 Undergraduate Academic Catalog
+Print this Page
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+IND 2700 - Engineering Economics
+3
+lecture hours
+0
+lab hours
+3
+credits
+Course Description
+This course is intended to provide the fundamental techniques for the monetary quantification of engineering and business decisions over time, particularly under uncertainty. Monetary systems and accounting approaches are presented in the context of their application to engineering work. Financial analysis techniques are developed along with their applicability to various types of products. The effects of interest rates, inflation rates, and tax rates are applied to optimal business decision-making.
+Prereq:
+MTH 1110
+(quarter system prereq: MA 137)
+Note:
+None
+This course meets the following Raider Core CLO Requirement:
+None
+Course Learning Outcomes
+Upon successful completion of this course, the student will be able to:
+Comprehend the basis of trade and money in a business context
+Contrast the effects of changing supply and demand on prices and costs
+Understand the roles of profit, cash, and cost in decision-making related to engineering projects
+Apply a debit and credit based financial accounting system to basic business transactions
+Represent complex, multi-payment transactions graphically using cash-flow diagrams
+Calculate the changing value of money over time
+Evaluate the worth of the costs and incomes of projects and investments
+Apply discounted cash-flow analysis to evaluate proposed capital investments
+Use basic calculus to solve economic allocation optimization problems
+Determine the effect of changing interest, inflation rates, and project risk on business decisions
+Allocate overhead in manufacturing, service, and other engineering-oriented projects
+Relate the specific roles that depreciation, inventory valuation, and time offsetting play in engineering related business operations
+Recognize the ethical and legal issues related to financial analysis
+Prerequisites by Topic
+Limits and series
+Course Topics
+Micro-economic theory of supply and demand
+Financial terminology and monetary systems
+Accounting systems used in engineering work
+Inflationary and deflationary environments
+Interest rates and discount rates for monetary return
+Present value and future value within the time value of money
+Nominal and effective interest rates
+Arithmetic annuities
+Geometric annuities
+Mortgages and other debt structures
+Annual worth and permanent worth
+Benefit/cost calculations
+Breakeven analysis
+Economic decision making and optimization
+Sensitivity analysis
+Reverse annuities
+Depreciation and depletion methods
+Tax systems and their effect on engineering decision-making
+After-tax cash-flow analysis
+Coordinator
+Dr. Leah Newman
+Print this Page
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+All
+catalogs
+© 2026 Milwaukee School of Engineering.
+Powered by
+Modern Campus Catalog™
+.

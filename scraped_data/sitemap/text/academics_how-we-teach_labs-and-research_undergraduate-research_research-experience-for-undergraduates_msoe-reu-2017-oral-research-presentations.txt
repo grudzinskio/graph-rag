@@ -1,0 +1,65 @@
+Research Experience for Undergraduates 2017 Projects | MSOE
+Skip to Main Content
+Home
+Academics
+How We Teach
+Labs and Research
+Undergraduate Research
+Research Experience for Undergraduates
+Research Experience for Undergraduates 2017 Projects
+Research Experience for Undergraduates 2017 Projects
+Characterization of Pluronic F-127/Pectin Hydrogel for Potential Tissue Engineering Applications
+Elizabeth Bryant, Junior – Civil Engineering, LeTourneau University, Longview, TX (Dr. Wujie Zhang)
+Advances in biofabrication is closing the gap between the number of people waiting for a transplant and those receiving one. This research focused on the use of a novel pectin-based bioink. Pluronic® F-127 is used in the bioink to create a hydrogel during the initial bioprinting process. In order for the pectin/Pluronic solution to maintain its structure, a crosslinker is employed for the gelation of pectin. The crosslinkers tested were oligochitosan, Ca2+ and Zn2+. The structural integrity of the bioprinted scaffold was used to determine the crosslinkers effectiveness. Moreover, post-printing treatment of the scaffold using chitosan was investigated to increase the biocompatibility of ionic-crosslinked gels.
+Research Paper
+Teaching Module
+Comic
+Creation of an Apparatus to Investigate the Flow Characteristics through Artificial Heart Valves
+Dakotah Revai, Senior – Physics and Astronomy, Beloit College, Beloit, WI (Dr. Jeff LaMack)
+This research produces a device to visualize flow through inserted aortic valve prototypes between the simulated left ventricle and aorta for education and research. It was decided that replicating human heart valves for stroke volume, blood pressure, aortic compliance and heart rate would result in the device pumping as a human heart would and values of 70 mL, 120 mmHg, 1.47 ml/mmHg and 70 beats per minute were chosen, respectively. A pump made of polyvinyl chloride was created to move water through the system; compliance tests were performed on materials to find one that mimics the value of the human aorta. A left ventricle was designed for 3D printing.
+Research Paper
+Teaching Module
+An Investigation of a Mass Flow Rate Method for Evaluating the Filterability of Hydraulic Fluids
+Tahseen Tabassum, Senior –Chemical Engineering, Stony Brook University, Stony Brook, NY (Mr. Paul Michael)
+The ability of the fluid to retain its filterability properties is critical for efficient, reliable machine performance. This is particularly true for biodegradable fluids used in environmentally sensitive areas. In this research, hydraulic fluids and lubricants of various base oil and additive composition were evaluated using a modified version of ISO 13357 that utilizes mass flow rate measurements to assess fluid filterability. A comparison of volumetric and mass flow rate filtration ratios reveals that the use of mass flow rate to determine filterability yields comparable results while improving test repeatability. These findings are the basis of a new ASTM standard to be proposed for the measurement of fluid filterability and compatibility.
+Characterization of Functionally graded Ti-6Al-4V + Mo for Biomedical Applications
+Andrew Gray and Kevin Sivak, Seniors – Mechanical Engineering, MSOE (Dr. Subha Kumpaty, Dr. Esther Akinlabi, Dr. Pityana)
+This research assesses the material characteristics of several functionally graded Ti6Al4V samples with varying percentages of Molybdenum. Laser Metal Deposition was employed to produce several samples with varying percentages of molybdenum at two laser speeds of 1500 W and 1700 W. One sample was created with 0%, 5%, 10%, 15%, 10%, 5% and 0% Mo on Ti64 substrate while the other with 15%, 10%, 5%, 0%, 5%, 10% and 15% Mo. Hardness, microstructure, fracture toughness, and corrosion resistance were measured. Scanning Electron Microscopy was used to check the powder morphology and the X-Ray Diffractogram was used to check the phases present in the samples. The usefulness of functionally graded Ti6Al4V-Mo alloy for biomedical applications is established.
+Research Paper: Andrew Gray
+Research Paper: Kevin Sivak
+Characterization and Modification of Pectin-Based Nanofibers
+Marquis Henderson, Junior –Mechanical Engineering, North Carolina A&T Univ, Greensboro, NC (Dr. Wujie Zhang)
+Pectin is a polysaccharide that can be found in the skin and cell walls of different fruits — and is biodegradable, biocompatible, and easily accessible. Ca-pectin and Oligochitosan-pectin nanofibers have been successfully prepared previously. Characterization of the nanofibers’ surface charge through zeta potential (the measurement of the potential difference of a surface of a solid object immersed into a conductive liquid) was conducted to establish the influence of crosslinkers, Ca2+ and oligochitosan. It is deemed favorable for the surface charge of the nanofibers to be positive in order to promote cell attachment, survival, and proliferation. Various methods of fabricating the nanofibers into specific shapes were also investigated. This research shows promise for biological applications.
+Research Paper
+Teaching Module
+Experimental Characterization and Control of Pneumatic Cylinders for Robotic Applications
+Winnie Ngo, Junior – Mechanical Engineering, City College of New York, New York, NY (Dr. Luis Rodriguez)
+In an effort to understand the dynamics of pneumatic cylinders utilized in robotic applications, a custom pneumatic testbed was developed. This testbed uses pressure regulators to control the pressure inside the chambers of a double acting cylinder and sensors to measure the pressure and flow of air into each of the chambers. The device will serve to improve the mathematical model and to help with the development of control strategies to more precisely manipulate the position and forces generated by the cylinder. An Arduino microcontroller is used to record the sensor signals and to control the pressure inside each cylinder chamber. Based on the experimental data a more realistic mathematical model was developed and steps were taken to control the position and force of the cylinder.
+Research Paper
+Teaching Module
+Analysis of Large Ferrous Particles in Hydraulic Fluids
+Andrew Valesquez, Junior – Mechanical Engineering, Univ. of California-Merced, Merced, CA (Mr. Paul Michael)
+Analytical ferrography is a well-established method for determining iron concentrations in hydraulic fluids. However, it is a manual procedure that requires a trained technologist to interpret the results. A new automated ferrography method based upon twin magnetometers has been developed which counts the number of iron particles greater than 25 microns and calculates the total iron concentration in ppm. The ISO standard test dust, synthetic iron wear particles and hydraulic fluid field samples were evaluated in this automated system. Results were compared to manual ferrographic and emission spectroscopic techniques. The automated ferrography proved to be more effective in detecting large iron particles than emission spectroscopy, and it is comparable to the manual procedure.
+Additive Manufacturing as a tool in the Development of Training Models for Ultrasound-guided Thyroid Biopsy
+Allison Spaulding, Junior – Biomedical Engineering, MSOE (Dr. Jeff LaMack)
+Ultrasound guided fine needle aspiration biopsies are complicated medical procedures to perform. The goal of this research is to determine a process by which realistic models of the thyroid gland and surrounding structures can be manufactured for the purpose of training physicians. This was done by 3D printing molds of the thyroid gland and other relevant structures and filling these molds with gelatin mixtures to ultimately be assembled to form a final model. Multiple models were made using this method to simulate several different types of thyroid nodules, providing physicians the most realistic training experience possible when using these models.
+Research Paper
+Teaching Module
+Menu
+Search
+submit
+Resources For…
+MSOE University
+1025 North Broadway
+Milwaukee,
+WI
+53202-3109
+(800) 332-6763
+explore@msoe.edu
+Connect With MSOE
+Facebook
+Instagram
+Twitter
+Linkedin
+YouTube
+Vimeo

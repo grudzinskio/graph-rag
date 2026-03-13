@@ -1,0 +1,132 @@
+ARE 3441 - Design of Fire Protection and Life Safety Systems -
+Milwaukee School of Engineering
+Mar 12, 2026
+2023-2024 Undergraduate Academic Catalog
+Select a Catalog
+2025-2026 Undergraduate Academic Catalog
+2025-2026 Graduate Academic Catalog
+2024-2025 Undergraduate Academic Catalog-June [ARCHIVED CATALOG]
+2024-2025 Graduate Academic Catalog-June [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Graduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Graduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Graduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Graduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Graduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Graduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Graduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Graduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Graduate Academic Catalog [ARCHIVED CATALOG]
+2013-14 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2012-2014 Graduate Academic Catalog [ARCHIVED CATALOG]
+2012-2013 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+Global Search
+Catalog Search
+Choose Search Location
+Select an option
+Courses
+Programs
+Academic Departments
+Other Content
+Entire Catalog
+Search Keyword Field
+Whole Word/Phrase
+Advanced Search
+Catalog Navigation
+Catalog Home
+Academic Calendar
+University Overview
+Admissions
+The Raider Core
+Academic Regulations and Policies
+Student Financial Services
+Degrees, Minors, and Certificates by Department
+Degree Programs, Minors, and Certificates
+Course Descriptions
+MSOE Honors Program
+Global Opportunities
+Reserve Officers’ Training Corps. (ROTC)
+Administration, Regents, and Advisory Committees
+Faculty and Faculty Emeriti
+Campus Map
+Student Resources
+My Portfolio
+HELP
+2023-2024 Undergraduate Academic Catalog
+[ARCHIVED CATALOG]
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+ARE 3441 - Design of Fire Protection and Life Safety Systems
+3
+lecture hours
+0
+lab hours
+3
+credits
+Course Description
+This course covers life safety and fire suppression system components, design, layout, and specification concepts. The fire suppression systems to be examined include water-based systems, alternative agent systems, sprinkler systems, hose valve systems, pumping equipment, and fire suppression piping and installation specifications. Design tools to be used include traditional calculations, spreadsheets, and computerized modeling programs. Design standards and variations will be discussed using NFPA standards and master specifications. The architectural engineer’s responsibilities in design and specification writing will be emphasized through examples of construction document components, including plans, details, and specifications.   (prereq:
+ARE 3401
+) (quarter system prereq: AE 3301)
+Course Learning Outcomes
+Upon successful completion of this course, the student will be able to:
+Discuss principles of life safety in building design
+Describe fire chemistry and explain the effects fires have on buildings and human life
+Discuss principles of smoke, heat and flame detection, and methods of signaling warning alarms to building occupants
+Discuss architectural and engineering building design elements and materials of construction as they relate to fire suppression systems for buildings
+Use computer-based applications to assist design of water-based fire suppression systems
+Calculate water supply flow and pressures and determine the system needs
+Analyze a building type to determine the proper fire protection system selection
+Devise the most efficient configuration for a water-based fire suppression system and design a water-based automatic fire sprinkler system for a commercial building
+Compare and contrast alternative fire suppression agents including gaseous, foam, and chemical suppression agents
+Prerequisites by Topic
+Calculation of fluid flow in a system
+Pipe sizing
+Pump selection
+Course Topics
+Life safety code
+Fire chemistry
+History of fire in buildings
+Types of fire suppression systems
+Materials and equipment
+Planning
+Sprinkler layout
+Hangers and hanging
+Job site surveys and coordination
+Water supplies and underground piping
+Hydraulic calculations
+Modeling program use
+Pumps and pumping systems
+Standpipe systems
+Design calculations for complex systems
+Gaseous suppression systems
+Chemical-based suppression systems
+Foam-based suppression systems
+Water-mist systems
+Coordinator
+Jayme Radomski, P.E.
+Back to Top
+|
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+All
+catalogs
+© 2026 Milwaukee School of Engineering.
+Powered by
+Modern Campus Catalog™
+.

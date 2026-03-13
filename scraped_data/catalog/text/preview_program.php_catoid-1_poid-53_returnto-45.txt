@@ -1,0 +1,366 @@
+Program: Medical Informatics (MSMI), M.S. - Milwaukee School of Engineering
+Milwaukee School of Engineering
+Mar 12, 2026
+2012-2014 Graduate Academic Catalog
+Select a Catalog
+2025-2026 Undergraduate Academic Catalog
+2025-2026 Graduate Academic Catalog
+2024-2025 Undergraduate Academic Catalog-June [ARCHIVED CATALOG]
+2024-2025 Graduate Academic Catalog-June [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Graduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Graduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Graduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Graduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Graduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Graduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Graduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Graduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Graduate Academic Catalog [ARCHIVED CATALOG]
+2013-14 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2012-2014 Graduate Academic Catalog [ARCHIVED CATALOG]
+2012-2013 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+Global Search
+Catalog Search
+Choose Search Location
+Select an option
+Courses
+Programs
+Academic Departments
+Other Content
+Entire Catalog
+Search Keyword Field
+Whole Word/Phrase
+Advanced Search
+Catalog Navigation
+Catalog Home
+Academic Calendar
+University Overview
+Services and Resources for Graduate Students
+Graduate Admission Requirements
+Academic Regulations and Policies
+Academic Departments, Degree Programs and Certificates
+Degree Programs and Certificates
+Course Descriptions
+Board of Regents, Academic Administration, Faculty and Advisory Committees
+Campus Map
+My Portfolio
+HELP
+2012-2014 Graduate Academic Catalog
+[ARCHIVED CATALOG]
+Medical Informatics (MSMI), M.S.
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Return to:
+Academic Departments, Degree Programs and Certificates
+Joint Degree Offering
+Our joint Master of Science in Medical Informatics program combines the strength of the
+Medical College of Wisconsin
+, a leading provider of medical education and research, and the expertise of
+MSOE
+in the disciplines of business and information technology. The faculty facilitates education through real-world experiences to reinforce theory and concepts.
+Working Definition of Medical Informatics
+Medical informatics (MI) is the applied science at the junction of the disciplines of medicine, business and information technology, which supports the health care delivery process and promotes measurable improvements in both quality of care and cost-effectiveness.
+Introduction
+The mission of the Master of Science in Medical Informatics program is to provide an applied graduate educational experience that prepares professionals to participate in and lead multidisciplinary teams in the development, implementation and management of information technology solutions in health care.
+Our working definition of medical informatics and mission statement emphasize the applied aspect of using informatics (information science) in the health care setting. This is somewhat different than other MI programs where there is a stronger emphasis on theory. We strive to provide a practical education that prepares students to effectively participate in development, implementation and management teams charged with producing information technology solutions that improve patient care and reduce the cost of care.
+Another element of our program that sets us apart from other MI programs is our emphasis on business principles. The projects our graduates work on are costly and complex. Justification for such projects can only come through the development of a compelling business case that is aligned with the overall organizational strategy. Our graduates need to be able to work with administrators, information technology experts and clinicians to develop and defend the business case. Participating in multidisciplinary teams within a health care organization also requires an understanding of “soft” business management principles, as it is well known that impediments to successful projects mostly involve people and organizational issues.
+Our program places a strong emphasis on project management skills. Again, the projects our graduates are preparing to participate in and lead are large, expensive and complex. Successful development and implementation of information technology solutions in the health care environment requires a strict business discipline and strong project management skills.
+It is not the goal of the MSMI program to comprehensively cross train individuals from one medical informatics domain for another. We will not make doctors or nurses into network engineers, database designers, or finance or management experts. Similarly, we will not prepare computer scientists or business experts for patient care. This is not our intent. Rather, our intent is to give our graduates the knowledge and skills to identify, recruit and work with expert resources needed for the successful project. Additionally, with six credits of electives, and a six-credit internship/research project, students have the opportunity to gain additional expertise according to their individual academic and career goals.
+Finally, the MSMI program is designed with a focus on the adult learner (nontraditional student). These are students who come with an education and several years of working experience usually in one of the three primary domains described in our working definition. They can immediately see the implications and applications of the MI course topics. All of our core classes meet once a week during the evening so that working adults can fit the course work into an already busy schedule.
+The program also is appropriate for the traditional graduate student. These traditional students should expect to gain a knowledge base and skill set that allows them to participate effectively on project teams and is marketable in the industry.
+The medical informatics program benefits from the guidance of its external advisory committee - a standing committee of business and industrial leaders who help ensure program offerings stay current.
+MSOE Program Co-Director:
+John Traxler, MD, MBA, MSMI (MSOE)
+(414) 277-2218,
+traxler@msoe.edu
+Faculty:
+Dr. Brian Akers, Dr. Gary Barnas (MCW Program Co-Director), Dr. Jeffrey Blessing, Kent Brodie, Dr. Kathy S. Faggiani, Robert Hankes, Katie McCarthy, Dr. John Traxler, Dr. Raymond Zastrow
+Student Outcomes
+Medical informatics students, upon graduation, should have:
+the broad education necessary to understand where and when informatics solutions can be appropriately applied.
+an ability to evaluate and integrate disciplines (medicine, information technology and business) within the field of medical informatics.
+an ability to effectively participate in multi-disciplinary teams.
+an ability to evaluate and apply process improvements.
+an understanding of the components of change management.
+an ability to communicate effectively.
+an ability to integrate professional and ethical responsibility.
+an appreciation for, and an ability to engage in, lifelong learning.
+Program Educational Objectives
+Desired objectives for medical informatics graduates, five years post graduation, include significant competency in:
+applying complex medical informatics solutions and analyzing outcomes.
+meeting the professional requirements for highly responsible positions.
+identifying revenue, cost savings or efficiency improvements which add value to their organizations.
+influencing decision-making in the application of informatics solutions.
+facilitating, leading and/or sponsoring multi-disciplinary teams.
+engaging in substantial life-long learning activities.
+Career Opportunities
+Informatics solutions in the health care industry are proceeding at a rapid pace, as anyone working in this environment knows. The management of clinical and administrative data is changing from paper to electronic systems. The field of medical informatics is guiding this transition. This change is being driven by efforts from many sectors to improve the quality of care while reducing the cost of providing that care.
+The technology is catching up to the vision but health care still lags behind other “information intense” industries in its use of information technology. There is a rapidly growing need for skilled professionals who understand information technology along with both the clinical and business aspects of health care. This creates a tremendous opportunity for those with the right training to work on teams that develop, implement and manage information systems that can support health care delivery, medical research and education.
+As a graduate of the medical informatics program, you will have the education and credentials needed to pursue career opportunities in a variety of settings:
+Health care provider organizations - hospitals, HMOs, clinics
+Software/hardware vendors that develop and install information systems
+Consulting firms
+Third party insurance companies
+Public health agencies
+Biomedical research
+Medical College of Wisconsin (MCW)
+The Medical College of Wisconsin is a private educational institution with a medical school that offers the M.D. degree and the Graduate School of Biomedical Sciences, which offers Ph.D., M.S., M.P.H. and M.A. degrees. The Medical College traces its origin to two medical schools founded in Milwaukee in the 1890s. In 1913, these schools merged to become the Marquette University School of Medicine. In 1967, Marquette University, due to financial constraints, terminated its sponsorship of the medical school. The school then continued as a private, free-standing institution, subsequently named the Medical College of Wisconsin.
+Today, MCW is located on the campus of the Milwaukee Regional Medical Center along with Froedtert Hospital, Children’s Hospital of Wisconsin, the Blood Research Institute of the BloodCenter of Wisconsin, Curative Care Network, and the Milwaukee County Behavioral Health Division. The Medical College benefits from a close working relationship with these institutions, as well as with other Milwaukee institutions, including the Zablocki Veterans Affairs Medical Center, Marquette University, Milwaukee School of Engineering and University of Wisconsin-Milwaukee.
+The Schedule
+Students who pursue the program on a full-time basis and start Fall Quarter are able to complete the program in five consecutive quarters of study. Part-time students may take up to five years for completion.
+Courses are offered in a predefined sequence and therefore admittance to the program in the Fall Quarter is recommended although not required.
+Total Degree Credits: 54
+Required courses: (48 credits)
+MI 13101 - Introduction to Medical Informatics I
+3
+credits
+MI 13102 - Introduction to Medical Informatics II
+3
+credits
+MI 13202 - Ethics in Medical Informatics
+3
+credits
+MI 693 - Intermediate Statistics
+3
+credits
+MI 720 - Six Sigma Quality and Patient Safety
+3
+credits
+MI 787 - Health Care Systems Analysis and Design
+3
+credits
+MI 13204 - Information Systems Project Management
+3
+credits
+MI 783 - Database Structures and Processing
+3
+credits
+MI 885 - Computer Network and Design
+3
+credits
+MI 743 - Principles of Health Care Management
+3
+credits
+MI 756 - Health Care Provision and Payment
+3
+credits
+MI 789 - Medical Informatics Case Study Seminar
+3
+credits
+MI 13203 - Health Care Decision Support
+3
+credits
+MI 786 - Medical Informatics Journal Club
+1
+credits
+(3 credits required)
+MI 13297 - Internship or Research Project I
+3
+credits
+MI 13298 - Internship or Research Project II
+3
+credits
+Electives: (6 credits)
+Model Full-time Track (V6.0)
+Year One
+Fall
+MI 13101 - Introduction to Medical Informatics I
+3
+credits
+MI 13202 - Ethics in Medical Informatics
+3
+credits
+MI 13204 - Information Systems Project Management
+3
+credits
+MI 693 - Intermediate Statistics
+3
+credits
+Total: 12 lecture hours - 0 lab hours - 12 credits
+Winter
+MI 13102 - Introduction to Medical Informatics II
+3
+credits
+MI 787 - Health Care Systems Analysis and Design
+3
+credits
+MI 743 - Principles of Health Care Management
+3
+credits
+MI 720 - Six Sigma Quality and Patient Safety
+3
+credits
+Total: 12 lecture hours - 0 lab hours - 12 credits
+Spring
+MI 783 - Database Structures and Processing
+3
+credits
+MI 885 - Computer Network and Design
+3
+credits
+MI 756 - Health Care Provision and Payment
+3
+credits
+Elective
+3 credits
+1
+MI 786 - Medical Informatics Journal Club
+1
+credits
+2
+Total: 13 lecture hours - 0 lab hours - 13 credits
+Summer
+MI 13297 - Internship or Research Project I
+3
+credits
+MI 13298 - Internship or Research Project II
+3
+credits
+MI 786 - Medical Informatics Journal Club
+1
+credits
+2
+Total: 7 lecture hours - 0 lab hours - 7 credits
+Year Two
+Fall
+MI 789 - Medical Informatics Case Study Seminar
+3
+credits
+MI 13203 - Health Care Decision Support
+3
+credits
+Elective
+3 credits
+1
+MI 786 - Medical Informatics Journal Club
+1
+credits
+2
+Total: 10 lecture hours - 0 lab hours - 10 credits
+Note:
+1
+Electives may be taken from any other graduate program at MSOE or MCW.
+2
+The Medical Informatics Journal Club (
+MI 786
+) is a one credit class that is offered every quarter (including summer).
+Part-time students may enroll in fewer courses each quarter than listed above, however, students are expected to complete all degree requirements within five years of beginning the program.
+Model Part-time Track (V6.0)
+Year One
+Fall
+MI 13101 - Introduction to Medical Informatics I
+3
+credits
+MI 13204 - Information Systems Project Management
+3
+credits
+Total: 6 lecture hours - 0 lab hours - 6 credits
+Winter
+MI 13102 - Introduction to Medical Informatics II
+3
+credits
+MI 743 - Principles of Health Care Management
+3
+credits
+Total: 6 lecture hours - 0 lab hours - 6 credits
+Spring
+MI 756 - Health Care Provision and Payment
+3
+credits
+MI 885 - Computer Network and Design
+3
+credits
+Total: 6 lecture hours - 0 lab hours - 6 credits
+Summer
+Elective
+3 credits
+1
+MI 786 - Medical Informatics Journal Club
+1
+credits
+2
+Total: 4 lecture hours - 0 lab hours - 4 credits
+Year Two
+Fall
+MI 13202 - Ethics in Medical Informatics
+3
+credits
+MI 693 - Intermediate Statistics
+3
+credits
+Total: 6 lecture hours - 0 lab hours - 6 credits
+Winter
+MI 787 - Health Care Systems Analysis and Design
+3
+credits
+MI 720 - Six Sigma Quality and Patient Safety
+3
+credits
+MI 786 - Medical Informatics Journal Club
+1
+credits
+2
+Total: 7 lecture hours - 0 lab hours - 7 credits
+Spring
+MI 783 - Database Structures and Processing
+3
+credits
+Elective
+3 credits
+1
+Total: 6 lecture hours - 0 lab hours - 6 credits
+Summer
+MI 13297 - Internship or Research Project I
+3
+credits
+MI 13298 - Internship or Research Project II
+3
+credits
+Total: 6 lecture hours - 0 lab hours - 6 credits
+Year Three
+Fall
+MI 13203 - Health Care Decision Support
+3
+credits
+MI 789 - Medical Informatics Case Study Seminar
+3
+credits
+MI 786 - Medical Informatics Journal Club
+1
+credits
+Total: 7 lecture hours - 0 lab hours - 7 credits
+Note:
+1
+Electives may be taken from any other graduate program at MSOE or MCW.
+2
+The Medical Informatics Journal Club (
+MI 786
+) is a one credit class that is offered every quarter (including summer).
+Part-time students may enroll in fewer courses each quarter than listed above, however, students are expected to complete all degree requirements within five years of beginning the program.
+Return to:
+Academic Departments, Degree Programs and Certificates
+Back to Top
+|
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+All
+catalogs
+© 2026 Milwaukee School of Engineering.
+Powered by
+Modern Campus Catalog™
+.

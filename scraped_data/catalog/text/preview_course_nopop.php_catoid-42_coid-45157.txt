@@ -1,0 +1,147 @@
+MEC 1910 - Computer Applications in Engineering -
+Milwaukee School of Engineering
+Mar 12, 2026
+2025-2026 Undergraduate Academic Catalog
+Select a Catalog
+2025-2026 Undergraduate Academic Catalog
+2025-2026 Graduate Academic Catalog
+2024-2025 Undergraduate Academic Catalog-June [ARCHIVED CATALOG]
+2024-2025 Graduate Academic Catalog-June [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Graduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Graduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Graduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Graduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Graduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Graduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Graduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Graduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Graduate Academic Catalog [ARCHIVED CATALOG]
+2013-14 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2012-2014 Graduate Academic Catalog [ARCHIVED CATALOG]
+2012-2013 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+Global Search
+Catalog Search
+Choose Search Location
+Select an option
+Courses
+Programs
+Academic Departments
+Other Content
+Entire Catalog
+Search Keyword Field
+Whole Word/Phrase
+Advanced Search
+Catalog Navigation
+Catalog Home
+Academic Calendar
+University Overview
+Admissions
+Student Financial Services
+Academic Regulations and Policies
+Degree Programs, Minors, and Certificates
+Degrees, Minors, and Certificates by Department
+Course Descriptions
+The Raider Core
+Explorer Pathways
+MSOE Honors Program
+Global Opportunities
+Reserve Officers’ Training Corps. (ROTC)
+Administration, Regents, and Advisory Committees
+Departments and Faculty
+Campus Map
+Student Resources
+My Portfolio
+HELP
+2025-2026 Undergraduate Academic Catalog
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+MEC 1910 - Computer Applications in Engineering
+2
+lecture hours
+2
+lab hours
+3
+credits
+Course Description
+The purpose of this course is to familiarize students with the modern computer tools required for engineering practice and teach them how to apply these tools to solve practical engineering problems and interface software with hardware. Solution methods learned will be applied to various problems found in engineering. Laboratory topics will cover the use of algebraic, iterative algorithmic, and graphical solutions methods. In addition, students will learn how to collect sensor information to reinforce program development.
+Prereq:
+Precalculus (quarter system prereq: MA 127 or equivalent)
+Note:
+None
+This course meets the following Raider Core CLO Requirement:
+None
+Course Learning Outcomes
+Upon successful completion of this course, the student will be able to:
+Program solutions to engineering problems
+Develop algorithms to support programming
+Employ flowcharts and/or pseudocode in algorithm development
+Demonstrate the use of logical operations and statements to solve problems
+Apply loop control structures properly
+Employ intrinsic functions
+Construct user written functions
+Curve fit data
+Solve systems of equations
+Apply matrix mathematics using computer applications
+Import and export data as necessary
+Numerically integrate a function
+Numerically differentiate a function
+Optimize a function or system of functions
+Develop algorithms to interact with hardware
+Prerequisites by Topic
+College trigonometry and algebra
+Course Topics
+Computing tool fundamentals
+Engineering solution approaches
+Mathematical operations
+Logical operations
+Arrays and matrices
+Matrix methods
+Application of flowcharts and/or pseudocode in algorithm development
+Loop control structures
+Intrinsic functions
+User written functions
+Data import and export
+Plotting of data
+Roots of equations
+Zeros of functions
+Defining and solving optimization problems
+Digital input and output functions
+Analog input and output functions
+Laboratory Topics
+Problem solving using algebraic, iterative, and graphical methods
+Curve fitting of data
+Solution of systems of equations
+Application of matrix mathematics
+Numerical integration
+Numerical differentiation
+Optimization of functions
+Collection of sensor data and interacting with hardware
+Coordinator
+Mark Ryan
+Back to Top
+|
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+All
+catalogs
+© 2026 Milwaukee School of Engineering.
+Powered by
+Modern Campus Catalog™
+.

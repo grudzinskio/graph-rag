@@ -1,0 +1,119 @@
+ARE 3121 - Design of Communication and Life Safety Systems -
+Milwaukee School of Engineering
+Mar 12, 2026
+2023-2024 Undergraduate Academic Catalog
+Select a Catalog
+2025-2026 Undergraduate Academic Catalog
+2025-2026 Graduate Academic Catalog
+2024-2025 Undergraduate Academic Catalog-June [ARCHIVED CATALOG]
+2024-2025 Graduate Academic Catalog-June [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Graduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Graduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Graduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Graduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Graduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Graduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Graduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Graduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Graduate Academic Catalog [ARCHIVED CATALOG]
+2013-14 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2012-2014 Graduate Academic Catalog [ARCHIVED CATALOG]
+2012-2013 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+Global Search
+Catalog Search
+Choose Search Location
+Select an option
+Courses
+Programs
+Academic Departments
+Other Content
+Entire Catalog
+Search Keyword Field
+Whole Word/Phrase
+Advanced Search
+Catalog Navigation
+Catalog Home
+Academic Calendar
+University Overview
+Admissions
+The Raider Core
+Academic Regulations and Policies
+Student Financial Services
+Degrees, Minors, and Certificates by Department
+Degree Programs, Minors, and Certificates
+Course Descriptions
+MSOE Honors Program
+Global Opportunities
+Reserve Officers’ Training Corps. (ROTC)
+Administration, Regents, and Advisory Committees
+Faculty and Faculty Emeriti
+Campus Map
+Student Resources
+My Portfolio
+HELP
+2023-2024 Undergraduate Academic Catalog
+[ARCHIVED CATALOG]
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+ARE 3121 - Design of Communication and Life Safety Systems
+3
+lecture hours
+0
+lab hours
+3
+credits
+Course Description
+Students will learn about various low voltage systems and how they function in typical building applications. Data networks, telephone, signaling, multimedia, security, and fire alarm along with the supporting equipment will be studied. Emphasis will be on viewing each low voltage modality as a fully functional system. Practice in specifying and laying out building low voltage systems will cumulate in a final project. Relevant codes and standards will be referenced and integrated into design work. Topics include communication systems, data networks, signaling, multimedia (A/V, videoconferencing), security, fire alarm, monitoring, building automation systems.   (prereq:
+ARE 3101
+) (quarter system prereq: AE 3601)
+Course Learning Outcomes
+Upon successful completion of this course, the student will be able to:
+Design the various low voltage systems and cabling which are regularly encountered in the design and building construction industry
+Facilitate, properly coordinate and implement low voltage systems in a building
+Apply knowledge of codes and standards as they relate to the design of low voltage systems such as fire alarm, telecommunications, and nurse call for the protection of human life and physical wellbeing
+Plan the process of designing and specifying low voltage and telecommunications systems, the infrastructure necessary to facilitate proper installation, and the coordination required with other disciplines of design
+Prerequisites by Topic
+Knowledge of basic electrical systems
+Ability to perform basic electrical power calculations
+Course Topics
+Introduction of low voltage and communication systems
+Principles of signal transmission
+Network cable and bandwidth
+Wireless technologies
+Network equipment
+Building network infrastructure and topology design
+Campus network infrastructure
+Fire alarm and mass notification systems
+Audio, video, multimedia systems
+Healthcare systems
+Building automation systems
+Integration of systems
+Coordinator
+Christine Brotz, P.E.
+Back to Top
+|
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+All
+catalogs
+© 2026 Milwaukee School of Engineering.
+Powered by
+Modern Campus Catalog™
+.

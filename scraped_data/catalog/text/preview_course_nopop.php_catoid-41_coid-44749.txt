@@ -1,0 +1,128 @@
+ARE 5141 - District Energy Electrical Systems -
+Milwaukee School of Engineering
+Mar 12, 2026
+2024-2025 Graduate Academic Catalog-June
+Select a Catalog
+2025-2026 Undergraduate Academic Catalog
+2025-2026 Graduate Academic Catalog
+2024-2025 Undergraduate Academic Catalog-June [ARCHIVED CATALOG]
+2024-2025 Graduate Academic Catalog-June [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Graduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Graduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Graduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Graduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Graduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Graduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Graduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Graduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Graduate Academic Catalog [ARCHIVED CATALOG]
+2013-14 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2012-2014 Graduate Academic Catalog [ARCHIVED CATALOG]
+2012-2013 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+Global Search
+Catalog Search
+Choose Search Location
+Select an option
+Courses
+Programs
+Academic Departments
+Other Content
+Entire Catalog
+Search Keyword Field
+Whole Word/Phrase
+Advanced Search
+Catalog Navigation
+Catalog Home
+Academic Calendar
+University Overview
+Graduate Admission Requirements
+Academic Regulations and Policies
+Student Financial Services
+Graduate Degree Programs and Certificates
+Graduate Degree Programs and Certificates by Department
+Course Descriptions
+Research Opportunities
+Administration and Board of Regents
+Graduate Faculty
+Campus Map
+Student Resources
+My Portfolio
+HELP
+2024-2025 Graduate Academic Catalog-June
+[ARCHIVED CATALOG]
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+ARE 5141 - District Energy Electrical Systems
+3
+lecture hours
+0
+lab hours
+3
+credits
+Course Description
+This course will focus on district energy systems (DES) related to electrical systems and will cover the three components to a DES including the central plant, the distribution system, and the consumer interconnection. Master planning will be discussed to analyze all the factors involved in central plant siting including technical issues, economic factors, operation and maintenance, and ultimately, to determine if a building or complex is a candidate for a DES. A central campus electrical service will be examined including the electrical distribution feeders to campus buildings. Electrical loads from the mechanical systems will be considered. Medium and low voltage equipment will be selected. This course will typically run simultaneously and be integrated with the district energy mechanical systems course.
+Prereq:
+ARE 5161
+(quarter system prereq: AE 3622 or AE 5404, or graduate program director or department chair consent)
+Note:
+This course is open to qualified undergraduate students.
+Course Learning Outcomes
+Upon successful completion of this course, the student will be able to:
+Identify the required components in a district energy system
+Design medium and low voltage services and feeders
+Devise protection schemes for medium and low voltage feeders to mechanical equipment and electrical distribution equipment
+Analyze various distribution topologies and justify selections based on cost and reliability considerations
+Discuss the site distribution options used in campus power systems such as tunnels, duct banks and direct-buried cabling
+Discuss distributed energy and microgrid resources
+Create site power distribution profiles based on existing topography
+Design electrical power system for a central utility plant
+Design a district energy system with team members for an integrated design
+Prerequisites by Topic
+None
+Course Topics
+History, examples, and applicability of district energy systems
+Components and benefits of district energy systems
+System master planning
+Estimating peak, seasonal, and hourly loads
+Construction and economic considerations and costs
+Electrical considerations for district cooling plants
+Electrical service location
+Load expansion
+System topology
+Site distribution routes
+Cogeneration
+Microgrids and distributed energy
+Energy storage
+Emergency and standby equipment; design for resiliency
+Metering and monitoring
+Interconnection standards
+Tour a large district energy plant
+Coordinator
+Tamara Omari
+Back to Top
+|
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+All
+catalogs
+© 2026 Milwaukee School of Engineering.
+Powered by
+Modern Campus Catalog™
+.

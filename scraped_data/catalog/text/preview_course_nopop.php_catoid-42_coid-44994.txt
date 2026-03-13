@@ -1,0 +1,158 @@
+MTH 2340 - Linear Algebra with Applications -
+Milwaukee School of Engineering
+Mar 12, 2026
+2025-2026 Undergraduate Academic Catalog
+Select a Catalog
+2025-2026 Undergraduate Academic Catalog
+2025-2026 Graduate Academic Catalog
+2024-2025 Undergraduate Academic Catalog-June [ARCHIVED CATALOG]
+2024-2025 Graduate Academic Catalog-June [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Graduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Graduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Graduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Graduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Graduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Graduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Graduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Graduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Graduate Academic Catalog [ARCHIVED CATALOG]
+2013-14 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2012-2014 Graduate Academic Catalog [ARCHIVED CATALOG]
+2012-2013 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+Global Search
+Catalog Search
+Choose Search Location
+Select an option
+Courses
+Programs
+Academic Departments
+Other Content
+Entire Catalog
+Search Keyword Field
+Whole Word/Phrase
+Advanced Search
+Catalog Navigation
+Catalog Home
+Academic Calendar
+University Overview
+Admissions
+Student Financial Services
+Academic Regulations and Policies
+Degree Programs, Minors, and Certificates
+Degrees, Minors, and Certificates by Department
+Course Descriptions
+The Raider Core
+Explorer Pathways
+MSOE Honors Program
+Global Opportunities
+Reserve Officers’ Training Corps. (ROTC)
+Administration, Regents, and Advisory Committees
+Departments and Faculty
+Campus Map
+Student Resources
+My Portfolio
+HELP
+2025-2026 Undergraduate Academic Catalog
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+MTH 2340 - Linear Algebra with Applications
+3
+lecture hours
+0
+lab hours
+3
+credits
+Course Description
+This course develops the theory of linear algebra and its application. Topics include systems of linear equations, matrix equations, linear transformations, invertibility, subspaces and bases, the determinant, eigenvectors, the inner product, orthogonality, projection, matrix factorizations, and selected applications.
+Prereq:
+MTH 1120
+(quarter system prereq: MA 2314)
+Note:
+None
+This course meets the following Raider Core CLO Requirement:
+Think Critically
+Course Learning Outcomes
+Upon successful completion of this course, the student will be able to:
+Perform a sequence of elementary row operations to find the row echelon and reduced row echelon form of a matrix
+Identify the pivot positions and rank of a matrix
+Determine if a system of linear equations is consistent or inconsistent by considering a row echelon form of its augmented matrix
+Describe the solution set of a consistent system of linear equations, including identifying any free variables
+Use the terminology associated with linear combinations and spanning sets
+Perform matrix-vector multiplication and interpret the result as a linear combination
+Associate a system of linear equations with a vector equation or matrix equation, and vice versa
+Express the solutions of a consistent matrix equation in parametric vector form
+Determine if a set of vectors is linearly independent
+Find non-trivial linear dependence relations among a set of linearly dependent vectors
+Use the terminology associated with linear transformations, including domain, codomain, range, onto, and one-to-one
+Prove that a given transformation is or is not a linear transformation by checking the conditions of the definition
+Determine the matrix of a linear transformation, either from its formula or from a geometric description
+Perform matrix-matrix multiplication
+Find the transpose of a matrix
+Determine if a matrix is invertible and find its inverse using row reduction
+Apply the invertible matrix theorem to draw connections between topics in linear algebra
+Prove that a given set of vectors is or is not a subspace of R
+n
+Determine if a given set of a vectors is a basis for a given subspace of R
+n
+Determine the dimension of a subspace of R
+n
+Find a basis and dimension for the null space and column space of a matrix
+Apply properties of the determinant
+Find the determinant of a matrix via row reduction and cofactor expansion
+Find the determinant of a triangular or diagonal matrix
+Interpret the determinant of a 2x2 or 3x3 invertible matrix geometrically
+Show that a real number is an eigenvalue of a matrix with real number entries by finding the corresponding eigenvectors
+Determine the eigenvalues of a matrix and their algebraic multiplicity using the characteristic equation
+Diagonalize a matrix, if possible, or determine it is not diagonalizable
+Employ eigenvectors and eigenvalues in selected applications and interpret the results
+Use the inner product to find the length of a vector and the distance between two vectors
+Determine if a set of vectors is an orthogonal basis for a subspace of R
+n
+Find the projection of a vector onto a subspace of R
+n
+Prerequisites by Topic
+Elementary geometry
+Cartesian coordinates
+Linear equations
+Vector algebra in 2D and 3D
+Course Topics
+Systems of linear equations, elementary row operations, and echelon form
+Linear combinations and spanning sets
+Matrix equations
+Linear independence and dependence
+Linear transformations and their matrices
+Matrix algebra and invertible matrices
+Subspaces, bases, and dimension
+The determinant and its properties
+Eigenvectors and eigenvalues, diagonalization, application to general linear models
+Inner products, orthogonality, projection, and selected applications
+The spectral theorem, singular value decomposition, and selected applications
+Coordinator
+Dr. Anthony van Groningen
+Back to Top
+|
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+All
+catalogs
+© 2026 Milwaukee School of Engineering.
+Powered by
+Modern Campus Catalog™
+.

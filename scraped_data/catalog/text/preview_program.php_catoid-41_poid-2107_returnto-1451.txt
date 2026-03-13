@@ -1,0 +1,232 @@
+Program: Engineering, M.S. - Milwaukee School of Engineering
+Milwaukee School of Engineering
+Mar 12, 2026
+2024-2025 Graduate Academic Catalog-June
+Select a Catalog
+2025-2026 Undergraduate Academic Catalog
+2025-2026 Graduate Academic Catalog
+2024-2025 Undergraduate Academic Catalog-June [ARCHIVED CATALOG]
+2024-2025 Graduate Academic Catalog-June [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Graduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Graduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Graduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Graduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Graduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Graduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Graduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Graduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Graduate Academic Catalog [ARCHIVED CATALOG]
+2013-14 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2012-2014 Graduate Academic Catalog [ARCHIVED CATALOG]
+2012-2013 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+Global Search
+Catalog Search
+Choose Search Location
+Select an option
+Courses
+Programs
+Academic Departments
+Other Content
+Entire Catalog
+Search Keyword Field
+Whole Word/Phrase
+Advanced Search
+Catalog Navigation
+Catalog Home
+Academic Calendar
+University Overview
+Graduate Admission Requirements
+Academic Regulations and Policies
+Student Financial Services
+Graduate Degree Programs and Certificates
+Graduate Degree Programs and Certificates by Department
+Course Descriptions
+Research Opportunities
+Administration and Board of Regents
+Graduate Faculty
+Campus Map
+Student Resources
+My Portfolio
+HELP
+2024-2025 Graduate Academic Catalog-June
+[ARCHIVED CATALOG]
+Engineering, M.S.
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Return to:
+Graduate Degree Programs and Certificates by Department
+Program Director
+Dr. Mohammad Mahinfalah
+Office: S-126
+Phone: (414) 277-7546
+Email:
+mahinfalah@msoe.edu
+Overview
+The MSE program enables graduate engineering professionals to further their problem-solving skills through the application of advanced engineering principles and methods. The strength of this program is in its flexibility. The program offers students the opportunity to advance their quantitative skills through a series of modeling-based courses and provides for their choice of specialty courses in electrical engineering or mechanical engineering and/or other related fields. The program allows for breadth and depth of engineering topics and culminates in either a project or final paper where the student must integrate the knowledge and skills learned in the program.
+The MSE is aimed toward engineers who are involved with industrial projects. The program’s major emphasis is on the further development of engineering knowledge and skills to enhance the productivity of the practicing engineer. It provides a flexible platform for students to take either an integrated approach or a specialized approach to meet the demands of their engineering practice.
+Courses include topics such as system dynamics, numerical methods, discrete event simulation, quality engineering, microelectromechanical systems, experimental stress analysis, computational fluid mechanics, fatigue and fracture, specialty electric machines, power systems and quality, data communications, neural networks, embedded systems, modern control systems, and fluid power systems.
+A six-credit capstone engineering project option is included as part of the program. A non-project option is also available, which includes one specialty course and a three-credit engineering specialty paper.
+Program Educational Objectives
+Graduates create new value in a process or product at their workplace through application of advanced engineering skills and knowledge
+Graduates advance in their careers as a direct result of completing the degree
+Student Learning Outcomes
+Graduates of the MSE program will:
+Be able to utilize advanced mathematics, with a primary focus on numerical methods and models, to solve engineering problems involving multivariate differential systems
+Have demonstrated an ability to apply advanced engineering principles to complex problems in his or her chosen specialty
+Have demonstrated an ability to integrate and analyze information in a chosen specialty in the form of scholarly work, either as an independent specialty paper or as an independent engineering project
+Have the ability to effectively present and communicate technical concepts, both orally and in writing
+Faculty
+Dr. Cynthia W. Barnacki, Kaylie Butt, Dr. Chancey Chandler, Dr. Patrick M. Comiskey, Dr. William C. Farrow, Dr. Mark Fleming, Dr. Douglas Grabenstetter, Dr. Kevin R. Hart, Michael Hayes, Dr. Sudhir Kaul, Dr. Xue-Cheng Liu, Dr. Amirreza Lotfolahpour, Dr. Mohammad Mahinfalah, Dr. Arvin J. Montes, Dr. Mikayla Moody, Dr. Leah Newman, Dr. Matthew A. Panhans, Dr. Nathan Patterson, Dr. Robert Rizza, Dr. Luis A. Rodriguez, Dr. Mathew Schaefer, Dr. Nebojsa Sebastijanovic, Dr. Michael Sevier, Dr. Brian Slaboch, Dr. Michael J. Swedish, Dr. Milad Tatari, Dr. Prabhakar Venkateswaran, Dr. Anand Vyas, Dr. Ruiyang Wang, Dr. Daniel Williams
+Engineering, M.S. Version S1
+Students can choose to complete the program in two years or five years. See below for the course sequences for each option.
+Required Core
+Students complete 12 credits of the courses below, with a choice between IND 6120 or IND 6130.
+EGR 6010 - System Dynamics Modeling
+3
+credits
+EGR 6020 - Simulation Modeling and Analysis
+3
+credits
+EGR 6110 - PDEs and Numerical Methods
+3
+credits
+and
+IND 6120 - Operations Research
+3
+credits
+or
+IND 6130 - Quality Engineering
+3
+credits
+Specialty Core
+All students complete 9 credits from the specialty core. Students choosing the non-project capstone take an additional 3 credits from this core (must be in their chosen discipline and 6000-level). Course offerings vary by year.
+ELE 5142 - Modern Electronic Systems
+3
+credits
+ELE 5240 - Advanced Electromagnetics and Antenna Theory
+3
+credits
+ELE 5320 - Applications of DSP
+3
+credits
+ELE 5403 - Specialty Electric Machines
+3
+credits
+ELE 5440 - Power Electronics
+3
+credits
+ELE 5447 - Power System Models and Analysis
+3
+credits
+ELE 5451 - Grid Stability
+3
+credits
+ELE 5480 - Electrical Power Systems Quality
+3
+credits
+ELE 5610 - Advanced Programming for EEs
+3
+credits
+ELE 5630 - Advanced Embedded Systems
+3
+credits
+MEC 5305 - Mechanical System Simulation with Fluid Power Applications
+3
+credits
+MEC 5601 - MicroElectroMechanical Systems Fundamentals
+3
+credits
+MEC 6090 - Experimental Stress Analysis
+3
+credits
+MEC 6862 - Advanced Topics in Mechanics and Design
+3
+credits
+MEC 6884 - Numerical Heat Transfer
+3
+credits
+MEC 6880 - Computational Fluid Mechanics
+3
+credits
+MEC 6882 - Gas Dynamics
+3
+credits
+Free Elective
+The free elective can be any graduate-level course from any discipline.
+Elective (Free)
+3 credits
+Capstone Experience
+Students choose either a project or non-project option.
+Project option
+EGR 7921 - Engineering Project I
+3
+credits
+(Term I)
+EGR 7922 - Engineering Project II
+3
+credits
+(Term II)
+Non-project option
+3 credits from specialty core in the student’s discipline (6000-level)
+EGR 7901 - Engineering Specialty Paper
+3
+credits
+Program total: 30 credits
+Notes:
+MSOE undergraduates can apply up to 6 credits toward the MSE degree if they choose to register in 5000-level offerings for their senior electives.
+Up to 6 transfer credits are allowed for applicable coursework from other graduate programs in regionally accredited US universities.
+Two-year option
+Students may complete the program in two years, taking courses in fall, spring, and summer terms:
+Year one (fall, spring, and summer):
+EGR 6010
+EGR 6020
+Six credits from the specialty core
+Free elective
+Year two (fall, spring, and summer):
+EGR 6110
+IND 6120 or IND 6130
+Three credits from the specialty core
+Capstone experience (the project option)
+OR
+three 6000-level credits from the specialty core (for students choosing the non-project option) and specialty paper
+Five-year option
+Students may also complete the program in five years, taking courses in fall and spring terms:
+First two years (fall and spring):
+EGR 6010
+EGR 6020
+EGR 6110
+IND 6120 or IND 6130
+Third year and fourth year (fall and spring):
+Nine credits from the specialty core
+Free elective
+Fifth year (fall and spring):
+Capstone experience (the project option)
+OR
+Three 6000-level credits from the specialty core (for students choosing the non-project option) and specialty paper
+Return to:
+Graduate Degree Programs and Certificates by Department
+Back to Top
+|
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+All
+catalogs
+© 2026 Milwaukee School of Engineering.
+Powered by
+Modern Campus Catalog™
+.

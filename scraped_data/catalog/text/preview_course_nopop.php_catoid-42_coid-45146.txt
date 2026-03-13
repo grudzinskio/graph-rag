@@ -1,0 +1,138 @@
+MEC 3120 - Fluid Mechanics -
+Milwaukee School of Engineering
+Mar 12, 2026
+2025-2026 Undergraduate Academic Catalog
+Select a Catalog
+2025-2026 Undergraduate Academic Catalog
+2025-2026 Graduate Academic Catalog
+2024-2025 Undergraduate Academic Catalog-June [ARCHIVED CATALOG]
+2024-2025 Graduate Academic Catalog-June [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Graduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Graduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Graduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Graduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Graduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Graduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Graduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Graduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Graduate Academic Catalog [ARCHIVED CATALOG]
+2013-14 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2012-2014 Graduate Academic Catalog [ARCHIVED CATALOG]
+2012-2013 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+Global Search
+Catalog Search
+Choose Search Location
+Select an option
+Courses
+Programs
+Academic Departments
+Other Content
+Entire Catalog
+Search Keyword Field
+Whole Word/Phrase
+Advanced Search
+Catalog Navigation
+Catalog Home
+Academic Calendar
+University Overview
+Admissions
+Student Financial Services
+Academic Regulations and Policies
+Degree Programs, Minors, and Certificates
+Degrees, Minors, and Certificates by Department
+Course Descriptions
+The Raider Core
+Explorer Pathways
+MSOE Honors Program
+Global Opportunities
+Reserve Officers’ Training Corps. (ROTC)
+Administration, Regents, and Advisory Committees
+Departments and Faculty
+Campus Map
+Student Resources
+My Portfolio
+HELP
+2025-2026 Undergraduate Academic Catalog
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+MEC 3120 - Fluid Mechanics
+3
+lecture hours
+0
+lab hours
+3
+credits
+Course Description
+This course covers the fundamental tools needed for analyzing fluid mechanics problems.  Approaches for solving engineering problems involving static and moving fluids are covered.  The theory developed will allow students to pursue advance practice in fluid dynamics (e.g., computational fluid dynamics and aerodynamics).
+Prereq:
+MEC 2020
+,
+MTH 2130
+,
+MTH 2140
+(quarter system prereq: ME 2002, MA 2323, MA 235, PH 2031)
+Note:
+None
+This course meets the following Raider Core CLO Requirement:
+None
+Course Learning Outcomes
+Upon successful completion of this course, the student will be able to:
+Define a fluid’s properties and their relations to stress and strain rates
+Apply the fluid-static equation to determine pressure at a point
+Apply the Bernoulli equations to a variety of problems and assess when it can and cannot be used
+Apply the control volume forms of the mass, energy, and momentum equations to variety of problems
+Determine the equation for a streamline/streamfunction and the acceleration of fluid for a given flow field
+Compute the strain rate distribution and vorticity distribution for a given flow field
+Analyze simplified flows using Navier-Stokes equations
+Apply Buckingham Pi Theorem to determine dimensionless relationship for a fluid mechanics problem
+Recognize and use common dimensionless groups
+Apply the concepts of modeling and similitude to develop scaled model predictions
+Identify and explain properties of laminar and turbulent pipe flow
+Calculate major and minor losses in pipe systems
+Determine system head-discharge equation for a pipe system
+Explain characteristics of a boundary layer, including laminar, transitional, and turbulent regimes and boundary layer separation
+Calculate boundary layer parameters for flow past a flat plate
+Explain differences between pressure and viscous drag
+Calculate the estimated drag force for various objects
+Prerequisites by Topic
+Multivariable calculus
+Dynamics
+Course Topics
+Fluid characteristics and properties
+Fluid statics - pressure distributions, manometry, hydrostatic forces on surfaces, buoyancy and stability
+Fluid dynamics - Bernoulli equation
+Fluid kinematics - velocity and acceleration fields, Reynolds transport theorem
+Control volume analysis - mass, momentum, angular momentum, and energy
+Differential analysis - strain rates, streamfunction, vorticity, continuity, and Navier-Stokes
+Dimensional analysis and similitude - Buckingham pi theorem, model scaling
+Viscous flow in pipes - laminar and turbulent flows, major and minor losses
+External flows and boundary layers - boundary layer characteristics, drag and lift forces
+Coordinator
+Dr. Patrick Comiskey
+Back to Top
+|
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+All
+catalogs
+© 2026 Milwaukee School of Engineering.
+Powered by
+Modern Campus Catalog™
+.

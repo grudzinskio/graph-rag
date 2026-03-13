@@ -1,0 +1,343 @@
+Course Descriptions - Milwaukee School of Engineering
+Milwaukee School of Engineering
+Mar 12, 2026
+2021-2022 Graduate Academic Catalog
+Select a Catalog
+2025-2026 Undergraduate Academic Catalog
+2025-2026 Graduate Academic Catalog
+2024-2025 Undergraduate Academic Catalog-June [ARCHIVED CATALOG]
+2024-2025 Graduate Academic Catalog-June [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Graduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Graduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Graduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Graduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Graduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Graduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Graduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Graduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Graduate Academic Catalog [ARCHIVED CATALOG]
+2013-14 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2012-2014 Graduate Academic Catalog [ARCHIVED CATALOG]
+2012-2013 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+Global Search
+Catalog Search
+Choose Search Location
+Select an option
+Courses
+Programs
+Academic Departments
+Other Content
+Entire Catalog
+Search Keyword Field
+Whole Word/Phrase
+Advanced Search
+Catalog Navigation
+Catalog Home
+Academic Calendar
+University Overview
+Professional Education
+Graduate Admission Requirements
+Academic Regulations and Policies
+Student Financial Services
+Research Opportunities
+Academic Departments, Graduate Degree Programs and Certificates
+Degree Programs and Certificates
+Course Descriptions
+Administration, Board of Regents, and Graduate Faculty
+Campus Map
+Student Resources
+My Portfolio
+HELP
+2021-2022 Graduate Academic Catalog
+[ARCHIVED CATALOG]
+Course Descriptions
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Course Filter
+Filter this list of courses using course prefix, course code, keywords or any combination.
+Prefix:
+Code or Number:
+Type
+Keyword or Phrase:
+Choose Course Prefix
+All prefixes…
+AE
+BE
+CE
+CH
+CM
+CS
+CV
+EE
+GA
+GC
+GE
+IE
+MA
+MB
+ME
+NU
+PE
+PH
+SE
+Choose Course Number
+Choose Course Type
+All types…
+Architectural Engineering
+Biomedical Engineering
+Business Administration
+Chemistry
+Computer Engineering
+Computer Science
+Construction Management
+Civil Engineering
+Electrical Engineering
+Graduate Continuation
+General Engineering
+Industrial Engineering
+Nursing
+Mathematics
+Mechanical Engineering
+Perfusion
+Physics
+Software Engineering
+Choose Keyword
+Find whole word or phrase only.
+Construction Management
+•
+CM 5520 - 21st Century Leadership in Construction
+•
+CM 5980 - Topics in Construction Management
+•
+CM 7005 - Sustainable Built Environment
+•
+CM 7050 - Construction Data and Information Management
+Civil Engineering
+•
+CV 500 - Environmental Chemistry
+•
+CV 502 - Environmental Microbiology
+•
+CV 510 - Storm Water Management Systems Design
+•
+CV 512 - Geographical Information Systems (GIS)
+•
+CV 518 - Watercourse Design
+•
+CV 522 - Unit Operations and Processes Laboratory
+•
+CV 540 - Air Permitting
+•
+CV 542 - Design of Air Pollution Control Systems
+•
+CV 550 - Physical Hydrogeology
+•
+CV 552 - Contaminant Hydrogeology and Groundwater Remediation
+•
+CV 554 - Ground Water and Soil Remediation Technologies
+•
+CV 711 - GIS Applications in Water Resources Engineering
+•
+CV 712 - Water Quality Analysis and Modeling
+•
+CV 715 - Open Channel Hydraulics
+•
+CV 720 - Design of Biological Wastewater Treatment Processes
+•
+CV 722 - Design of Water Treatment Systems
+•
+CV 724 - Industrial Wastewater Treatment
+•
+CV 730 - Pollution Prevention and Waste Minimization
+•
+CV 740 - Air Permitting
+•
+CV 750 - Plant Safety/OSHA Issues
+•
+CV 752 - Risk Assessment and Environmental Auditing
+•
+CV 760 - Environmental Law
+•
+CV 799 - Civil Engineering Independent Study
+•
+CV 5210 - Matrix Structural Analysis
+•
+CV 5220 - AISC Steel Design
+•
+CV 5232 - Prestressed Concrete Design
+•
+CV 5234 - Foundation Design
+•
+CV 5240 - Masonry Design
+•
+CV 5250 - Wood Design
+•
+CV 5260 - Bridge Design
+•
+CV 5262 - Modern Structural Systems
+•
+CV 5263 - Retaining Structures and Slope Stability
+•
+CV 5300 - Pavement Design
+•
+CV 5310 - Traffic Analysis
+•
+CV 5320 - Traffic Control
+•
+CV 5800 - Research and Writing
+•
+CV 5980 - Topics in Civil Engineering
+•
+CV 6210 - Applied Finite Elements
+•
+CV 6212 - Structural Dynamics
+•
+CV 6214 - Lateral Loads on Structural Systems
+•
+CV 6216 - Structural Stability
+•
+CV 6222 - AISI Steel Design
+•
+CV 6224 - Connection Design
+•
+CV 6230 - Reinforced Concrete Structure Design
+•
+CV 6264 - Structural Systems and Optimization
+•
+CV 6300 - Traffic Safety
+•
+CV 6370 - Facilities Planning
+•
+CV 6461 - Life Cycle Assessment of Building and Infrastructure Systems
+•
+CV 7100 - Applied Statistics and Modeling
+•
+CV 8000 - Research and Presentation
+•
+CV 8900 - Capstone Project I
+•
+CV 8910 - Capstone Project II
+•
+CV 8920 - Capstone Project III
+Electrical Engineering
+•
+EE 521 - Digital Communication Systems
+•
+EE 523 - Applications of Digital Signal Processing
+•
+EE 525 - Radio Frequency Circuit Design
+•
+EE 526 - Advanced Electromagnetic Fields
+•
+EE 529 - Microwave Engineering
+•
+EE 544 - Power Electronics
+•
+EE 547 - Power System Analysis I
+•
+EE 549 - Power System Analysis II
+•
+EE 584 - Neural Networks
+•
+EE 799 - MSE Independent Study
+•
+EE 813 - Advanced Electronic Systems
+•
+EE 814 - VLSI Circuit Design
+•
+EE 871 - Modern Control Systems
+•
+EE 5050 - Low-Noise Analog System Design
+•
+EE 5060 - Introduction to Nonlinear Dynamics and Chaos
+•
+EE 5112 - Advanced Analog Electronics
+•
+EE 5250 - Advanced Signal Processing
+•
+EE 5280 - Antenna Theory and Wireless Applications
+•
+EE 5403 - Specialty Electric Machines
+•
+EE 5480 - Electrical Power Systems Quality
+•
+EE 5601 - Modeling and Simulation of Dynamic Systems
+•
+EE 5720 - Control Systems II
+•
+EE 5980 - Topics in Electrical Engineering
+•
+EE 5981 - Topics in Electrical Engineering Topics with Laboratory
+Graduate Continuation
+•
+GA 898 - Graduate Assistantship
+•
+GC 899 - Graduate Continuation
+General Engineering
+•
+GE 601 - System Dynamics
+•
+GE 611 - Numerical Methods
+•
+GE 703 - Simulation and Modeling
+•
+GE 705 - Computer Assisted Engineering
+•
+GE 706 - Digital Control Systems
+•
+GE 791 - Engineering Specialty Paper
+•
+GE 796 - Engineering Project Proposal Development
+•
+GE 797 - Engineering Project I
+•
+GE 798 - Engineering Project II
+•
+GE 799 - MSE Independent Study
+•
+GE 5980 - Topics in Engineering
+Industrial Engineering
+•
+IE 612 - Operations Research
+•
+IE 613 - Quality Engineering
+•
+IE 5980 - Topics in Industrial Engineering
+Nursing
+•
+NU 799 - MSN Independent Study
+•
+NU 6000 - Theory and Roles 1: Philosophy of Care
+•
+NU 6010 - Holism and Health 1: Policy and Ethics
+Page:
+1
+|
+2
+|
+3
+Back to Top
+|
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+All
+catalogs
+© 2026 Milwaukee School of Engineering.
+Powered by
+Modern Campus Catalog™
+.

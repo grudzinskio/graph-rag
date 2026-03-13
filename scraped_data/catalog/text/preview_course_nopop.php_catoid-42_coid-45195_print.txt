@@ -1,0 +1,148 @@
+CSC 1310 - Introduction to Programming with Python -
+2025-2026 Undergraduate Academic Catalog
+Milwaukee School of Engineering
+Mar 12, 2026
+2025-2026 Undergraduate Academic Catalog
+Select a Catalog
+2025-2026 Undergraduate Academic Catalog
+2025-2026 Graduate Academic Catalog
+2024-2025 Undergraduate Academic Catalog-June [ARCHIVED CATALOG]
+2024-2025 Graduate Academic Catalog-June [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Graduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Graduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Graduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Graduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Graduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Graduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Graduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Graduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Graduate Academic Catalog [ARCHIVED CATALOG]
+2013-14 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2012-2014 Graduate Academic Catalog [ARCHIVED CATALOG]
+2012-2013 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+Global Search
+Catalog Search
+Choose Search Location
+Select an option
+Courses
+Programs
+Academic Departments
+Other Content
+Entire Catalog
+Search Keyword Field
+Whole Word/Phrase
+Advanced Search
+Catalog Navigation
+Catalog Home
+Academic Calendar
+University Overview
+Admissions
+Student Financial Services
+Academic Regulations and Policies
+Degree Programs, Minors, and Certificates
+Degrees, Minors, and Certificates by Department
+Course Descriptions
+The Raider Core
+Explorer Pathways
+MSOE Honors Program
+Global Opportunities
+Reserve Officers’ Training Corps. (ROTC)
+Administration, Regents, and Advisory Committees
+Departments and Faculty
+Campus Map
+Student Resources
+My Portfolio
+HELP
+2025-2026 Undergraduate Academic Catalog
+Print this Page
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+CSC 1310 - Introduction to Programming with Python
+2
+lecture hours
+2
+lab hours
+3
+credits
+Course Description
+The objective of this course is to familiarize students with the basics of computer programming using Python. Each student is required to demonstrate proficiency in writing and documenting the testing of computer programs given a set of requirements. Basic programming skills covered include use of variables, data types, branching, file handling, loops, and functions. In addition, classes, exceptions, and sorting and searching approaches will be introduced. Students will become familiar with commonly used program development environments. Numerous programming exercises will provide experience in solving problems while reinforcing fundamental programming techniques and data handling.
+Prereq:
+None
+Note:
+None
+This course meets the following Raider Core CLO Requirement:
+None
+Course Learning Outcomes
+Upon successful completion of this course, the student will be able to:
+Demonstrate an understanding of basic computer architecture and program development concepts
+Perform manipulations of variables and expressions using mathematical operators
+Use various data types such as strings, lists, sets, dictionaries, and tuples
+Write computer programs that require logical decision-making and branching constructs
+Write computer programs that require handling of various data file types and command-line arguments
+Write computer programs that properly use loops for repetition
+Create and use functions that perform specific tasks
+Write computer programs that require the use of classes and modules
+Demonstrate an understanding of exceptions
+Demonstrate a familiarity with searching and sorting algorithms
+Generalize fundamental programming concepts for use in other programming languages
+Predict the outcomes of given programs with specified inputs
+Prerequisites by Topic
+None
+Course Topics
+Introduction to computer programming
+Computer architecture and program development
+Interactions with Git repositories
+Variables, expressions, and mathematical operators
+Data types: strings, lists, sets, dictionaries, and tuples
+Logical operators and branching
+Basics of file handling
+Implementation of loops
+Advanced handling of strings
+Functions
+Implementation of lists and dictionaries
+Advanced file handling and command-line arguments
+Application of classes
+Exceptions
+Application of modules
+Searching and sorting approaches
+Generalization of fundamental programming concepts for use in other programming languages
+Laboratory Topics
+Introduction to integrated development environments and execution of computer programs
+Variables and operations
+Data types and type conversions
+Implementing decision-making and branch constructs in computer programs
+Implementing loops in computer programs
+Reading and writing files
+Creating and implementing user-defined functions
+String manipulations
+Implementation of lists and dictionaries
+Using classes in programs
+Handling exceptions in programs
+Using modules
+Implementing basic sorting and searching algorithms
+Coordinator
+Dr. Gabriel Wright
+Print this Page
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+All
+catalogs
+© 2026 Milwaukee School of Engineering.
+Powered by
+Modern Campus Catalog™
+.

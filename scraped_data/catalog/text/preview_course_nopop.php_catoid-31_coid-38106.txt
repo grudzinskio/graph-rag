@@ -1,0 +1,128 @@
+BME 1010 - Introduction to Biomedical Engineering -
+Milwaukee School of Engineering
+Mar 12, 2026
+2023-2024 Undergraduate Academic Catalog
+Select a Catalog
+2025-2026 Undergraduate Academic Catalog
+2025-2026 Graduate Academic Catalog
+2024-2025 Undergraduate Academic Catalog-June [ARCHIVED CATALOG]
+2024-2025 Graduate Academic Catalog-June [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Graduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Graduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Graduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Graduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Graduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Graduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Graduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Graduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Graduate Academic Catalog [ARCHIVED CATALOG]
+2013-14 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2012-2014 Graduate Academic Catalog [ARCHIVED CATALOG]
+2012-2013 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+Global Search
+Catalog Search
+Choose Search Location
+Select an option
+Courses
+Programs
+Academic Departments
+Other Content
+Entire Catalog
+Search Keyword Field
+Whole Word/Phrase
+Advanced Search
+Catalog Navigation
+Catalog Home
+Academic Calendar
+University Overview
+Admissions
+The Raider Core
+Academic Regulations and Policies
+Student Financial Services
+Degrees, Minors, and Certificates by Department
+Degree Programs, Minors, and Certificates
+Course Descriptions
+MSOE Honors Program
+Global Opportunities
+Reserve Officers’ Training Corps. (ROTC)
+Administration, Regents, and Advisory Committees
+Faculty and Faculty Emeriti
+Campus Map
+Student Resources
+My Portfolio
+HELP
+2023-2024 Undergraduate Academic Catalog
+[ARCHIVED CATALOG]
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+BME 1010 - Introduction to Biomedical Engineering
+1
+lecture hours
+2
+lab hours
+2
+credits
+Course Description
+This course introduces students to the biomedical engineering (BME) profession. Students are introduced to different subdisciplines and career options in BME. The BME curriculum is discussed, along with strategies for choosing among different curricular and co-curricular options to best be prepared for the different career options. Students are also introduced to the medical device design process and engage in a group project to design and fabricate a medical device component based on realistic specifications. This course meets the following Raider Core CLO requirement:
+Integrate Learning
+.   (prereq: none)
+Course Learning Outcomes
+Upon successful completion of this course, the student will be able to:
+Name the characteristics of a medical device
+Identify the requirements and different options for completing the biomedical engineering curriculum
+Identify medical devices associated with the major sub-areas of biomedical engineering
+Identify career options for biomedical engineers and how choices made as a biomedical engineering student may influence one’s options upon graduation
+Identify different types of engineering considerations that go into the design of common biomedical devices
+Explain the importance of regulation of the medical device industry
+Explain the importance of human factors and safety considerations in medical device design
+Work in a team to design and fabricate a medical device component, based on given specifications
+Prerequisites by Topic
+None
+Course Topics
+Defining a medical device
+Sub-disciplines and career options of biomedical engineering
+The biomedical engineering curriculum
+Introduction to artificial intelligence and data science in the healthcare industry
+Introduction to the medical device design process and identification of requirements
+Introduction to medical device regulation
+Human factors and safety considerations in medical device design
+Introduction to computer-aided design
+Introduction to voltage, current and resistance in DC electrical circuits
+Principles of biopotential measurement
+Laboratory Topics
+Artificial intelligence for image classification
+Computer-aided design
+3D printing and other fabrication methods
+Voltage and resistance measurement
+Voltage divider applications
+Measurement of biopotentials
+Medical device component design and fabrication
+Coordinator
+Dr. Jeff LaMack
+Back to Top
+|
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+All
+catalogs
+© 2026 Milwaukee School of Engineering.
+Powered by
+Modern Campus Catalog™
+.

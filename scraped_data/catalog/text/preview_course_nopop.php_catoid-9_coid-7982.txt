@@ -1,0 +1,115 @@
+EE 593 - Advanced Microprocessors -
+Milwaukee School of Engineering
+Mar 12, 2026
+2014-2015 Graduate Academic Catalog
+Select a Catalog
+2025-2026 Undergraduate Academic Catalog
+2025-2026 Graduate Academic Catalog
+2024-2025 Undergraduate Academic Catalog-June [ARCHIVED CATALOG]
+2024-2025 Graduate Academic Catalog-June [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Graduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Graduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Graduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Graduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Graduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Graduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Graduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Graduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Graduate Academic Catalog [ARCHIVED CATALOG]
+2013-14 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2012-2014 Graduate Academic Catalog [ARCHIVED CATALOG]
+2012-2013 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+Global Search
+Catalog Search
+Choose Search Location
+Select an option
+Courses
+Programs
+Academic Departments
+Other Content
+Entire Catalog
+Search Keyword Field
+Whole Word/Phrase
+Advanced Search
+Catalog Navigation
+Catalog Home
+Academic Calendar
+University Overview
+Graduate and Professional Education
+Graduate Admission Requirements
+Academic Regulations and Policies
+Student Accounts, Fees and Financial Aid
+Services and Resources for Graduate Students
+Academic Departments, Graduate Degree Programs and Certificates
+Degree Programs and Certificates
+Course Descriptions
+Board of Regents, Academic Administration and Faculty
+Campus Map
+My Portfolio
+HELP
+2014-2015 Graduate Academic Catalog
+[ARCHIVED CATALOG]
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+EE 593 - Advanced Microprocessors
+2
+lecture hours
+2
+lab hours
+3
+credits
+Course Description
+This course provides students an understanding of the architecture and programming techniques for advanced microprocessors/controllers. Topics discussed include organization, data format, instruction set, addressing modes, and timing diagram. The course also introduces students to interfacing memory and I/O devices. Architecture and organization of Intel 80x86 microprocessors family and Motorola/Analog Devices DSP microprocessors will be discussed.   (prereq: EE-2902, EE-2920)
+Course Learning Outcomes
+Upon successful completion of this course, the student will be able to:
+• Describe the relative advantages and disadvantages of the 16-bit microprocessors versus 8-bit microprocessors.
+• Describe the architecture and operation of the 8086 microprocessor family.
+• Write and execute programs for a 16-bit microprocessor to work with multiple precision data in signed binary, unsigned binary, binary coded decimal or ASCII.
+• Design interfacing for memory devices to the 8086 including dynamic RAM.
+• Utilize macros and subroutines to develop modular programs.
+• Understand interrupt routines.
+• Design a software system using engineering principles, software engineering and the assembly language
+• Write concise engineering reports with an engineering analysis, verification and condlusion sequence
+Prerequisites by Topic
+• Combinational and sequential logic design.
+• Introductory 8-bit microprocessor course.
+Course Topics
+• Introduction to 16-bit microprocessors. (1 class)
+• Intel 8086 family architecture, data formats, instruction set and addressing modes. (5 classes)
+• Introduction to Borland Assembler, Linker, and Debugger. (2 classes)
+• Data movement instructions. (2 classes)
+• Arithmetic and logic instructions. (4 classes)
+• Program control instructions. (2 classes)
+• Macros and subroutines, including PC-BDOS and PC BIOS routines. (2 classes)
+• Memory interfacing including timing requirements and dynamic RAM controllers. (6 classes)
+Laboratory Topics
+• None appended
+Coordinator
+Joerg Mossbrucker
+Back to Top
+|
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+All
+catalogs
+© 2026 Milwaukee School of Engineering.
+Powered by
+Modern Campus Catalog™
+.

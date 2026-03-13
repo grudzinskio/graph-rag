@@ -1,0 +1,116 @@
+EE 201 - Linear Networks: Steady-State Analysis -
+Milwaukee School of Engineering
+Mar 12, 2026
+2018-2019 Undergraduate Academic Catalog
+Select a Catalog
+2025-2026 Undergraduate Academic Catalog
+2025-2026 Graduate Academic Catalog
+2024-2025 Undergraduate Academic Catalog-June [ARCHIVED CATALOG]
+2024-2025 Graduate Academic Catalog-June [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Graduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Graduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Graduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Graduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Graduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Graduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Graduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Graduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Graduate Academic Catalog [ARCHIVED CATALOG]
+2013-14 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2012-2014 Graduate Academic Catalog [ARCHIVED CATALOG]
+2012-2013 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+Global Search
+Catalog Search
+Choose Search Location
+Select an option
+Courses
+Programs
+Academic Departments
+Other Content
+Entire Catalog
+Search Keyword Field
+Whole Word/Phrase
+Advanced Search
+Catalog Navigation
+Catalog Home
+Academic Calendar
+University Overview
+Enrollment Management Department
+Academic Regulations and Policies
+Student Financial Services
+Academic Departments, Undergraduate Degree Programs, Minors and Certificates
+Degree Programs, Minors and Certificates
+University Scholars Honors Program
+Reserve Officer Training Corps (ROTC)
+Course Descriptions
+Administration, Board of Regents, Faculty and Advisory Committees
+Campus Map
+Student Resources
+My Portfolio
+HELP
+2018-2019 Undergraduate Academic Catalog
+[ARCHIVED CATALOG]
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+EE 201 - Linear Networks: Steady-State Analysis
+4
+lecture hours
+0
+lab hours
+4
+credits
+Course Description
+This course introduces the topics of steady-state analysis of networks using time and frequency domain methods with linear circuit models. It includes the topics mesh and nodal analysis, source transformations, network theorems, and complex power. Circuit simulation is also introduced for analysis of steady-state circuits.   (prereq:
+MA 137
+or MA 225)
+Course Learning Outcomes
+Upon successful completion of this course, the student will be able to:
+Write and solve KCL and KVL equations using mesh and nodal analysis, and utilize voltage and current dividers in DC circuit analysis
+Describe the electrical characteristics of the various passive circuit elements
+Write and solve KCL and KVL equations using branch and nodal analysis for the AC steady-state case
+Calculate average, apparent, and reactive powers for an AC circuit
+Simplify networks using Thevenin’s and Norton’s theorems
+Perform source transformations
+Use the superposition principle in circuit analysis
+Be adept at solving DC and AC circuits with dependent sources
+Use circuit simulation to analyze circuits
+Prerequisites by Topic
+Differentiation and integration of algebraic and transcendental functions
+Solution of systems of linear equations
+Complex number theory and algebraic manipulations
+Course Topics
+DC network theorems and techniques (18 classes)
+Principles of Inductance/Capacitance (4 classes)
+AC steady-state circuit analysis techniques (10 classes)
+AC power concepts (4 classes)
+Circuit simulation analysis of steady state circuits (1 class)
+Tests and quizzes (3 classes)
+Coordinator
+Richard Kelnhofer
+Back to Top
+|
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+All
+catalogs
+© 2026 Milwaukee School of Engineering.
+Powered by
+Modern Campus Catalog™
+.

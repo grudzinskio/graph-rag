@@ -1,0 +1,133 @@
+AE 3301 - Principles of Building Mechanical Systems -
+Milwaukee School of Engineering
+Mar 12, 2026
+2018-2019 Undergraduate Academic Catalog
+Select a Catalog
+2025-2026 Undergraduate Academic Catalog
+2025-2026 Graduate Academic Catalog
+2024-2025 Undergraduate Academic Catalog-June [ARCHIVED CATALOG]
+2024-2025 Graduate Academic Catalog-June [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Graduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Graduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Graduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Graduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Graduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Graduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Graduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Graduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Graduate Academic Catalog [ARCHIVED CATALOG]
+2013-14 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2012-2014 Graduate Academic Catalog [ARCHIVED CATALOG]
+2012-2013 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+Global Search
+Catalog Search
+Choose Search Location
+Select an option
+Courses
+Programs
+Academic Departments
+Other Content
+Entire Catalog
+Search Keyword Field
+Whole Word/Phrase
+Advanced Search
+Catalog Navigation
+Catalog Home
+Academic Calendar
+University Overview
+Enrollment Management Department
+Academic Regulations and Policies
+Student Financial Services
+Academic Departments, Undergraduate Degree Programs, Minors and Certificates
+Degree Programs, Minors and Certificates
+University Scholars Honors Program
+Reserve Officer Training Corps (ROTC)
+Course Descriptions
+Administration, Board of Regents, Faculty and Advisory Committees
+Campus Map
+Student Resources
+My Portfolio
+HELP
+2018-2019 Undergraduate Academic Catalog
+[ARCHIVED CATALOG]
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+AE 3301 - Principles of Building Mechanical Systems
+4
+lecture hours
+0
+lab hours
+4
+credits
+Course Description
+This course covers fundamentals of building mechanical systems including HVAC, plumbing, and fire protection applications. The course is split in two 5-week segments. Segment1 covers heating and ventilation including basics of heat transfer, psychrometric relationships, and basic heating load calculations (solar radiation and cooling load calculations are covered in the BMS I course.) Segment 2 covers plumbing and fire protection principles. Plumbing topics covered include water supply system sizing, plumbing fixtures and components, sanitary drainage systems, sewage treatment and disposal, and storm drainage systems. Fire Protection topics include component sizing fire science, fire safety design, fire detection and fire alarm systems, fire suppression systems, automatic sprinkler systems and smoke control principles. Applicable codes and standards will be discussed for HVAC systems, plumbing systems, and fire protection systems.   (prereq:
+AE 2130
+,
+AE 2121
+)
+Course Learning Outcomes
+Upon successful completion of this course, the student will be able to:
+Classify and describe a complete air-conditioning and distribution system with its central equipment
+Compute and determine the psychrometric properties of moist air
+Analyze the physiological considerations for human comfort in buildings, and calculate its related indices
+Classify and estimate the indoor air contaminants, and use methods to control them
+Explain the three modes of heat transfer, and calculate their rates in specific applications
+Define outdoor and indoor design conditions, and calculate heat losses
+Calculate Infiltration rates through different components of the building envelop
+Calculate heating energy use of different heating application
+Apply the principles of fire chemistry to the effects fires have had on buildings and human life
+Discuss the principles of smoke, heat and flame detection and methods of signaling warning alarms to building occupants
+Relate architectural and engineering building design elements and materials of construction to fire suppression systems for buildings
+Cite design principles for fire suppression systems
+Apply fluid mechanics design methods to calculate fire suppression component size, based on Hazen-Williams formulation and other general energy theories, when given proposed piping layouts
+Explain architectural and engineering design requirements of plumbing systems for buildings
+Apply design principles for plumbing based on the importance of the health, safety and welfare of people using buildings and based on how people use plumbing systems
+Relate water quality and treatments to improve water quality
+Apply fluid mechanics design methods, based on Darcy-Weisbach, Manning, and Hazen-Williams formulations and other general energy theories and probability and statistical data, to calculate plumbing design problems based on example piping layouts
+Prerequisites by Topic
+Introduction to fluid mechanics
+Fluid properties
+Continuity and energy equations
+Internal flow
+Major and minor losses
+Principles of fans and pumps
+Course Topics
+Introduction, general idea of air-conditioning and distribution systems
+Psychrometrics
+Human Comfort
+Heat Transfer
+Heating Load
+Infiltration
+Introduction to Fire Protection Systems
+System Design Approaches
+Introduction to Plumbing
+Design Considerations for Water Distribution Systems
+Coordinator
+Deborah Jackman
+Back to Top
+|
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+All
+catalogs
+© 2026 Milwaukee School of Engineering.
+Powered by
+Modern Campus Catalog™
+.

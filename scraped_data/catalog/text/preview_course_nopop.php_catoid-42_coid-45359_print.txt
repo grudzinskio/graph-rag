@@ -1,0 +1,144 @@
+CHM 3510 - Advanced Analytical Chemistry -
+2025-2026 Undergraduate Academic Catalog
+Milwaukee School of Engineering
+Mar 12, 2026
+2025-2026 Undergraduate Academic Catalog
+Select a Catalog
+2025-2026 Undergraduate Academic Catalog
+2025-2026 Graduate Academic Catalog
+2024-2025 Undergraduate Academic Catalog-June [ARCHIVED CATALOG]
+2024-2025 Graduate Academic Catalog-June [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Graduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Graduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Graduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Graduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Graduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Graduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Graduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Graduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Graduate Academic Catalog [ARCHIVED CATALOG]
+2013-14 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2012-2014 Graduate Academic Catalog [ARCHIVED CATALOG]
+2012-2013 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+Global Search
+Catalog Search
+Choose Search Location
+Select an option
+Courses
+Programs
+Academic Departments
+Other Content
+Entire Catalog
+Search Keyword Field
+Whole Word/Phrase
+Advanced Search
+Catalog Navigation
+Catalog Home
+Academic Calendar
+University Overview
+Admissions
+Student Financial Services
+Academic Regulations and Policies
+Degree Programs, Minors, and Certificates
+Degrees, Minors, and Certificates by Department
+Course Descriptions
+The Raider Core
+Explorer Pathways
+MSOE Honors Program
+Global Opportunities
+Reserve Officers’ Training Corps. (ROTC)
+Administration, Regents, and Advisory Committees
+Departments and Faculty
+Campus Map
+Student Resources
+My Portfolio
+HELP
+2025-2026 Undergraduate Academic Catalog
+Print this Page
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+CHM 3510 - Advanced Analytical Chemistry
+2
+lecture hours
+2
+lab hours
+3
+credits
+Course Description
+This course, Advanced Analytical Chemistry, builds on fundamentals from Chemistry I and Chemistry II, and applies them to different analytical examples. The intended audience includes students going into industry positions that are regulated by the FDA, EPA, OSHA or other competent authorities who would benefit from exposure to the analytical testing side of manufacturing. The testing techniques and methods would apply to both finished product testing as well as the testing of in-process products to assess the manufacturing process. Experiments include applications to environmental, pharmaceuticals and natural products; the fundamental principles of which are covered in other offered courses.
+Prereq:
+CHM 1020
+(quarter system prereq: CH 201)
+Note:
+None
+This course meets the following Raider Core CLO Requirement:
+None
+Course Learning Outcomes
+Upon successful completion of this course, the student will be able to:
+Explain the implications of reporting results to fixed decimal places compared to using significant figures
+Describe the fundamental concepts in chromatography, expanding on fundamentals of thermodynamic and intermolecular force concepts
+Explain the appropriate identification and demonstrate the proper use of internal standards in quantitative analysis, expanding on fundamentals of thermodynamic, quantum chemistry, and intermolecular force concepts
+Apply the proper use of Beer’s Law to “real world” commercial product analysis
+Implement iterative design skills and techniques into sample preparations, including the proper use of internal standards in quantitative measurements
+Investigate and explain the chemical reasons limiting the identification, detection, and quantitation of compounds, related substances, and contaminants
+Demonstrate proficiency in technical communication, extending to the submission of documents to regulatory bodies and other competent authorities
+Explain and demonstrate the appropriate use and execution of method validation topics: linearity, accuracy, specificity, limits of detection and quantitation, as they apply to test methods used in regulated industries and submitted for approval by regulatory bodies and other competent authorities
+Demonstrate an understanding of the major steps in the experimental design for test methods, specifically sample preparations for assay and related substance quantitation, as related to developmental and commercial products and samples including
+controlled drug delivery
+wipes, swabs, aerosols, other dosage forms
+natural products
+environmental samples
+Prerequisites by Topic
+Acid/base chemistry and buffers
+Molecular structures and intermolecular forces
+Solubility, boiling points and physical characteristics of chemicals and compounds
+Course Topics
+Titration review, acid/base equilibrium
+Chromatography
+Mass spectrometry for in-process testing and low-level component quantitation
+Near Infrared (NIR) spectrometry for in-process testing quantitation
+Analytical chemistry needs for different types of test methods as dependent on the purpose of the method
+Experimental design for test methods, specifically sample preparations for assay and related substance quantitation
+Error analysis - more detail
+Lab investigations (out-of-specification, out-of-trend results)
+Manufacturing investigations
+Design of experiments to confirm error hypothesis
+Data reporting - sig figs vs. decimal points
+Data reporting in a cGMP (Current Good Manufacturing Practices) industrial environment, including product in-process testing, assay testing, related substance and/or contaminant testing
+Data reporting for product research and development activities, process development and validation, or test method development and validation as submitted to regulatory bodies or other competent authorities
+Formal lab reports and other documents for submission to competent authorities
+Ways to properly address unexpected data due to human error, uncontrolled variables, inappropriate assumptions, or bad product
+How to handle investigations - expectations of regulatory bodies and competent authorities
+Laboratory Topics
+Gas chromatography
+Titration - pick an indicator and assess sample
+Titration - standardization, quantitation, error assessment
+Over the counter pharmaceutical (OTC) product assay - UV-Visible spectroscopy and Beer’s Law
+Experimental design around the picking of an internal standard - liquid chromatography, gas chromatography or mass spectrometry related
+Any other specific pharmaceutical and/or environmental applications
+Coordinator
+Dr. Michael Navin
+Print this Page
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+All
+catalogs
+© 2026 Milwaukee School of Engineering.
+Powered by
+Modern Campus Catalog™
+.

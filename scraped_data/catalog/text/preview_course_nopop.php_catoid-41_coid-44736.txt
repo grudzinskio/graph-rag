@@ -1,0 +1,147 @@
+BUS 6121 - Data Wrangling and Exploration -
+Milwaukee School of Engineering
+Mar 12, 2026
+2024-2025 Graduate Academic Catalog-June
+Select a Catalog
+2025-2026 Undergraduate Academic Catalog
+2025-2026 Graduate Academic Catalog
+2024-2025 Undergraduate Academic Catalog-June [ARCHIVED CATALOG]
+2024-2025 Graduate Academic Catalog-June [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Graduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Graduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Graduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Graduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Graduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Graduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Graduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Graduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Graduate Academic Catalog [ARCHIVED CATALOG]
+2013-14 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2012-2014 Graduate Academic Catalog [ARCHIVED CATALOG]
+2012-2013 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+Global Search
+Catalog Search
+Choose Search Location
+Select an option
+Courses
+Programs
+Academic Departments
+Other Content
+Entire Catalog
+Search Keyword Field
+Whole Word/Phrase
+Advanced Search
+Catalog Navigation
+Catalog Home
+Academic Calendar
+University Overview
+Graduate Admission Requirements
+Academic Regulations and Policies
+Student Financial Services
+Graduate Degree Programs and Certificates
+Graduate Degree Programs and Certificates by Department
+Course Descriptions
+Research Opportunities
+Administration and Board of Regents
+Graduate Faculty
+Campus Map
+Student Resources
+My Portfolio
+HELP
+2024-2025 Graduate Academic Catalog-June
+[ARCHIVED CATALOG]
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+BUS 6121 - Data Wrangling and Exploration
+3
+lecture hours
+0
+lab hours
+3
+credits
+Course Description
+This course provides an overview of data-driven decision-making and the use of business analytics to support organizational performance. Special attention is paid to identifying appropriate sources of data, evaluating the quality of data, wrangling the data for specific analytical techniques, and exploring patterns within the data. Students will learn current practices, tools, and methods for data wrangling and exploration. Effective interpretation and communication of results are emphasized. The use of Python will be emphasized to expose the student to contemporary analytic processing environments on computing clusters.
+Prereq:
+BUS 5500
+or Business Programs Director consent
+Note:
+None
+Course Learning Outcomes
+Upon successful completion of this course, the student will be able to:
+Demonstrate a broad knowledge of the field of business analytics, including trends and challenges
+Evaluate sources of data and opportunities for data collection and use across an organization
+Perform data wrangling using appropriate methods and tools for a given analytics scenario
+Apply appropriate data exploration techniques for a given analytics scenario
+Use data visualization techniques to gain insights into the meaning of the data
+Communicate the meaning of statistical or analytic results to stakeholders
+Demonstrate the ability to analyze and write statistical program code in Python that automates the processing of statistical data sets that are not conducive to manual processing due to their size and/or scale
+Prerequisites by Topic
+None
+Course Topics
+Python language environments
+Installation, configuration, and maintenance of Python environments using shared environments (Rosie, Google CoLab, etc.) and single-user environments (Anaconda) with Jupyter Notebooks
+Python language basics
+Expressions, operators (arithmetic, logical, and relational), data types (none, integers, floating point numeric and object), compound expressions leading to statements
+Flow of control in Python (sequential, branching (if/elif/else), iteration (for loops, while loops, ranges, else parts to loops, iteration over collections), functions and lambda expressions). Points of syntax - importance of colons and tab stops
+Collections in Python (lists, tuples, dictionaries, sets) indexing and slicing, iteration over collections using comprehensions, iterable objects, and generators
+Classes and object-oriented programming in Python (instance variables, methods, operator overloading, inheritance, polymorphism)
+Numeric Python (NumPy)
+Data structures (array and n-dimensional arrays or ndarrays)
+Indexing, sorting, finding unique elements, random number generation, file I/O
+Pandas library
+Series and DataFrame data structures
+Indexing, axis manipulation, selection, filtering, sorting, ranking, summarizing
+File I/O between Series, DataFrame and files on disk, file formats
+Reading and writing data using various file formats (text, JSON, HTML, XML, Microsoft Excel)
+Data cleaning and preparation
+Handling missing data, filtering out bad/missing data, filling in missing data
+“Binning” and aggregating data values, making continuous variables discrete
+Indicator matrices and dummy variables
+Data wrangling: join, combine, reshape
+Hierarchical indexing, summarizing statistics by level
+Combining and merging data sets, SQL-style “joins” among DataFrames
+Reshaping and pivoting DataFrames
+Data visualization
+Plotting with mathplotlib
+Figures and subplots
+Line graphs, bar charts, box plots, histograms, density diagrams, scatter plots, etc.
+Seaborn, Bokeh, and other visualization libraries built on matplotlib
+Data aggregation and group operations
+The GroupBy operator
+The Split-Apply-Combine pragma for manipulating data
+Processing large data sets efficiently
+Time Series Basics
+Date ranges, frequencies, and shifting
+Time zone handling
+Periods and period arithmetic
+Resampling and frequency conversion
+Moving window functions
+Coordinator
+Dr. Ernesto Guerra Vallejos
+Back to Top
+|
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+All
+catalogs
+© 2026 Milwaukee School of Engineering.
+Powered by
+Modern Campus Catalog™
+.

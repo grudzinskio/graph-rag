@@ -1,0 +1,130 @@
+ACS 1530 - Financial Mathematics I -
+Milwaukee School of Engineering
+Mar 12, 2026
+2024-2025 Undergraduate Academic Catalog-June
+Select a Catalog
+2025-2026 Undergraduate Academic Catalog
+2025-2026 Graduate Academic Catalog
+2024-2025 Undergraduate Academic Catalog-June [ARCHIVED CATALOG]
+2024-2025 Graduate Academic Catalog-June [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Graduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Graduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Graduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Graduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Graduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Graduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Graduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Graduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Graduate Academic Catalog [ARCHIVED CATALOG]
+2013-14 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2012-2014 Graduate Academic Catalog [ARCHIVED CATALOG]
+2012-2013 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+Global Search
+Catalog Search
+Choose Search Location
+Select an option
+Courses
+Programs
+Academic Departments
+Other Content
+Entire Catalog
+Search Keyword Field
+Whole Word/Phrase
+Advanced Search
+Catalog Navigation
+Catalog Home
+Academic Calendar
+University Overview
+Admissions
+Student Financial Services
+Academic Regulations and Policies
+Degree Programs, Minors, and Certificates
+Degrees, Minors, and Certificates by Department
+Course Descriptions
+The Raider Core
+MSOE Honors Program
+Global Opportunities
+Reserve Officers’ Training Corps. (ROTC)
+Administration, Regents, and Advisory Committees
+Departments and Faculty
+Campus Map
+Student Resources
+My Portfolio
+HELP
+2024-2025 Undergraduate Academic Catalog-June
+[ARCHIVED CATALOG]
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+ACS 1530 - Financial Mathematics I
+3
+lecture hours
+0
+lab hours
+3
+credits
+Course Description
+This course covers topics such as time value of money involving calculations relating to the present value, current value, and accumulated value; annuities/cash flows with non-contingent payments; loans and related calculations; bonds and related calculations. In addition, the course covers concepts concerning yield curves, rates of return, measures of duration and convexity, cash flow matching and immunization, and related calculation. ACS 1530 is the first of the two-course Financial Mathematics sequence that prepares students for Exam FM/Exam II.
+Prereq:
+Actuarial Science major or Actuarial Science program director consent
+Coreq:
+MTH 1080
+Note:
+None
+This course meets the following Raider Core CLO Requirement:
+None
+Course Learning Outcomes
+Upon successful completion of this course, the student will be able to:
+Define and recognize the following terms: interest rate, simple interest, compound interest, accumulation function, future value, current value, present value, net present value, discount factor, discount rate, nominal rate, effective rate, inflation and real rate of interest, force of interest, equation of value
+Given any three of interest rate, period of time, present value, current value, and future value, calculate the remaining items using simple or compound interest
+Solve time value of money equations involving variable force of interest
+Given any one of the effective interest rate, the nominal interest rate, the effective discount rate, the nominal discount rate, or the force of interest, calculate any of the other items
+Write the equation of value given a set of cash flows and an interest rate
+Define and recognize the terms: annuity-immediate, annuity due, perpetuity, payable monthly or payable continuously, level payment annuity, arithmetic increasing/decreasing annuity, geometric increasing/decreasing annuity, term of annuity
+Given sufficient information of immediate or due, present value, future value, current value, interest rate, payment amount, and term of annuity for annuity/cash flows such as level annuity, finite term; level perpetuity; and non-level annuities/cash flows (arithmetic progression, geometric progression, and others), calculate any remaining item
+Define and recognize the terms: principal, interest, term of loan, outstanding balance, final payment (drop payment, balloon payment), amortization
+Calculate the missing item, given any four of: term of loan, interest rate, payment amount, payment period, principal
+Calculate the outstanding balance at any point in time
+Calculate the amount of interest and principal repayment in a given payment. Make similar calculations when refinancing is involved
+Define and recognize the terms: price, book value, amortization of premium, accumulation of discount, redemption value, par value/face value, yield rate, coupon, coupon rate, term of bond, callable/non-callable
+Calculate any of price, book value, amortization of premium, accumulation of discount, redemption value, face value, yield rate, coupon rate, term of bond, point in time that a bond has a given book value, amortization of premium, or accumulation of discount, if sufficient partial information is given
+Define and recognize the terms: yield rate/rate of return, current value, duration (Macaulay and modified), convexity (Macaulay and modified), portfolio, spot rate, forward rate, yield curve, cash flow matching, immunization (including full immunization), and Redington immunization
+Calculate the duration and convexity of a set of cash flows, either Macaulay or modified duration given the other, the approximate change in present value due to a change in interest rate, both using first order linear approximation based on modified duration and using first order approximation based on Macaulay duration; the present value of a set of cash flows, using a yield curve developed from forward and spot rates
+Construct an investment portfolio to Redington immunize a set of liability cash flows; fully immunize a set of liability cash flows; exactly match a set of liability cash flows
+Prerequisites by Topic
+Basic algebra
+Functions
+Course Topics
+Time value of money
+Annuities/cash flows with non-contingent payments
+Loans
+Bonds
+General cash flows, portfolios, and immunization
+Coordinator
+Dr. Yvonne Yaz
+Back to Top
+|
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+All
+catalogs
+© 2026 Milwaukee School of Engineering.
+Powered by
+Modern Campus Catalog™
+.

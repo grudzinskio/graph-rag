@@ -1,0 +1,180 @@
+Program: Machine Learning, M.S. - Milwaukee School of Engineering
+Milwaukee School of Engineering
+Mar 12, 2026
+2024-2025 Graduate Academic Catalog-June
+Select a Catalog
+2025-2026 Undergraduate Academic Catalog
+2025-2026 Graduate Academic Catalog
+2024-2025 Undergraduate Academic Catalog-June [ARCHIVED CATALOG]
+2024-2025 Graduate Academic Catalog-June [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Graduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Graduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Graduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Graduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Graduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Graduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Graduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Graduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Graduate Academic Catalog [ARCHIVED CATALOG]
+2013-14 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2012-2014 Graduate Academic Catalog [ARCHIVED CATALOG]
+2012-2013 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+Global Search
+Catalog Search
+Choose Search Location
+Select an option
+Courses
+Programs
+Academic Departments
+Other Content
+Entire Catalog
+Search Keyword Field
+Whole Word/Phrase
+Advanced Search
+Catalog Navigation
+Catalog Home
+Academic Calendar
+University Overview
+Graduate Admission Requirements
+Academic Regulations and Policies
+Student Financial Services
+Graduate Degree Programs and Certificates
+Graduate Degree Programs and Certificates by Department
+Course Descriptions
+Research Opportunities
+Administration and Board of Regents
+Graduate Faculty
+Campus Map
+Student Resources
+My Portfolio
+HELP
+2024-2025 Graduate Academic Catalog-June
+[ARCHIVED CATALOG]
+Machine Learning, M.S.
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Return to:
+Graduate Degree Programs and Certificates by Department
+Program Director
+RJ Nowling, Ph.D.
+Office: DH-421
+Phone: (414) 277-7318
+Email:
+nowling@msoe.edu
+Overview
+The Master of Science in Machine Learning program is an online program geared towards students who wish to develop advanced skills in machine learning systems development and deployment. The program provides students with the skills necessary to develop and deploy machine learning solutions in their technical fields. The program is open to students who have a bachelor’s degree in a technical field and significant programming experience. Key features of this program include depth of technical content, industry applications and integration in every course, access to ROSIE (MSOE’s GPU cluster), small class sizes, and faculty who excel in teaching, research, and student support.
+MSOE has distinguished itself as a leader in the area of Machine Learning (ML) with the first undergraduate Computer Science program focused on applications of artificial intelligence. The M.S. in Machine Learning supports students who wish to develop the advanced technical skills needed to create new products integrating ML and big data.  While there are many post-baccalaureate programs that introduce students to the concepts of ML and touch on areas such as natural language processing and computer vision, few if any programs are geared towards the application of ML to industrial problems and the development and deployment of ML-based products. This 32-credit program provides the depth of content necessary to develop ML-based solutions. It leverages the student’s existing skills in programming and application area knowledge to dive right into advanced concepts that can be applied immediately.
+The program is open to both full-time and part-time students. The eight required courses can be taken at a pace of one or two courses per semester, including summer. Five-year BS/MS paths through several MSOE undergraduate programs provide another option for completion.
+Program Educational Objectives
+The Machine Learning Master’s program will prepare graduates, within a few years of graduation, to:
+Be the lead architect on complex projects involving machine learning and data science
+Develop solutions that address competing ethical and professional concerns as both technology and society continue to evolve
+Pursue continued technical and professional development
+Student Outcomes
+Analyze complex problems involving advanced applications of machine learning and data science and design solutions that meet relevant business, technical, and ethical standards
+Apply a rigorous, scientific approach that includes forming research questions, generating hypotheses, designing and executing experiments, and evaluating results to make informed judgements
+Effectively evaluate and utilize state-of-the-art software and parallel computing hardware in the design and implementation of projects
+Effectively describe solutions and their implications and communicate results to technical and non-technical audiences
+Successfully deploy production-quality solutions involving machine learning and data science techniques using current best practices
+Faculty
+Dr. Sebastian Berisha, Dr. John Bukowy, Dr. Eric Durant, Dr. Jonathon Flynn, Dr. Jeremy Kedziora, Dr. RJ Nowlin
+g, Dr. Jay Urbain, D
+r. Josiah Yoder
+Machine Learning, M.S. Version S1
+Required Courses
+Students complete all seven courses below for a total of 28 credits.
+CSC 5201 - Microservices and Cloud Computing
+4
+credits
+CSC 5610 - AI Tools and Paradigms
+4
+credits
+CSC 6605 - Machine Learning Production Systems
+4
+credits
+CSC 6621 - Applied Machine Learning
+4
+credits
+CSC 7901 - Machine Learning Capstone
+4
+credits
+MTH 5810 - Mathematical Methods for Machine Learning
+4
+credits
+PHL 6001 - AI Ethics and Governance
+4
+credits
+Electives
+Students choose their electives from the list below.
+BME 5210 - Medical Imaging Systems
+4
+credits
+BUS 6141 - Analytics Leadership and Strategy
+3
+credits
+CSC 5120 - Software Development for Machine Learning
+4
+credits
+CSC 5241 - GPU Programming
+4
+credits
+CSC 5601 - Theory of Machine Learning
+4
+credits
+CSC 5611 - Deep Learning
+4
+credits
+CSC 5651 - Deep Learning in Signal Processing
+4
+credits
+CSC 5661 - Reinforcement Learning
+4
+credits
+CSC 5980 - Topics in Computer Science
+Variable
+credits
+CSC 5981 - Topics in Computer Science with Laboratory
+Variable
+credits
+CSC 6711 - Recommendation Systems
+4
+credits
+CSC 6712 - Distributed Storage Systems
+4
+credits
+CSC 6980 - Topics in Computer Science
+Variable
+credits
+Other courses as approved by the program director
+Program total: 32 credits
+Notes:
+CSC 5610 may be substituted with a 5000-level elective for students with appropriate recent course credit or experience, including students who have completed MSOE’s CSC 2611 and CSC 2621 courses.
+CSC 5610 is met by substitution by students who have completed both BUS 6121 and BUS 6131.
+MTH 5810 is substituted with a 5000-level elective for students who have both linear algebra background comparable to MSOE’s MTH 2340 and multivariable calculus background comparable to MSOE’s MTH 2130. Early entry students must take the undergraduate versions of these courses.
+Return to:
+Graduate Degree Programs and Certificates by Department
+Back to Top
+|
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+All
+catalogs
+© 2026 Milwaukee School of Engineering.
+Powered by
+Modern Campus Catalog™
+.

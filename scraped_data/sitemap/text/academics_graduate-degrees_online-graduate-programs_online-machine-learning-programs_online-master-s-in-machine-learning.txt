@@ -1,0 +1,194 @@
+Online Master's in Machine Learning | MSOE
+Skip to Main Content
+Home
+Academics
+Graduate Degrees
+Online Graduate Programs
+Online Machine Learning Programs
+Online Master's in Machine Learning
+Online Master's in Machine Learning
+Skills for Industry, Value for You.
+Goal:
+Become a leader in Machine Learning (ML) and Artificial Intelligence (AI).
+Who it's for:
+Working professionals and recent graduates.
+What you'll learn:
+Advanced skills in ML and AI.
+How to develop and deploy ML solutions.
+A unique focus on applying ML to
+industrial problems
+and creating ML-based products.
+Benefit:
+Gain skills you can apply immediately to boost your value and leadership ability.
+Interested in learning more about the application-focused curriculum?
+Contact:
+Director of Graduate Admissions - Luci Kohne
+kohne@msoe.edu
+414-277-7331, text 414-559-5756
+Contact:
+Program Director - Dr. RJ Nowling
+nowling@msoe.edu
+Get a Sneak Peak
+- watch one of the online machine learning courses taught by the program director.
+Jump to:
+Program Details & Learning Outcomes
+|
+Specialization Options
+|
+Program Features
+|
+Program Curriculum
+|
+Program Pathways
+|
+Program Tuition & Financial Aid
+Hear directly from Dr. RJ Nowling, associate professor and program director, about how MSOE's online machine learning master's program is not like others.
+Program Details & Learning Outcomes
+Offered 100% online
+Synchronous classes
+32 credits to completion
+Apply credits from the Graduate Certificate in Applied Machine Learning toward master's program
+The online master's of machine learning program will prepare you to:
+Lead complex ML/data science projects as the architect.
+Develop ethical solutions that address evolving technical and societal concerns.
+Analyze complex problems and design solutions that meet business, technical, and ethical standards.
+Apply a scientific approach (form hypotheses, design experiments, evaluate results).
+Effectively use state-of-the-art software and parallel computing hardware.
+Communicate results and implications clearly to both technical and non-technical audiences.
+Successfully deploy production-quality ML/data science solutions using current best practices.
+Specialization Options
+Students can specialize in Tiny Machine Learning, Generative AI Production Systems, Applied Machine Learning, or Machine Learning Engineering by choosing electives in these areas of interest. This also allows students to earn certificates within the full Master of Science in Machine Learning program.
+New to machine learning and AI? The
+Applied Machine Learning
+certificate prepares students to leverage AI and machine learning domains to create innovative, data-driven solutions to problems.
+Tiny computers are in everything around us. Smartwatches, TVs, thermostats, and so much more! Want to learn how to make smart devices? Consider our
+Tiny Machine Learning
+certificate.
+Want to know how to build and deploy your own interactive AI assistants and systems like OpenAI's ChatGPT, Microsoft's Copilot, or Google's Gemini? The
+Generative AI Production Systems
+certificate will teach you how to design, implement, and operate your own AI-powered systems.
+You've learned how to create machine learning models, but they aren't very useful sitting on your desktop. Learn how to incorporate them into your software services and products for end users with our
+Machine Learning Engineering
+certificate.
+Earn your master's degree or certificate online with MSOE. Complete the form to get a program details sheet delivered to your inbox.
+Program Features
+Real-world experience, delivered directly to you.
+While there are many post-baccalaureate programs which introduce students to the concepts of machine learning, few, if any, focus on the application of machine learning to industrial problems and the development and deployment of machine learning-based products.
+Key features of MSOE’s program include:
+Depth of technical content
+Build on prior knowledge with each course to develop deep expertise
+Industry applications and integration in each course
+Access to supercomputer ROSIE
+Small class sizes and synchronous courses
+Faculty who excel in teaching, research and student support
+Program Curriculum
+Required Courses (28 credits)
+CSC 5201—Microservices and Cloud Computing (4 Credits)
+CSC 5610—AI Tools and Paradigms (4 Credits)
+CSC 6605—Machine Learning Production Systems (4 Credits)
+CSC 6621—Applied Machine Learning (4 Credits)
+CSC 7901—Machine Learning Capstone (4 Credits)
+MTH 5810—Mathematical Methods for Machine Learning (4 Credits)
+PHL 6001—AI Ethics and Governance (4 Credits)
+*some course substitutions can be approved by program director if student wants to pursue the Graduate Certificate in Tiny Machine Learning or Graduate Certificate in Generative AI Production Systems.
+Electives (4 credits)
+BME 5210 - Medical Imaging Systems (4 credits)
+BUS 5900 - AI Tools for Organizational Efficiency and Success (4 credits)
+BUS 6141 - Analytics Leadership and Strategy (4 credits)
+CSC 5120 - Software Development for Machine Learning (4 credits)
+CSC 5601 - Theory of Machine Learning (4 credits)
+CSC 5611 - Deep Learning (4 credits)
+CSC 5616 - ML for Signal Processing Applications (4 credits)
+CSC 5661 - Reinforcement Learning (4 credits)
+CSC 6607 - LLMs in Production (4 credits)
+CSC 6608 - ML on Embedded Systems (4 credits)
+CSC 6711 - Recommendation Systems (4 credits)
+CSC 6712 - Distributed Storage Systems (4 credits)
+Other courses as approved by the program director
+Explore the required courses and electives
+Program Pathways
+Pathway 1: Attend as a Full-Time Student
+Complete your master's in as little as 2 years by taking 2 courses (8 credits) per semester.
+Pathway 2: Attend as a Part-Time Student
+If a full-time workload is not ideal, the option to complete the program as a part-time student may help you balance your academic and work commitments. Take one course (4 credits) per semester and complete the program in 3 years.
+Pathway 3: Start with a Certificate
+The M.S. is organized around "stackable" certificates that you can start with or earn along the way:
+Applied Machine Learning Graduate Certificate (two 4-credit courses)
+Machine Learning Engineering Graduate Certificate (two 4-credit courses)
+Tiny Machine Learning Graduate Certificate (two 4-credit courses)
+Generative AI Production Systems Graduate Certificate (two 4-credit courses)
+Pathway 4: Five-Year B.S. to M.S. Option
+Choose from several undergraduate programs that will feed into this master's program.
+Program Tuition & Financial Aid
+Total estimated tuition: $51,200* (scholarships are available)
+We understand that financing your graduate education is a critical step. We are here to help.
+To explore your
+scholarship eligibility
+, please contact the Graduate Admissions Office at
+grad@msoe.edu
+.
+Financial Resources and Support:
+Scholarships:
+Scholarships are available for MS in Machine Learning students. Inquire about your eligibility by contacting the Graduate Admissions Office at
+grad@msoe.edu
+.
+Payment Plans:
+MSOE offers convenient monthly payment plans.
+Loans:
+The Financial Aid Office can assist you with processing federal financial aid and private loans.
+Employer Tuition Assistance:
+Many employers provide benefits through qualified educational assistance programs. This is a valuable option, as you may be able to utilize up to
+$5
+,
+250
+of employer benefits to help finance your continuing education. We encourage you to check with your employer for eligibility.
+*Tuition and costs are effective as of November 1, 2024, and are subject to change. Rates do not include textbooks and fees. Please confirm all current tuition and costs on the
+University’s official tuition webpage
+.
+Jump to:
+Program Details & Learning Outcomes
+|
+Specialization Options
+|
+Program Features
+|
+Program Curriculum
+|
+Program Pathways
+|
+Program Tuition & Financial Aid
+Get details on the application deadlines and materials required for the Online Master's in Machine Learning and the Online Graduate Certificate in Applied Machine Learning.
+Get answers to frequently asked questions.
+MSOE’s Graduate Certificate in Applied Machine Learning is an accelerated program that provides a firm foundation in data science, machine learning, deep learning and AI with an emphasis on applications.
+Get a Sneak Peek of a Machine Learning Class!
+Want an inside look at one of the online machine learning classes offered at MSOE? Just complete a short form, and you'll receive a video overview led by program director and assistant professor, Dr. RJ Nowling.
+Get a sneak peek
+Inquiry Form
+Interested in learning more about the online master's of machine learning? Just fill out the short inquiry form and our admissions team will be in touch and share a program brochure.
+Fill out inquiry form
+Lucia Kohne
+Director of Graduate Admissions
+(414) 277-7331
+kohne@msoe.edu
+Dr. RJ Nowling
+Associate Professor/Program Director
+(414) 277-7318
+nowling@msoe.edu
+Menu
+Search
+submit
+Resources For…
+MSOE University
+1025 North Broadway
+Milwaukee,
+WI
+53202-3109
+(800) 332-6763
+explore@msoe.edu
+Connect With MSOE
+Facebook
+Instagram
+Twitter
+Linkedin
+YouTube
+Vimeo

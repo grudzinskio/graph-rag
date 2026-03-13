@@ -1,0 +1,148 @@
+PHY 3570 - Introduction to Quantum Computing -
+Milwaukee School of Engineering
+Mar 12, 2026
+2025-2026 Undergraduate Academic Catalog
+Select a Catalog
+2025-2026 Undergraduate Academic Catalog
+2025-2026 Graduate Academic Catalog
+2024-2025 Undergraduate Academic Catalog-June [ARCHIVED CATALOG]
+2024-2025 Graduate Academic Catalog-June [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Graduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Graduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Graduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Graduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Graduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Graduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Graduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Graduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Graduate Academic Catalog [ARCHIVED CATALOG]
+2013-14 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2012-2014 Graduate Academic Catalog [ARCHIVED CATALOG]
+2012-2013 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+Global Search
+Catalog Search
+Choose Search Location
+Select an option
+Courses
+Programs
+Academic Departments
+Other Content
+Entire Catalog
+Search Keyword Field
+Whole Word/Phrase
+Advanced Search
+Catalog Navigation
+Catalog Home
+Academic Calendar
+University Overview
+Admissions
+Student Financial Services
+Academic Regulations and Policies
+Degree Programs, Minors, and Certificates
+Degrees, Minors, and Certificates by Department
+Course Descriptions
+The Raider Core
+Explorer Pathways
+MSOE Honors Program
+Global Opportunities
+Reserve Officers’ Training Corps. (ROTC)
+Administration, Regents, and Advisory Committees
+Departments and Faculty
+Campus Map
+Student Resources
+My Portfolio
+HELP
+2025-2026 Undergraduate Academic Catalog
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+PHY 3570 - Introduction to Quantum Computing
+3
+lecture hours
+0
+lab hours
+3
+credits
+Course Description
+Quantum computing is a next-generation computing approach that is predicted to be able to solve some problems that are currently practically impossible. This could have tremendous consequences for technology such as encryption. This approach harnesses quantum mechanical phenomena such as superposition and entanglement and makes use of quantum bits or qubits. This course will explore some of the basic physics underlying quantum computing, as well as different physical systems currently being used to implement quantum computers. The course will build from qubits to gate operations to basic algorithms as well as expose students to currently available quantum computing programing tools. Students interested in the future of computing should know about quantum computing.
+Prereq:
+PHY 1110
+and (
+PHY 1120
+or
+MTH 2340
+)
+Note:
+None
+This course meets the following Raider Core CLO Requirement:
+None
+Course Learning Outcomes
+Upon successful completion of this course, the student will be able to:
+Explain and describe key properties of physical quantum states
+Describe a qubit and contrast it with a classical bit
+Explain superposition qualitatively and mathematically
+Be able to graphically represent and manipulate qubits: i.e. make use of the Bloch sphere
+Explain and perform calculations for single qubit gate operations
+Explain and perform calculations involving quantum phase and measurement
+Explain entanglement qualitatively and mathematically
+Explain and perform calculations for multi-qubit gate operations
+Utilize linear algebra to represent qubits and gate operations
+Be able to interpret quantum computing circuit diagrams
+Be able to implement simple quantum circuits using a programming environment such as Qiskit
+Describe fundamental features of implementing quantum gates and algorithms
+Explain the role and importance of phase kick-back and quantum interference to the functioning of quantum algorithms
+Explain how decoherence and the challenge of executing high-fidelity gate operations necessitates error correction in quantum computing
+Explain error correction techniques in quantum computing and the distinction between physical and logical qubits
+Describe computation problems where a quantum speedup could be exploited
+Explain important algorithms such as Grover’s search or Shor’s factoring algorithm
+Prerequisites by Topic
+Energy and energy conservation
+Basic atomic structure
+Electric force, magnetic force
+Wave nature vs photon picture for light
+Basic linear algebra such as matrix multiplication and multiplying vectors and matrices
+Course Topics
+Algorithmic complexity
+Motivations for quantum computing
+Quantum superposition
+Quantum measurement
+Qubits and different qubit representations
+Quantum entanglement
+Single qubit gates
+Multi-qubit gates
+Linear algebra implementations of qubits, multiple qubits and gates
+Quantum algorithms including: Deutch-Jozsa, Bernstein-Vazirani, Grover’s search and Shor’s factoring algorithm
+The need for error correction and the difference between physical and logical qubits
+Quantum networking and post-quantum encryption, e.g. BB84
+Physical implementations of quantum computers
+Engineering technologies relevant to working in quantum computing
+Programming environments available for quantum computing, e.g. Qiskit
+Running quantum algorithms on commercially available quantum computers
+Coordinator
+Dr. Zach Simmons
+Back to Top
+|
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+All
+catalogs
+© 2026 Milwaukee School of Engineering.
+Powered by
+Modern Campus Catalog™
+.

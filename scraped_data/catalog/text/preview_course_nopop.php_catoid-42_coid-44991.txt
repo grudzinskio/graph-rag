@@ -1,0 +1,182 @@
+MTH 1080 - Precalculus Mathematics -
+Milwaukee School of Engineering
+Mar 12, 2026
+2025-2026 Undergraduate Academic Catalog
+Select a Catalog
+2025-2026 Undergraduate Academic Catalog
+2025-2026 Graduate Academic Catalog
+2024-2025 Undergraduate Academic Catalog-June [ARCHIVED CATALOG]
+2024-2025 Graduate Academic Catalog-June [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Graduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Graduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Graduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Graduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Graduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Graduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Graduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Graduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Graduate Academic Catalog [ARCHIVED CATALOG]
+2013-14 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2012-2014 Graduate Academic Catalog [ARCHIVED CATALOG]
+2012-2013 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+Global Search
+Catalog Search
+Choose Search Location
+Select an option
+Courses
+Programs
+Academic Departments
+Other Content
+Entire Catalog
+Search Keyword Field
+Whole Word/Phrase
+Advanced Search
+Catalog Navigation
+Catalog Home
+Academic Calendar
+University Overview
+Admissions
+Student Financial Services
+Academic Regulations and Policies
+Degree Programs, Minors, and Certificates
+Degrees, Minors, and Certificates by Department
+Course Descriptions
+The Raider Core
+Explorer Pathways
+MSOE Honors Program
+Global Opportunities
+Reserve Officers’ Training Corps. (ROTC)
+Administration, Regents, and Advisory Committees
+Departments and Faculty
+Campus Map
+Student Resources
+My Portfolio
+HELP
+2025-2026 Undergraduate Academic Catalog
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+MTH 1080 - Precalculus Mathematics
+4
+lecture hours
+0
+lab hours
+4
+credits
+Course Description
+This course provides the necessary foundations for calculus. Topics include functions and their graphs, algebra and transformations of functions, one-to-one and inverse functions, algebraic functions, piecewise-defined functions, exponential and logarithmic functions, trigonometric and inverse trigonometric functions, the complex number system, solving equations, analytic geometry, and systems of equations and inequalities. In addition, emphasis is placed on development of number-sense, mathematical models, problem solving, and interpretation of results.
+Prereq:
+College algebra or placement into MTH 1080
+Note:
+None
+This course meets the following Raider Core CLO Requirement:
+None
+Course Learning Outcomes
+Upon successful completion of this course, the student will be able to:
+Perform basic arithmetic operations with numeric and algebraic expressions, demonstrate correct use of order of operations, and simplify results
+Simplify algebraic expressions (rational, radical, exponential expressions, including negative and rational exponents)
+Factor polynomial and polynomial-like expressions
+Demonstrate use of the Laws of Exponents
+Evaluate algebraic and piecewise-defined functions with correct use of function notation
+Identify visually the domain and range of a function, using appropriate notation
+Identify visually the intervals where a function is increasing, decreasing, and continuous
+Be familiar with the graphs of simple power, radical, and reciprocal functions
+Combine functions using algebraic operations and composition
+Find equations of lines using point-slope form
+Develop a linear model of a real-life situation and interpret slope as the average rate of change
+Identify and apply transformations of functions and graphs
+Perform polynomial long division
+Perform arithmetic operations with complex numbers
+Solve quadratic, quadratic-like, and higher-degree polynomial equations
+Develop a quadratic or polynomial model of a real-life situation and interpret the features of the graph
+Visually determine if a function is one-to-one and identify the graph of its inverse function
+Find a formula for the inverse function of a one-to-one function
+Perform algebraic operations with rational functions and simplify results
+Simplify complex rational expressions
+Evaluate and simplify the difference quotient involving a polynomial or rational function
+Identify end-behavior of a polynomial function
+Identify asymptotic behavior of a rational function including determining if a discontinuity is removable or infinite
+Graph a piecewise-defined function and determine the intervals of continuity
+Evaluate and graph exponential functions and identify growth vs. decay
+Evaluate and graph logarithmic functions and interpret as the inverse of an exponential function
+Use algebraic properties of logarithms to simplify or expand logarithmic expressions
+Solve exponential equations
+Develop an exponential model for an application and interpret the results
+Convert angle measures between radians, degrees, and revolutions
+Find circular arc-length and sector area, converting to radians if necessary
+Sketch angles in standard position given their radian measure
+Evaluate trigonometric functions given information about an angle
+Evaluate trigonometric functions at special values using the reference angle
+Use technology to evaluate trigonometric functions
+Use right triangle trigonometry to solve an applied problem
+Apply basic trigonometric identities (ratio, reciprocal, Pythagorean, odd/even) to evaluate or simplify trigonometric expressions
+Interpret sine, cosine, and tangent in the context of the unit circle
+Sketch the graph of sine, cosine, and tangent
+Evaluate inverse trigonometric functions at special values
+Sketch the graph of arctangent
+Apply the addition formulas to evaluate or simplify trigonometric expressions
+Sketch the graph of a sinusoidal curve (sine or cosine with transformations) including finding the phase angle
+Derive other trigonometric identities (e.g. difference formulas, double angle identities, half-angle identities) from known identities with guidance
+Solve trigonometric equations
+Identify the type, determine the features of, and sketch a conic section
+Solve simple systems of equations analytically and graphically, including linear/linear and linear/quadratic
+Apply common geometric and physical formulas emphasizing dimensional analysis (area, volume, distance/rate/time, etc.)
+Prerequisites by Topic
+Basic algebra and geometry
+Course Topics
+The real number system, order of operations, intervals, and inequalities
+Exponential notation and the laws of exponents
+Functions and modes of representation (algebraic, numerical, graphical, etc.)
+The coordinate plane and graphing functions
+Monotonicity and continuity
+Transformations of functions and their graphs
+Combining functions (algebra of functions, composition)
+Even and odd functions
+Difference quotients
+One-to-one and inverse functions
+The complex number system
+Linear, quadratic, and polynomial functions and models
+Factoring and solving polynomial equations
+Rational functions and asymptotic behavior
+Absolute value and piecewise-defined functions
+Exponential functions and models
+Logarithmic functions and their properties
+Solving exponential equations
+Angles and their measures, arclength and sector area
+Trigonometric functions
+Right triangle trigonometry
+Basic trigonometric identities
+Addition formulas and related identities
+Inverse trigonometric functions
+Graphs of trigonometric functions; sinusoidal models
+Solving trigonometric equations
+Conic sections
+Systems of equations
+Coordinator
+Dr. Anthony van Groningen
+Back to Top
+|
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+All
+catalogs
+© 2026 Milwaukee School of Engineering.
+Powered by
+Modern Campus Catalog™
+.

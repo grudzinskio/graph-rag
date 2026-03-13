@@ -1,0 +1,147 @@
+ARE 4452 - Design of Hydronic Systems -
+Milwaukee School of Engineering
+Mar 12, 2026
+2024-2025 Undergraduate Academic Catalog-June
+Select a Catalog
+2025-2026 Undergraduate Academic Catalog
+2025-2026 Graduate Academic Catalog
+2024-2025 Undergraduate Academic Catalog-June [ARCHIVED CATALOG]
+2024-2025 Graduate Academic Catalog-June [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Graduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Graduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Graduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Graduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Graduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Graduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Graduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Graduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Graduate Academic Catalog [ARCHIVED CATALOG]
+2013-14 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2012-2014 Graduate Academic Catalog [ARCHIVED CATALOG]
+2012-2013 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+Global Search
+Catalog Search
+Choose Search Location
+Select an option
+Courses
+Programs
+Academic Departments
+Other Content
+Entire Catalog
+Search Keyword Field
+Whole Word/Phrase
+Advanced Search
+Catalog Navigation
+Catalog Home
+Academic Calendar
+University Overview
+Admissions
+Student Financial Services
+Academic Regulations and Policies
+Degree Programs, Minors, and Certificates
+Degrees, Minors, and Certificates by Department
+Course Descriptions
+The Raider Core
+MSOE Honors Program
+Global Opportunities
+Reserve Officers’ Training Corps. (ROTC)
+Administration, Regents, and Advisory Committees
+Departments and Faculty
+Campus Map
+Student Resources
+My Portfolio
+HELP
+2024-2025 Undergraduate Academic Catalog-June
+[ARCHIVED CATALOG]
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+ARE 4452 - Design of Hydronic Systems
+3
+lecture hours
+0
+lab hours
+3
+credits
+Course Description
+This course focuses on hydronic heating and cooling design for commercial buildings of all sizes. The course will include a review the foundations of pumping configurations, calculating pump head, hydronic accessories, as well as investigating alternative hydronic systems used in the industry. Alternative systems to be discussed include water and ground source heat pumps, solar thermal, chilled water storage, ice storage systems, chilled beam systems, condensing boilers, and radiant systems such as in-floor heating and snow melt systems. The course will also cover thermal expansion in piping systems and focus on district heating and cooling systems.
+Prereq:
+ARE 4451
+(quarter system prereq: AE 3422)
+Note:
+None
+This course meets the following Raider Core CLO Requirement:
+None
+Course Learning Outcomes
+Upon successful completion of this course, the student will be able to:
+Identify the required components in a hydronic system
+Calculate how to size equipment to meet full-load and part-load conditions
+Discuss the types of piping and joining methods used in HVAC hydronic systems
+Design various methods for controlling hydronic system thermal expansion and identify when piping layout requires expansion compensation
+Discuss the various methods of flow rate measurement
+Explain the factors required to size and select an expansion tank
+Evaluate control valve characteristics including valve authority, rangeability, and selection
+Recognize the importance of proportional balancing
+Compare and contrast a low temperature and standard hot water systems
+Discuss the options in solar thermal collectors and system design configurations
+Explain the differences between water source and ground source heat pumps
+Calculate the size requirements for a ground loop geothermal system
+Design a chilled water or ice storage system
+Identify the design considerations for a chilled beam system
+Communicate the options for piping distribution in district energy systems
+Discuss the requirements for water treatment in open and closed loop systems
+Prerequisites by Topic
+None
+Course Topics
+Hydronic systems overview
+Piping materials and joining methods
+Pumping and piping configurations
+Air elimination and control
+Thermal expansion in piping systems
+Water flow measurement
+Control valve characteristics
+Control valve sizing and authority
+System balancing
+Low temperature hot water systems
+Condensing boilers
+Hot water system retrofits
+In-floor and radiant heating systems
+Snow melt systems
+Solar panel collectors
+Solar thermal heating systems
+Water source heat pump systems
+Geothermal/ground source heat pump systems
+Ground loop designs
+Radiant cooling systems
+Chilled beam systems
+Chilled water storage systems
+Ice storage systems
+Water treatment for open and closed system
+Coordinator
+David Grassl, P.E.
+Back to Top
+|
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+All
+catalogs
+© 2026 Milwaukee School of Engineering.
+Powered by
+Modern Campus Catalog™
+.

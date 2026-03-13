@@ -1,0 +1,458 @@
+Program: Architectural Engineering, B.S. - Milwaukee School of Engineering
+Milwaukee School of Engineering
+Mar 12, 2026
+2016-2017 Undergraduate Academic Catalog
+Select a Catalog
+2025-2026 Undergraduate Academic Catalog
+2025-2026 Graduate Academic Catalog
+2024-2025 Undergraduate Academic Catalog-June [ARCHIVED CATALOG]
+2024-2025 Graduate Academic Catalog-June [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Graduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Graduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Graduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Graduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Graduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Graduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Graduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Graduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Graduate Academic Catalog [ARCHIVED CATALOG]
+2013-14 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2012-2014 Graduate Academic Catalog [ARCHIVED CATALOG]
+2012-2013 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+Global Search
+Catalog Search
+Choose Search Location
+Select an option
+Courses
+Programs
+Academic Departments
+Other Content
+Entire Catalog
+Search Keyword Field
+Whole Word/Phrase
+Advanced Search
+Catalog Navigation
+Catalog Home
+Academic Calendar
+University Overview
+Enrollment Management Department
+Academic Regulations and Policies
+Student Financial Services
+Academic Departments, Undergraduate Degree Programs, Minors and Certificates
+Degree Programs, Minors and Certificates
+Reserve Officer Training Corps (ROTC)
+Course Descriptions
+Board of Regents, Academic Administration, Faculty and Advisory Committees
+Campus Map
+Student Resources
+My Portfolio
+HELP
+2016-2017 Undergraduate Academic Catalog
+[ARCHIVED CATALOG]
+Architectural Engineering, B.S.
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Return to:
+Degree Programs, Minors and Certificates
+Program Director
+Dr. Christopher Raebel, P.E., S.E.
+Office: CC-27B
+Phone: (414) 277-7302
+Email:
+raebel@msoe.edu
+This four-year bachelor of science degree program prepares engineers for careers in engineering and designing buildings and building systems. Lecture and laboratory courses integrate theory and the practical application of design principles, practices, methods and materials.
+Program Educational Objectives
+The objectives of the Bachelor of Science in Architectural Engineering (BSAE) program are as follows:
+Graduates of the BSAE program who choose to pursue registration as a Professional Engineer can, after attaining the required years of work experience stipulated by the Board of Examiners, achieve that distinction.
+Graduates of the BSAE program who choose to pursue a graduate degree can achieve that distinction.
+Graduates of the BSAE program will pursue opportunities to advance their professional skills through lifelong learning (e.g. graduate studies, conferences, seminars, short courses and specialty certifications).
+Graduates of the BSAE program will demonstrate a commitment to their profession by participating in one or more professional societies in their area of technical specialty.
+Graduates of the BSAE program will demonstrate, in their professional practices, an appreciation for sustainable design.
+In accordance with these objectives, the following educational program outcomes have been formulated.
+Student Outcomes
+Program graduates will:
+Be knowledgeable in the mathematics and sciences areas listed below:
+Mathematics: calculus through differential equations, probability and statistics
+Pure sciences: calculus-based physics, general chemistry
+Engineering sciences: statistics, mechanics of materials, thermodynamics, fluid mechanics, electronic circuits, engineering economics
+Be able to apply knowledge of mathematics, sciences, and engineering principles to:
+Design and conduct experiments;
+Analyze data; and
+Identify, formulate, and solve engineering problems.
+Be knowledgeable in each of the basic architectural engineering curricular areas listed below that will facilitate communication and interaction with other design professionals in the development and execution of building projects.
+Architectural design and architectural history
+Building electrical systems (MSOE AE design specialty)
+Building mechanical systems (MSOE AE design specialty)
+Building structural systems (MSOE AE design specialty)
+Be proficient in:
+Systems design in one of the three MSOE AE design specialties;
+Building construction/construction management issues; and
+The techniques, skills, and modern engineering tools necessary to enter the architectural engineering profession in a productive manner.
+Be proficient in oral and written communication.
+Be able to work effectively in a team environment.
+Be knowledgeable of the responsibilities, both professional and ethical, that are required of the architectural engineer.
+Be knowledgeable of the need for lifelong learning, and have the motivation to pursue it.
+Be knowledgeable in the humanities and social sciences and of contemporary issues necessary to understand the societal and environmental impact of the architectural engineering profession.
+Design Specialties
+There are three design specialties offered in the architectural engineering program beginning in the junior year. Students must select one of the design specialties:
+Building electrical systems
+Building mechanical systems
+Building structural systems
+View Annual Student Enrollment and Graduation Data
+Architectural Engineering Model Full-time Track - V7.0
+Year One
+Fall
+MA 136 - Calculus I
+4
+credits
+AE 1001 - Freshman Seminar I
+4
+credits
+GS 1001 - Freshman Studies I
+4
+credits
+PH 2011 - Physics I - Mechanics
+4
+credits
+Total: 14 lecture hours - 4 lab hours - 16 credits
+Winter
+MA 137 - Calculus II
+4
+credits
+CH 200 - Chemistry I
+4
+credits
+AE 1002 - Freshman Seminar II
+4
+credits
+GS 1002 - Freshman Studies II
+4
+credits
+Total: 14 lecture hours - 4 lab hours - 16 credits
+Spring
+AE 1231 - Building Construction Materials
+4
+credits
+MA 231 - Calculus III
+4
+credits
+GS 1003 - Freshman Studies III
+4
+credits
+CH 201 - Chemistry II
+4
+credits
+Total: 14 lecture hours - 4 lab hours - 16 credits
+Total: 48 credits
+Year Two
+Fall
+AE 200 - Statics
+4
+credits
+MA 235 - Differential Equations
+4
+credits
+GE 205 - Professional Growth
+0
+credits
+CM 2200 - Building Construction Methods
+3
+credits
+PH 2021 - Physics II - ElectroMagnetism
+4
+credits
+AE 2001 - Building Information Modeling
+2
+credits
+Total: 14 lecture hours - 6 lab hours - 17 credits
+Winter
+AE 2121 - Fundamentals of Thermodynamics
+4
+credits
+MA 232 - Calculus IV
+3
+credits
+AE 201 - Strength of Materials
+4
+credits
+PH 2031 - Waves, Optics, Thermodynamics, and Quantum Physics
+4
+credits
+Total: 14 lecture hours - 2 lab hours - 15 credits
+Spring
+AE 2130 - Introduction to Fluid Mechanics
+4
+credits
+EE 201 - Linear Networks: Steady-State Analysis
+4
+credits
+MA 262 - Probability and Statistics
+3
+credits
+Elective
+1
+(HU/SS)
+3 credits
+Elective
+2
+(Math/Science)
+3 credits
+Total: 15 lecture hours - 4 lab hours - 17 credits
+Total: 49 credits
+Year Three
+Fall
+GE 305 - Professional Growth
+0
+credits
+AE 3201 - Principles of Structural Engineering
+4
+credits
+AE 3601 - Principles of Electrical Engineering for Buildings
+4
+credits
+AE 3301 - Principles of Building Mechanical Systems
+4
+credits
+CM 4311 - Construction Project Management I
+4
+credits
+Total: 15 lecture hours - 2 lab hours - 16 credits
+Winter
+Elective (HU/SS)
+3 credits
+Design Specialty Courses (see note 3)
+BSS:
+AE 3211 - Structural Analysis
+4
+credits
+AE 3221 - Steel Design
+4
+credits
+CV 3500 - Geotechnical Engineering
+4
+credits
+BMS:
+AE 3421 - Building Mechanical Systems I
+4
+credits
+AE 3521 - Plumbing Systems Design
+4
+credits
+AE 3531 - Fire Suppression Systems Design
+4
+credits
+BEPS:
+AE 3622 - Building Electrical Systems I
+4
+credits
+AE 3632 - Illumination Systems Design
+4
+credits
+AE 3636 - Communication Systems Design
+4
+credits
+Totals
+BSS: 13 lecture hours - 4 lab hours - 15 credits
+BMS: 13 lecture hours -  4 lab hours - 15 credits
+BEPS: 14 lecture hours - 2 lab hours - 15 credits
+Spring
+AE 3321 - Architectural History
+3
+credits
+Elective
+2
+(Math/Science)
+3 credits
+Elective
+1
+(HU/SS)
+3 credits
+Design Specialty Course (see note 2)
+BSS:
+AE 3231 - Concrete Design
+4
+credits
+And
+AE 3251 - Structural Systems Design
+4
+credits
+BMS:
+AE 3422 - Building Mechanical Systems II
+4
+credits
+BEPS:
+AE 3661 - Electrical Power Quality for Buildings
+4
+credits
+and both BMS and BEPS take
+AE 3451 - Building Systems Control
+4
+credits
+Totals
+BSS: 16 lecture hours - 2 lab hours - 17 credits
+BMS: 15 lecture hours - 4 lab hours - 17 credits
+BEPS: 15 lecture hours - 4 lab hours - 17 credits
+Total: 48 credits
+Year Four
+Fall
+AE 4311 - Architectural Design
+3
+credits
+AE 4712 - Architectural Engineering and Construction Management Design-Build Senior Project I
+2
+credits
+AE 4412 - Engineering and Building Investment Economics
+4
+credits
+EN 441 - Professional Presentation Techniques
+3
+credits
+GE 405 - Professional Growth
+0
+credits
+Elective
+6
+(Technical)
+2 credits
+Total: 11 lecture hours - 6 lab hours - 14 credits
+Winter
+AE 4721 - Architectural Engineering and Construction Management Design-Build Senior Project II
+3
+credits
+AE 4121 - Environmental Science in Building Construction
+3
+credits
+CM 3024 - Construction Law
+4
+credits
+Elective (HU/SS)
+1
+3 credits
+Elective
+6
+(Technical)
+3 credits
+Total: 14 lecture hours - 3 lab hours - 16 credits
+Spring
+AE 4731 - Architectural Engineering and Construction Management Design-Build Senior Project III
+4
+credits
+AE 4733 - AE Senior Project Working Drawings
+3
+credits
+HU 432 - Ethics for Professional Managers and Engineers
+3
+credits
+Elective
+7
+(Free)
+3 credits
+Elective
+6
+(Technical)
+3 credits
+Total: 12 lecture hours - 5 lab hours - 16 credits
+Total: 46 credits
+Total: 191 credits
+Note:
+1
+There are 12 credits of humanities and social science (HU/SS) electives, 6 must be in humanities (HU) and 6 must be in social sciences (SS).
+2
+These three credits may be taken from the math (MA) or science (BI, CH, PH, SC) area.  Consult the Academic Catalog for prerequisites and limitations.
+3
+All students must choose one of the three specialty sequences of classes beginning in the winter quarter of the junior year. These specialties include: Building Structural Systems (BSS); Building Mechanical Systems (BMS); or Building Electrical Power Systems (BEPS)
+4
+Prerequisite courses vary by specialty.  See Academic Catalog for prerequisite courses.
+5
+Refer to the Academic Catalog for a detailed list of requirements for entrance into senior project sequence.
+6
+A “technical elective” is defined as any engineering, business, management or technical communications course, 200/2000 level or higher. Courses taken as technical electives may not be used to satisfy a minor.  Enginering technology (ET, MY), general education (GE), humanities (HU/SS), mathematics (MA), nursing (NU) or nursing-specific courses/electives, orientation (OR), pure science (BI, CH, PH, SC), ROTC (AF, AR, NS) or undergraduate research (UR) courses are not eligible as technical electives.
+7
+These 3 credits may be taken in any 200 level or above course (or equivalent, if awarded in the form of transfer credit) that is not preparatory to the program track.
+Students are required to take the Fundamentals of Engineering (FE) exam in their senior year, as a condition of graduation. Students must present official results to the Registrar’s Office as proof of having satisfied this requirement.
+Students in the Air Force ROTC program can make the following substitutions: AF 300 for General Elective, AF 301 for
+EN 441
+,
+AF 4142
+for
+SS 455
+(an SS elective).
+Accredited by the Engineering Accreditation Commission of ABET,
+http://www.abet.org
+.
+Architectural Engineering Electives
+Building Electrical Systems Design Specialty
+AE 3622 - Building Electrical Systems I
+4
+credits
+AE 3632 - Illumination Systems Design
+4
+credits
+AE 3636 - Communication Systems Design
+4
+credits
+AE 3661 - Electrical Power Quality for Buildings
+4
+credits
+AE 3451 - Building Systems Control
+4
+credits
+Building Mechanical Systems Design Specialty
+AE 3421 - Building Mechanical Systems I
+4
+credits
+AE 3521 - Plumbing Systems Design
+4
+credits
+AE 3531 - Fire Suppression Systems Design
+4
+credits
+AE 3422 - Building Mechanical Systems II
+4
+credits
+AE 3451 - Building Systems Control
+4
+credits
+Building Structural Systems Design Specialty
+AE 3211 - Structural Analysis
+4
+credits
+AE 3221 - Steel Design
+4
+credits
+AE 3231 - Concrete Design
+4
+credits
+AE 3251 - Structural Systems Design
+4
+credits
+CV 3500 - Geotechnical Engineering
+4
+credits
+Return to:
+Degree Programs, Minors and Certificates
+Back to Top
+|
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+All
+catalogs
+© 2026 Milwaukee School of Engineering.
+Powered by
+Modern Campus Catalog™
+.

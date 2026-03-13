@@ -1,0 +1,120 @@
+EE 549 - Power System Analysis II -
+Milwaukee School of Engineering
+Mar 12, 2026
+2014-2015 Graduate Academic Catalog
+Select a Catalog
+2025-2026 Undergraduate Academic Catalog
+2025-2026 Graduate Academic Catalog
+2024-2025 Undergraduate Academic Catalog-June [ARCHIVED CATALOG]
+2024-2025 Graduate Academic Catalog-June [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Graduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Graduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Graduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Graduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Graduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Graduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Graduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Graduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Graduate Academic Catalog [ARCHIVED CATALOG]
+2013-14 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2012-2014 Graduate Academic Catalog [ARCHIVED CATALOG]
+2012-2013 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+Global Search
+Catalog Search
+Choose Search Location
+Select an option
+Courses
+Programs
+Academic Departments
+Other Content
+Entire Catalog
+Search Keyword Field
+Whole Word/Phrase
+Advanced Search
+Catalog Navigation
+Catalog Home
+Academic Calendar
+University Overview
+Graduate and Professional Education
+Graduate Admission Requirements
+Academic Regulations and Policies
+Student Accounts, Fees and Financial Aid
+Services and Resources for Graduate Students
+Academic Departments, Graduate Degree Programs and Certificates
+Degree Programs and Certificates
+Course Descriptions
+Board of Regents, Academic Administration and Faculty
+Campus Map
+My Portfolio
+HELP
+2014-2015 Graduate Academic Catalog
+[ARCHIVED CATALOG]
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+EE 549 - Power System Analysis II
+3
+lecture hours
+0
+lab hours
+3
+credits
+Course Description
+This course is a continuation of EE-547, and provides graduate students with a working knowledge of power system problems and computer techniques used to solve some of these problems. Topics covered include optimal dispatch of generation, symmetrical three-phase faults, symmetrical components, unsymmetrical faults, technical treatment of the general problem of power system stability and its relevance.   (prereq: undergraduate controls system course, undergraduate electric machinery course)
+Course Learning Outcomes
+Upon successful completion of this course, the student will be able to:
+• understand the nonlinear function optimization with constraints.
+• obtain the economical scheduling of real power generation neglecting line losses.
+• determine the loss coefficients of a power system network.
+• obtain the economical scheduling of real power generation including line losses.
+• understand the simplified models of the synchronous machines for fault analysis and transient stability problems.
+• calculate the internal voltages of loaded machines under transient conditions.
+• understand and be able to evaluate the currents in the network for a balanced three-phase fault.
+• transform unbalanced phasors to their symmetrical components.
+• use symmetrical components for short-circuit analysis of unsymmetrical faults.
+• understand the general problem of power system stability.
+• apply the equal-area criterion for stability to system of one machine against an infinite bus bar.
+• obtain the time-domain solution of the swing equation for a one-machine system against an infinite bus.
+• Develop computer programs to determine optimal load flow and balanced fault currents
+Prerequisites by Topic
+• Per unit systems
+• Power systems components and models
+• Load flow analysis
+Course Topics
+• Optimal dispatch of generation. (5 classes)
+• Generator modeling. (2 classes)
+• Direct formation of the bus impedance matrix. (2 classes)
+• Symmetrical three-phase faults. (3 classes)
+• Symmetrical components. (4 classes)
+• Unbalanced fault analysis. (5 classes)
+• Power system stability. (7 classes)
+Laboratory Topics
+• No associated laboratory
+Coordinator
+Glenn Wrate
+Back to Top
+|
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+All
+catalogs
+© 2026 Milwaukee School of Engineering.
+Powered by
+Modern Campus Catalog™
+.

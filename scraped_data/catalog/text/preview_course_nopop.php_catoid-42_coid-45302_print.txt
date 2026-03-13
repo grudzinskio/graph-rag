@@ -1,0 +1,139 @@
+CPE 1500 - Digital Logic -
+2025-2026 Undergraduate Academic Catalog
+Milwaukee School of Engineering
+Mar 12, 2026
+2025-2026 Undergraduate Academic Catalog
+Select a Catalog
+2025-2026 Undergraduate Academic Catalog
+2025-2026 Graduate Academic Catalog
+2024-2025 Undergraduate Academic Catalog-June [ARCHIVED CATALOG]
+2024-2025 Graduate Academic Catalog-June [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Graduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Graduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Graduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Graduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Graduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Graduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Graduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Graduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Graduate Academic Catalog [ARCHIVED CATALOG]
+2013-14 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2012-2014 Graduate Academic Catalog [ARCHIVED CATALOG]
+2012-2013 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+Global Search
+Catalog Search
+Choose Search Location
+Select an option
+Courses
+Programs
+Academic Departments
+Other Content
+Entire Catalog
+Search Keyword Field
+Whole Word/Phrase
+Advanced Search
+Catalog Navigation
+Catalog Home
+Academic Calendar
+University Overview
+Admissions
+Student Financial Services
+Academic Regulations and Policies
+Degree Programs, Minors, and Certificates
+Degrees, Minors, and Certificates by Department
+Course Descriptions
+The Raider Core
+Explorer Pathways
+MSOE Honors Program
+Global Opportunities
+Reserve Officers’ Training Corps. (ROTC)
+Administration, Regents, and Advisory Committees
+Departments and Faculty
+Campus Map
+Student Resources
+My Portfolio
+HELP
+2025-2026 Undergraduate Academic Catalog
+Print this Page
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+CPE 1500 - Digital Logic
+3
+lecture hours
+2
+lab hours
+4
+credits
+Course Description
+This course introduces combinational and sequential digital logic. Students establish skill in paper-based techniques as well as computer-aided design and analysis including schematic capture, structural and behavioral capture using a hardware description language, and simulation. Exercises require students to design, simulate, implement, and test combinational and sequential building blocks, arithmetic circuits, and finite state machines using standard logic families and programmable logic devices.
+Prereq:
+None
+Note:
+None
+This course meets the following Raider Core CLO Requirement:
+None
+Course Learning Outcomes
+Upon successful completion of this course, the student will be able to:
+Perform binary and hexadecimal arithmetic on signed and unsigned integer numbers
+Document combinational and sequential logic circuits using truth tables and waveform diagrams
+Design combinational and sequential logic circuits using Boolean algebra, Karnaugh maps, schematic diagrams, and text descriptions written in a hardware description language
+Implement, test, and analyze logic circuits using standard logic family ICs or an FPGA
+Evaluate designs under realistic constraints including timing, circuit size, power consumption, and cost
+Read and apply functional and electrical specifications provided on manufacturer data sheets
+Prerequisites by Topic
+None
+Course Topics
+Binary and hexadecimal signed and unsigned numbers
+Logic truth tables, operators, and IEEE Std. 91 distinctive-shape symbols
+Static electrical characteristics including power, level voltages VOH and VOL, fan-in, and fan-out
+Dynamic electrical characteristics including propagation delay, rise-time, and fall-time
+CMOS implementation of logic gates
+CMOS static and dynamic power equations
+Canonical sum-of-product equations
+Boolean algebra, K-maps, and minimized sum-of-product (SOP) form
+Gate-level circuits in NOT-AND-OR and NAND-NAND forms
+1-of-n data selectors (multiplexers)
+Multiplexer implementations of logic equations
+Standard decoders (demultiplexers)
+Seven-segment decoders
+Full adders, ripple-carry adders, carry lookahead adders, and subtractors
+Latches and flip-flops in SR and D form
+Asynchronous and synchronous control signals
+Parallel and shift registers
+Moore and Mealy finite state machine models
+Finite state diagrams and finite state tables
+Finite state encoding using n-bit binary, Gray, or one-hot encoding
+Standard and saturating n-bit binary, modulo-n, binary coded decimal (BCD), and n-bit Gray counters
+Basic FPGA programmable device architecture
+Programmable look-up tables (LUTs)
+Structural and Behavioral hardware descriptions of combinational and sequential logic
+Laboratory Topics
+Design, simulation, testing and analysis of combinational and sequential logic circuits
+Implement, test, and analyze logic circuits built using standard logic family ICs or an FPGA
+Testing and debugging using power supplies, waveform generators, and logic analyzers
+Coordinator
+Dr. Russ Meier
+Print this Page
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+All
+catalogs
+© 2026 Milwaukee School of Engineering.
+Powered by
+Modern Campus Catalog™
+.

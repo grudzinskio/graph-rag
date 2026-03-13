@@ -1,0 +1,139 @@
+BUS 5500 - Statistics and Data Analytics -
+Milwaukee School of Engineering
+Mar 12, 2026
+2023-2024 Graduate Academic Catalog
+Select a Catalog
+2025-2026 Undergraduate Academic Catalog
+2025-2026 Graduate Academic Catalog
+2024-2025 Undergraduate Academic Catalog-June [ARCHIVED CATALOG]
+2024-2025 Graduate Academic Catalog-June [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Graduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Graduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Graduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Graduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Graduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Graduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Graduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Graduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Graduate Academic Catalog [ARCHIVED CATALOG]
+2013-14 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2012-2014 Graduate Academic Catalog [ARCHIVED CATALOG]
+2012-2013 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+Global Search
+Catalog Search
+Choose Search Location
+Select an option
+Courses
+Programs
+Academic Departments
+Other Content
+Entire Catalog
+Search Keyword Field
+Whole Word/Phrase
+Advanced Search
+Catalog Navigation
+Catalog Home
+Academic Calendar
+University Overview
+Professional Education
+Graduate Admission Requirements
+Academic Regulations and Policies
+Student Financial Services
+Research Opportunities
+Graduate Degree Programs and Certificates by Department
+Degree Programs and Certificates
+Course Descriptions
+Administration and Board of Regents
+Graduate Faculty
+Campus Map
+Student Resources
+My Portfolio
+HELP
+2023-2024 Graduate Academic Catalog
+[ARCHIVED CATALOG]
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+BUS 5500 - Statistics and Data Analytics
+3
+lecture hours
+0
+lab hours
+3
+credits
+Course Description
+This course reviews and applies the foundational concepts of statistics and analytics to common problems and scenarios found in the business domain. The focus on descriptive and diagnostic statistical techniques helps prepare students for more advanced study of prescriptive and predictive analytics. Topics include interval estimation, hypothesis testing, parametric and nonparametric tests, and an introduction to advanced analytics. The use of statistical programming languages such as R and Python will be emphasized to expose the student to contemporary statistical processing environments on computing clusters.    (prereq: admission to graduate program)
+Course Learning Outcomes
+Upon successful completion of this course, the student will be able to:
+Apply fundamental concepts in the use and interpretation of statistical methods
+Prepare data for use in statistical and analytical processes
+Generate and interpret descriptive statistics related to business scenarios
+Use diagnostic analytics to inform solutions to business problems
+Select an appropriate statistical or analytic method to address a given business problem
+Communicate the meaning of statistical or analytic results to stakeholders
+Demonstrate the ability to analyze and write statistical program code in R and/or Python that automates the processing of statistical data sets that are not conducive to manual processing due to their size and/or scale
+Prerequisites by Topic
+None
+Course Topics
+Introduction to statistics
+Populations, population samples, descriptive and inferential statistics
+Qualitative vs. quantitative data, variables
+Means, medians, percentiles, distributions, summations, arithmetic and geometric series, progressions
+Logarithms, linear and non-linear transforms
+Charting and graphing data
+Histograms, stem and leaf diagrams, frequency plots, box plots, bar charts, line graphs, dot plots, scatter diagrams, etc.
+Summarizing distributions
+Central tendency, mean, median, mode, etc.
+Measuring variability (sum of squared deviations, variance, standard deviation) and the Variance Sum Law
+Shapes of distributions (uniform, normal, binomial, etc.)
+Effects of linear transformations on variability
+Describing univariate and bivariate data
+Pearson’s correlation
+Variance Sum Law II
+Probability
+Basic concepts, independent probability, conditional probability, gambler’s fallacy
+Permutations and combinations
+Binomial distribution, multinomial distribution, Poisson distribution, hypergeometric distribution
+Bayes theorem
+Research and experimental design
+Scientific method, null hypothesis, measurement problems, sampling bias, causation vs. correlation
+Hypothesis testing, significance testing, one and two-tailed testing
+Steps in hypothesis testing, confidence intervals, common misconceptions
+Estimation
+Characteristics of estimators, degrees of freedom, bias and variability, confidence intervals for mean, T-distribution, correlation, and proportion
+Statistical Programming in Python
+Python environments, integrated development environments, and Jupyter Notebooks
+Python expressions, data types, operators, statement execution
+Python programming logic for branching, iteration, nesting and stacking logic structures
+Python data structures (lists, tuples, dictionaries, sets)
+Python functions and lambda expressions
+Python libraries and collections (arrays, nd-arrays, data frames, etc.)
+Object-oriented programming in Python
+Coordinator
+Dr. Jeff Blessing
+Back to Top
+|
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+All
+catalogs
+© 2026 Milwaukee School of Engineering.
+Powered by
+Modern Campus Catalog™
+.

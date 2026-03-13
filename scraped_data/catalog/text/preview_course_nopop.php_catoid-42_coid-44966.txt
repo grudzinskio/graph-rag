@@ -1,0 +1,172 @@
+PHY 3700 - Physics of Electronic Materials and Semiconductor Devices -
+Milwaukee School of Engineering
+Mar 12, 2026
+2025-2026 Undergraduate Academic Catalog
+Select a Catalog
+2025-2026 Undergraduate Academic Catalog
+2025-2026 Graduate Academic Catalog
+2024-2025 Undergraduate Academic Catalog-June [ARCHIVED CATALOG]
+2024-2025 Graduate Academic Catalog-June [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Graduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Graduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Graduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Graduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Graduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Graduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Graduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Graduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Graduate Academic Catalog [ARCHIVED CATALOG]
+2013-14 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2012-2014 Graduate Academic Catalog [ARCHIVED CATALOG]
+2012-2013 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+Global Search
+Catalog Search
+Choose Search Location
+Select an option
+Courses
+Programs
+Academic Departments
+Other Content
+Entire Catalog
+Search Keyword Field
+Whole Word/Phrase
+Advanced Search
+Catalog Navigation
+Catalog Home
+Academic Calendar
+University Overview
+Admissions
+Student Financial Services
+Academic Regulations and Policies
+Degree Programs, Minors, and Certificates
+Degrees, Minors, and Certificates by Department
+Course Descriptions
+The Raider Core
+Explorer Pathways
+MSOE Honors Program
+Global Opportunities
+Reserve Officers’ Training Corps. (ROTC)
+Administration, Regents, and Advisory Committees
+Departments and Faculty
+Campus Map
+Student Resources
+My Portfolio
+HELP
+2025-2026 Undergraduate Academic Catalog
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+PHY 3700 - Physics of Electronic Materials and Semiconductor Devices
+3
+lecture hours
+2
+lab hours
+4
+credits
+Course Description
+This subject provides students with the fundamentals of electronic materials including semiconductor physics and its application to common semiconductor devices and properties of metals, dielectrics, and magnetic materials. The course starts with quantum theory of the hydrogen atom and photon interactions, multi-electron atoms, Pauli exclusion principle, and the periodic table. Next, cubic crystal structures, dipoles and properties of dielectrics, and magnetic materials are introduced. The band theory of solids and theory of semiconductors is developed including energy gap, Fermi-Dirac statistics, mobility of electrons and holes, Ohm’s law, influence of temperature on conductivity, doping, photoconductivity, drift and diffusion of charge carriers, and the (Shockley) ideal diode equation. Then, properties of the abrupt p-n junction are studied and applied to various practical devices including the signal diode, breakdown diode, varactor diode, photo-diode, light-emitting diode, LASER diode, solar cell, bipolar junction transistor, thyristor, metal-semiconductor contacts, MOS capacitor, and finally field effect transistors. Heterojunction structures and IGBTs are also studied. The course has a very strong laboratory component. About half the experiments illustrate fundamental properties of electronic and semiconductor materials and half explore the characteristics and properties of a variety of semiconductor devices. Semiconductor manufacturing methods and the Li ion battery are also introduced.
+Prereq:
+PHY 1120
+,
+MTH 1120
+(quarter system prereq: PH 2021, MA 137)
+Note:
+None
+This course meets the following Raider Core CLO Requirement:
+None
+Course Learning Outcomes
+Upon successful completion of this course, the student will be able to:
+Relate the structure of the periodic table to the electronic structure of atoms and the valence electrons
+Characterize the four cubic crystal types, relate lattice constant to atomic density and use Miller indices to identify crystal planes
+Relate the dielectric constant to the electric dipole moment density
+Relate the magnetic permeability to the magnetic dipole moment density
+Differentiate electron energy bands in metals, semiconductors and insulators
+Correlate the band gap energy and the atomic size in elementary, binary, ternary and quaternary semiconductors
+Calculate intrinsic carrier density of a semiconductor from the energy band gap and temperature
+Relate majority and minority carrier concentrations to the doping density and Fermi level
+Determine majority carrier type, concentration and drift velocity from the Hall voltage, magnetic field and current
+Calculate electrical conductivity from charge carrier densities and mobilities and relate drift current to electric field and voltage
+Predict resistance of a semiconductor from the incident light intensity, wavelength, band gap, recombination time and dimensions
+For a p-n junction, calculate built-in potential, capacitance and current in forward or reverse bias from the doping levels, band gap, dimensions, and applied voltage
+Distinguish the regions of drift and diffusion current in a forward bias p-n junction
+Calculate the breakdown voltage from the critical electric field in a dielectric or p-n junction
+Describe the basic operation of photodetectors, solar cells, LEDs and LASER diodes and determine the open circuit voltage, short circuit current and efficiency of a solar cell or photodiode from the doping levels, device dimensions and optical generation rate
+Predict the common emitter current gain of a bipolar junction transistor (BJT) from the doping levels and device dimensions, identify regions of minority carrier diffusion and explain the Early effect
+Describe the operational states of a thyristor
+Relate the variation in capacitance with gate voltage in a MOS capacitor
+Determine the threshold voltage, channel conductance and saturation current of a MOSFET from the doping levels and device dimensions and explain how the gate and drain voltages influence the channel current
+Identify the four regions of an IGBT and describe their function
+Describe the main steps in the fabrication of a MOSFET
+Prerequisites by Topic
+Physics of mechanics
+Physics of electric and magnetic fields
+Electric potential
+Differential and integral calculus
+Course Topics
+Basic quantum theory of the atom, periodic table structure, electron affinity
+Crystal structure, Miller indices
+Theory of dielectrics, dipoles, and the dielectric constant
+Theory of magnetic materials, dipoles and magnetic permeability
+Energy band theory
+Charge carrier concentrations, p and n doping: Fermi statistics
+Charge carrier drift and diffusion
+Hall effect
+Thermistors and photoconductivity
+p-n junction
+Dielectric breakdown
+Photonic p-n junction devices including heterojunction
+Bipolar junction transistor
+Thyristor
+MOSFET
+IGBT
+Device fabrication: crystal growth, photolithography, and plasma processing
+Li ion battery
+Laboratory Topics
+Hydrogen atom electron energy levels and photon emission
+B-H curve
+Hall effect
+Majority carrier type and concentration using hot and four-point probes
+Extrinsic to intrinsic conductivity transition with temperature
+Band gap determination by photonic absorption: direct and indirect
+Carrier lifetime in a CdS photocell
+p-n junction reverse bias capacitance
+p-n junction forward and reverse I-V characteristics and ideality factor
+Photovoltaic effect: solar cell V
+oc
+, I
+sc
+, P
+max
+, FF, efficiency
+BJT current gain and Early effect
+MOS capacitor
+MOSFET: linear and saturation characteristics
+LED as photodetector and I-V characteristics of various two terminal devices: rectifiers, breakdown diodes, LEDs
+Coordinator
+Dr. Richard Mett
+Back to Top
+|
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+All
+catalogs
+© 2026 Milwaukee School of Engineering.
+Powered by
+Modern Campus Catalog™
+.

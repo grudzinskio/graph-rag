@@ -1,0 +1,116 @@
+EE 544 - Power Electronics -
+Milwaukee School of Engineering
+Mar 12, 2026
+2014-2015 Graduate Academic Catalog
+Select a Catalog
+2025-2026 Undergraduate Academic Catalog
+2025-2026 Graduate Academic Catalog
+2024-2025 Undergraduate Academic Catalog-June [ARCHIVED CATALOG]
+2024-2025 Graduate Academic Catalog-June [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Graduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Graduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Graduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Graduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Graduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Graduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Graduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Graduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Graduate Academic Catalog [ARCHIVED CATALOG]
+2013-14 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2012-2014 Graduate Academic Catalog [ARCHIVED CATALOG]
+2012-2013 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+Global Search
+Catalog Search
+Choose Search Location
+Select an option
+Courses
+Programs
+Academic Departments
+Other Content
+Entire Catalog
+Search Keyword Field
+Whole Word/Phrase
+Advanced Search
+Catalog Navigation
+Catalog Home
+Academic Calendar
+University Overview
+Graduate and Professional Education
+Graduate Admission Requirements
+Academic Regulations and Policies
+Student Accounts, Fees and Financial Aid
+Services and Resources for Graduate Students
+Academic Departments, Graduate Degree Programs and Certificates
+Degree Programs and Certificates
+Course Descriptions
+Board of Regents, Academic Administration and Faculty
+Campus Map
+My Portfolio
+HELP
+2014-2015 Graduate Academic Catalog
+[ARCHIVED CATALOG]
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+EE 544 - Power Electronics
+3
+lecture hours
+0
+lab hours
+3
+credits
+Course Description
+In this course students are given background in device selection and power conditioning circuits that have application at high power levels. Topics covered emphasize the use of various active devices in inverters, converters, motor drives and power conditioning circuits. An individual project is required.   (prereq: EE-2070, EE-3111, and consent of instructor)
+Course Learning Outcomes
+Upon successful completion of this course, the student will be able to:
+• Demonstrate an understanding of the electrical characteristics of power semiconductor devices.
+• Analyze power semiconductor circuits operating at high power levels under transient and steady state conditions.
+• Develop the skills necessary to use the computer to analyze and design power conversion circuits.
+• Develop the understanding of important considerations in the design of power conversion and switching regulator circuits.
+Prerequisites by Topic
+• Steady state and transient circuit analysis.
+• Electrical characteristics of diodes, bipolar junction transistors and field effect transistors.
+• Analysis of circuits with diodes and transistors.
+• Frequency response of electrical circuits.
+Course Topics
+• Introduction to Power Electronics. (1 class)
+• Diode Circuits and rectifiers. (4 classes)
+• Characteristics of Power Semiconductor devices. (4 classes)
+• Phase-controlled converters. (4 classes)
+• AC voltage controllers. (3 classes)
+• DC choppers and switchmode regulators. (5 classes)
+• Pulse-width modulated Inverter circuits. (3 classes)
+• Pulse-width modulation and closed loop dc motor control. (1 class)
+• Protection of devices and circuits. (2 classes)
+• Introduction to DC and AC Drives. (1 class)
+Laboratory Topics
+•  Line-controlled SCR experiment should be done under instructor supervision in S341
+• Boost Converter and Snubber Circuit individual project
+Coordinator
+Jovan Jevtic
+Back to Top
+|
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+All
+catalogs
+© 2026 Milwaukee School of Engineering.
+Powered by
+Modern Campus Catalog™
+.

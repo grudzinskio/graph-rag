@@ -1,0 +1,118 @@
+Open House Programming | MSOE
+Skip to Main Content
+Home
+Bold Step Forward
+Open House Programming
+Open House Programming
+All are invited to explore Diercks Hall and learn more from our corporate partners who have sponsored the classrooms and laboratories. Advance registration is required.
+Friday, September 13 from 1 – 4 p.m.
+Better Manufacturing with Rexnord’s Smart Condition Monitoring System
+Rexnord Corp. Classroom (DH-129): 1:30-2:15 p.m.; 3-3:45 p.m.
+The Smart Condition Monitoring System improves manufacturing uptime and asset life. Designed by Rexnord engineers, the system provides 24/7 real-time monitoring, maintenance reminders, and issues alerts to save money and help increase productivity. The Rexnord team will demonstrate how the system puts sensor data into context and recommends actions to make the job easier.
+Designing Computing Platforms for High-Performance Workloads
+Dedicated Computing Data Analytics Laboratory (DH-210): 1:30-2:15 p.m.; 2:30-3:15 p.m.
+More powerful processors, GPUs and accelerators enable processing large-scale data at a rate never seen before. Developing hardware-based solutions for high-performance computational workloads is difficult given the broad range of system development challenges. Dedicated Computing will demonstrate various methods and techniques that holistically leverage technologies to properly accelerate and provide the most impactful approach to incorporating AI and data analytics into products used in life sciences, healthcare, industrial automation, training and simulation.
+Big Data ... Finding a Cure!
+Northwestern Mutual Classroom (DH-229): 1-4 p.m.
+At Northwestern Mutual, our employees and financial professionals are committed to accelerating the search for a cure to childhood cancer while providing support to families facing the disease and survivors struggling with treatment late effects. Stop by for a lemonade and learn how NM is using technology to help find a cure to pediatric cancer. Also, learn how we are using Virtual Reality to help kids with pain management as well as help kids be kids at the Ronald McDonald House.
+Avigilon Surveillance System
+Pieper Electric Classroom (DH-240): 1-1:45 p.m.
+Systems Technologies: Interactive demonstration of Avigilon surveillance system. Built in AI, the system allows for tracking, facial recognition, etc.
+BIM Modeling and Construction
+Pieper Electric Classroom (DH-240): 3:30-4:15 p.m.
+Pieper Electric: Interactive presentation in the use of Building Information Modeling in an actual construction project, with potential use of VR headsets.
+Interactive Simulation Controls
+PieperPower Corporate Touchdown Space (DH-244): 3-3:45 p.m.
+Pieper Automation: Enjoy a presentation on two different interactive simulation controls packages: one for the plating industry and one for the aggregate and mining industry.
+Flowers GPU Speedup on DGX-1 by NVIDIA
+(Diercks Hall, 2nd Floor outside of data center): 1–4
+p.m.
+See the performance of using multiple GPUs to train a neural network to recognize flower types.
+GauGAN: Turning Doodles into AI-Powered Stunning Landscapes
+(Diercks Hall, 3rd Floor): 1–4
+p.m.
+Synthesizing landscapes using AI technology. Demo will show attendees how to change sketches into photorealistic masterpieces.
+AI in Healthcare – Clara Platform Applications
+(Diercks Hall, 3rd Floor):  1–2:30
+p.m.
+Demonstrating how to transform medical imaging using AI technology.
+AI in Agriculture by NVIDIA
+(Diercks Hall, 3rd Floor): 3–4:15
+p.m.
+Demonstrating how AI is used in Agriculture using NVIDIA's Jetson.
+Ray-Tracing the Apollo Moon Landing
+(Diercks Hall, 3rd Floor): 1–4 p.m.
+Revisit the Apollo moon landing utilizing the enhanced realism of RTX Ray Tracing.
+Anatomage Table: Virtual Dissection of the Human Body
+Presented by MSOE faculty
+Human Machine Interface Laboratories (DH-327): 2-2:45 p.m.; 3-3:45 p.m.
+The Anatomage Table is the only fully segmented real human 3D anatomy system. Users can visualize anatomy exactly as they would on a fresh cadaver. Individual structures are reconstructed in accurate 3D, resulting in an unprecedented level of real accurate anatomy, dissectible in 3D. Anatomy is presented as a fully interactive, life-sized touch screen experience, in operatory bed form. The table allows for exploration and learning of human anatomy beyond what any cadaver could offer.
+AI Threat Intelligence – Collecting Cybercrime DNA
+Presented by Keith Rayle, Global Strategist, Fortinet Inc.
+Caspian Technology Concepts Cyber Security Laboratory (DH-329): 3-3:45 p.m.
+Take a look into the use of AI in fighting cybercriminal organizations. We will start with a brief history of malware management, sandbox capabilities, and other AI systems used to rapidly identify and block threats. As these systems are linked, more powerful capabilities emerge, creating the ability to ‘fingerprint’ attacks according to methodology frameworks, creating patterns that can be used for further analysis. We will then discuss how orchestrated attacks can be similarly analyzed and linked upwards to cybercrime organizations, providing the potential to use current technologies to develop predictive attack insight.
+Quake 2 Game: Ray-Tracing with RTX
+(Diercks Hall, 3rd Floor): 2–2:45 p.m.; 3:30–4:15 p.m.
+Enhancing realism using NVIDIA RTX.  Quake 2 will show RTX Path Tracing for Dynamic lighting. Control with RTX ON will show multiple ray-tracing lighting effects and Nvidia’s DLSS in one of this year’s most visually stunning games.
+Control Game: Ray-Tracing with RTX
+(Diercks Hall, 3rd Floor): Time, TBD
+Control with RTX ON will show multiple ray-tracing lighting effects and Nvidia’s DLSS in one of this year’s most visually stunning games.
+Minecraft Game: Ray-Tracing with RTX
+(Diercks Hall, 3rd Floor): Time, TBD
+Control with RTX ON will show multiple ray-tracing lighting effects and Nvidia’s DLSS in one of this year’s most visually stunning games.
+DIGITS Hands on AI on the HPC cluster
+(Diercks Hall, 3rd Floor):  Time, TBD
+Train your own neural network to recognize handwritten digits on the MSOE HPC! Diercks Hall 3rd floor.
+AEC Demo and Harley Davidson VR by NVIDIA
+(Diercks Hall, 3rd Floor): 1:30–2:15 p.m.
+;
+2:30–3:15 p.m.
+Demo will show how AEC workflows and Unreleased electric “LiveWire” motorcycle digital design review that was featured at the X-Games.
+Speaking Fluent AI: How Augmented Reality is the Language of Artificial Intelligence
+Presented by Seth Patin ’05, CEO and Founder, Accelogix and Logistiview
+Logistiview AR/VR Laboratory (DH-332): 1-1:45 p.m.; 2:30-3:15 p.m.
+Artificial Intelligence (AI) is the next revolution in computing. Not just building algorithms but figuring out how to transcribe them. Today, vision and spatial computing with Augmented and Virtual Reality (AR/VR) are revealing that new language. We’re amid a generational shift in user experience engineering—where people and computers connect not via text and 2D images, but through graphical representations that are changing the paradigm. Learn about the future of human/computer interface in AI.
+Discover MKE Tech Hub and Fall Experiment
+Northwestern Mutual AI Laboratory (DH-344): 1-2:30 p.m.
+Find out how Northwestern Mutual and other regional partners are heavily investing in the tech ecosystem in the Milwaukee. Also learn about how Fall Experiment and Cream City Code are building a signature event at the intersection of tech, art, gaming and music.
+Will You Work for a Robot?
+Northwestern Mutual AI Laboratory (DH-344): 3-4 p.m.
+Karl Gouverneur, VP Digital Workplace & Corporate Solutions and Head of Digital Innovation at Northwestern Mutual, shares his 2019 technology outlook where he contextualizes our digital past and probes the potential of our digital future. Understand why companies, rather than consumers, are better situated to leverage AI and reshape our workplaces, communities, and lives.
+Engineering a Smarter Supply Chain: How to Capitalize on a Revolutionary Opportunity
+Presented by Ryan Kirklewski, COO, Accelogix
+Accelogix Seminar Room (DH-443): 2-2:45 p.m.; 3-3:45 p.m.
+Rapid advances in technology coupled with growing customer demands has placed enormous pressure on businesses to optimize for speed, risk and profit—moving the once invisible supply chain into the forefront. Construction of a new and integrated ecosystem is required. In this session you will learn how technology and engineering are playing a crucial role in the future of the supply chain.
+Synthesis of Medical Images with Deep Neural Networks
+Presented by Dr. Josiah Yoder, assistant professor
+MSOE Classroom (DH-449): 1-1:45 p.m.; 3:30-4:15 p.m.
+In this interactive demo, you will control the input to a generative adversarial network (GAN) that produces histology images. As you make adjustments, it will smoothly transition from one microscopic view of stained tissue to another. The images produced by this GAN are large and clear – undistinguishable from real histology slides (to the untrained eye). They may be used to improve our understanding and treatment of prostate cancer. These networks were developed by MSOE students and faculty in conjunction with the Medical College of Wisconsin.
+Explore Helsinki in VR by NVIDIA
+(Diercks Hall, 3rd Floor):  Time, TBD
+Interactive 3D-model of the Helsinki City Centre. Quadro RTX 6000 and Unreal Engine by ZOAN.
+Register!
+Join us on Friday, September 13, 2019 for our open house celebrating Diercks Hall! A full and fun afternoon of panel discussions and interactive programming will be held in the classrooms and collaborative spaces inside our new computational science hall. Advance registration is required.
+Get on the list!
+Grand Opening Celebration
+Join us on Friday, September 13, 2019 for a day-long celebration as we officially open the Dwight and Dian Diercks Computational Science Hall.
+View the full schedule of events
+AI Panel Discussions
+As part of the grand opening celebration, we'll be hosting two panel discussions centered on the use of AI. Thought leaders and visionaries will be on each panel sharing insights and predictions into what lies ahead. Panel discussions are from 1–1:50 p.m. and 2:10–3 p.m. Advance registration is required.
+View the panels
+Menu
+Search
+submit
+Resources For…
+MSOE University
+1025 North Broadway
+Milwaukee,
+WI
+53202-3109
+(800) 332-6763
+explore@msoe.edu
+Connect With MSOE
+Facebook
+Instagram
+Twitter
+Linkedin
+YouTube
+Vimeo

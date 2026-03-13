@@ -1,0 +1,136 @@
+AE 3421 - Building Mechanical Systems I -
+Milwaukee School of Engineering
+Mar 12, 2026
+2022-2023 Undergraduate Academic Catalog
+Select a Catalog
+2025-2026 Undergraduate Academic Catalog
+2025-2026 Graduate Academic Catalog
+2024-2025 Undergraduate Academic Catalog-June [ARCHIVED CATALOG]
+2024-2025 Graduate Academic Catalog-June [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog-June Update [ARCHIVED CATALOG]
+2023-2024 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2023-2024 Graduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2022-2023 Graduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2021-2022 Graduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2020-2021 Graduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2019-2020 Graduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2018-2019 Graduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2017-2018 Graduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2016-2017 Graduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2015-2016 Graduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2014-2015 Graduate Academic Catalog [ARCHIVED CATALOG]
+2013-14 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+2012-2014 Graduate Academic Catalog [ARCHIVED CATALOG]
+2012-2013 Undergraduate Academic Catalog [ARCHIVED CATALOG]
+Global Search
+Catalog Search
+Choose Search Location
+Select an option
+Courses
+Programs
+Academic Departments
+Other Content
+Entire Catalog
+Search Keyword Field
+Whole Word/Phrase
+Advanced Search
+Catalog Navigation
+Catalog Home
+Academic Calendar
+University Overview
+Admissions Department
+Academic Regulations and Policies
+Student Financial Services
+Degrees, Minors, and Certificates by Department
+Degree Programs, Minors, and Certificates
+University Scholars Honors Program
+Reserve Officers’ Training Corps. (ROTC)
+English for Academic Purposes (EAP)
+Course Descriptions
+Administration, Regents, Faculty, and Advisory Committees
+Campus Map
+Student Resources
+My Portfolio
+HELP
+2022-2023 Undergraduate Academic Catalog
+[ARCHIVED CATALOG]
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+AE 3421 - Building Mechanical Systems I
+3
+lecture hours
+2
+lab hours
+4
+credits
+Course Description
+This course continues the development of heating and cooling systems design, building on the basics learned in the Principles of Building Mechanical Systems (AE 3301).  The course starts with the topic of Solar Radiation and the principles of Cooling Load calculations and continues to the detailed analysis of HVAC systems and equipment.  The course covers manual calculations for designing and sizing HVAC equipment, studying part-load performance, in addition to the ASHRAE Standards requirements.  Upon completion of the course, the student will acquire an understanding of energy, ventilation, and human comfort standards, and the capability to handle design characteristics, and selection, of HVAC systems components.    (pre-req:
+AE 3301
+)
+Course Learning Outcomes
+Upon successful completion of this course, the student will be able to:
+Compute and determine the solar angles, and calculate heat gains from solar radiation
+Define all heat gains in a given building, and calculate the total cooling load of a building
+Apply the basic principles of Fluid Mechanics, to calculate pressure losses in Ducts and Pipes
+Classify and analyze different types and methods of air distributions systems
+Analyze various types of fans and pumps, including VFD’s
+Analyze and characterize different HVAC equipment (compressors, cooling towers, condensers, evaporators, furnaces, boilers, domestic hot water systems, radiant heating unit ventilators, unit heaters unitary air conditioners, heat pumps, and room and packaged air conditioners
+Design heat exchangers
+Calculate energy consumption in buildings
+Examine and relate the ASHRAE Standards to HVAC calculations and design
+Prerequisites by Topic
+Psychrometrics
+Modes of heat transfer
+Fluid mechanics
+Course Topics
+Solar radiation
+Cooling load calculations
+Duct design and fans
+Piping design and pumps
+Air distribution systems
+Energy calculations
+Compressors
+Cooling towers, condensers
+Evaporators, COP, PLR
+Furnaces, boilers
+Domestic hot water, heat pumps
+Heat exchanger design and selection
+Radiant heating
+Unit ventilators, unit heaters, makeup air units
+ASHRAE standards
+Valves
+Unitary air conditioners, heat pumps
+Room and packaged air conditioners
+Laboratory Topics
+Photovoltaics
+Fan curves
+VC refrigeration cycle
+Heating, cooling and humidification
+Compliance with ASHRAE standards
+Field trips to explore large commercial building mechanical rooms.
+Coordinator
+David Grassl
+Back to Top
+|
+Print-Friendly Page (opens a new window)
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Add to Portfolio (opens a new window)
+All
+catalogs
+© 2026 Milwaukee School of Engineering.
+Powered by
+Modern Campus Catalog™
+.
