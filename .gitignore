@@ -1,0 +1,10 @@
+data_clean/
+data_raw/
+models/
+*.spacy
+*.log
+__pycache__/
+*.pyc
+.venv/
+.env
+
