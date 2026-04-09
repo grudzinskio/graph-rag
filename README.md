@@ -2,7 +2,9 @@
 
 Pipeline for **scraping MSOE pages**, **cleaning text**, **training spaCy NER + relation extraction** (SemEval Task-8), and **running extraction** over cleaned documents. Graph store and RAG are not in this repo yet.
 
-**Committing artifacts:** This repo is set up so you can commit **`models/`**, **`data_clean/`**, **`data_raw/`**, **`*.spacy`**, and **`scraped_data/`** if you want clones to work **without retraining** (see `.gitignore` — only `.venv/`, `.env`, Python cache, and `*.log` are ignored). Very large repos may need [Git LFS](https://git-lfs.github.com/); GitHub blocks single files **over 100 MB**.
+**Committing artifacts:** This repo is set up so you can commit **`models/`**, **`data_clean/`**, **`data_raw/`**, **`*.spacy`**, and **`scraped_data/`** if you want clones to work **without retraining** (see `.gitignore` — only `.venv/`, `.env`, Python cache, and `*.log` are ignored). GitHub blocks single files **over 100 MB**; **`data_clean/extracted/relations.jsonl`** is stored with [**Git LFS**](https://git-lfs.github.com/) (see `.gitattributes`).
+
+After cloning, install LFS once and fetch blobs: `git lfs install` then `git lfs pull` (or clone with `git lfs clone` if your Git version supports it).
 
 ---
 
