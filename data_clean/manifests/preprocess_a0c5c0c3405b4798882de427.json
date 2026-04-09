@@ -1,0 +1,35 @@
+{
+  "run_id": "a0c5c0c3405b4798882de427",
+  "created_utc": "2026-04-09T19:40:16.488390+00:00",
+  "argv": [
+    "scripts/preprocess.py",
+    "--allow-pdf-failures",
+    "--semeval-train",
+    "data_raw/benchmarks/semeval2010/TRAIN_FILE.TXT",
+    "--semeval-test",
+    "data_raw/benchmarks/semeval2010/TEST_FILE.TXT"
+  ],
+  "outputs": {
+    "msoe_documents": "data_clean\\msoe\\documents.jsonl",
+    "semeval_examples": "data_clean\\benchmarks\\semeval2010_task8\\examples.jsonl"
+  },
+  "stats": {
+    "msoe": {
+      "docs_seen": 5790,
+      "docs_kept": 5714,
+      "docs_deduped": 33,
+      "docs_empty_after_clean": 0,
+      "pdf_detected": 43,
+      "pdf_extracted": 0,
+      "pdf_failed": 43,
+      "read_failed": 0,
+      "quarantined": 43
+    },
+    "semeval": {
+      "examples": 10717
+    }
+  },
+  "versions": {
+    "python": "3.13.7 (tags/v3.13.7:bcee1c3, Aug 14 2025, 14:15:11) [MSC v.1944 64 bit (AMD64)]"
+  }
+}
