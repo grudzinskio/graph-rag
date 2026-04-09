@@ -23,8 +23,9 @@ This does **not** build the graph store or RAG agent yet (those are downstream s
   - `configs/re.cfg`: spaCy training config for RE (custom component)
 - `extraction_spacy/`
   - `extraction_spacy/relation_extractor.py`: custom spaCy relation extractor component + model registry entries
-- `data_clean/` (generated, ignored by git)
+- `data_clean/` (generated outputs; **may be committed** so others can use corpora + extraction without retraining)
   - cleaned corpora + manifests + optional quarantines
+- `models/` (trained spaCy pipelines; **may be committed**)
 
 ---
 
@@ -119,15 +120,15 @@ spaCy `DocBin` (`.spacy`) with entity spans.
 We convert benchmark JSONL (SemEval/FewRel) into DocBin via:
 
 ```bash
-python scripts/build_spacy_ner_data.py --examples data_clean/benchmarks/semeval2010_task8/examples.jsonl --out data_raw/tmp/ner_train.spacy
+python scripts/build_spacy_ner_data.py --examples data_clean/benchmarks/semeval2010_task8/examples.jsonl --out data_raw/tmp/ner_all.spacy
 ```
 
-Then split into train/dev as you prefer (or generate separate JSONLs per split and build them independently).
+Then split with `scripts/split_spacy_docbin.py` (see README).
 
 #### Train NER model
 
 ```bash
-python scripts/train_ner.py --train <train.spacy> --dev <dev.spacy> --output models/ner
+python scripts/train_ner.py --train data_raw/tmp/ner_train.spacy --dev data_raw/tmp/ner_dev.spacy --output models/ner
 ```
 
 ### Relation Extraction (supervised)
@@ -143,13 +144,13 @@ This is a **trainable spaCy pipeline component** that stores predictions in:
 #### Build RE training data
 
 ```bash
-python scripts/build_spacy_re_data.py --examples data_clean/benchmarks/semeval2010_task8/examples.jsonl --out data_raw/tmp/re_train.spacy
+python scripts/build_spacy_re_data.py --examples data_clean/benchmarks/semeval2010_task8/examples.jsonl --out data_raw/tmp/re_all.spacy
 ```
 
 #### Train RE model
 
 ```bash
-python scripts/train_re.py --train <train.spacy> --dev <dev.spacy> --output models/re
+python scripts/train_re.py --train data_raw/tmp/re_train.spacy --dev data_raw/tmp/re_dev.spacy --output models/re
 ```
 
 ### Running extraction over cleaned docs
@@ -167,8 +168,8 @@ python scripts/run_extraction.py ^
 
 Outputs:
 
-- `data_clean/extracted/entities.jsonl`
-- `data_clean/extracted/relations.jsonl`
+- `data_clean/extracted/entities.jsonl` — one line per predicted span: `doc_id`, `text`, `label` (always **ENT** for the SemEval-trained head/tail style), `start_char`, `end_char`.
+- `data_clean/extracted/relations.jsonl` — one line per **ordered entity pair** scored by the RE head: `doc_id`, `head` / `tail` (each with `text`, `start_char`, `end_char`), `label` (SemEval relation type), `score`. Row count is **much larger** than “facts in the corpus”: the model assigns a relation distribution to every pair; use **score thresholds** or **top‑k per head** before building a graph.
 
 ---
 
@@ -186,10 +187,116 @@ python -m pip install -r requirements.txt
 python scripts/preprocess.py --allow-pdf-failures
 ```
 
-1) Provide SemEval/FewRel raw files, rerun preprocess with flags:
+1) Provide SemEval/FewRel raw files, rerun preprocess with flags (see README for concrete paths).
 
 ```bash
-python scripts/preprocess.py --allow-pdf-failures --semeval-train <path> --semeval-test <path> --fewrel-json <path>
+python scripts/preprocess.py --allow-pdf-failures --semeval-train data_raw/benchmarks/semeval2010/TRAIN_FILE.TXT --semeval-test data_raw/benchmarks/semeval2010/TEST_FILE.TXT
 ```
 
 1) Convert benchmark JSONL → spaCy DocBin(s), train NER + RE, then run `scripts/run_extraction.py`.
+
+---
+
+## Run log — commands we ran and what we got
+
+This section records **actual outputs** from the workflow we executed (Spring 2026). Paths are relative to the repo root.
+
+### Environment
+
+- Python **3.13.7**
+- Dependencies from `requirements.txt` (spaCy 3.8.x, PyMuPDF, scraper libs)
+
+### Preprocess: MSOE only (`--allow-pdf-failures`)
+
+Command:
+
+```text
+python scripts/preprocess.py --allow-pdf-failures
+```
+
+Representative manifest: `data_clean/manifests/preprocess_1834a871c6c71f9f2783f47e.json` (and similar runs).
+
+**MSOE stats (one full run):**
+
+- `docs_seen`: 5790
+- `docs_kept`: 5714
+- `docs_deduped`: 33
+- `pdf_detected`: 43, `pdf_extracted`: 0, `pdf_failed`: 43, `quarantined`: 43
+
+**Outputs:**
+
+- `data_clean/msoe/documents.jsonl` — one JSON object per cleaned document
+- `data_clean/manifests/preprocess_<run_id>.json` — argv, counts, Python version
+- `data_clean/quarantine/msoe/*.error.json` — one file per PDF/read failure when `--allow-pdf-failures` is set
+
+### Preprocess: MSOE + SemEval 2010 Task-8
+
+Command:
+
+```text
+python scripts/preprocess.py --allow-pdf-failures ^
+  --semeval-train data_raw/benchmarks/semeval2010/TRAIN_FILE.TXT ^
+  --semeval-test  data_raw/benchmarks/semeval2010/TEST_FILE.TXT
+```
+
+Manifest: `data_clean/manifests/preprocess_a0c5c0c3405b4798882de427.json`
+
+**SemEval:**
+
+- `examples`: **10717** (train + test combined in `examples.jsonl`)
+
+**Outputs:**
+
+- `data_clean/benchmarks/semeval2010_task8/examples.jsonl`
+- (MSOE outputs same as above)
+
+### Training data (spaCy DocBin)
+
+Commands (conceptually):
+
+- `scripts/build_spacy_ner_data.py` → `data_raw/tmp/ner_all.spacy`
+- `scripts/build_spacy_re_data.py` → `data_raw/tmp/re_all.spacy`
+- `scripts/split_spacy_docbin.py` → `ner_train.spacy`, `ner_dev.spacy`, `re_train.spacy`, `re_dev.spacy`
+
+(`data_raw/` may be committed with SemEval raw files and DocBins; regenerate when retraining on a fresh machine if omitted.)
+
+### Trained models (`models/` — committed)
+
+**NER** — `python scripts/train_ner.py ... --output models/ner`
+
+- Packaged dirs: `models/ner/model-best`, `models/ner/model-last`
+- `models/ner/model-best/meta.json` (dev performance snapshot):
+  - `ents_f` ≈ **0.636**
+  - `ents_p` ≈ **0.642**
+  - `ents_r` ≈ **0.631**
+- Entity label: **ENT** (SemEval head/tail spans)
+
+**Relation extraction** — `python scripts/train_re.py ... --output models/re`
+
+- Packaged dirs: `models/re/model-best`, `models/re/model-last`
+- `models/re/model-best/meta.json`:
+  - **19** relation labels (SemEval Task-8, including `Other`)
+  - Reported `relation_extractor` score **0.0** in meta (custom pipe scoring not wired; training still completed and `model-best` / `model-last` were written)
+
+### Extraction on MSOE (optional final step)
+
+Command:
+
+```text
+python scripts/run_extraction.py --docs data_clean/msoe/documents.jsonl ^
+  --ner-model models/ner/model-best --re-model models/re/model-best ^
+  --out data_clean/extracted [--limit N]
+```
+
+**Outputs (under `data_clean/`, commit if you want to share them):**
+
+- `data_clean/extracted/entities.jsonl`
+- `data_clean/extracted/relations.jsonl`
+
+**Full MSOE corpus run (no `--limit`, Spring 2026):**
+
+Summary line from `run_extraction.py`:
+
+- **5,714** documents, **108,569** entity rows, **656,506** relation rows, **851.7 s** wall time (~14.2 min).
+
+Sanity check on a sample line: entities are generic noun phrases tagged **ENT**; relation lines include low scores (e.g. **0.01–0.17**) for many pairs—expected until you filter or rank for downstream graph/RAG.

@@ -1,94 +1,108 @@
 # graph-rag
 
-This repo currently contains:
+Pipeline for **scraping MSOE pages**, **cleaning text**, **training spaCy NER + relation extraction** (SemEval Task-8), and **running extraction** over cleaned documents. Graph store and RAG are not in this repo yet.
 
-- **MSOE web scraping** (`scrape.py`) that writes raw HTML + extracted text under `scraped_data/`
-- **Reproducible preprocessing** (`scripts/preprocess.py`) that builds a deterministic cleaned corpus under `data_clean/`
-- **spaCy extraction** scaffolding: NER + supervised Relation Extraction (RE) training/inference scripts
+**Committing artifacts:** This repo is set up so you can commit **`models/`**, **`data_clean/`**, **`data_raw/`**, **`*.spacy`**, and **`scraped_data/`** if you want clones to work **without retraining** (see `.gitignore` — only `.venv/`, `.env`, Python cache, and `*.log` are ignored). Very large repos may need [Git LFS](https://git-lfs.github.com/); GitHub blocks single files **over 100 MB**.
 
-## Setup
+---
 
-### Windows: create a `.venv` (recommended)
+## Initial setup (run this first)
+
+### Windows — virtual environment (recommended)
 
 PowerShell:
 
 ```powershell
+cd "C:\path\to\graph-rag"
 py -m venv .venv
 .\.venv\Scripts\Activate.ps1
 python -m pip install --upgrade pip
 python -m pip install -r requirements.txt
 ```
 
-CMD:
+### What we run for the “app” (extraction on cleaned MSOE text)
 
-```bat
-py -m venv .venv
-.\.venv\Scripts\activate.bat
-python -m pip install --upgrade pip
-python -m pip install -r requirements.txt
-```
+You need **`data_clean/msoe/documents.jsonl`** and trained pipelines under **`models/`**.
 
-### Install dependencies (without a venv)
+- If you **cloned a repo that already commits** those paths, you can **skip preprocessing** and go straight to **Run extraction** below.
+- If `documents.jsonl` is missing, run preprocessing once (step 1).
 
-```bash
-python -m pip install -r requirements.txt
-```
-
-## What you can run right now (MSOE cleaning only)
-
-If you already have `scraped_data/` in this repo, you can run:
+1. **Build cleaned MSOE corpus** (skip if `data_clean/msoe/documents.jsonl` is already in the repo):
 
 ```powershell
 python scripts/preprocess.py --allow-pdf-failures
 ```
 
-This produces:
+1. **Run NER + relation extraction** over the cleaned corpus (safe to re-run after canceling a job — it **overwrites** `entities.jsonl` / `relations.jsonl`):
 
-- `data_clean/msoe/documents.jsonl`
-- `data_clean/manifests/preprocess_<run_id>.json`
+```powershell
+python scripts/run_extraction.py `
+  --docs data_clean/msoe/documents.jsonl `
+  --ner-model models/ner/model-best `
+  --re-model models/re/model-best `
+  --out data_clean/extracted
+```
 
-At this point you have **cleaned text**, but you do **not** have trained spaCy models yet (those require SemEval/FewRel).
+Outputs (under `data_clean/extracted/`):
 
-## 1) (Optional) Scrape MSOE data (only if `scraped_data/` is missing)
+- `entities.jsonl` — one row per NER span (`ENT`), with `doc_id` and character offsets.
+- `relations.jsonl` — one row per **scored entity pair** (label + `score`), so line counts are large; threshold or top‑k before treating rows as graph edges.
 
-```bash
+A full run over **5,714** cleaned MSOE docs produced **108,569** entity rows and **656,506** relation rows in ~**852 s** (see `project.md` → **Run log**).
+
+To cap cost while debugging, add e.g. `--limit 100`.
+
+**Watching a long run:** `run_extraction.py` logs to stderr every `--progress-every` docs (default **50**). Mirror the same lines to a file:
+
+```powershell
+python scripts/run_extraction.py `
+  --docs data_clean/msoe/documents.jsonl `
+  --ner-model models/ner/model-best `
+  --re-model models/re/model-best `
+  --out data_clean/extracted `
+  --progress-every 25 `
+  --log-file data_clean/extracted/extraction.log
+```
+
+In another terminal you can **tail** the file: `Get-Content data_clean/extracted/extraction.log -Wait` (PowerShell). Or run in the foreground so lines print live.
+
+---
+
+## If you want to scrape data
+
+Use this when you need **fresh or missing** raw pages under `scraped_data/`.
+
+1. **Scrape** (writes `scraped_data/.../raw_html` and `.../text`):
+
+```powershell
 python scrape.py
 ```
 
-## 2) Preprocess into cleaned data (reproducible)
+1. **Clean into `data_clean/`** again:
 
-```bash
+```powershell
 python scripts/preprocess.py --allow-pdf-failures
 ```
 
-Outputs:
+Notes:
 
-- `data_clean/msoe/documents.jsonl`
-- `data_clean/manifests/preprocess_<run_id>.json`
+- Some catalog `*pdf.txt` files are raw PDF bytes; we try PyMuPDF. Failures go to `data_clean/quarantine/msoe/` when you pass `--allow-pdf-failures`.
+- SemEval **raw** train/test files (for training) are not produced by the scraper; place them under `data_raw/benchmarks/semeval2010/` when retraining (see next section).
 
-## 3) Add benchmark datasets (SemEval / FewRel) and generate `examples.jsonl`
+---
 
-To train NER + Relation Extraction, we need benchmark-style **examples** with:
+## If you want to retrain relation extraction (and NER)
 
-- `text` (sentence)
-- `e1` and `e2` (entity spans)
-- `relation` label
+Relation extraction (and the NER model we use for entity spans on MSOE) is trained on **SemEval 2010 Task-8** examples. Retraining does **not** require rescraping MSOE.
 
-Our preprocessing script writes those into:
+### 1) Put SemEval files in the repo layout
 
-- `data_clean/benchmarks/semeval2010_task8/examples.jsonl`
-- `data_clean/benchmarks/fewrel/examples.jsonl`
-
-### 3A) SemEval 2010 Task-8 (recommended first)
-
-Put the SemEval raw files here.
-
-Easiest option: **rename** the official SemEval train/test files to match these names:
+Example (rename your downloads to match, or adjust paths):
 
 - `data_raw/benchmarks/semeval2010/TRAIN_FILE.TXT`
 - `data_raw/benchmarks/semeval2010/TEST_FILE.TXT`
 
-Then run:
+### 2) Regenerate `examples.jsonl` and refresh MSOE cleaning in one run
 
 ```powershell
 python scripts/preprocess.py --allow-pdf-failures `
@@ -96,70 +110,30 @@ python scripts/preprocess.py --allow-pdf-failures `
   --semeval-test  data_raw/benchmarks/semeval2010/TEST_FILE.TXT
 ```
 
-If you don’t want to rename files, just use your real filenames instead. For example, if your folder contains:
+This writes `data_clean/benchmarks/semeval2010_task8/examples.jsonl` (10,717 examples when both splits are included).
 
-- `data_raw/benchmarks/semeval2010/TRAIN_FILE.TXT` (example placeholder)
-- `data_raw/benchmarks/semeval2010/TEST_FILE.TXT` (example placeholder)
-
-…replace the filenames in the command with whatever you actually have.
-
-### 3B) FewRel (optional)
-
-Put a FewRel JSON file here:
-
-- `data_raw/benchmarks/fewrel/fewrel.json`
-
-Then run:
+### 3) Build spaCy DocBins, split train/dev, train
 
 ```powershell
-python scripts/preprocess.py --allow-pdf-failures --fewrel-json data_raw/benchmarks/fewrel/fewrel.json
-```
-
-## 4) Train spaCy NER + Relation Extraction (RE)
-
-This section assumes you ran **SemEval preprocessing** and have:
-
-- `data_clean/benchmarks/semeval2010_task8/examples.jsonl`
-
-### 4A) Build spaCy DocBins
-
-Convert SemEval `examples.jsonl` into spaCy DocBin(s) (each produces a single `*_all.spacy` file):
-
-```bash
 python scripts/build_spacy_ner_data.py --examples data_clean/benchmarks/semeval2010_task8/examples.jsonl --out data_raw/tmp/ner_all.spacy
 python scripts/build_spacy_re_data.py  --examples data_clean/benchmarks/semeval2010_task8/examples.jsonl --out data_raw/tmp/re_all.spacy
-```
 
-### 4B) Split train/dev (deterministic)
-
-```bash
 python scripts/split_spacy_docbin.py --in data_raw/tmp/ner_all.spacy --train-out data_raw/tmp/ner_train.spacy --dev-out data_raw/tmp/ner_dev.spacy --seed 42 --dev-ratio 0.2
 python scripts/split_spacy_docbin.py --in data_raw/tmp/re_all.spacy  --train-out data_raw/tmp/re_train.spacy  --dev-out data_raw/tmp/re_dev.spacy  --seed 42 --dev-ratio 0.2
-```
 
-### 4C) Train models
-
-```bash
 python scripts/train_ner.py --train data_raw/tmp/ner_train.spacy --dev data_raw/tmp/ner_dev.spacy --output models/ner
 python scripts/train_re.py  --train data_raw/tmp/re_train.spacy  --dev data_raw/tmp/re_dev.spacy  --output models/re
 ```
 
-## 5) Run extraction (NER + RE) over cleaned MSOE docs
+RE training uses `--code extraction_spacy/relation_extractor.py` (wrapped inside `scripts/train_re.py`).
 
-```bash
-python scripts/run_extraction.py ^
-  --docs data_clean/msoe/documents.jsonl ^
-  --ner-model models/ner/model-best ^
-  --re-model models/re/model-best ^
-  --out data_clean/extracted ^
-  --limit 100
-```
+Trained artifacts to commit (not gitignored):
 
-Outputs:
+- `models/ner/model-best`, `models/ner/model-last`
+- `models/re/model-best`, `models/re/model-last`
 
-- `data_clean/extracted/entities.jsonl`
-- `data_clean/extracted/relations.jsonl`
+---
 
-## More details
+## More detail
 
-See `project.md`.
+See [project.md](project.md) for design notes and **recorded outputs** from our runs.

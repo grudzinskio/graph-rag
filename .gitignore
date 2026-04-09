@@ -1,10 +1,18 @@
-data_clean/
-data_raw/
-models/
-*.spacy
-*.log
-__pycache__/
-*.pyc
+# Local environment (never commit secrets or machine-specific venv)
 .venv/
 .env
 
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+
+# Runtime / OS noise (optional to keep repos clean)
+*.log
+.DS_Store
+Thumbs.db
+
+# We intentionally do NOT ignore data_clean/, data_raw/, models/, *.spacy, or scraped_data/
+# so teammates can clone and use cleaned data + trained pipelines without retraining.
+#
+# If GitHub rejects a push (file > 100 MB), use Git LFS for that path or split the artifact.
