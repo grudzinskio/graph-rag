@@ -116,6 +116,35 @@ class RelationExtractor(TrainablePipe):
             self.set_annotations(docs, scores)
         return losses
 
+    def score(self, examples: Iterable[Example], **kwargs):
+        """Calculates exact-match micro accuracy for relations."""
+        correct = 0
+        total = 0
+        for eg in examples:
+            gold_rel = eg.reference._.rel
+            pred_rel = eg.predicted._.rel
+            
+            get_instances = self.model.attrs.get("get_instances")
+            instances = get_instances(eg.reference)
+            for e1, e2 in instances:
+                key = (e1.start, e2.start)
+                
+                # Gold
+                g_scores = gold_rel.get(key, {})
+                g_max = max(g_scores.keys(), key=lambda k: g_scores[k]) if g_scores else None
+                
+                # Pred
+                p_scores = pred_rel.get(key, {})
+                p_max = max(p_scores.keys(), key=lambda k: p_scores[k]) if p_scores else None
+                
+                if g_max is not None:
+                    total += 1
+                    if p_max == g_max:
+                        correct += 1
+                        
+        acc = correct / max(total, 1)
+        return {"relation_extractor": acc}
+
     def get_loss(self, examples: List[Example], scores: Floats2d):
         """
         Multi-label logistic loss over candidate entity pairs.

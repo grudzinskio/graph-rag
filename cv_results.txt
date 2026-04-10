@@ -1,0 +1,169 @@
+GraphRAG RE -- 5-Fold Cross Validation Results
+=================================================================
+
+[ Fold 1/5 ]
+  Train: 6,400  |  Dev: 1,600
+  Macro-F1 (excl. Other): 0.0757  |  Accuracy: 0.1823  |  Evaluated: 1,585
+  Classification Report:
+                           precision    recall  f1-score   support
+
+      Cause-Effect(e1,e2)       0.07      0.05      0.06        60
+      Cause-Effect(e2,e1)       0.15      0.05      0.08       137
+   Component-Whole(e1,e2)       0.06      0.03      0.04        99
+   Component-Whole(e2,e1)       0.07      0.01      0.02        97
+ Content-Container(e1,e2)       0.19      0.15      0.17        85
+ Content-Container(e2,e1)       0.00      0.00      0.00        41
+Entity-Destination(e1,e2)       0.17      0.48      0.25       156
+Entity-Destination(e2,e1)       0.00      0.00      0.00         0
+     Entity-Origin(e1,e2)       0.00      0.00      0.00       106
+     Entity-Origin(e2,e1)       0.05      0.03      0.04        29
+ Instrument-Agency(e1,e2)       0.00      0.00      0.00        14
+ Instrument-Agency(e2,e1)       0.17      0.13      0.15        85
+ Member-Collection(e1,e2)       0.00      0.00      0.00        17
+ Member-Collection(e2,e1)       0.25      0.94      0.39       118
+     Message-Topic(e1,e2)       0.16      0.12      0.13       103
+     Message-Topic(e2,e1)       0.00      0.00      0.00        29
+                    Other       0.20      0.19      0.20       257
+  Product-Producer(e1,e2)       0.00      0.00      0.00        66
+  Product-Producer(e2,e1)       0.10      0.02      0.04        86
+
+                 accuracy                           0.18      1585
+                macro avg       0.09      0.12      0.08      1585
+             weighted avg       0.13      0.18      0.13      1585
+
+
+[ Fold 2/5 ]
+  Train: 6,400  |  Dev: 1,600
+  Macro-F1 (excl. Other): 0.0764  |  Accuracy: 0.1696  |  Evaluated: 1,586
+  Classification Report:
+                           precision    recall  f1-score   support
+
+      Cause-Effect(e1,e2)       0.28      0.11      0.15        76
+      Cause-Effect(e2,e1)       0.07      0.03      0.04       133
+   Component-Whole(e1,e2)       0.00      0.00      0.00        87
+   Component-Whole(e2,e1)       0.27      0.03      0.06        89
+ Content-Container(e1,e2)       0.20      0.35      0.26        75
+ Content-Container(e2,e1)       0.14      0.03      0.05        31
+Entity-Destination(e1,e2)       0.19      0.35      0.24       164
+Entity-Destination(e2,e1)       0.00      0.00      0.00         1
+     Entity-Origin(e1,e2)       0.12      0.01      0.02       118
+     Entity-Origin(e2,e1)       0.12      0.07      0.09        28
+ Instrument-Agency(e1,e2)       0.00      0.00      0.00        27
+ Instrument-Agency(e2,e1)       0.18      0.11      0.14        79
+ Member-Collection(e1,e2)       0.00      0.00      0.00        12
+ Member-Collection(e2,e1)       0.18      0.91      0.29       129
+     Message-Topic(e1,e2)       0.06      0.02      0.03        97
+     Message-Topic(e2,e1)       0.00      0.00      0.00        38
+                    Other       0.19      0.15      0.16       268
+  Product-Producer(e1,e2)       0.00      0.00      0.00        61
+  Product-Producer(e2,e1)       0.00      0.00      0.00        73
+
+                 accuracy                           0.17      1586
+                macro avg       0.11      0.11      0.08      1586
+             weighted avg       0.14      0.17      0.12      1586
+
+
+[ Fold 3/5 ]
+  Train: 6,400  |  Dev: 1,600
+  Macro-F1 (excl. Other): 0.0732  |  Accuracy: 0.1440  |  Evaluated: 1,583
+  Classification Report:
+                           precision    recall  f1-score   support
+
+      Cause-Effect(e1,e2)       0.09      0.06      0.07        72
+      Cause-Effect(e2,e1)       0.13      0.05      0.07       127
+   Component-Whole(e1,e2)       0.17      0.07      0.10        98
+   Component-Whole(e2,e1)       0.14      0.02      0.03       101
+ Content-Container(e1,e2)       0.22      0.32      0.26        79
+ Content-Container(e2,e1)       0.00      0.00      0.00        34
+Entity-Destination(e1,e2)       0.14      0.70      0.23       165
+Entity-Destination(e2,e1)       0.00      0.00      0.00         0
+     Entity-Origin(e1,e2)       0.04      0.01      0.01       109
+     Entity-Origin(e2,e1)       0.00      0.00      0.00        30
+ Instrument-Agency(e1,e2)       0.00      0.00      0.00        16
+ Instrument-Agency(e2,e1)       0.05      0.07      0.06        72
+ Member-Collection(e1,e2)       0.00      0.00      0.00        19
+ Member-Collection(e2,e1)       0.38      0.26      0.30       129
+     Message-Topic(e1,e2)       0.12      0.04      0.06       100
+     Message-Topic(e2,e1)       0.50      0.03      0.06        29
+                    Other       0.17      0.08      0.11       273
+  Product-Producer(e1,e2)       0.00      0.00      0.00        59
+  Product-Producer(e2,e1)       0.08      0.04      0.06        71
+
+                 accuracy                           0.14      1583
+                macro avg       0.12      0.09      0.07      1583
+             weighted avg       0.14      0.14      0.11      1583
+
+
+[ Fold 4/5 ]
+  Train: 6,400  |  Dev: 1,600
+  Macro-F1 (excl. Other): 0.0666  |  Accuracy: 0.1645  |  Evaluated: 1,587
+  Classification Report:
+                           precision    recall  f1-score   support
+
+      Cause-Effect(e1,e2)       0.06      0.03      0.04        66
+      Cause-Effect(e2,e1)       0.20      0.08      0.11       130
+   Component-Whole(e1,e2)       0.19      0.05      0.08        84
+   Component-Whole(e2,e1)       0.12      0.01      0.02        90
+ Content-Container(e1,e2)       0.31      0.16      0.21        73
+ Content-Container(e2,e1)       0.00      0.00      0.00        30
+Entity-Destination(e1,e2)       0.16      0.22      0.19       173
+Entity-Destination(e2,e1)       0.00      0.00      0.00         0
+     Entity-Origin(e1,e2)       0.00      0.00      0.00        99
+     Entity-Origin(e2,e1)       0.06      0.03      0.04        30
+ Instrument-Agency(e1,e2)       0.00      0.00      0.00        20
+ Instrument-Agency(e2,e1)       0.09      0.09      0.09        82
+ Member-Collection(e1,e2)       0.00      0.00      0.00        13
+ Member-Collection(e2,e1)       0.17      0.97      0.28       123
+     Message-Topic(e1,e2)       0.13      0.10      0.12        86
+     Message-Topic(e2,e1)       0.00      0.00      0.00        31
+                    Other       0.21      0.19      0.20       300
+  Product-Producer(e1,e2)       0.00      0.00      0.00        74
+  Product-Producer(e2,e1)       0.11      0.01      0.02        83
+
+                 accuracy                           0.16      1587
+                macro avg       0.10      0.10      0.07      1587
+             weighted avg       0.14      0.16      0.12      1587
+
+
+[ Fold 5/5 ]
+  Train: 6,400  |  Dev: 1,600
+  Macro-F1 (excl. Other): 0.0833  |  Accuracy: 0.1750  |  Evaluated: 1,583
+  Classification Report:
+                           precision    recall  f1-score   support
+
+      Cause-Effect(e1,e2)       0.08      0.04      0.06        68
+      Cause-Effect(e2,e1)       0.12      0.05      0.07       129
+   Component-Whole(e1,e2)       0.08      0.02      0.03        94
+   Component-Whole(e2,e1)       0.08      0.01      0.02        91
+ Content-Container(e1,e2)       0.17      0.36      0.24        58
+ Content-Container(e2,e1)       0.00      0.00      0.00        29
+Entity-Destination(e1,e2)       0.17      0.49      0.25       173
+Entity-Destination(e2,e1)       0.00      0.00      0.00         0
+     Entity-Origin(e1,e2)       0.12      0.01      0.01       131
+     Entity-Origin(e2,e1)       0.24      0.16      0.19        31
+ Instrument-Agency(e1,e2)       0.00      0.00      0.00        20
+ Instrument-Agency(e2,e1)       0.20      0.09      0.12        82
+ Member-Collection(e1,e2)       0.12      0.06      0.08        16
+ Member-Collection(e2,e1)       0.20      0.94      0.33       111
+     Message-Topic(e1,e2)       0.13      0.05      0.07       102
+     Message-Topic(e2,e1)       0.00      0.00      0.00        17
+                    Other       0.19      0.12      0.15       295
+  Product-Producer(e1,e2)       0.00      0.00      0.00        61
+  Product-Producer(e2,e1)       0.12      0.01      0.02        75
+
+                 accuracy                           0.17      1583
+                macro avg       0.11      0.13      0.09      1583
+             weighted avg       0.14      0.17      0.12      1583
+
+
+
+=================================================================
+  CROSS VALIDATION SUMMARY
+=================================================================
+  Per-fold Macro-F1 : 0.0757  0.0764  0.0732  0.0666  0.0833
+  Per-fold Accuracy : 0.1823  0.1696  0.1440  0.1645  0.1750
+
+  Mean Macro-F1 (excl. Other) : 0.0750
+  Std  Macro-F1               : 0.0054
+  Mean Accuracy               : 0.1671
+=================================================================

@@ -18,6 +18,7 @@ def main() -> int:
     ap.add_argument("--out", type=Path, required=True, help="Output .spacy DocBin path")
     ap.add_argument("--entity-label", type=str, default="ENT", help="Entity label to assign")
     ap.add_argument("--negative-label", type=str, default=None, help="Optional label to treat as negative/no-relation")
+    ap.add_argument("--labels", type=str, default=None, help="Comma separated list of all possible labels")
     args = ap.parse_args()
 
     ensure_rel_extension()
@@ -27,6 +28,9 @@ def main() -> int:
 
     # Collect labels so doc._.rel rows can include all labels (multi-label setup).
     labels = set()
+    if args.labels:
+        labels.update(args.labels.split(";"))
+
     raw_examples = []
     for line in args.examples.read_text(encoding="utf-8", errors="replace").splitlines():
         if not line.strip():

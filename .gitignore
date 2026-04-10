@@ -1,6 +1,7 @@
 # Local environment (never commit secrets or machine-specific venv)
 .venv/
-.env
+**/.env
+.python-version
 
 # Python bytecode
 __pycache__/
@@ -11,6 +12,8 @@ __pycache__/
 *.log
 .DS_Store
 Thumbs.db
+tmp/
+tmp_cv/
 
 # We intentionally do NOT ignore data_clean/, data_raw/, models/, *.spacy, or scraped_data/
 # so teammates can clone and use cleaned data + trained pipelines without retraining.
