@@ -1,6 +1,23 @@
 import os
+import sys
 import json
+import subprocess
 from pathlib import Path
+
+# --- Dependency Bootstrap ---
+def _ensure(pip_name: str, import_name: str) -> None:
+    try:
+        __import__(import_name)
+    except ImportError:
+        print(f"Installing missing dependency: {pip_name}...")
+        subprocess.check_call([sys.executable, "-m", "pip", "install", pip_name])
+
+# Ensure all external dependencies are present
+_ensure("python-dotenv", "dotenv")
+_ensure("neo4j", "neo4j")
+_ensure("sentence-transformers", "sentence_transformers")
+_ensure("google-generativeai", "google.generativeai")
+
 from dotenv import load_dotenv
 from neo4j import GraphDatabase
 from sentence_transformers import SentenceTransformer
@@ -23,35 +40,91 @@ if GOOGLE_API_KEY:
 print("Loading embedding model...")
 model = SentenceTransformer('all-MiniLM-L6-v2')
 
-def get_graph_context(query_text, top_k=10):
+def get_graph_context(query_text, top_k=5, text_chars=6000, rel_cap=80):
+    """Prefer document vector search + keywords + per-document relations."""
     query_vector = model.encode(query_text).tolist()
-    context_triples = []
-    
+    lines: list[str] = []
+
     with GraphDatabase.driver(NEO4J_URI, auth=(NEO4J_USER, NEO4J_PASSWORD)) as driver:
+        doc_hits = []
+        try:
+            with driver.session() as session:
+                doc_hits = session.run(
+                    """
+                    CALL db.index.vector.queryNodes('document_embeddings', $k, $vector)
+                    YIELD node AS d, score
+                    RETURN d.id AS id, d.text AS text, d.source_path AS path, score
+                    LIMIT $limit
+                    """,
+                    vector=query_vector,
+                    k=top_k,
+                    limit=top_k,
+                ).data()
+        except Exception:
+            doc_hits = []
+
+        if doc_hits:
+            for row in doc_hits:
+                did = row["id"]
+                path = row.get("path") or ""
+                score = row.get("score", 0.0)
+                text = (row.get("text") or "")[:text_chars]
+                lines.append(f"--- Document {path} (id={did}, sim={float(score):.4f}) ---")
+                lines.append(text)
+                with driver.session() as session:
+                    kws = session.run(
+                        """
+                        MATCH (:Document {id: $did})-[:HAS_ENTITY]->(e:Entity)
+                        RETURN collect(DISTINCT e.id) AS kws
+                        """,
+                        did=did,
+                    ).single()
+                    keywords = (kws and kws.get("kws")) or []
+                    if keywords:
+                        lines.append("Keywords: " + ", ".join(keywords[:80]))
+                    rels = session.run(
+                        """
+                        MATCH (a:Entity)-[r:REL]->(b:Entity)
+                        WHERE r.doc_id = $did
+                        RETURN a.id AS h, r.label AS rel, b.id AS t, r.score AS sc
+                        LIMIT $rcap
+                        """,
+                        did=did,
+                        rcap=rel_cap,
+                    )
+                    for r in rels:
+                        lines.append(f"  ({r['h']})-[{r['rel']}]->({r['t']})")
+                lines.append("")
+            return "\n".join(lines).strip()
+
+        # Legacy graphs: entity index only
         with driver.session() as session:
-            cypher = """
-            CALL db.index.vector.queryNodes('entity_embeddings', $k, $vector)
-            YIELD node, score
-            MATCH (node)-[r]->(neighbor)
-            RETURN 
-                node.id AS source, 
-                node.label AS source_label, 
-                type(r) AS rel_type, 
-                r.label AS rel_label,
-                neighbor.id AS target, 
-                neighbor.label AS target_label,
-                score
-            LIMIT 50
-            """
-            result = session.run(cypher, vector=query_vector, k=top_k)
+            result = session.run(
+                """
+                CALL db.index.vector.queryNodes('entity_embeddings', $k, $vector)
+                YIELD node, score
+                MATCH (node)-[r]->(neighbor)
+                RETURN
+                    node.id AS source,
+                    node.label AS source_label,
+                    type(r) AS rel_type,
+                    r.label AS rel_label,
+                    neighbor.id AS target,
+                    neighbor.label AS target_label,
+                    score
+                LIMIT 50
+                """,
+                vector=query_vector,
+                k=top_k,
+            )
             for record in result:
                 triple = (
                     f"({record['source']}:{record['source_label']}) "
                     f"--[{record['rel_label'] or record['rel_type']}]--> "
                     f"({record['target']}:{record['target_label']})"
                 )
-                context_triples.append(triple)
-    return "\n".join(context_triples)
+                lines.append(triple)
+    return "\n".join(lines)
 
 def query_llm(prompt, context):
     full_prompt = f"""
@@ -71,8 +144,8 @@ If the context doesn't contain the answer, say you don't know.
 
     try:
         # gemini-3-flash-preview is the standard naming convention
-        model = genai.GenerativeModel('gemini-3-flash-preview')
-        response = model.generate_content(full_prompt)
+        gemini_model = genai.GenerativeModel('gemini-3-flash-preview')
+        response = gemini_model.generate_content(full_prompt)
         return response.text
     except Exception as e:
         return f"Error calling Gemini: {e}"
@@ -96,9 +169,18 @@ def main():
         if not context or context == "No relevant nodes found in the graph.":
             print("No relevant graph context found.")
         else:
-            print(f"Found {len(context.splitlines())} relevant triples:")
-            for line in context.splitlines():
-                print(f"  -> {line}")
+            # Not graph "triples": each line of pasted document body is one line (catalog pages add hundreds).
+            all_lines = context.splitlines()
+            preview_n = 40
+            print(
+                f"Context: {len(all_lines)} lines, {len(context)} chars "
+                f"(vector top docs + text up to text_chars + keywords + rels). "
+                f"Preview (first {min(preview_n, len(all_lines))} lines; full text still sent to Gemini):"
+            )
+            for line in all_lines[:preview_n]:
+                print(f"  | {line}")
+            if len(all_lines) > preview_n:
+                print(f"  | ... ({len(all_lines) - preview_n} more lines omitted here)")
 
         print("2. Querying Gemini...")
         answer = query_llm(user_query, context)

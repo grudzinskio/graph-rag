@@ -10,3 +10,9 @@ spacy>=3.8,<3.9
 # NOTE: Relation extraction is implemented as a custom TrainablePipe in
 # `extraction_spacy/relation_extractor.py` (no spacy-experimental dependency).
 
+# GraphRAG and Querying
+neo4j
+sentence-transformers
+google-generativeai
+python-dotenv
+
