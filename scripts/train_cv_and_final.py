@@ -16,6 +16,7 @@ What it does:
   6. Saves the official TEST split to test_data.jsonl.
 """
 
+import argparse
 import json
 import random
 import shutil
@@ -35,7 +36,7 @@ import spacy  # noqa: E402  (needs path insert first)
 from spacy.tokens import Doc  # noqa: E402
 from spacy.util import filter_spans  # noqa: E402
 from sklearn.metrics import classification_report, f1_score  # noqa: E402
-from sklearn.model_selection import KFold  # noqa: E402
+from sklearn.model_selection import StratifiedKFold  # noqa: E402
 
 try:
     import extraction_spacy.relation_extractor  # registers @Language.factory
@@ -78,16 +79,36 @@ def run_build(jsonl_path: Path, spacy_path: Path, labels_str: str) -> None:
     )
 
 
-def run_train(train_spacy: Path, dev_spacy: Path, output_dir: Path) -> None:
+def run_train(
+    train_spacy: Path,
+    dev_spacy: Path,
+    output_dir: Path,
+    *,
+    config_path: Path | None = None,
+    max_epochs: int | None = None,
+    max_steps: int | None = None,
+    eval_frequency: int | None = None,
+) -> None:
     """Invoke scripts/train_re.py (wraps `python -m spacy train`)."""
-    subprocess.check_call(
-        [
-            sys.executable, str(SPACY_TRAIN),
-            "--train",  str(train_spacy),
-            "--dev",    str(dev_spacy),
-            "--output", str(output_dir),
-        ]
-    )
+    cmd = [
+        sys.executable,
+        str(SPACY_TRAIN),
+        "--config",
+        str(config_path or Path("configs/re.cfg")),
+        "--train",
+        str(train_spacy),
+        "--dev",
+        str(dev_spacy),
+        "--output",
+        str(output_dir),
+    ]
+    if max_epochs is not None:
+        cmd += ["--max-epochs", str(int(max_epochs))]
+    if max_steps is not None:
+        cmd += ["--max-steps", str(int(max_steps))]
+    if eval_frequency is not None:
+        cmd += ["--eval-frequency", str(int(eval_frequency))]
+    subprocess.check_call(cmd)
 
 
 def load_re_model(model_dir: Path) -> spacy.Language:
@@ -160,6 +181,16 @@ def evaluate_examples(nlp: spacy.Language, examples: list) -> tuple:
 # -- Main -------------------------------------------------------------
 
 def main() -> None:
+    ap = argparse.ArgumentParser(add_help=True)
+    ap.add_argument("--config", type=Path, default=Path("configs/re.cfg"), help="spaCy config to use")
+    ap.add_argument("--folds", type=int, default=N_FOLDS, help="Number of CV folds (default 5)")
+    ap.add_argument("--train-limit", type=int, default=None, help="Use only first N training examples (debug)")
+    ap.add_argument("--skip-final", action="store_true", help="Skip final master model training")
+    ap.add_argument("--max-epochs", type=int, default=None, help="Override training.max_epochs for quick runs")
+    ap.add_argument("--max-steps", type=int, default=2000, help="Override training.max_steps for quick runs")
+    ap.add_argument("--eval-frequency", type=int, default=200, help="Override training.eval_frequency for quick runs")
+    args, _unknown = ap.parse_known_args()
+
     sep = "=" * 65
     print(sep)
     print("  GraphRAG - 5-Fold CV + Final Model Training")
@@ -177,8 +208,11 @@ def main() -> None:
             if line.strip():
                 all_examples.append(json.loads(line))
 
-    train_data = [e for e in all_examples if e.get("split") == "train"]
+    full_train_data = [e for e in all_examples if e.get("split") == "train"]
+    train_data = full_train_data
     test_data  = [e for e in all_examples if e.get("split") == "test"]
+    if args.train_limit:
+        train_data = train_data[: int(args.train_limit)]
 
     print(f"\nDataset: {len(train_data):,} train  |  {len(test_data):,} test")
 
@@ -189,7 +223,10 @@ def main() -> None:
     print(f"Saved test split -> {TEST_DATA_PATH.name}")
 
     # 2. Global label set ─────────────────────────────────────────────
-    labels_set = sorted({ex["relation"] for ex in train_data if "relation" in ex})
+    # IMPORTANT: keep a stable global label set (19 classes for SemEval),
+    # even in debug runs that use --train-limit (otherwise model nO and gold
+    # label vectors can disagree and training will crash).
+    labels_set = sorted({ex["relation"] for ex in full_train_data if "relation" in ex})
     non_other  = [l for l in labels_set if l != "Other"]
     global_labels_str = ";".join(labels_set)
     print(f"Relation labels: {len(labels_set)}  (non-Other: {len(non_other)})\n")
@@ -203,18 +240,21 @@ def main() -> None:
     print(f"  {N_FOLDS}-Fold Cross Validation")
     print("-" * 65)
 
-    kf = KFold(n_splits=N_FOLDS, shuffle=True, random_state=RANDOM_SEED)
+    # Stratify by relation label to reduce fold-to-fold label skew.
+    y = [ex.get("relation", "Other") for ex in train_data]
+    folds = int(args.folds)
+    kf = StratifiedKFold(n_splits=folds, shuffle=True, random_state=RANDOM_SEED)
     log_lines = [
-        f"GraphRAG RE -- {N_FOLDS}-Fold Cross Validation Results",
+        f"GraphRAG RE -- {folds}-Fold Cross Validation Results",
         "=" * 65,
         "",
     ]
     fold_f1s, fold_accs = [], []
 
-    for fold, (train_idx, dev_idx) in enumerate(kf.split(train_data)):
+    for fold, (train_idx, dev_idx) in enumerate(kf.split(train_data, y)):
         fold_num = fold + 1
-        print(f"\n[ Fold {fold_num}/{N_FOLDS} ]")
-        log_lines.append(f"[ Fold {fold_num}/{N_FOLDS} ]")
+        print(f"\n[ Fold {fold_num}/{folds} ]")
+        log_lines.append(f"[ Fold {fold_num}/{folds} ]")
 
         fold_train = [train_data[i] for i in train_idx]
         fold_dev   = [train_data[i] for i in dev_idx]
@@ -238,7 +278,15 @@ def main() -> None:
         # Train
         fold_model_dir = TMP_DIR / f"model_f{fold}"
         print(f"  Training fold {fold_num} (may take several minutes)...")
-        run_train(s_train, s_dev, fold_model_dir)
+        run_train(
+            s_train,
+            s_dev,
+            fold_model_dir,
+            config_path=args.config,
+            max_epochs=args.max_epochs,
+            max_steps=args.max_steps,
+            eval_frequency=args.eval_frequency,
+        )
 
         # Evaluate
         best = fold_model_dir / "model-best"
@@ -298,6 +346,11 @@ def main() -> None:
     print(f"\nCV results saved -> {CV_RESULTS_PATH.name}")
 
     # 6. Final Model Training ─────────────────────────────────────────
+    if args.skip_final:
+        print("\nSkipping final model training (--skip-final).")
+        shutil.rmtree(TMP_DIR, ignore_errors=True)
+        return
+
     print("\n" + "=" * 65)
     print("  Training Final Master Model")
     print("=" * 65)
@@ -333,7 +386,15 @@ def main() -> None:
         shutil.rmtree(FINAL_MODEL_DIR)
     FINAL_MODEL_DIR.mkdir(parents=True, exist_ok=True)
     print(f"  Training -> {FINAL_MODEL_DIR} ...")
-    run_train(s_ftrain, s_fdev, FINAL_MODEL_DIR)
+    run_train(
+        s_ftrain,
+        s_fdev,
+        FINAL_MODEL_DIR,
+        config_path=args.config,
+        max_epochs=args.max_epochs,
+        max_steps=args.max_steps,
+        eval_frequency=args.eval_frequency,
+    )
 
     # Cleanup intermediates (keep cv_results.txt)
     shutil.rmtree(TMP_DIR, ignore_errors=True)

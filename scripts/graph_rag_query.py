@@ -40,6 +40,100 @@ if GOOGLE_API_KEY:
 print("Loading embedding model...")
 model = SentenceTransformer('all-MiniLM-L6-v2')
 
+VECTOR_DIMS = 384
+
+def _doc_vector_search(session, query_vector, top_k: int):
+    # Prefer SEARCH clause; fall back to deprecated procedure.
+    variants = [
+        (
+            """
+            MATCH (d:Document)
+              SEARCH d IN (
+                VECTOR INDEX document_embeddings
+                FOR $vector
+                LIMIT $limit
+              ) SCORE AS score
+            RETURN d.id AS id, d.text AS text, d.source_path AS path, score
+            ORDER BY score DESC
+            """,
+            {"vector": query_vector, "limit": top_k},
+        ),
+        (
+            """
+            MATCH (d:Document)
+              SEARCH d IN (
+                VECTOR INDEX document_embeddings
+                FOR vector($vector, $dims, FLOAT)
+                LIMIT $limit
+              ) SCORE AS score
+            RETURN d.id AS id, d.text AS text, d.source_path AS path, score
+            ORDER BY score DESC
+            """,
+            {"vector": query_vector, "dims": VECTOR_DIMS, "limit": top_k},
+        ),
+    ]
+    for q, params in variants:
+        try:
+            return session.run(q, **params).data()
+        except Exception:
+            pass
+    return session.run(
+        """
+        CALL db.index.vector.queryNodes('document_embeddings', $k, $vector)
+        YIELD node AS d, score
+        RETURN d.id AS id, d.text AS text, d.source_path AS path, score
+        ORDER BY score DESC
+        LIMIT $limit
+        """,
+        vector=query_vector,
+        k=top_k,
+        limit=top_k,
+    ).data()
+
+
+def _entity_vector_search(session, query_vector, top_k: int):
+    variants = [
+        (
+            """
+            MATCH (node:Entity)
+              SEARCH node IN (
+                VECTOR INDEX entity_embeddings
+                FOR $vector
+                LIMIT $k
+              ) SCORE AS score
+            RETURN node, score
+            """,
+            {"vector": query_vector, "k": top_k},
+        ),
+        (
+            """
+            MATCH (node:Entity)
+              SEARCH node IN (
+                VECTOR INDEX entity_embeddings
+                FOR vector($vector, $dims, FLOAT)
+                LIMIT $k
+              ) SCORE AS score
+            RETURN node, score
+            """,
+            {"vector": query_vector, "dims": VECTOR_DIMS, "k": top_k},
+        ),
+    ]
+    for q, params in variants:
+        try:
+            return session.run(q, **params)
+        except Exception:
+            pass
+    return session.run(
+        """
+        CALL db.index.vector.queryNodes('entity_embeddings', $k, $vector)
+        YIELD node, score
+        RETURN node, score
+        """,
+        vector=query_vector,
+        k=top_k,
+    )
+
+
 def get_graph_context(query_text, top_k=5, text_chars=6000, rel_cap=80):
     """Prefer document vector search + keywords + per-document relations."""
     query_vector = model.encode(query_text).tolist()
@@ -49,17 +143,7 @@ def get_graph_context(query_text, top_k=5, text_chars=6000, rel_cap=80):
         doc_hits = []
         try:
             with driver.session() as session:
-                doc_hits = session.run(
-                    """
-                    CALL db.index.vector.queryNodes('document_embeddings', $k, $vector)
-                    YIELD node AS d, score
-                    RETURN d.id AS id, d.text AS text, d.source_path AS path, score
-                    LIMIT $limit
-                    """,
-                    vector=query_vector,
-                    k=top_k,
-                    limit=top_k,
-                ).data()
+                doc_hits = _doc_vector_search(session, query_vector, top_k)
         except Exception:
             doc_hits = []
 
@@ -75,7 +159,7 @@ def get_graph_context(query_text, top_k=5, text_chars=6000, rel_cap=80):
                     kws = session.run(
                         """
                         MATCH (:Document {id: $did})-[:HAS_ENTITY]->(e:Entity)
-                        RETURN collect(DISTINCT e.id) AS kws
+                        RETURN collect(DISTINCT coalesce(e.display, e.id)) AS kws
                         """,
                         did=did,
                     ).single()
@@ -87,6 +171,7 @@ def get_graph_context(query_text, top_k=5, text_chars=6000, rel_cap=80):
                         MATCH (a:Entity)-[r:REL]->(b:Entity)
                         WHERE r.doc_id = $did
                         RETURN a.id AS h, r.label AS rel, b.id AS t, r.score AS sc
+                        ORDER BY sc DESC
                         LIMIT $rcap
                         """,
                         did=did,
@@ -99,31 +184,42 @@ def get_graph_context(query_text, top_k=5, text_chars=6000, rel_cap=80):
 
         # Legacy graphs: entity index only
         with driver.session() as session:
-            result = session.run(
-                """
-                CALL db.index.vector.queryNodes('entity_embeddings', $k, $vector)
-                YIELD node, score
-                MATCH (node)-[r]->(neighbor)
-                RETURN
-                    node.id AS source,
-                    node.label AS source_label,
-                    type(r) AS rel_type,
-                    r.label AS rel_label,
-                    neighbor.id AS target,
-                    neighbor.label AS target_label,
-                    score
-                LIMIT 50
-                """,
-                vector=query_vector,
-                k=top_k,
-            )
-            for record in result:
-                triple = (
-                    f"({record['source']}:{record['source_label']}) "
-                    f"--[{record['rel_label'] or record['rel_type']}]--> "
-                    f"({record['target']}:{record['target_label']})"
+            result = _entity_vector_search(session, query_vector, top_k)
+            # If we got only (node, score), expand neighbors here.
+            rows = []
+            for rec in result:
+                node = rec.get("node")
+                score = rec.get("score")
+                if node is None:
+                    continue
+                rows.append((node.get("id"), node.get("label"), float(score or 0.0)))
+
+            # Expand neighbors with a second query (avoid massive expansions inside vector search).
+            for nid, nlab, sc in rows[:top_k]:
+                neigh = session.run(
+                    """
+                    MATCH (node:Entity {id: $id})-[r]->(neighbor)
+                    RETURN
+                        node.id AS source,
+                        node.label AS source_label,
+                        type(r) AS rel_type,
+                        r.label AS rel_label,
+                        neighbor.id AS target,
+                        neighbor.label AS target_label,
+                        $score AS score
+                    LIMIT 50
+                    """,
+                    id=nid,
+                    score=sc,
                 )
-                lines.append(triple)
+                for record in neigh:
+                    triple = (
+                        f"({record['source']}:{record['source_label']}) "
+                        f"--[{record['rel_label'] or record['rel_type']}]--> "
+                        f"({record['target']}:{record['target_label']})"
+                    )
+                    lines.append(triple)
+            return "\n".join(lines)
     return "\n".join(lines)
 
 def query_llm(prompt, context):

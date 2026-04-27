@@ -1,12 +1,14 @@
 from typing import Callable, Iterable, List, Tuple, Any
 
+import hashlib
+import random
 import spacy
 from spacy.language import Language
 from spacy.pipeline import TrainablePipe
 from spacy.tokens import Doc, Span
 from spacy.training import Example
 from spacy.util import registry
-from thinc.api import Model, chain, with_getitem, Linear, Logistic
+from thinc.api import Model, chain, with_getitem, Softmax, Linear, Relu, Dropout
 from thinc.types import Floats2d, Ints1d, Ragged
 from thinc.api import reduce_mean
 
@@ -147,7 +149,11 @@ class RelationExtractor(TrainablePipe):
 
     def get_loss(self, examples: List[Example], scores: Floats2d):
         """
-        Multi-label logistic loss over candidate entity pairs.
+        Single-label (multi-class) cross-entropy over candidate entity pairs.
+
+        SemEval-2010 Task-8 provides exactly one gold label per (e1,e2) pair.
+        Training with multi-label logistic loss makes the task harder than needed
+        and typically hurts Macro-F1. We use softmax + cross-entropy instead.
         """
         import numpy as np
 
@@ -157,6 +163,7 @@ class RelationExtractor(TrainablePipe):
 
         labels = list(self.labels)
         n_labels = len(labels)
+        other_idx = labels.index("Other") if "Other" in labels else None
 
         gold = []
         for eg in examples:
@@ -164,8 +171,15 @@ class RelationExtractor(TrainablePipe):
             rel = eg.reference._.rel or {}
             for (e1, e2) in instances:
                 key = (e1.start, e2.start)
-                lab_scores = rel.get(key, {})
-                row = [float(lab_scores.get(lab, 0.0)) for lab in labels]
+                lab_scores = rel.get(key)
+                if not lab_scores:
+                    # If a candidate pair has no gold annotation, treat it as "Other"
+                    # for single-label SemEval training.
+                    row = [0.0 for _ in labels]
+                    if other_idx is not None:
+                        row[other_idx] = 1.0
+                else:
+                    row = [float(lab_scores.get(lab, 0.0)) for lab in labels]
                 gold.append(row)
 
         if not gold:
@@ -173,17 +187,38 @@ class RelationExtractor(TrainablePipe):
 
         Y = np.asarray(gold, dtype="float32")
         X = scores
-        # logistic loss: -(y*log(x) + (1-y)*log(1-x))
-        eps = 1e-6
-        Xc = np.clip(X, eps, 1 - eps)
-        loss = -((Y * np.log(Xc)) + ((1 - Y) * np.log(1 - Xc))).mean()
-        d_scores = (X - Y) / (Y.shape[0] * n_labels)
+        eps = 1e-8
+        Xc = np.clip(X, eps, 1.0)
+        row_loss = -(Y * np.log(Xc)).sum(axis=1)
+        loss = float(row_loss.mean())
+        d_scores = (X - Y) / max(Y.shape[0], 1)
         return loss, d_scores
 
 
 @registry.architectures("rel_classification_layer.v1")
 def create_classification_layer(nO: int = None, nI: int = None) -> Model:
-    return chain(Linear(nO=nO, nI=nI), Logistic())
+    # NOTE: thinc.api.Softmax is itself a linear layer + softmax activation.
+    # Using Linear(...)->Softmax(...) would apply two affine transforms.
+    return Softmax(nO=nO, nI=nI)
+
+
+@registry.architectures("rel_classification_layer.v2")
+def create_classification_layer_v2(
+    nO: int = None,
+    nI: int = None,
+    hidden_width: int = 256,
+    dropout: float = 0.2,
+) -> Model:
+    """
+    Slightly stronger classifier head than v1 (a small MLP).
+    This often improves Macro-F1 on SemEval-style RE without changing tok2vec.
+    """
+    return chain(
+        Linear(nO=hidden_width, nI=nI),
+        Relu(nO=hidden_width),
+        Dropout(dropout),
+        Softmax(nO=nO, nI=hidden_width),
+    )
 
 
 def _instance_init(model: Model, X: List[Doc] = None, Y: Floats2d = None) -> Model:
@@ -269,18 +304,62 @@ def create_tensors(
 
 
 @registry.misc("rel_instance_generator.v1")
-def create_instances(max_length: int = 100) -> Callable[[Doc], List[Tuple[Span, Span]]]:
+def create_instances(
+    max_length: int = 100,
+    negatives_per_positive: int = 4,
+) -> Callable[[Doc], List[Tuple[Span, Span]]]:
     def get_instances(doc: Doc) -> List[Tuple[Span, Span]]:
-        instances: list[tuple[Span, Span]] = []
         ents = list(doc.ents)
+
+        # Always generate full set for the common SemEval case (2 entities).
+        if len(ents) <= 2:
+            instances: list[tuple[Span, Span]] = []
+            for ent1 in ents:
+                for ent2 in ents:
+                    if ent1 is ent2:
+                        continue
+                    if max_length and abs(ent2.start - ent1.start) > max_length:
+                        continue
+                    instances.append((ent1, ent2))
+            return instances
+
+        # For docs with many entities (common in MSOE extraction), full O(n^2)
+        # pair generation creates an extreme negative imbalance and slows training.
+        # We keep all annotated positive pairs + a sampled set of negatives.
+        rel = getattr(doc._, "rel", {}) or {}
+        positive_keys = set(rel.keys())
+
+        all_pairs: list[tuple[Span, Span]] = []
         for ent1 in ents:
             for ent2 in ents:
                 if ent1 is ent2:
                     continue
                 if max_length and abs(ent2.start - ent1.start) > max_length:
                     continue
-                instances.append((ent1, ent2))
-        return instances
+                all_pairs.append((ent1, ent2))
+
+        positives: list[tuple[Span, Span]] = []
+        negatives: list[tuple[Span, Span]] = []
+        for e1, e2 in all_pairs:
+            key = (e1.start, e2.start)
+            if key in positive_keys:
+                positives.append((e1, e2))
+            else:
+                negatives.append((e1, e2))
+
+        if not positives:
+            # No gold relations: just subsample a few negatives to bound compute.
+            keep = min(len(negatives), max(1, negatives_per_positive * 2))
+            seed = int(hashlib.md5(doc.text.encode("utf-8", errors="ignore")).hexdigest()[:8], 16)
+            rng = random.Random(seed)
+            rng.shuffle(negatives)
+            return negatives[:keep]
+
+        keep_neg = min(len(negatives), len(positives) * max(0, int(negatives_per_positive)))
+        seed = int(hashlib.md5(doc.text.encode("utf-8", errors="ignore")).hexdigest()[:8], 16)
+        rng = random.Random(seed)
+        rng.shuffle(negatives)
+        return positives + negatives[:keep_neg]
 
     return get_instances
 

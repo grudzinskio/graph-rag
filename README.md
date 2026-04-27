@@ -4,8 +4,26 @@ This repository implements a complete pipeline for building and querying a Graph
 
 ---
 
-## 🚀 Quick Start: Evaluation Prototype
-To meet the final project submission requirements, we provide a self-contained evaluation script that automatically handles dependencies and runs our trained model on benchmark test data.
+## Quick Start: Run the GraphRAG demo
+
+1) Create `.env` from `.env.example` and set:
+- `NEO4J_URI`
+- `NEO4J_USER`
+- `NEO4J_PASSWORD`
+- `GOOGLE_API_KEY`
+
+2) Run:
+
+```powershell
+python scripts/graph_rag_query.py
+```
+
+This is the main “try the system” entrypoint: it retrieves context from Neo4j and asks Gemini to answer using only that context.
+
+---
+
+## Quick Start: Evaluation Prototype (RE component test)
+This repository also includes a benchmark evaluation script for the supervised relation-extraction component (SemEval-2010 Task 8).
 
 **Run from the project root:**
 ```powershell
@@ -20,7 +38,7 @@ python scripts/evaluate_prototype.py
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 *   **`scripts/`**: Reproducible CLI tools.
     *   `evaluate_prototype.py`: Self-contained evaluation interface.
     *   `graph_rag_query.py`: Terminal interface for GraphRAG (Neo4j + Gemini).
@@ -34,29 +52,22 @@ python scripts/evaluate_prototype.py
 
 ---
 
-## 🛠 GraphRAG Terminal Interface (RAG)
-For interactive querying of the extracted knowledge graph, use:
-```powershell
-python scripts/graph_rag_query.py
-```
-### Features:
-*   **Self-Contained:** Automatically installs `neo4j`, `sentence-transformers`, `google-generativeai`, and `python-dotenv`.
-*   **Vector Search:** Performs semantic search against a Neo4j knowledge graph using `all-MiniLM-L6-v2` embeddings.
-*   **LLM Integration:** Uses **Google Gemini** (via API key in `.env`) to synthesize answers from graph context.
+## Technical Validation (RE benchmark vs GraphRAG system test)
 
----
+Important: the SemEval CV metrics below test the **relation extraction (RE) classifier**, not MSOE/Neo4j GraphRAG retrieval quality.
 
-## 📊 Technical Validation (K-Fold CV)
-We validated our system using a **5-fold cross-validation** process on the SemEval-2010 Task 8 dataset (10,717 examples). 
+### Latest benchmark snapshot (3-fold dev run)
 
-### Cross-Validation Results Summary:
-*   **Mean Macro-F1 (excl. 'Other'):** 0.0750
-*   **Mean Accuracy:** 16.71%
-*   **Per-Fold Results:** Stored in `cv_results.txt`.
+- **What it is testing**: supervised RE classification on **SemEval-2010 Task-8**
+- **Command**: `python scripts/train_cv_and_final.py --folds 3 --train-limit 3000 --skip-final --max-steps 2000`
+- **Macro-F1 (excl. Other)**: **0.3634**
+- **Accuracy**: **0.4291**
 
-The results represent a baseline prototype performance using a spaCy `tok2vec` backbone. The model demonstrates clear learning on specific directional relations (e.g., `Member-Collection` F1 score ~0.30).
+### System test (GraphRAG retrieval)
 
-**To re-run validation:**
+Use `scripts/eval_retrieval.py` with `data_clean/eval/retrieval_questions.jsonl` to report retrieval metrics (Recall@K / MRR) for MSOE-domain queries.
+
+**To re-run benchmark validation:**
 ```powershell
 python scripts/train_cv_and_final.py
 ```
@@ -64,7 +75,7 @@ python scripts/train_cv_and_final.py
 
 ---
 
-## ⚙️ Initial Setup (Development)
+## Initial Setup (Development)
 If you wish to modify or retrain the system, follow these steps:
 
 ### Windows — Virtual Environment
@@ -88,7 +99,7 @@ python -m pip install -r requirements.txt
 
 ---
 
-## 📝 Submission Checklist
+## Submission Checklist
 For the grading instructor:
 1.  **`scripts/evaluate_prototype.py`**: The main executable script.
 2.  **`models/re_final/`**: The standalone model binary.
@@ -98,7 +109,7 @@ For the grading instructor:
 
 ---
 
-## ⚖️ Git LFS Note
+## Git LFS Note
 The large extracted relations file `data_clean/extracted/relations.jsonl` is managed via **Git LFS**. Ensure LFS is installed and pulled before running the full extraction scripts:
 ```bash
 git lfs install

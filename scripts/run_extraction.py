@@ -1,5 +1,6 @@
 import argparse
 import json
+import heapq
 import logging
 import sys
 import time
@@ -52,6 +53,9 @@ def main() -> int:
     ap.add_argument("--out", type=Path, default=Path("data_clean/extracted"))
     ap.add_argument("--limit", type=int, default=None)
     ap.add_argument("--pair-max-tokens", type=int, default=100, help="Max token distance for candidate pairs (fallback)")
+    ap.add_argument("--drop-other", action="store_true", help="Drop predicted relations with label == 'Other'")
+    ap.add_argument("--min-rel-score", type=float, default=0.05, help="Drop relations with score below this threshold")
+    ap.add_argument("--top-rel-per-doc", type=int, default=200, help="Keep only top-K relations per document by score")
     ap.add_argument(
         "--progress-every",
         type=int,
@@ -109,6 +113,7 @@ def main() -> int:
 
         rel: dict[Any, Any] = getattr(doc_for_re._, "rel", {}) or {}
         doc_rel_count = 0
+        heap: list[tuple[float, dict]] = []
         for (s1, s2), scores in rel.items():
             ent1 = next((e for e in doc_for_re.ents if e.start == s1), None)
             ent2 = next((e for e in doc_for_re.ents if e.start == s2), None)
@@ -121,15 +126,28 @@ def main() -> int:
                     best_label, best_score = lab, float(sc)
             if best_label is None:
                 continue
-            relations_out.append(
-                {
-                    "doc_id": doc_id,
-                    "head": {"text": ent1.text, "start_char": ent1.start_char, "end_char": ent1.end_char},
-                    "tail": {"text": ent2.text, "start_char": ent2.start_char, "end_char": ent2.end_char},
-                    "label": best_label,
-                    "score": best_score,
-                }
-            )
+
+            if args.drop_other and best_label == "Other":
+                continue
+            if float(best_score) < float(args.min_rel_score):
+                continue
+
+            payload = {
+                "doc_id": doc_id,
+                "head": {"text": ent1.text, "start_char": ent1.start_char, "end_char": ent1.end_char},
+                "tail": {"text": ent2.text, "start_char": ent2.start_char, "end_char": ent2.end_char},
+                "label": best_label,
+                "score": float(best_score),
+            }
+
+            if len(heap) < int(args.top_rel_per_doc):
+                heapq.heappush(heap, (float(best_score), payload))
+            else:
+                if float(best_score) > heap[0][0]:
+                    heapq.heapreplace(heap, (float(best_score), payload))
+
+        for _, payload in sorted(heap, key=lambda x: x[0], reverse=True):
+            relations_out.append(payload)
             doc_rel_count += 1
 
         n_ent += doc_ent_count

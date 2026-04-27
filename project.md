@@ -1,6 +1,265 @@
-# Graph-RAG project — implementation notes (presentation)
+# Graph-RAG project — runbook and implementation notes
 
-This document summarizes what we built: **end-to-end data preprocessing**, **spaCy NER + supervised relation extraction** (SemEval 2010 Task-8), **quantitative evaluation** (5-fold CV + held-out test), **extraction over the cleaned MSOE web corpus**, **Neo4j graph loading with vector search**, and a **GraphRAG query demo** (retrieve subgraph context → answer with an LLM).
+This document is written so someone can **run and test the project** without having to retrain everything.
+
+It also documents what we built: **end-to-end preprocessing**, **spaCy NER + supervised relation extraction (RE)**, **MSOE-domain extraction**, **Neo4j graph loading with vector search**, and a **GraphRAG query demo**.
+
+---
+
+## Quickstart (run the demo first)
+
+### 1) Create `.env`
+
+Copy the template and fill in values:
+
+- File: `.env.example` → `.env`
+- Required:
+  - `NEO4J_URI`
+  - `NEO4J_USER`
+  - `NEO4J_PASSWORD`
+  - `GOOGLE_API_KEY` (for Gemini)
+
+### 2) Install dependencies
+
+From project root:
+
+```bash
+python -m pip install -r requirements.txt
+python -m pip install neo4j python-dotenv sentence-transformers google-generativeai
+```
+
+### 3) Run the GraphRAG query demo
+
+This is the main “try the system” entrypoint:
+
+```bash
+python scripts/graph_rag_query.py
+```
+
+Notes:
+
+- This script retrieves top documents/entities from Neo4j, formats a context, and asks Gemini to answer using only that context.
+- If Neo4j is empty, run the “Build the graph” section below.
+
+---
+
+## One summary (send this to a teammate)
+
+This repo builds and tests a GraphRAG system for MSOE web/curriculum pages, and separately benchmarks the relation-extraction (RE) component on SemEval.
+
+### What the benchmark is actually testing (important)
+
+- **`cv_results.txt` / “k-fold Macro-F1 + Accuracy”** tests a **supervised relation extraction classifier** on the **SemEval-2010 Task-8** benchmark.
+- It does **not** test Neo4j GraphRAG retrieval quality on MSOE pages.
+- For GraphRAG “system accuracy”, we use retrieval metrics (**Recall@K / MRR**) from `scripts/eval_retrieval.py`.
+
+### What changed in the MSOE → Neo4j graph (relations/entities)
+
+Goal: reduce noise, fix duplication, and make GraphRAG context higher-signal.
+
+- **Canonical entities**: entity node IDs are now canonicalized (lowercase/whitespace/punctuation normalization) so casing/format variants merge cleanly.
+- **Better entity selection under cap**: instead of “first N unique strings”, we select top entities by **doc-frequency** (more retrieval-relevant).
+- **Cleaner relations**:
+  - Drop label `Other`
+  - Drop low-confidence relations via `--min-rel-score`
+  - Keep only **top-K relations per document** (`--top-rel-per-doc`) to prevent per-doc edge explosion.
+- **Better context ordering**: GraphRAG context now explicitly orders by similarity and relation score (`ORDER BY ... DESC`) so returned edges are deterministic and higher quality.
+
+Files:
+
+- Extraction filtering knobs: `scripts/run_extraction.py`
+- Neo4j loader + caps/canonicalization: `scripts/upload_to_neo4j.py`
+- GraphRAG context ordering + SEARCH/fallback vector query: `scripts/graph_rag_query.py`
+
+### What changed in the RE model (why the SemEval metrics improved)
+
+Goal: stop training collapse, reduce negative imbalance, and improve classification capacity.
+
+- **Corrected the RE training objective** for single-label SemEval by switching to a proper multi-class setup (softmax-style training).
+- **Fixed gold targets for unlabeled candidate pairs** so they train as `Other` instead of “all zeros”.
+- **Added negative sampling for candidate pairs** (`negatives_per_positive`) to reduce the massive negative imbalance that happens when many entity pairs exist.
+- **Upgraded the classifier head** to a small MLP (`rel_classification_layer.v2`) for better Macro-F1.
+- **Added mini-test flags** so we can iterate quickly without running full 5-fold + final training every time.
+
+Files:
+
+- RE model code: `extraction_spacy/relation_extractor.py`
+- RE config: `configs/re.cfg`
+- Faster CV runner: `scripts/train_cv_and_final.py` and `scripts/train_re.py`
+
+### Transformer attempt (status)
+
+- Added optional transformer config: `configs/re_transformer.cfg`
+- Installed `spacy-transformers`
+- It initializes and starts training, but **CPU-only runs are extremely slow**, so transformer training is only practical with GPU.
+
+### How to run the system without retraining
+
+1) Set up `.env` from `.env.example`
+2) Run the demo:
+
+```bash
+python scripts/graph_rag_query.py
+```
+
+If Neo4j is empty, build the graph:
+
+```bash
+python scripts/preprocess.py --allow-pdf-failures
+python scripts/run_extraction.py ^
+  --docs data_clean/msoe/documents.jsonl ^
+  --ner-model models/ner/model-best ^
+  --re-model models/re_final/model-best ^
+  --out data_clean/extracted ^
+  --drop-other ^
+  --min-rel-score 0.05 ^
+  --top-rel-per-doc 200
+python scripts/upload_to_neo4j.py --clear --max-entities 50000 --max-relations 175000
+```
+
+### How to test it
+
+- **System test (GraphRAG retrieval quality)**:
+  - Fill `data_clean/eval/retrieval_questions.jsonl`
+  - Run `python scripts/eval_retrieval.py --data data_clean/eval/retrieval_questions.jsonl --k 1 3 5 10`
+- **Component test (SemEval RE)**:
+  - Mini test: `python scripts/train_cv_and_final.py --folds 2 --train-limit 1000 --skip-final --max-steps 500 --eval-frequency 100`
+  - Benchmark snapshot used in writeups:
+    - Command: `python scripts/train_cv_and_final.py --folds 3 --train-limit 3000 --skip-final --max-steps 2000`
+    - Mean Macro-F1 (excl. Other): **0.3634**
+    - Mean Accuracy: **0.4291**
+
+---
+
+## System-level testing (GraphRAG retrieval quality)
+
+The SemEval CV metrics do **not** test GraphRAG. For GraphRAG quality, we evaluate **retrieval**.
+
+### Document retrieval evaluation
+
+1) Fill in evaluation questions and expected document ids:
+
+- File: `data_clean/eval/retrieval_questions.jsonl`
+- Schema:
+  - `query`: question text
+  - `expected_doc_ids`: list of acceptable `(:Document {id})` values
+
+If you do not have Neo4j access, use the offline helper to suggest likely doc ids from the local corpus:
+
+```bash
+python scripts/suggest_expected_docs.py --data data_clean/eval/retrieval_questions.jsonl --top 5
+```
+
+1) Run the retrieval eval against Neo4j vector index:
+
+```bash
+python scripts/eval_retrieval.py --data data_clean/eval/retrieval_questions.jsonl --k 1 3 5 10
+```
+
+Expected outputs:
+
+- `Recall@K`: whether an expected document appears in the top K results
+- `MRR`: mean reciprocal rank of the first expected hit
+
+Placeholders (fill in after final run):
+
+- Retrieval Recall@1: **[TODO]**
+- Retrieval Recall@3: **[TODO]**
+- Retrieval Recall@5: **[TODO]**
+- Retrieval MRR: **[TODO]**
+
+---
+
+## Component testing (Relation Extraction benchmark metrics)
+
+We also keep a benchmark “component health” test: SemEval 2010 Task-8 RE classification.
+
+### Mini tests (fast sanity checks)
+
+This avoids waiting for full 5-fold CV while iterating:
+
+```bash
+python scripts/train_cv_and_final.py --folds 2 --train-limit 1000 --skip-final --max-steps 500 --eval-frequency 100
+```
+
+### Full(er) benchmark runs
+
+```bash
+python scripts/train_cv_and_final.py --folds 5 --skip-final --max-steps 8000
+python scripts/train_cv_and_final.py
+python scripts/evaluate_prototype.py
+```
+
+Placeholders (fill in after final run):
+
+- SemEval 5-fold Macro-F1 (excl. Other): **[TODO]**
+- SemEval 5-fold Accuracy: **[TODO]**
+- SemEval held-out test Macro-F1 (excl. Other): **[TODO]**
+- SemEval held-out test Accuracy: **[TODO]**
+
+Latest benchmark snapshot (from our development runs):
+
+- **What it is testing**: supervised **relation extraction classification** on the **SemEval-2010 Task-8** benchmark. This reports **macro-F1 excluding `Other`** and accuracy on held-out folds. It is a **component test** for the RE model (not Neo4j/MSOE GraphRAG retrieval quality).
+- **Command**: `python scripts/train_cv_and_final.py --folds 3 --train-limit 3000 --skip-final --max-steps 2000`
+- **Result (3-fold CV)**:
+  - Mean Macro-F1 (excl. Other): **0.3634**
+  - Mean Accuracy: **0.4291**
+
+---
+
+## Build the graph (only required if Neo4j is empty)
+
+### 1) Preprocess MSOE documents
+
+```bash
+python scripts/preprocess.py --allow-pdf-failures
+```
+
+Output:
+
+- `data_clean/msoe/documents.jsonl`
+
+### 2) Train models (optional if you already have them)
+
+If you do not have a trained RE model, run:
+
+```bash
+python scripts/train_cv_and_final.py
+```
+
+This produces:
+
+- `models/re_final/model-best`
+- `test_data.jsonl`
+
+### 3) Extract entities + relations over MSOE corpus
+
+```bash
+python scripts/run_extraction.py ^
+  --docs data_clean/msoe/documents.jsonl ^
+  --ner-model models/ner/model-best ^
+  --re-model models/re_final/model-best ^
+  --out data_clean/extracted ^
+  --drop-other ^
+  --min-rel-score 0.05 ^
+  --top-rel-per-doc 200
+```
+
+Outputs:
+
+- `data_clean/extracted/entities.jsonl`
+- `data_clean/extracted/relations.jsonl`
+
+### 4) Upload to Neo4j
+
+```bash
+python scripts/upload_to_neo4j.py --clear --max-entities 50000 --max-relations 175000
+```
+
+Key loader behavior (quality/performance):
+
+- Entities are canonicalized and selected by **doc-frequency** (not “first 50k seen”)
+- Relations are filtered (`Other` dropped, minimum score) and capped **top-K per doc**
 
 ---
 
@@ -246,7 +505,7 @@ Implemented in `scripts/preprocess.py`. The goal is a **deterministic**, **dedup
 
 NER finds **entity spans** in text. For MSOE runs we use a model trained on **SemEval** marked entities, exported as a single spaCy label **`ENT`** (head/tail style), not fine-grained types like `PERSON`/`ORG`.
 
-### Training data construction
+### Training data construction (SemEval NER)
 
 - `scripts/build_spacy_ner_data.py` reads `examples.jsonl`, builds `doc.char_span(...)` for **e1** and **e2**, uses **`filter_spans`** to resolve overlaps, writes a **`DocBin`** (`.spacy`).
 - Train/dev split: `scripts/split_spacy_docbin.py` (fixed seed).
@@ -256,7 +515,7 @@ NER finds **entity spans** in text. For MSOE runs we use a model trained on **Se
 - `scripts/train_ner.py` wraps `python -m spacy train` with `configs/ner.cfg`.
 - **Reported dev scores** (committed `models/ner/model-best`): **ents_f ≈ 0.636**, **ents_p ≈ 0.642**, **ents_r ≈ 0.631** (`meta.json`).
 
-### Inference on MSOE (`scripts/run_extraction.py`)
+### Inference on MSOE (NER + RE extraction script)
 
 - Load **NER** and **RE** pipelines separately.
 - Run **NER on full document text** → `doc.ents`.
@@ -276,15 +535,15 @@ NER finds **entity spans** in text. For MSOE runs we use a model trained on **Se
 - **Convention:** `doc._.rel[(ent1.start, ent2.start)] = {relation_label: score, ...}` for ordered entity pairs.
 - Architecture: **Thinc** model (see file) producing scores over **19** SemEval labels (18 directional types + **`Other`**).
 
-### Training data construction
+### Training data construction (SemEval RE)
 
 - `scripts/build_spacy_re_data.py` builds `DocBin` with **gold** `doc._.rel` from each example’s `relation` field; supports a **global label list** via `--labels` (semicolon-separated) so every fold uses the same label inventory.
 
-### Baseline training (simple train/dev split)
+### Training + evaluation scripts (what to run)
 
 - `scripts/train_re.py` + `configs/re.cfg` → `models/re/model-best` (as in early README flow). Custom pipe dev score in `meta.json` may show **0.0** if not wired for spaCy’s default scorer; training still produces usable weights.
 
-### Rigorous evaluation pipeline (what we added)
+### Evaluation pipeline
 
 1. **`scripts/train_cv_and_final.py`**
    - Loads `data_clean/benchmarks/semeval2010_task8/examples.jsonl`.
@@ -298,15 +557,14 @@ NER finds **entity spans** in text. For MSOE runs we use a model trained on **Se
    - Injects gold spans as `doc.ents`, runs the pipeline, argmax over `doc._.rel` for the **(e1,e2)** key.
    - Prints classification report, **macro-F1 (excl. Other)**, and accuracy.
 
-**CV summary (from committed `cv_results.txt`):**
+We report:
 
-- Per-fold macro-F1 (excl. Other): **0.0757, 0.0764, 0.0732, 0.0666, 0.0833**
-- **Mean macro-F1: 0.0750** (std **0.0054**)
-- Mean accuracy: **0.1671**
+- **Macro-F1 excluding `Other`** (SemEval official metric)
+- Accuracy
 
-These numbers reflect a **challenging multi-class** setting; SemEval leaderboards are typically **0.7–0.9** macro-F1. Our model is a **prototype baseline**; domain shift (SemEval news → MSOE catalog pages) is expected to hurt further at inference time.
+See the placeholders at the top of this document for the latest numbers.
 
-### Inference on MSOE (`scripts/run_extraction.py`)
+### Inference on MSOE (RE output format)
 
 - For each entity pair in the RE head’s instance set, we take the **argmax label** and **score** (see loop in script).
 - **Relation output:** `data_clean/extracted/relations.jsonl` — `doc_id`, `head` / `tail` (text + offsets), `label`, **`score`**.
@@ -317,7 +575,7 @@ These numbers reflect a **challenging multi-class** setting; SemEval leaderboard
 
 ## 5. Neo4j graph store and vector index
 
-### Upload path
+### Upload path and schema
 
 - Notebook **`scripts/upload_to_neo4j.ipynb`** (batch load from extracted JSONL).
 - Dependencies used there: **`neo4j`** Python driver, **`sentence-transformers`** (embeddings).
@@ -334,9 +592,10 @@ Entity keys in the loader use **entity text** as the graph `id` for merging (see
 ### Query / GraphRAG demo
 
 - **`scripts/graph_rag_query.py`** — interactive loop:
-  - Embeds the user question with **`sentence-transformers`** model **`all-MiniLM-L6-v2`** (same family as upload).
-  - **`CALL db.index.vector.queryNodes('entity_embeddings', ...)`** to retrieve top similar entities, then expands **outgoing** relationships to neighbors.
-  - Builds a **text context** of triples and sends it to **Google Gemini** (`gemini-3-flash-preview`) with **“answer only from context”** instructions.
+  - Embeds the user question with `sentence-transformers` (`all-MiniLM-L6-v2`)
+  - Uses Neo4j vector search (prefers `SEARCH`, falls back if needed)
+  - Retrieves per-document entity keywords and top-scored relations
+  - Sends context to Gemini with “answer only from context” instructions
 - **Configuration:** `NEO4J_URI`, `NEO4J_USER`, `NEO4J_PASSWORD`, `GOOGLE_API_KEY` via **`.env`** (defaults in script are placeholders for Neo4j Aura-style URI — **override with your instance**).
 
 ---
@@ -344,7 +603,7 @@ Entity keys in the loader use **entity text** as the graph `id` for merging (see
 ## 6. Repository layout (main artifacts)
 
 | Area | Paths |
-|------|--------|
+| --- | --- |
 | Preprocess | `scripts/preprocess.py` |
 | NER/RE data builders | `scripts/build_spacy_ner_data.py`, `scripts/build_spacy_re_data.py`, `scripts/split_spacy_docbin.py` |
 | Train | `scripts/train_ner.py`, `scripts/train_re.py`, `configs/ner.cfg`, `configs/re.cfg` |
@@ -352,30 +611,15 @@ Entity keys in the loader use **entity text** as the graph `id` for merging (see
 | Test eval | `scripts/evaluate_prototype.py`, `test_data.jsonl` |
 | Custom RE code | `extraction_spacy/relation_extractor.py` |
 | Corpus extraction | `scripts/run_extraction.py` → `data_clean/extracted/*.jsonl` |
-| Neo4j load | `scripts/upload_to_neo4j.ipynb` |
+| Neo4j load | `scripts/upload_to_neo4j.ipynb`, `scripts/upload_to_neo4j.py` |
 | GraphRAG CLI | `scripts/graph_rag_query.py` |
+| Retrieval eval | `scripts/eval_retrieval.py`, `scripts/suggest_expected_docs.py`, `data_clean/eval/retrieval_questions.jsonl` |
 
 ---
 
 ## 7. Reproducible command flow (high level)
 
-1. **Environment:** `python -m pip install -r requirements.txt` (core: BeautifulSoup stack, requests, **PyMuPDF**, **spaCy 3.8.x**). Neo4j upload / GraphRAG additionally need **`neo4j`**, **`sentence-transformers`**, **`python-dotenv`**, and **`google-generativeai`** as used in those scripts.
-
-2. **Clean MSOE text:**  
-   `python scripts/preprocess.py --allow-pdf-failures`
-
-3. **SemEval JSONL (for training/eval):**  
-   `python scripts/preprocess.py --allow-pdf-failures --semeval-train ... --semeval-test ...`
-
-4. **Train NER + RE** (DocBin → `train_ner` / `train_re`) or run **`train_cv_and_final.py`** for CV + `re_final`.
-
-5. **Extract from MSOE:**  
-   `python scripts/run_extraction.py --docs data_clean/msoe/documents.jsonl --ner-model models/ner/model-best --re-model models/re/model-best --out data_clean/extracted`
-
-6. **Evaluate RE on SemEval test:**  
-   `python scripts/evaluate_prototype.py` (after `train_cv_and_final.py`).
-
-7. **Load graph + query:** run **`upload_to_neo4j.ipynb`**, then **`python scripts/graph_rag_query.py`** with credentials set.
+See “Quickstart” and “Build the graph” sections at the top of this document.
 
 ---
 
@@ -385,3 +629,50 @@ Entity keys in the loader use **entity text** as the graph `id` for merging (see
 - **Entities** come from a **supervised NER** model trained on **SemEval spans** (`ENT`); **relations** from a **custom spaCy RE head** with **19** labels; we report **5-fold CV** and **held-out test** metrics via `train_cv_and_final.py` + `evaluate_prototype.py`.
 - **MSOE extraction** produces **large** `relations.jsonl` because every scored pair is logged; the **graph** should use **thresholds** or **top-k** to avoid noise.
 - **Neo4j** stores **entities + typed edges + scores** and a **vector index** for **semantic retrieval**; **GraphRAG** combines **vector search over entities**, **local graph expansion**, and an **LLM** for grounded answers.
+
+---
+
+## Improvements since prototype draft
+
+Everything below is what we changed/improved after the early prototype baseline.
+
+### Graph + relations (MSOE → Neo4j) improvements
+
+- **Entity canonicalization** (`scripts/upload_to_neo4j.py`): merge entity variants by normalizing the entity ID (case/whitespace/punctuation).
+- **Better entity selection under cap** (`scripts/upload_to_neo4j.py`): replaced “first N unique entities encountered” with **doc-frequency + mention-frequency ranking** so the 50k cap keeps higher-signal entities.
+- **Relation filtering and caps**:
+  - Extraction-time filtering (`scripts/run_extraction.py`): added `--drop-other`, `--min-rel-score`, and `--top-rel-per-doc` to reduce noisy edges.
+  - Upload-time filtering (`scripts/upload_to_neo4j.py`): mirrors the same logic defensively and uploads only top-scored relations per document.
+- **More deterministic / higher-signal query context** (`scripts/graph_rag_query.py`):
+  - Explicit ordering for doc retrieval and relation listing (`ORDER BY score DESC`)
+  - Keywords prefer `Entity.display` when available
+- **Neo4j vector search deprecation**: updated queries to prefer `SEARCH ... VECTOR INDEX ... SCORE AS score` with a fallback to the deprecated `db.index.vector.queryNodes`.
+
+### System testing (GraphRAG) improvements
+
+- **Added retrieval-focused evaluation** (`scripts/eval_retrieval.py`):
+  - Measures **Recall@K** and **MRR** for MSOE queries over the Neo4j `document_embeddings` vector index.
+- **No-Neo4j-access support** (`scripts/suggest_expected_docs.py`):
+  - Offline helper that suggests `Document.id` values using local `data_clean/msoe/documents.jsonl` so you can fill `expected_doc_ids` without querying Neo4j.
+
+### RE benchmark (SemEval) improvements
+
+- **Fixed training objective / collapse issues** (`extraction_spacy/relation_extractor.py`):
+  - Proper multi-class training behavior for SemEval (single-label)
+  - Treat unlabeled candidate pairs as `Other` targets instead of invalid all-zero targets
+- **Negative sampling for candidate pairs** (`extraction_spacy/relation_extractor.py`, `configs/re.cfg`):
+  - Added `negatives_per_positive` to reduce the extreme negative imbalance from O(n²) pair generation.
+- **Stronger classification head** (`extraction_spacy/relation_extractor.py`, `configs/re.cfg`):
+  - Added `rel_classification_layer.v2` (MLP + dropout) and switched config to use it.
+- **Faster iteration tools** (`scripts/train_cv_and_final.py`, `scripts/train_re.py`):
+  - Added mini-test flags: `--folds`, `--train-limit`, `--skip-final`, `--max-steps`, `--eval-frequency`
+  - Fixed label-set stability so mini runs don’t crash due to missing classes.
+- **Latest dev benchmark snapshot** (SemEval RE component test):
+  - Macro-F1 (excl. Other): **0.3634**
+  - Accuracy: **0.4291**
+  - Command: `python scripts/train_cv_and_final.py --folds 3 --train-limit 3000 --skip-final --max-steps 2000`
+
+### Transformer attempt (optional, CPU-limited)
+
+- Added `configs/re_transformer.cfg` and installed `spacy-transformers`.
+- The transformer pipeline initializes and starts training, but CPU-only training is very slow; this path is mainly useful if GPU is available.

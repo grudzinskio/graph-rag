@@ -9,8 +9,10 @@ Env: NEO4J_URI, NEO4J_USER, NEO4J_PASSWORD
 from __future__ import annotations
 
 import argparse
+import heapq
 import json
 import os
+import re
 from pathlib import Path
 
 from dotenv import load_dotenv
@@ -86,8 +88,12 @@ def load_entities_batch(tx, batch: list[dict]) -> None:
         WITH item WHERE item.id IS NOT NULL AND item.id <> ''
         MERGE (e:Entity {id: item.id})
         SET e.text = item.id,
+            e.display = coalesce(item.display, item.id),
             e.label = item.label,
-            e.embedding = item.embedding
+            e.embedding = item.embedding,
+            e.mentions = coalesce(item.mentions, []),
+            e.doc_freq = coalesce(item.doc_freq, 0),
+            e.mention_freq = coalesce(item.mention_freq, 0)
         """,
         batch=batch,
     )
@@ -98,8 +104,9 @@ def load_has_entity_batch(tx, batch: list[dict]) -> None:
         """
         UNWIND $batch AS row
         MATCH (d:Document {id: row.doc_id})
-        MATCH (e:Entity {id: row.entity_text})
+        MATCH (e:Entity {id: row.entity_id})
         MERGE (d)-[h:HAS_ENTITY {start_char: row.start_char, end_char: row.end_char}]->(e)
+        SET h.text = coalesce(row.entity_text, h.text)
         """,
         batch=batch,
     )
@@ -109,8 +116,8 @@ def load_relations_batch(tx, batch: list[dict]) -> None:
     tx.run(
         """
         UNWIND $batch AS rel
-        MATCH (src:Entity {id: rel.head_text})
-        MATCH (tgt:Entity {id: rel.tail_text})
+        MATCH (src:Entity {id: rel.head_id})
+        MATCH (tgt:Entity {id: rel.tail_id})
         MATCH (:Document {id: rel.doc_id})
         MERGE (src)-[r:REL {label: rel.label, doc_id: rel.doc_id}]->(tgt)
         SET r.score = rel.score
@@ -119,14 +126,78 @@ def load_relations_batch(tx, batch: list[dict]) -> None:
     )
 
 
+_WS_RE = re.compile(r"\s+")
+_PUNCT_EDGE_RE = re.compile(r"^[\W_]+|[\W_]+$", flags=re.UNICODE)
+_NUMERIC_RE = re.compile(r"^\d+([./-]\d+)*$")
+
+
+def canonicalize_entity(text: str) -> str:
+    t = (text or "").strip().lower()
+    t = _WS_RE.sub(" ", t)
+    t = _PUNCT_EDGE_RE.sub("", t)
+    return t
+
+
+def is_low_signal_entity(canonical: str) -> bool:
+    if not canonical:
+        return True
+    if len(canonical) <= 1:
+        return True
+    if _NUMERIC_RE.match(canonical):
+        return True
+    return False
+
+
 def build_allowed_entities(entities_path: Path, max_unique: int) -> dict[str, dict]:
-    out: dict[str, dict] = {}
+    mention_freq: dict[str, int] = {}
+    doc_sets: dict[str, set[str]] = {}
+    surface_counts: dict[str, dict[str, int]] = {}
+    label_counts: dict[str, dict[str, int]] = {}
+
     for o in iter_jsonl(entities_path):
-        if len(out) >= max_unique:
-            break
-        t = (o.get("text") or "").strip()
-        if t and t not in out:
-            out[t] = {"id": t, "label": o.get("label")}
+        raw = (o.get("text") or "").strip()
+        if not raw:
+            continue
+        cid = canonicalize_entity(raw)
+        if is_low_signal_entity(cid):
+            continue
+        did = o.get("doc_id")
+        if did is None:
+            continue
+        did = str(did)
+
+        mention_freq[cid] = mention_freq.get(cid, 0) + 1
+        doc_sets.setdefault(cid, set()).add(did)
+
+        surface_counts.setdefault(cid, {})
+        surface_counts[cid][raw] = surface_counts[cid].get(raw, 0) + 1
+
+        lab = (o.get("label") or "").strip()
+        if lab:
+            label_counts.setdefault(cid, {})
+            label_counts[cid][lab] = label_counts[cid].get(lab, 0) + 1
+
+    ranked = sorted(
+        doc_sets.keys(),
+        key=lambda k: (len(doc_sets.get(k, ())), mention_freq.get(k, 0), k),
+        reverse=True,
+    )[:max_unique]
+
+    out: dict[str, dict] = {}
+    for cid in ranked:
+        surfaces = surface_counts.get(cid, {})
+        display = max(surfaces.items(), key=lambda kv: kv[1])[0] if surfaces else cid
+        top_surfaces = [s for s, _ in sorted(surfaces.items(), key=lambda kv: kv[1], reverse=True)[:8]]
+        labs = label_counts.get(cid, {})
+        best_label = max(labs.items(), key=lambda kv: kv[1])[0] if labs else None
+        out[cid] = {
+            "id": cid,
+            "display": display,
+            "mentions": top_surfaces,
+            "label": best_label,
+            "doc_freq": len(doc_sets.get(cid, ())),
+            "mention_freq": mention_freq.get(cid, 0),
+        }
     return out
 
 
@@ -151,6 +222,8 @@ def main() -> int:
     ap.add_argument("--relations", type=Path, default=root / "data_clean/extracted/relations.jsonl")
     ap.add_argument("--max-entities", type=int, default=50_000)
     ap.add_argument("--max-relations", type=int, default=175_000)
+    ap.add_argument("--min-rel-score", type=float, default=0.05, help="Drop relations with score below this threshold")
+    ap.add_argument("--top-rel-per-doc", type=int, default=200, help="Keep only top-K relations per document by score")
     ap.add_argument("--batch-size", type=int, default=500)
     ap.add_argument("--clear", action="store_true", help="Wipe the database before load")
     args = ap.parse_args()
@@ -169,7 +242,7 @@ def main() -> int:
 
     allowed = build_allowed_entities(args.entities, args.max_entities)
     allowed_set = set(allowed.keys())
-    print(f"Allowed entity strings: {len(allowed_set):,}")
+    print(f"Allowed canonical entities: {len(allowed_set):,}")
 
     print("Indexing documents.jsonl...")
     doc_by_id = load_documents_jsonl(args.docs)
@@ -177,7 +250,8 @@ def main() -> int:
     doc_ids: set[str] = set()
     for o in iter_jsonl(args.entities):
         t = (o.get("text") or "").strip()
-        if t not in allowed_set:
+        cid = canonicalize_entity(t)
+        if cid not in allowed_set:
             continue
         did = o.get("doc_id")
         if did is not None:
@@ -228,18 +302,20 @@ def main() -> int:
     seen_m = set()
     for o in iter_jsonl(args.entities):
         t = (o.get("text") or "").strip()
-        if t not in allowed_set:
+        cid = canonicalize_entity(t)
+        if cid not in allowed_set:
             continue
         did = str(o.get("doc_id", ""))
         if did not in doc_ids or did not in doc_by_id:
             continue
-        key = (did, t, o.get("start_char"), o.get("end_char"))
+        key = (did, cid, o.get("start_char"), o.get("end_char"))
         if key in seen_m:
             continue
         seen_m.add(key)
         has_rows.append(
             {
                 "doc_id": did,
+                "entity_id": cid,
                 "entity_text": t,
                 "start_char": o.get("start_char"),
                 "end_char": o.get("end_char"),
@@ -255,35 +331,51 @@ def main() -> int:
     rel_batch: list[dict] = []
     print(f"Uploading relations (cap {args.max_relations:,})...")
     with driver.session() as session:
+        topk: dict[str, list[tuple[float, dict]]] = {}
+
         with args.relations.open(encoding="utf-8", errors="replace") as rf:
             for line in rf:
-                if accepted >= args.max_relations:
-                    break
                 line = line.strip()
                 if not line:
                     continue
                 r = json.loads(line)
-                ht = (r.get("head") or {}).get("text", "").strip()
-                tt = (r.get("tail") or {}).get("text", "").strip()
                 lab = r.get("label")
-                doc_id = str(r.get("doc_id", ""))
-                if ht not in allowed_set or tt not in allowed_set or not lab:
+                if not lab or lab == "Other":
                     continue
+                sc = float(r.get("score") or 0.0)
+                if sc < float(args.min_rel_score):
+                    continue
+                doc_id = str(r.get("doc_id", ""))
                 if doc_id not in doc_by_id:
                     continue
-                rel_batch.append(
-                    {
-                        "head_text": ht,
-                        "tail_text": tt,
-                        "label": lab,
-                        "score": r.get("score"),
-                        "doc_id": doc_id,
-                    }
-                )
+
+                ht_raw = (r.get("head") or {}).get("text", "").strip()
+                tt_raw = (r.get("tail") or {}).get("text", "").strip()
+                hid = canonicalize_entity(ht_raw)
+                tid = canonicalize_entity(tt_raw)
+                if hid not in allowed_set or tid not in allowed_set:
+                    continue
+
+                payload = {"head_id": hid, "tail_id": tid, "label": lab, "score": sc, "doc_id": doc_id}
+                heap = topk.setdefault(doc_id, [])
+                if len(heap) < int(args.top_rel_per_doc):
+                    heapq.heappush(heap, (sc, payload))
+                else:
+                    if sc > heap[0][0]:
+                        heapq.heapreplace(heap, (sc, payload))
+
+        for heap in topk.values():
+            if accepted >= args.max_relations:
+                break
+            for sc, payload in sorted(heap, key=lambda x: x[0], reverse=True):
+                if accepted >= args.max_relations:
+                    break
+                rel_batch.append(payload)
                 accepted += 1
                 if len(rel_batch) >= args.batch_size:
                     session.execute_write(load_relations_batch, rel_batch)
                     rel_batch = []
+
         if rel_batch:
             session.execute_write(load_relations_batch, rel_batch)
 

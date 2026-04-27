@@ -2,13 +2,13 @@
   "lang":"en",
   "name":"pipeline",
   "version":"0.0.0",
-  "spacy_version":">=3.8.14,<3.9.0",
+  "spacy_version":">=3.8.11,<3.9.0",
   "description":"",
   "author":"",
   "email":"",
   "url":"",
   "license":"",
-  "spacy_git_version":"0069cf9",
+  "spacy_git_version":"e7a662a",
   "vectors":{
     "width":0,
     "vectors":0,
@@ -55,7 +55,7 @@
   ],
   "performance":{
     "relation_extractor":0.0,
-    "tok2vec_loss":0.0000016808,
-    "relation_extractor_loss":36.5127743632
+    "tok2vec_loss":2.8066912775,
+    "relation_extractor_loss":270.0215240717
   }
 }
