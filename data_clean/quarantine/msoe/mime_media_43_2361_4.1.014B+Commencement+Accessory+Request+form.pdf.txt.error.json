@@ -1,4 +1,4 @@
 {
   "path": "scraped_data\\catalog\\text\\mime_media_43_2361_4.1.014B+Commencement+Accessory+Request+form.pdf.txt",
-  "error": "Failed to open stream"
+  "error": "PDF bytes detected but PyMuPDF is not installed. Install with `pip install pymupdf`."
 }

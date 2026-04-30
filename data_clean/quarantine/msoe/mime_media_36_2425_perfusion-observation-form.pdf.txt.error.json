@@ -1,4 +1,4 @@
 {
   "path": "scraped_data\\catalog\\text\\mime_media_36_2425_perfusion-observation-form.pdf.txt",
-  "error": "Failed to open stream"
+  "error": "PDF bytes detected but PyMuPDF is not installed. Install with `pip install pymupdf`."
 }

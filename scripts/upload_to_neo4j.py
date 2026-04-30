@@ -13,6 +13,7 @@ import heapq
 import json
 import os
 import re
+import hashlib
 from pathlib import Path
 
 from dotenv import load_dotenv
@@ -61,6 +62,16 @@ def setup_schema(tx, *, doc_index: bool, entity_index: bool) -> None:
             }}}}
             """
         )
+        tx.run(
+            f"""
+            CREATE VECTOR INDEX chunk_embeddings IF NOT EXISTS
+            FOR (c:Chunk) ON (c.embedding)
+            OPTIONS {{indexConfig: {{
+             `vector.dimensions`: {VECTOR_DIMS},
+             `vector.similarity_function`: 'cosine'
+            }}}}
+            """
+        )
 
 
 def clear_graph(tx) -> None:
@@ -76,6 +87,24 @@ def load_documents_batch(tx, batch: list[dict]) -> None:
         SET d.text = item.text,
             d.source_path = item.source_path,
             d.embedding = item.embedding
+        """,
+        batch=batch,
+    )
+
+
+def load_chunks_batch(tx, batch: list[dict]) -> None:
+    tx.run(
+        """
+        UNWIND $batch AS item
+        MATCH (d:Document {id: item.doc_id})
+        MERGE (c:Chunk {id: item.id})
+        SET c.doc_id = item.doc_id,
+            c.chunk_index = item.chunk_index,
+            c.text = item.text,
+            c.embedding = item.embedding,
+            c.token_count = item.token_count,
+            c.signature = item.signature
+        MERGE (d)-[:HAS_CHUNK {idx: item.chunk_index}]->(c)
         """,
         batch=batch,
     )
@@ -214,6 +243,129 @@ def load_documents_jsonl(docs_path: Path) -> dict[str, dict]:
     return by_id
 
 
+_TOK_RE = re.compile(r"[a-z0-9]+")
+
+
+def _tokenize(text: str) -> list[str]:
+    return _TOK_RE.findall((text or "").lower())
+
+
+def _simhash64(tokens: list[str]) -> int:
+    if not tokens:
+        return 0
+    acc = [0] * 64
+    for tok in tokens:
+        h = hashlib.blake2b(tok.encode("utf-8"), digest_size=8).digest()
+        x = int.from_bytes(h, "big")
+        for i in range(64):
+            bit = (x >> i) & 1
+            acc[i] += 1 if bit else -1
+    out = 0
+    for i, v in enumerate(acc):
+        if v >= 0:
+            out |= (1 << i)
+    return out
+
+
+def _hamming(a: int, b: int) -> int:
+    return (a ^ b).bit_count()
+
+
+def _iter_chunks(text: str, chunk_size: int, overlap: int) -> list[str]:
+    text = (text or "").strip()
+    if not text:
+        return []
+    if len(text) <= chunk_size:
+        return [text]
+    step = max(1, chunk_size - overlap)
+    chunks: list[str] = []
+    i = 0
+    while i < len(text):
+        c = text[i : i + chunk_size].strip()
+        if c:
+            chunks.append(c)
+        if i + chunk_size >= len(text):
+            break
+        i += step
+    return chunks
+
+
+def build_selected_chunks(
+    doc_rows: list[dict],
+    *,
+    chunk_size: int,
+    chunk_overlap: int,
+    max_chunks_per_doc: int,
+    max_chunks_total: int,
+    near_dup_hamming: int,
+) -> list[dict]:
+    out: list[dict] = []
+    sig_buckets: dict[int, list[int]] = {}
+    exact_seen: set[str] = set()
+
+    for doc in doc_rows:
+        if len(out) >= max_chunks_total:
+            break
+        did = doc["id"]
+        raw_chunks = _iter_chunks(doc.get("text") or "", chunk_size, chunk_overlap)
+        candidates: list[tuple[int, dict]] = []
+        doc_exact: set[str] = set()
+        for idx, ctext in enumerate(raw_chunks):
+            canon = " ".join(_tokenize(ctext))
+            if not canon:
+                continue
+            csha = hashlib.sha256(canon.encode("utf-8")).hexdigest()
+            if csha in doc_exact:
+                continue
+            doc_exact.add(csha)
+            toks = canon.split()
+            sig = _simhash64(toks)
+            score = len(set(toks))
+            candidates.append(
+                (
+                    score,
+                    {
+                        "id": stable_chunk_id(did, idx, csha),
+                        "doc_id": did,
+                        "chunk_index": idx,
+                        "text": ctext,
+                        "token_count": len(toks),
+                        "signature": str(sig),
+                        "_sig": sig,
+                        "_canon_sha": csha,
+                    },
+                )
+            )
+
+        chosen_for_doc = 0
+        for _, payload in sorted(candidates, key=lambda x: x[0], reverse=True):
+            if chosen_for_doc >= max_chunks_per_doc or len(out) >= max_chunks_total:
+                break
+            csha = payload["_canon_sha"]
+            if csha in exact_seen:
+                continue
+            sig = payload["_sig"]
+            key = sig >> 48
+            near = False
+            for prev in sig_buckets.get(key, []):
+                if _hamming(sig, prev) <= near_dup_hamming:
+                    near = True
+                    break
+            if near:
+                continue
+            exact_seen.add(csha)
+            sig_buckets.setdefault(key, []).append(sig)
+            payload.pop("_sig", None)
+            payload.pop("_canon_sha", None)
+            out.append(payload)
+            chosen_for_doc += 1
+    return out
+
+
+def stable_chunk_id(doc_id: str, chunk_index: int, chunk_sha: str) -> str:
+    return f"{doc_id}:c{chunk_index}:{chunk_sha[:10]}"
+
+
 def main() -> int:
     root = _repo_root()
     ap = argparse.ArgumentParser(description="Upload documents + graph to Neo4j")
@@ -225,6 +377,12 @@ def main() -> int:
     ap.add_argument("--min-rel-score", type=float, default=0.05, help="Drop relations with score below this threshold")
     ap.add_argument("--top-rel-per-doc", type=int, default=200, help="Keep only top-K relations per document by score")
     ap.add_argument("--batch-size", type=int, default=500)
+    ap.add_argument("--chunk-size", type=int, default=900, help="Chunk size (characters)")
+    ap.add_argument("--chunk-overlap", type=int, default=150, help="Chunk overlap (characters)")
+    ap.add_argument("--max-chunks-per-doc", type=int, default=3, help="Max chunks retained per document")
+    ap.add_argument("--max-chunks", type=int, default=12000, help="Global chunk cap for Neo4j upload")
+    ap.add_argument("--chunk-near-dup-hamming", type=int, default=3, help="Near-duplicate chunk simhash threshold")
+    ap.add_argument("--document-text-from-chunks", action="store_true", help="Store only selected chunks in Document.text")
     ap.add_argument("--clear", action="store_true", help="Wipe the database before load")
     args = ap.parse_args()
 
@@ -275,6 +433,24 @@ def main() -> int:
             continue
         doc_rows.append({"id": did, "text": rec["text"], "source_path": rec["source_path"]})
 
+    selected_chunks = build_selected_chunks(
+        doc_rows,
+        chunk_size=args.chunk_size,
+        chunk_overlap=args.chunk_overlap,
+        max_chunks_per_doc=args.max_chunks_per_doc,
+        max_chunks_total=args.max_chunks,
+        near_dup_hamming=args.chunk_near_dup_hamming,
+    )
+    print(f"Selected {len(selected_chunks):,} diverse chunks for upload")
+    chunks_by_doc: dict[str, list[dict]] = {}
+    for c in selected_chunks:
+        chunks_by_doc.setdefault(c["doc_id"], []).append(c)
+    if args.document_text_from_chunks:
+        for d in doc_rows:
+            kept = sorted(chunks_by_doc.get(d["id"], []), key=lambda x: x["chunk_index"])
+            if kept:
+                d["text"] = "\n\n".join(c["text"] for c in kept)
+
     print(f"Uploading {len(doc_rows):,} Document nodes with embeddings...")
     with driver.session() as session:
         for i in range(0, len(doc_rows), args.batch_size):
@@ -284,6 +460,16 @@ def main() -> int:
             for b, emb in zip(batch, embs):
                 b["embedding"] = emb
             session.execute_write(load_documents_batch, batch)
+
+    print(f"Uploading {len(selected_chunks):,} Chunk nodes with embeddings...")
+    with driver.session() as session:
+        for i in range(0, len(selected_chunks), args.batch_size):
+            batch = selected_chunks[i : i + args.batch_size]
+            texts = [b["text"] for b in batch]
+            embs = st_model.encode(texts, show_progress_bar=False).tolist()
+            for b, emb in zip(batch, embs):
+                b["embedding"] = emb
+            session.execute_write(load_chunks_batch, batch)
 
     # --- Entities with embeddings ---
     items = list(allowed.values())
@@ -331,7 +517,8 @@ def main() -> int:
     rel_batch: list[dict] = []
     print(f"Uploading relations (cap {args.max_relations:,})...")
     with driver.session() as session:
-        topk: dict[str, list[tuple[float, dict]]] = {}
+        topk: dict[str, list[tuple[float, int, dict]]] = {}
+        rel_seq = 0
 
         with args.relations.open(encoding="utf-8", errors="replace") as rf:
             for line in rf:
@@ -358,16 +545,18 @@ def main() -> int:
 
                 payload = {"head_id": hid, "tail_id": tid, "label": lab, "score": sc, "doc_id": doc_id}
                 heap = topk.setdefault(doc_id, [])
+                rel_seq += 1
+                item = (sc, rel_seq, payload)
                 if len(heap) < int(args.top_rel_per_doc):
-                    heapq.heappush(heap, (sc, payload))
+                    heapq.heappush(heap, item)
                 else:
                     if sc > heap[0][0]:
-                        heapq.heapreplace(heap, (sc, payload))
+                        heapq.heapreplace(heap, item)
 
         for heap in topk.values():
             if accepted >= args.max_relations:
                 break
-            for sc, payload in sorted(heap, key=lambda x: x[0], reverse=True):
+            for sc, _, payload in sorted(heap, key=lambda x: x[0], reverse=True):
                 if accepted >= args.max_relations:
                     break
                 rel_batch.append(payload)

@@ -640,13 +640,39 @@ Everything below is what we changed/improved after the early prototype baseline.
 
 - **Entity canonicalization** (`scripts/upload_to_neo4j.py`): merge entity variants by normalizing the entity ID (case/whitespace/punctuation).
 - **Better entity selection under cap** (`scripts/upload_to_neo4j.py`): replaced “first N unique entities encountered” with **doc-frequency + mention-frequency ranking** so the 50k cap keeps higher-signal entities.
+- **Stronger page cleanup before graph load** (`scripts/preprocess.py`):
+  - Added extra boilerplate/header filtering (for example repeated `Home`/breadcrumb noise)
+  - Added heuristic footer-block trimming (address/social/contact clusters near page tail) to reduce repeated low-signal text
 - **Relation filtering and caps**:
   - Extraction-time filtering (`scripts/run_extraction.py`): added `--drop-other`, `--min-rel-score`, and `--top-rel-per-doc` to reduce noisy edges.
   - Upload-time filtering (`scripts/upload_to_neo4j.py`): mirrors the same logic defensively and uploads only top-scored relations per document.
+- **Chunk-first graph upload under storage constraints** (`scripts/upload_to_neo4j.py`):
+  - Added `:Chunk` nodes and `(:Document)-[:HAS_CHUNK]->(:Chunk)` edges
+  - Added a `chunk_embeddings` vector index for retrieval
+  - Added chunk controls: `--chunk-size`, `--chunk-overlap`, `--max-chunks-per-doc`, `--max-chunks`
+  - Added exact + near-duplicate chunk suppression (canonical hash + SimHash/Hamming threshold) so upload keeps diverse context instead of repeated text
+  - Added `--document-text-from-chunks` so `Document.text` can be constrained to selected chunks only
 - **More deterministic / higher-signal query context** (`scripts/graph_rag_query.py`):
   - Explicit ordering for doc retrieval and relation listing (`ORDER BY score DESC`)
   - Keywords prefer `Entity.display` when available
 - **Neo4j vector search deprecation**: updated queries to prefer `SEARCH ... VECTOR INDEX ... SCORE AS score` with a fallback to the deprecated `db.index.vector.queryNodes`.
+
+### GraphRAG query/runtime improvements
+
+- **Chunk-first retrieval path** (`scripts/graph_rag_query.py`):
+  - Query flow now prefers `chunk_embeddings` retrieval and only falls back to document/entity-only paths if needed.
+- **Budgeted two-pass retrieval** (`scripts/graph_rag_query.py`):
+  - Compact pass (small caps) tries to answer cheaply first.
+  - Optional expanded pass runs only when the controller predicts additional evidence is needed.
+- **Agentic multi-hop traversal loop** (`scripts/graph_rag_query.py`):
+  - Added planner-guided hop decisions (`continue` + focus terms) and bounded traversal depth (`--max-hops`).
+  - Each hop expands entity neighborhoods and appends additional graph evidence under per-hop char caps.
+- **Runtime tuning flags** (`scripts/graph_rag_query.py`):
+  - Added CLI flags for compact/expanded retrieval, hop settings, and overall LLM char budget.
+- **Per-query telemetry** (`scripts/graph_rag_query.py`):
+  - After each answer, prints token usage (when provided by Gemini) and retrieval/traversal stats:
+    - chunks retrieved/used, docs used, relations used
+    - hops executed, focus terms used, entity seeds, relations traversed
 
 ### System testing (GraphRAG) improvements
 

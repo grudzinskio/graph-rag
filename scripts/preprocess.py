@@ -17,6 +17,7 @@ MSOE_DROP_LINE_PATTERNS = [
     re.compile(r"^\s*Catalog Navigation\s*$", re.IGNORECASE),
     re.compile(r"^\s*Back to Top\s*$", re.IGNORECASE),
     re.compile(r"^\s*Skip to Main Content\s*$", re.IGNORECASE),
+    re.compile(r"^\s*Home\s*$", re.IGNORECASE),
     re.compile(r"^\s*Menu\s*$", re.IGNORECASE),
     re.compile(r"^\s*Search\s*$", re.IGNORECASE),
     re.compile(r"^\s*submit\s*$", re.IGNORECASE),
@@ -126,12 +127,47 @@ def clean_msoe_text(text: str) -> tuple[str, dict[str, Any]]:
             continue
         cleaned.append(ln)
 
+    # Remove obvious repeated footer/contact/social blocks common across pages.
+    footer_markers = {
+        "1025 north broadway",
+        "milwaukee,",
+        "wi",
+        "53202-3109",
+        "explore@msoe.edu",
+        "facebook",
+        "instagram",
+        "twitter",
+        "linkedin",
+        "youtube",
+        "vimeo",
+    }
+    footer_start = None
+    marker_hits = 0
+    tail_start = max(0, len(cleaned) - 28)
+    for i in range(tail_start, len(cleaned)):
+        norm_ln = cleaned[i].strip().lower()
+        if norm_ln in footer_markers:
+            marker_hits += 1
+            if footer_start is None:
+                footer_start = i
+    dropped_footer_lines = 0
+    if footer_start is not None and marker_hits >= 4:
+        dropped_footer_lines = len(cleaned) - footer_start
+        cleaned = cleaned[:footer_start]
+
+    # Drop obvious repeated breadcrumb noise at head.
+    while cleaned and cleaned[0].strip().lower() in {"home", "msoe", "msoe university"}:
+        cleaned.pop(0)
+    if len(cleaned) >= 2 and cleaned[0].strip().lower() == cleaned[1].strip().lower():
+        cleaned.pop(1)
+
     out = "\n".join(cleaned).strip()
     stats = {
         "lines_in": len([x for x in original_lines if x]),
         "lines_out": len(cleaned),
         "dropped_by_pattern": dropped_by_pattern,
         "dropped_in_section": dropped_in_section,
+        "dropped_footer_lines": dropped_footer_lines,
     }
     return out, stats
 

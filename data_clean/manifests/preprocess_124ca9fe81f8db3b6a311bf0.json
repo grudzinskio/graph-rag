@@ -1,0 +1,27 @@
+{
+  "run_id": "124ca9fe81f8db3b6a311bf0",
+  "created_utc": "2026-04-30T01:27:11.903039+00:00",
+  "argv": [
+    "scripts/preprocess.py",
+    "--allow-pdf-failures"
+  ],
+  "outputs": {
+    "msoe_documents": "data_clean\\msoe\\documents.jsonl"
+  },
+  "stats": {
+    "msoe": {
+      "docs_seen": 5790,
+      "docs_kept": 5714,
+      "docs_deduped": 33,
+      "docs_empty_after_clean": 0,
+      "pdf_detected": 43,
+      "pdf_extracted": 0,
+      "pdf_failed": 43,
+      "read_failed": 0,
+      "quarantined": 43
+    }
+  },
+  "versions": {
+    "python": "3.12.6 (tags/v3.12.6:a4a2d2b, Sep  6 2024, 20:11:23) [MSC v.1940 64 bit (AMD64)]"
+  }
+}
