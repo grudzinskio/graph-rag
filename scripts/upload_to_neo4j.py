@@ -379,7 +379,12 @@ def main() -> int:
     ap.add_argument("--batch-size", type=int, default=500)
     ap.add_argument("--chunk-size", type=int, default=900, help="Chunk size (characters)")
     ap.add_argument("--chunk-overlap", type=int, default=150, help="Chunk overlap (characters)")
-    ap.add_argument("--max-chunks-per-doc", type=int, default=3, help="Max chunks retained per document")
+    ap.add_argument(
+        "--max-chunks-per-doc",
+        type=int,
+        default=6,
+        help="Max chunks retained per document (more coverage for long catalog pages; was 3)",
+    )
     ap.add_argument("--max-chunks", type=int, default=12000, help="Global chunk cap for Neo4j upload")
     ap.add_argument("--chunk-near-dup-hamming", type=int, default=3, help="Near-duplicate chunk simhash threshold")
     ap.add_argument("--document-text-from-chunks", action="store_true", help="Store only selected chunks in Document.text")

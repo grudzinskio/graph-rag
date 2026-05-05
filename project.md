@@ -120,8 +120,8 @@ python scripts/upload_to_neo4j.py --clear --max-entities 50000 --max-relations 1
 ### How to test it
 
 - **System test (GraphRAG retrieval quality)**:
-  - Fill `data_clean/eval/retrieval_questions.jsonl`
-  - Run `python scripts/eval_retrieval.py --data data_clean/eval/retrieval_questions.jsonl --k 1 3 5 10`
+  - Fill or generate eval JSONL (`data_clean/eval/retrieval_questions.jsonl`, or `generate_retrieval_eval_questions.py` → `retrieval_questions_many.jsonl`)
+  - Run `python scripts/eval_retrieval.py --data data_clean/eval/retrieval_questions.jsonl --k 1 3 5 10` (or `--data data_clean/eval/retrieval_questions_many.jsonl`)
 - **Component test (SemEval RE)**:
   - Mini test: `python scripts/train_cv_and_final.py --folds 2 --train-limit 1000 --skip-final --max-steps 500 --eval-frequency 100`
   - Benchmark snapshot used in writeups:
@@ -139,7 +139,7 @@ The SemEval CV metrics do **not** test GraphRAG. For GraphRAG quality, we evalua
 
 1) Fill in evaluation questions and expected document ids:
 
-- File: `data_clean/eval/retrieval_questions.jsonl`
+- File: `data_clean/eval/retrieval_questions.jsonl` (small demo set), or `data_clean/eval/retrieval_questions_many.jsonl` (generated bulk set)
 - Schema:
   - `query`: question text
   - `expected_doc_ids`: list of acceptable `(:Document {id})` values
@@ -150,23 +150,29 @@ If you do not have Neo4j access, use the offline helper to suggest likely doc id
 python scripts/suggest_expected_docs.py --data data_clean/eval/retrieval_questions.jsonl --top 5
 ```
 
-1) Run the retrieval eval against Neo4j vector index:
+2) Run the retrieval eval against Neo4j (`document_embeddings` index):
 
 ```bash
 python scripts/eval_retrieval.py --data data_clean/eval/retrieval_questions.jsonl --k 1 3 5 10
+python scripts/eval_retrieval.py --data data_clean/eval/retrieval_questions_many.jsonl --k 1 3 5 10
 ```
+
+Default is **`--mode document`** (single block, same as older runs). Use **`--mode both`** to also print **chunk → document** metrics (best chunk score per `doc_id`, closer to chunk-first GraphRAG). Tuning: **`--chunk-scan 2500`** (how many chunk hits to merge before ranking docs).
 
 Expected outputs:
 
 - `Recall@K`: whether an expected document appears in the top K results
 - `MRR`: mean reciprocal rank of the first expected hit
 
-Placeholders (fill in after final run):
+### Retrieval tooling added (debugging and scaling eval)
 
-- Retrieval Recall@1: **[TODO]**
-- Retrieval Recall@3: **[TODO]**
-- Retrieval Recall@5: **[TODO]**
-- Retrieval MRR: **[TODO]**
+- **`scripts/probe_retrieval_gold.py`** — For each eval row, prints whether gold `Document` ids exist in Neo4j, **`size(d.text)`** (upload often stores chunk-derived text, not the full JSONL page), **rank** under `document_embeddings`, and rank after aggregating **`chunk_embeddings`** hits by `doc_id`. Use this when scores look wrong because labels assume full-page semantics but the DB embeds shorter `Document.text`.
+
+- **`scripts/generate_retrieval_eval_questions.py`** — Samples `N` documents from `data_clean/msoe/documents.jsonl`, uses the **first line** of each page (usually the HTML title line) as the query, and sets **`expected_doc_ids`** to that document’s id. This is a **self-retrieval** stress test (does the index return the same page when queried with its title line?).
+
+- **`scripts/bootstrap_retrieval_labels.py`** — Rewrites **`expected_doc_ids`** from live Neo4j **document** vector search top hits (`--take 1` is typical). Metrics from `eval_retrieval.py` become **self-consistent with the index** (often **1.0**); use only when you explicitly want that behavior, not as an independent relevance benchmark.
+
+See **Retrieval evaluation snapshots** at the end of this document for latest logged scores.
 
 ---
 
@@ -613,7 +619,7 @@ Entity keys in the loader use **entity text** as the graph `id` for merging (see
 | Corpus extraction | `scripts/run_extraction.py` → `data_clean/extracted/*.jsonl` |
 | Neo4j load | `scripts/upload_to_neo4j.ipynb`, `scripts/upload_to_neo4j.py` |
 | GraphRAG CLI | `scripts/graph_rag_query.py` |
-| Retrieval eval | `scripts/eval_retrieval.py`, `scripts/suggest_expected_docs.py`, `data_clean/eval/retrieval_questions.jsonl` |
+| Retrieval eval | `scripts/eval_retrieval.py`, `scripts/suggest_expected_docs.py`, `scripts/probe_retrieval_gold.py`, `scripts/generate_retrieval_eval_questions.py`, `scripts/bootstrap_retrieval_labels.py`, `data_clean/eval/retrieval_questions.jsonl`, `data_clean/eval/retrieval_questions_many.jsonl` |
 
 ---
 
@@ -680,6 +686,10 @@ Everything below is what we changed/improved after the early prototype baseline.
   - Measures **Recall@K** and **MRR** for MSOE queries over the Neo4j `document_embeddings` vector index.
 - **No-Neo4j-access support** (`scripts/suggest_expected_docs.py`):
   - Offline helper that suggests `Document.id` values using local `data_clean/msoe/documents.jsonl` so you can fill `expected_doc_ids` without querying Neo4j.
+- **Retrieval probes and bulk eval helpers** (same Neo4j env as upload):
+  - `scripts/probe_retrieval_gold.py` — document vs chunk index ranks and `Document.text` lengths for gold ids.
+  - `scripts/generate_retrieval_eval_questions.py` — builds `data_clean/eval/retrieval_questions_many.jsonl` for larger self-retrieval runs.
+  - `scripts/bootstrap_retrieval_labels.py` — optional: set gold ids from retriever top hits so eval metrics align with the index.
 
 ### RE benchmark (SemEval) improvements
 
@@ -702,3 +712,44 @@ Everything below is what we changed/improved after the early prototype baseline.
 
 - Added `configs/re_transformer.cfg` and installed `spacy-transformers`.
 - The transformer pipeline initializes and starts training, but CPU-only training is very slow; this path is mainly useful if GPU is available.
+
+---
+
+## Retrieval evaluation snapshots
+
+Scores below use **`scripts/eval_retrieval.py`** with **`--mode document`** (**document** index only; comparable to older logs). Use **`--mode both`** for an added **chunk→doc** block. Same embedding model as upload: **sentence-transformers `all-MiniLM-L6-v2`**. Re-run after **`upload_to_neo4j.py`** if you change chunking; **`--max-chunks-per-doc`** default is now **6** (was 3) for better long-page coverage unless you override.
+
+### 100-query self-retrieval run (stress test)
+
+- **Dataset**: `data_clean/eval/retrieval_questions_many.jsonl` from `python scripts/generate_retrieval_eval_questions.py --n 100 --seed 7` (first line of each sampled page as query; gold id = source document).
+- **Command**: `python scripts/eval_retrieval.py --data data_clean/eval/retrieval_questions_many.jsonl --k 1 3 5 10 --mode both` (prints **document** index metrics and **chunk→doc** aggregation; use `--mode document` for the legacy single block only).
+- **Queries evaluated**: 100  
+- **Chunk scan** (chunk→doc path): `--chunk-scan 2500` (default).
+
+| Mode | Recall@1 | Recall@3 | Recall@5 | Recall@10 | MRR |
+| --- | --- | --- | --- | --- | --- |
+| **Document vector index** (`document_embeddings` on `(:Document)`) | 0.1900 | 0.3500 | 0.4800 | **0.6000** | 0.3103 |
+| **Chunk→doc** (best chunk score per `doc_id`, then rank docs) | 0.2000 | 0.4200 | 0.4500 | 0.4900 | 0.3077 |
+
+On this run, **Recall@10 is higher for the document index than for chunk→doc**. That is plausible: the eval query is the page **title line**, which may align well with a single **document** embedding, while chunk retrieval scores many competing spans first; chunk→doc aggregation is also only an approximation of the full GraphRAG query path (which may fuse chunks with entities, relations, and second-pass expansion).
+
+#### Why these metrics may look modest
+
+- **Self-retrieval is strict**: the query is derived from the **same** page’s first line; small mismatch between what was embedded in Neo4j (e.g. truncated `Document.text`, chunk-only text, or boilerplate-heavy spans) and the title line hurts similarity.
+- **Many documents**: random guessing among thousands of pages would be near zero at top‑1; ~19–20% at **Recall@1** means the index is doing non-trivial ranking, not “random.”
+- **Catalog/course titles** (“Program: …”, “AE 6222 …”) can match **many** similar catalog shells; embeddings confuse nearby programs.
+
+#### What could improve measured or real retrieval
+
+- **Re-upload after tuning upload**: more chunks per doc (`--max-chunks-per-doc`, now default **6**), full `Document.text` from `documents.jsonl` unless you intentionally use `--document-text-from-chunks`, then rebuild indexes.
+- **Stronger or domain-tuned embedding models** (re-embed all nodes; heavier cost).
+- **Hybrid search** (BM25/keyword + vector) for exact course codes and titles.
+- **Reranking** top-K with a cross-encoder or small reranker on `(query, doc)` pairs.
+- **Eval alignment**: use **`--mode both`** to track document vs chunk-style behavior; improving live **`graph_rag_query.py`** may require changes beyond this script’s chunk→doc aggregation.
+
+### Small demo file after label bootstrap (not an independent relevance benchmark)
+
+- **Dataset**: `data_clean/eval/retrieval_questions.jsonl` after `python scripts/bootstrap_retrieval_labels.py --take 1` (each **`expected_doc_ids`** entry set to the retriever’s **top-1** document id for that query).
+- **Command**: `python scripts/eval_retrieval.py --data data_clean/eval/retrieval_questions.jsonl --k 1 3 5 10`
+- **Queries evaluated**: 2  
+- **Recall@1, @3, @5, @10** and **MRR**: **1.0000** (expected when gold labels are defined from the same index’s top hit).

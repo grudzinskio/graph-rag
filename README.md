@@ -65,7 +65,7 @@ Important: the SemEval CV metrics below test the **relation extraction (RE) clas
 
 ### System test (GraphRAG retrieval)
 
-Use `scripts/eval_retrieval.py` with `data_clean/eval/retrieval_questions.jsonl` to report retrieval metrics (Recall@K / MRR) for MSOE-domain queries.
+Use `scripts/eval_retrieval.py` with `data_clean/eval/retrieval_questions.jsonl` to report retrieval metrics (Recall@K / MRR). Add `--mode both` to also score **chunk → document** retrieval (closer to chunk-first GraphRAG).
 
 **To re-run benchmark validation:**
 ```powershell
