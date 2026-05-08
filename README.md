@@ -3,6 +3,12 @@
 This repository implements a complete pipeline for building and querying a Graph-based RAG (Retrieval-Augmented Generation) system. It covers **web scraping MSOE pages**, **deterministic text cleaning**, **supervised Relation Extraction (RE)** training with **5-fold cross-validation**, and a **self-contained terminal interface** for querying results.
 
 ---
+### Windows — Virtual Environment
+```powershell
+py -m venv .venv
+.\.venv\Scripts\Activate.ps1
+python -m pip install -r requirements.txt
+```
 
 ## Quick Start: Run the GraphRAG demo
 
@@ -17,6 +23,7 @@ This repository implements a complete pipeline for building and querying a Graph
 ```powershell
 python scripts/graph_rag_query.py
 ```
+**IF YOU ARE RUNNING IT DOESN"T WORK CONTACT US SO WE CAN WAKE NEO4J DATABASE UP**
 
 This is the main “try the system” entrypoint: it retrieves context from Neo4j and asks Gemini to answer using only that context.
 
@@ -78,12 +85,7 @@ python scripts/train_cv_and_final.py
 ## Initial Setup (Development)
 If you wish to modify or retrain the system, follow these steps:
 
-### Windows — Virtual Environment
-```powershell
-py -m venv .venv
-.\.venv\Scripts\Activate.ps1
-python -m pip install -r requirements.txt
-```
+
 
 ### Full Pipeline Workflow:
 1.  **Scrape Data:** `python scrape.py`
